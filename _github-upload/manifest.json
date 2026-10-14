@@ -6,8 +6,8 @@
   },
   {
     "path": "AGENTS.md",
-    "bytes": 8940,
-    "sha256": "c066c55117bf9d4808803d7c985b289b732a47ef89acb0396f65e643b4f5f2fe"
+    "bytes": 8924,
+    "sha256": "1815f16358ae7fef251fb80073545640120553ca1ea332d516094efca9e05c25"
   },
   {
     "path": "Cover wall audit.md",
@@ -18966,8 +18966,8 @@
   },
   {
     "path": "github-project-sync/config.json",
-    "bytes": 496,
-    "sha256": "b092d934fd1c5d5aab5064bfcc5bb6d131168173f146714f2af0784d15ae68e8"
+    "bytes": 622,
+    "sha256": "41a8db87c82b861e0d33966046b668ef58c6ba1591c3429a9d1764b3f62f121e"
   },
   {
     "path": "github-project-sync/lfs_upload.py",
@@ -18976,23 +18976,23 @@
   },
   {
     "path": "github-project-sync/sync.py",
-    "bytes": 13831,
-    "sha256": "4d8ab10c6d5620182f7199a8dbd77e243175ab30f3ffaa3087b6a52301f2b688"
+    "bytes": 14069,
+    "sha256": "e700b3e950a4901741a3977f4222282c476ea8c797ae1d29cf7802f406f55c14"
   },
   {
     "path": "github-project-sync/test_sync.py",
-    "bytes": 4601,
-    "sha256": "7bfeb8f25def45eeb29811bfe42e2e88660f4d230cf2d92d1b0d9d4d778354e5"
+    "bytes": 5496,
+    "sha256": "2ff1457b4b98fd78d6bc225780c93d348b2bfe3490f3a9534a1f4d5e0458f9b7"
   },
   {
     "path": "github-project-sync/README.md",
-    "bytes": 4872,
-    "sha256": "2cd1a32c3d70cde72ca906abfeaf93cfb42a3a25b466b507dbc3a853425217f2"
+    "bytes": 5115,
+    "sha256": "6214a7046bafe7534cd0487b26b2ca9817e2f13f104b94c876b7f7e592bd1c8d"
   },
   {
     "path": "github-project-sync/global-AGENTS-addition.md",
-    "bytes": 1637,
-    "sha256": "35cd1f447c43dbf471ee892c1d76d66ca8750ebe11ffa605cc7b8764894c79e6"
+    "bytes": 1621,
+    "sha256": "13c79f5df22c95f09c730881b40e03ceeb426e7dbcc9a3c043ab777e9391faf4"
   },
   {
     "path": "github-project-sync/initial-scope.json",
@@ -19978,5 +19978,40 @@
     "path": "github-project-sync/RESUME.md",
     "bytes": 2337,
     "sha256": "af1cd3b0c98826f09b715cbbb9e16c599120a876bbd16cb75c46aaae093d043c"
+  },
+  {
+    "path": "github-project-sync/public-visibility-request/website-audit.json",
+    "bytes": 606,
+    "sha256": "767b3215b982902ab71237e46e3e061696a5094665e98994036ff3d1e508b0dd"
+  },
+  {
+    "path": "github-project-sync/public-visibility-request/README.md",
+    "bytes": 922,
+    "sha256": "dca0e0a8c8853e8b1c193ad3992f608e1c7ef1a4d5e8865dc4551bd144bef65d"
+  },
+  {
+    "path": "github-project-sync/public-visibility-request/prepared/AGENTS.md",
+    "bytes": 8938,
+    "sha256": "7852fd0837ce2d46032a5a7cc4fe501468e069cd95763697301c5f4062acb85d"
+  },
+  {
+    "path": "github-project-sync/public-visibility-request/prepared/github-project-sync/config.json",
+    "bytes": 522,
+    "sha256": "109843844727bba4f8451f70f288f6a3565ba5ea1bdd7cc19c7e46607b1d7f61"
+  },
+  {
+    "path": "github-project-sync/public-visibility-request/prepared/github-project-sync/sync.py",
+    "bytes": 14030,
+    "sha256": "549a78bb692081a9a3c935f2641d1e4eb496a50ccfe3d8d14e73e76dac638483"
+  },
+  {
+    "path": "github-project-sync/public-visibility-request/prepared/github-project-sync/README.md",
+    "bytes": 5079,
+    "sha256": "01febad747c0c84c423a791aee882741461d9ed7dd22a02d1fd0f398f60a2d36"
+  },
+  {
+    "path": "github-project-sync/public-visibility-request/prepared/github-project-sync/global-AGENTS-addition.md",
+    "bytes": 1635,
+    "sha256": "3a61167d8e5a2e62c8188fbdb8bdb384f4e46a1845994f8fcca854e0b12ab971"
   }
 ]

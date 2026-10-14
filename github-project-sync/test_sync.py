@@ -5,7 +5,7 @@ import tempfile
 import unittest
 from unittest import mock
 from pathlib import Path
-from sync import synchronize, destination, check_content
+from sync import synchronize, destination, check_content, push
 from lfs_upload import ensure_uploaded
 
 
@@ -77,6 +77,16 @@ class SyncChecks(unittest.TestCase):
         with mock.patch('lfs_upload.subprocess.check_output', return_value=b'{"files":null}') as command:
             self.assertEqual(ensure_uploaded(self.repo, 'account/site', '/unused/gh', {}), 0)
             self.assertEqual(command.call_count, 1)
+
+    def test_unexpected_public_visibility_aborts_before_asset_upload(self):
+        with mock.patch('sync.run_git', return_value='https://github.com/account/site.git'), mock.patch('sync.subprocess.check_output', return_value=b'{"visibility":"PUBLIC"}'), mock.patch('sync.ensure_uploaded') as upload:
+            with self.assertRaises(ValueError):
+                push(self.repo, 'account/site', '/unused/gh', {}, 'PRIVATE')
+            upload.assert_not_called()
+
+    def test_explicit_public_policy_verifies_the_remote_commit(self):
+        with mock.patch('sync.run_git', side_effect=['https://github.com/account/site.git', '', 'abc']), mock.patch('sync.subprocess.check_output', side_effect=[b'{"visibility":"PUBLIC"}', b'{"object":{"sha":"abc"}}']), mock.patch('sync.ensure_uploaded'):
+            self.assertEqual(push(self.repo, 'account/site', '/unused/gh', {}, 'PUBLIC'), 'abc')
 
     def test_explicit_deletion_preserves_history(self):
         note = self.work / 'old.md'

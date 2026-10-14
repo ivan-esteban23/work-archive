@@ -1,6 +1,6 @@
 # Automatic GitHub sync after project updates
 
-Enabled workflow: after each completed Codex task that changes project files, sync the files produced by that task to the existing private repositories. The instruction is saved in Work's `AGENTS.md` and the user's global Codex `AGENTS.md`, so it also applies when opening a project separately. This is a Codex working agreement and a tested command, not a background filesystem watcher.
+Enabled workflow: after each completed Codex task that changes project files, sync the files produced by that task to the configured repositories. The instruction is saved in Work's `AGENTS.md` and the user's global Codex `AGENTS.md`, so it also applies when opening a project separately. This is a Codex working agreement and a tested command, not a background filesystem watcher.
 
 | Source | GitHub destination |
 | --- | --- |
@@ -30,10 +30,12 @@ Unchanged files do not create a new commit. The command preserves the previous a
 
 Local commits are kept if a network transfer fails. Retry the same scope when connectivity returns. The command never force-pushes, resets history, resolves remote divergence, or silently discards pending archive edits. If the archive checkout has pending changes after an interrupted copy, inspect and reconcile those changes before rerunning. Report a failed push as pending, with its local commit if one was created.
 
-GitHub authorization is standing authorization for these scoped uploads to these two private repositories; no separate conversational permission question is needed. Use the normal filesystem/network escalation mechanism when the environment requires it. If a reviewer blocks the action, report the actual rejection rather than claiming success.
+GitHub authorization is standing authorization for these scoped uploads to these two configured repositories; no separate conversational permission question is needed. Use the normal filesystem/network escalation mechanism when the environment requires it. If a reviewer blocks the action, report the actual rejection rather than claiming success.
 
 Configuration: `config.json`. Archive checkout: `/home/ivanaguilera/Work/github-upload-preparation-20261014/work-archive`. Local Git LFS binary is retained in the prior upload preparation directory; keep it or update the configured location. GitHub CLI is resolved to its installed binary to avoid the copied mise launcher configuration.
 
 Verification: `python -m unittest discover -s github-project-sync -p test_sync.py -v`. Live sync results are saved in `verification.json` after initial setup. Saved instructions take effect in future sessions; external edits in Obsidian/Notion and edits outside Codex do not trigger this workflow themselves.
 
 Instruction discovery follows [official OpenAI documentation](https://learn.chatgpt.com/docs/agent-configuration/agents-md). Asset transfer follows the [Git LFS basic transfer API](https://github.com/git-lfs/git-lfs/blob/main/docs/api/basic-transfers.md).
+
+Visibility policy is explicit per repository in `config.json`: the website is public; Work remains private pending explicit approval to publish the archive payload. The sync command verifies each repository against that policy before uploading.

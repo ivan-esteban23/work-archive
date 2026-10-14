@@ -1,0 +1,18 @@
+{
+  "repository": "ivan-esteban23/the-reference-edit",
+  "history_blob_count": 67,
+  "history_paths": [
+    ".openai/hosting.json",
+    "dist/favicon.svg",
+    "dist/icons/apple-touch-icon.png",
+    "dist/icons/icon-192.png",
+    "dist/icons/icon-512.png",
+    "dist/icons/maskable-512.png",
+    "dist/index.html",
+    "dist/manifest.webmanifest",
+    "dist/sw.js"
+  ],
+  "credential_candidates": [],
+  "scope": "Static website assets and Sites hosting metadata only; no travel, music journals or Work project archives",
+  "already_published_website": "https://visual-edit-ivan.greymelon66.chatgpt.site"
+}

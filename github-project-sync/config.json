@@ -6,5 +6,9 @@
   "website": "/home/ivanaguilera/Work/visual-edit-public",
   "archive_repo": "ivan-esteban23/work-archive",
   "website_repo": "ivan-esteban23/the-reference-edit",
-  "lfs_binary": "/home/ivanaguilera/Work/github-upload-preparation-20261014/tools/git-lfs-3.8.0/git-lfs"
+  "lfs_binary": "/home/ivanaguilera/Work/github-upload-preparation-20261014/tools/git-lfs-3.8.0/git-lfs",
+  "repo_visibilities": {
+    "ivan-esteban23/work-archive": "PRIVATE",
+    "ivan-esteban23/the-reference-edit": "PUBLIC"
+  }
 }

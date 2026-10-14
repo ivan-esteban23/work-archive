@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Explicitly scoped, incremental project backups to existing private GitHub repos."""
+"""Explicitly scoped, incremental project backups to configured GitHub repos."""
 import argparse
 import fnmatch
 import hashlib
@@ -101,13 +101,13 @@ def run_git(repo, *args, env=None):
     return subprocess.check_output(['git', '-C', str(repo), *args], env=env, stderr=subprocess.STDOUT).decode().strip()
 
 
-def push(repo, slug, gh, env):
+def push(repo, slug, gh, env, expected_visibility="PRIVATE"):
     expected = f'https://github.com/{slug}.git'
     if run_git(repo, 'remote', 'get-url', 'origin') != expected:
         raise ValueError('Unexpected origin; refusing automatic upload')
     info = json.loads(subprocess.check_output([str(gh), 'repo', 'view', slug, '--json', 'visibility']))
-    if info['visibility'] != 'PRIVATE':
-        raise ValueError('Automatic sync requires the configured private repository')
+    if expected_visibility not in {'PRIVATE', 'PUBLIC'} or info['visibility'] != expected_visibility:
+        raise ValueError('Repository visibility differs from the configured policy')
     ensure_uploaded(repo, slug, gh, env)
     run_git(repo, '-c', 'credential.helper=', '-c', 'credential.helper=!' + shlex.quote(str(gh)) + ' auth git-credential',
             'push', 'origin', 'HEAD:refs/heads/main', env=env)
@@ -224,13 +224,13 @@ def synchronize(paths, message, dry_run=False, config=None, do_push=True, deleti
         login = subprocess.check_output([str(gh), 'api', 'user', '--jq', '.login']).decode().strip()
         if login != config['account']:
             raise ValueError('Active GitHub account differs from the configured account')
-        result['archive_commit'] = push(repo, config['archive_repo'], gh, env)
+        result['archive_commit'] = push(repo, config['archive_repo'], gh, env, config.get('repo_visibilities', {}).get(config['archive_repo'], 'PRIVATE'))
         if any(Path(p).absolute().is_relative_to(Path(config['website'])) for p in list(paths) + list(deletions or [])):
             website = Path(config['website'])
             # The normal website workflow creates its commit; never sweep up unrelated edits.
             if run_git(website, 'status', '--porcelain'):
                 raise ValueError('Commit the completed website changes before syncing its repository')
-            result['website_commit'] = push(website, config['website_repo'], gh, env)
+            result['website_commit'] = push(website, config['website_repo'], gh, env, config.get('repo_visibilities', {}).get(config['website_repo'], 'PRIVATE'))
     return result
 
 
