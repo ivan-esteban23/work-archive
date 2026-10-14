@@ -1,0 +1,146 @@
+{
+  "oldCache": "visual-edit-shell-reference-name-20261014-v1",
+  "newCache": "visual-edit-shell-mobile-ui-20261014-v2",
+  "cases": [
+    {
+      "case": "interrupted-update-keeps-old-worker",
+      "previousStillActive": true,
+      "oldCacheRetained": true
+    },
+    {
+      "case": "offline-first-reload-after-upgrade",
+      "durationMs": 1876,
+      "state": {
+        "stored": {
+          "visual-edit-language": "es",
+          "visual-edit-theme": "dark",
+          "visual-edit-favorites-v1": "[\"https://www.032c.com/\",\"https://www.apartamentomagazine.com/\"]"
+        },
+        "theme": "dark",
+        "lang": "es",
+        "favorites": 2,
+        "controlled": true,
+        "cards": 58
+      }
+    },
+    {
+      "case": "online-reload-after-upgrade",
+      "durationMs": 1523,
+      "state": {
+        "stored": {
+          "visual-edit-language": "es",
+          "visual-edit-theme": "dark",
+          "visual-edit-favorites-v1": "[\"https://www.032c.com/\",\"https://www.apartamentomagazine.com/\"]"
+        },
+        "theme": "dark",
+        "lang": "es",
+        "favorites": 2,
+        "controlled": true,
+        "cards": 58
+      }
+    },
+    {
+      "case": "redirected-index-online",
+      "durationMs": 1758,
+      "state": {
+        "stored": {
+          "visual-edit-language": "es",
+          "visual-edit-theme": "dark",
+          "visual-edit-favorites-v1": "[\"https://www.032c.com/\",\"https://www.apartamentomagazine.com/\"]"
+        },
+        "theme": "dark",
+        "lang": "es",
+        "favorites": 2,
+        "controlled": true,
+        "cards": 58
+      }
+    },
+    {
+      "case": "error-navigation",
+      "path": "/",
+      "durationMs": 1376,
+      "state": {
+        "stored": {
+          "visual-edit-language": "es",
+          "visual-edit-theme": "dark",
+          "visual-edit-favorites-v1": "[\"https://www.032c.com/\",\"https://www.apartamentomagazine.com/\"]"
+        },
+        "theme": "dark",
+        "lang": "es",
+        "favorites": 2,
+        "controlled": true,
+        "cards": 58
+      }
+    },
+    {
+      "case": "slow-navigation",
+      "path": "/",
+      "durationMs": 5082,
+      "state": {
+        "stored": {
+          "visual-edit-language": "es",
+          "visual-edit-theme": "dark",
+          "visual-edit-favorites-v1": "[\"https://www.032c.com/\",\"https://www.apartamentomagazine.com/\"]"
+        },
+        "theme": "dark",
+        "lang": "es",
+        "favorites": 2,
+        "controlled": true,
+        "cards": 58
+      }
+    },
+    {
+      "case": "offline-navigation",
+      "path": "/",
+      "durationMs": 1370,
+      "state": {
+        "stored": {
+          "visual-edit-language": "es",
+          "visual-edit-theme": "dark",
+          "visual-edit-favorites-v1": "[\"https://www.032c.com/\",\"https://www.apartamentomagazine.com/\"]"
+        },
+        "theme": "dark",
+        "lang": "es",
+        "favorites": 2,
+        "controlled": true,
+        "cards": 58
+      }
+    },
+    {
+      "case": "offline-navigation",
+      "path": "/index.html",
+      "durationMs": 1325,
+      "state": {
+        "stored": {
+          "visual-edit-language": "es",
+          "visual-edit-theme": "dark",
+          "visual-edit-favorites-v1": "[\"https://www.032c.com/\",\"https://www.apartamentomagazine.com/\"]"
+        },
+        "theme": "dark",
+        "lang": "es",
+        "favorites": 2,
+        "controlled": true,
+        "cards": 58
+      }
+    }
+  ],
+  "serviceWorkerBypassed": false,
+  "cacheState": {
+    "keys": [
+      "unrelated-project-cache",
+      "visual-edit-shell-mobile-ui-20261014-v2"
+    ],
+    "paths": [
+      "/manifest.webmanifest",
+      "/favicon.svg",
+      "/icons/icon-192.png",
+      "/icons/icon-512.png",
+      "/icons/maskable-512.png",
+      "/icons/apple-touch-icon.png",
+      "/index.html"
+    ],
+    "ready": true
+  },
+  "exceptions": [],
+  "passed": true
+}

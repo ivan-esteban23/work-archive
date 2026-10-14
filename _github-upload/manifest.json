@@ -20068,5 +20068,60 @@
     "path": "reference-mobile-merge-20261014/backup/dist/sw.js",
     "bytes": 2733,
     "sha256": "1ece296d145c49b41927bf45b079c8ef2dbc76cff75c28674a5f66e70cb2cccd"
+  },
+  {
+    "path": "reference-offline-migration-20261014/check-offline.mjs",
+    "bytes": 10202,
+    "sha256": "dd96555931b237157c4feb45868c58483a6cd8599963ea914ae454b3e3e20ad3"
+  },
+  {
+    "path": "reference-offline-migration-20261014/offline-results.json",
+    "bytes": 3886,
+    "sha256": "1291edae4db53f5de82382573bf6667d4edc6adc1aa8d055063a49ac3719cc73"
+  },
+  {
+    "path": "reference-offline-migration-20261014/baseline-results.json",
+    "bytes": 3300,
+    "sha256": "8f8ceaa1f28afaf262d44d1db6ca947f54d1469a809bc17a53fc2fae317af9f4"
+  },
+  {
+    "path": "reference-offline-migration-20261014/deployment.json",
+    "bytes": 1619,
+    "sha256": "821b331529d305b0826ccb954e0470738ce4e1541ed733f59e7fa00640e13e96"
+  },
+  {
+    "path": "reference-offline-migration-20261014/RESUME.md",
+    "bytes": 3420,
+    "sha256": "0bdf4109bd320c5145ce2a0fb91311adb884ee104489fa693b9649ed388d2ca8"
+  },
+  {
+    "path": "reference-offline-migration-20261014/backup/dist/sw.js",
+    "bytes": 2733,
+    "sha256": "51d66faa9ddfe15530b23148816b3d3cf4869e43c5ce960b621571bc316547bb"
+  },
+  {
+    "path": "reference-offline-migration-20261014/backup/dist/index.html",
+    "bytes": 3424081,
+    "sha256": "7fae54a83743a4328c4a28d656ad6ee0a4a6d744402a07a773911c3c17854b71"
+  },
+  {
+    "path": "reference-offline-migration-20261014/backup/vault/The Visual Edit \u2014 Website Updates.md",
+    "bytes": 14990,
+    "sha256": "0bce5f6471c6164774c04471ab2d86caca68d7799e8d4d5b55a5e2427e743362"
+  },
+  {
+    "path": "reference-offline-migration-20261014/backup/vault/Pinterest Alternatives \u2014 Visual Research and Moodboarding.html",
+    "bytes": 3408854,
+    "sha256": "fb3a7b939b2d52d6416426693d55eeebfbf50dd5c92759dfe3fedc372cb11991"
+  },
+  {
+    "path": "Obsidian Vault/The Visual Edit \u2014 Website Updates.md",
+    "bytes": 17222,
+    "sha256": "1caeec4e315fcebc6c0f6d030f31aedd0ae629d03226c420038218998945c8bb"
+  },
+  {
+    "path": "Obsidian Vault/Attachments/Pinterest Alternatives/Pinterest Alternatives \u2014 Visual Research and Moodboarding.html",
+    "bytes": 3424081,
+    "sha256": "7fae54a83743a4328c4a28d656ad6ee0a4a6d744402a07a773911c3c17854b71"
   }
 ]

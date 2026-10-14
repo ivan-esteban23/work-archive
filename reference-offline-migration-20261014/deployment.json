@@ -1,0 +1,40 @@
+{
+  "version": {
+    "id": "appgprj_6ace7cad170c8191adbe36fd345102d0~appgver_e90028e9a89c8191847e3fe43e84245e",
+    "project_id": "appgprj_6ace7cad170c8191adbe36fd345102d0",
+    "version_number": 43,
+    "source": {
+      "commit_sha": "746988f5781dced727f59a37dcd0f61bdf349db6"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_00000000933c820eaae39647386d5a83",
+      "content_hash": "sha256:fc6c9518a2143f472560c5d7407ba632a7b62718a500ad3076dec800fc2b42bd",
+      "size_bytes": 3481600,
+      "file_count": 9
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6ad00d5276288191a1a0fc6c6a5db7e2",
+    "project_id": "appgprj_6ace7cad170c8191adbe36fd345102d0",
+    "title": "The Visual Edit — Visual Research & Moodboarding",
+    "version_id": "appgprj_6ace7cad170c8191adbe36fd345102d0~appgver_e90028e9a89c8191847e3fe43e84245e",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://visual-edit-ivan.greymelon66.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ace7cad170c8191adbe36fd345102d0",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-10-14T23:16:53.187342+00:00"
+  },
+  "source": {
+    "project_id": "appgprj_6ace7cad170c8191adbe36fd345102d0",
+    "checkout_path": "/home/ivanaguilera/Work/reference-offline-migration-20261014/site-source",
+    "commit_sha": "746988f5781dced727f59a37dcd0f61bdf349db6",
+    "archive": "/home/ivanaguilera/Work/reference-offline-migration-20261014/site.tar.gz"
+  }
+}
