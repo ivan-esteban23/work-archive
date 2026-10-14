@@ -1,0 +1,14 @@
+import fs from 'node:fs';import{call,ev,until,ws,sleep}from './browser.mjs';
+await call('Page.reload',{ignoreCache:true});await until("typeof setLocale==='function'");await call('DOM.enable');await call('CSS.enable');await ev("setLocale('en',false);document.querySelector('#reset').click()");
+await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1000,deviceScaleFactor:1,mobile:false});
+
+const{root}=await call('DOM.getDocument');const{nodeId}=await call('DOM.querySelector',{nodeId:root.nodeId,selector:'.source'});const results=[];
+for(const scheme of ['light','dark']){
+ await call('Emulation.setEmulatedMedia',{features:[{name:'prefers-color-scheme',value:scheme},{name:'hover',value:'hover'},{name:'pointer',value:'fine'}]});
+ await call('CSS.forcePseudoState',{nodeId,forcedPseudoClasses:['hover']});await sleep(250);const hover=await ev("(()=>{const c=getComputedStyle(cards[0]);return {background:c.backgroundColor,shadow:c.boxShadow,expected:getComputedStyle(document.documentElement).getPropertyValue('--card-hover').trim()}})()");if(hover.shadow==='none')throw Error('Hover missing');await call('CSS.forcePseudoState',{nodeId,forcedPseudoClasses:[]});
+ await ev("cards[0].querySelector('h3 a').focus()");await call('Input.dispatchKeyEvent',{type:'keyDown',key:'Tab',code:'Tab',windowsVirtualKeyCode:9});await call('Input.dispatchKeyEvent',{type:'keyUp',key:'Tab',code:'Tab',windowsVirtualKeyCode:9});
+ const focus=await ev("(()=>{const c=getComputedStyle(document.activeElement),card=getComputedStyle(cards[0]);return {focusVisible:document.activeElement.matches(':focus-visible'),element:document.activeElement.tagName,cardOutline:card.outlineWidth,outline:c.outlineWidth}})()");if(!focus.focusVisible||focus.cardOutline!=='2px'||focus.outline!=='2px')throw Error('Keyboard focus '+JSON.stringify(focus));results.push({scheme,hover,focus});
+}
+await call('Emulation.setEmulatedMedia',{features:[{name:'prefers-reduced-motion',value:'reduce'}]});if(await ev("getComputedStyle(cards[0]).transitionDuration")!=='0s')throw Error('Reduced motion');
+await ev('expandPrint()');await call('Emulation.setEmulatedMedia',{media:'print',features:[]});const print=await ev("({cards:cards.filter(c=>getComputedStyle(c).display!=='none').length,details:cards.every(c=>c.querySelector('.source-details').open),actionsHidden:cards.every(c=>getComputedStyle(c.querySelector('.source-actions')).display==='none')})");if(print.cards!==58||!print.details||!print.actionsHidden)throw Error('Print');
+await call('Emulation.setEmulatedMedia',{media:'',features:[]});await ev('restorePrint()');fs.writeFileSync(new URL('./interaction-results.json',import.meta.url),JSON.stringify({results,reducedMotion:true,print},null,2));console.log('Card hover, keyboard focus, reduced motion and print checks passed.');ws.close();

@@ -1,0 +1,46 @@
+[
+  {
+    "relative": "Asia Trips — Combined Map and Destination Inventory.md",
+    "expected": null
+  },
+  {
+    "relative": "Attachments/Asia Trip Maps/All destination searches.json",
+    "expected": null
+  },
+  {
+    "relative": "Attachments/Asia Trip Maps/Existing orientation pins.json",
+    "expected": null
+  },
+  {
+    "relative": "Attachments/Asia Trip Maps/All destination searches.csv",
+    "expected": null
+  },
+  {
+    "relative": "Attachments/Asia Trip Maps/ChatGPT Maps prompt.txt",
+    "expected": null
+  },
+  {
+    "relative": "China — Start Here.md",
+    "expected": "83f9a99415e22050b38581037bf2f5a352c7cb8b1191164597795d107f0e6188"
+  },
+  {
+    "relative": "Japan 2027 — Start Here.md",
+    "expected": "f304358e69e63eafb1b7b1f8bcf64b1ac8259b99d01449e2ba6bbd194d59ffeb"
+  },
+  {
+    "relative": "Korea 2026 — Start Here.md",
+    "expected": "f5ec58726731f9cc4401ba69653b0e950f7f21b6de6e4b2bdf0ffb8a7f4b82e3"
+  },
+  {
+    "relative": "China — Session Recap 2026-10-08.md",
+    "expected": "70aa70359b06c4c059598a505a80ff7b5313424de55e714c6c20559f3ef4f830"
+  },
+  {
+    "relative": "Japan 2027 — Session Recap 2026-10-08.md",
+    "expected": "1744f834ff64855d453d2b0c0ae545b70dcb7f209e2731d9be20e6ba537118ec"
+  },
+  {
+    "relative": "Korea 2026 — Session Recap 2026-10-08.md",
+    "expected": "6aad262d3d9bccd43ae6f307dda94e70b00d5240789d9fe7c7fd11fdc685b35a"
+  }
+]

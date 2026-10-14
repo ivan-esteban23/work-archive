@@ -1,0 +1,522 @@
+[
+  {
+    "id": "01",
+    "name": "Are.na",
+    "url": "https://www.are.na/",
+    "coverage": "Global",
+    "country": "United States",
+    "country_source": "https://www.are.na/privacy",
+    "country_note": "Operator lists a New York postal address.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "02",
+    "name": "Cosmos",
+    "url": "https://www.cosmos.so/",
+    "coverage": "Global",
+    "country": "United States",
+    "country_source": "https://www.cosmos.so/legal/privacy-policy",
+    "country_note": "Official privacy contact is in New York.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "03",
+    "name": "Eagle",
+    "url": "https://en.eagle.cool/",
+    "coverage": "Global",
+    "country": "Taiwan",
+    "country_source": "https://www.linkedin.com/company/eagle-app",
+    "country_note": "Publisher profile lists Taipei, Taiwan; Eagle identifies OGDESIGN as its developer.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "04",
+    "name": "FigJam",
+    "url": "https://www.figma.com/figjam/",
+    "coverage": "Global",
+    "country": "United States",
+    "country_source": "https://www.figma.com/legal/privacy",
+    "country_note": "Figma Inc. lists San Francisco as its principal privacy contact.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "05",
+    "name": "Inoreader",
+    "url": "https://www.inoreader.com/",
+    "coverage": "Global",
+    "country": "Bulgaria",
+    "country_source": "https://www.inoreader.com/privacy_policy",
+    "country_note": "Innologica lists Sofia, Bulgaria.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "06",
+    "name": "Linkwarden",
+    "url": "https://linkwarden.app/",
+    "coverage": "Global",
+    "country": "Canada",
+    "country_source": "https://github.com/linkwarden",
+    "country_note": "The verified Linkwarden organization profile lists Canada.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "07",
+    "name": "Milanote",
+    "url": "https://milanote.com/",
+    "coverage": "Global",
+    "country": "Australia",
+    "country_source": "https://milanote.com/legal/privacy-policy",
+    "country_note": "Milanote Pty Ltd lists Melbourne, Australia.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "08",
+    "name": "PureRef",
+    "url": "https://www.pureref.com/",
+    "coverage": "Global",
+    "country": "Sweden",
+    "country_source": "https://www.pureref.com/privacy_policy.php",
+    "country_note": "Idyllic Pixel AB states it is established in Sweden.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "09",
+    "name": "Raindrop.io",
+    "url": "https://raindrop.io/",
+    "coverage": "Global",
+    "country": "Kazakhstan",
+    "country_source": "https://raindrop.io/r/app/android",
+    "country_note": "The publisher-linked app listing gives an Astana, Kazakhstan developer address.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "10",
+    "name": "Shaarli",
+    "url": "https://github.com/shaarli/Shaarli",
+    "coverage": "Global",
+    "country": "International project",
+    "country_source": "https://shaarli.readthedocs.io/en/master/",
+    "country_note": "Community-maintained software; no single publisher country established from official documentation.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "11",
+    "name": "TinEye",
+    "url": "https://tineye.com/",
+    "coverage": "Global",
+    "country": "Canada",
+    "country_source": "https://tineye.com/careers",
+    "country_note": "TinEye lists its in-office team in Toronto, Canada.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "12",
+    "name": "Wayback Machine",
+    "url": "https://web.archive.org/",
+    "coverage": "Global",
+    "country": "United States",
+    "country_source": "https://archive.org/about/terms.php",
+    "country_note": "Internet Archive gives its San Francisco address; direct extraction failed, indexed official contact text corroborated.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "13",
+    "name": "Dazed",
+    "url": "https://www.dazeddigital.com/fashion",
+    "coverage": "Global",
+    "country": "United Kingdom",
+    "country_source": "https://www.dazedmedia.com/privacy-policy",
+    "country_note": "Dazed publisher Waddell Limited lists London, England.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "14",
+    "name": "Dewu / 得物",
+    "url": "https://www.dewu.com/",
+    "coverage": "China",
+    "country": "China",
+    "country_source": "https://m.dewu.com/hybird/h5other/privacy-policy-21-11-18",
+    "country_note": "Dewu privacy contact lists Shanghai, China.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "15",
+    "name": "FASHIONSNAP",
+    "url": "https://www.fashionsnap.com/streetstyle/",
+    "coverage": "Japan",
+    "country": "Japan",
+    "country_source": "https://www.fashionsnap.com/about/terms-of-use",
+    "country_note": "Japanese publication operated by Reco Orlando; Japan is the source edition and operating-country classification.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "16",
+    "name": "Jing Daily",
+    "url": "https://jingdaily.com/",
+    "coverage": "China",
+    "country": "United States",
+    "country_source": "https://www.linkedin.com/company/jing-daily",
+    "country_note": "Jing Daily identifies a New York base; its editorial coverage remains China.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "17",
+    "name": "MUSINSA Snap",
+    "url": "https://www.musinsa.com/snap/main/recommend",
+    "coverage": "South Korea",
+    "country": "South Korea",
+    "country_source": "https://help-global.musinsa.com/hc/en-us/articles/9193213797401-Act-on-Specified-Commercial-Transactions",
+    "country_note": "MUSINSA Co. Ltd lists Seoul, Republic of Korea.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "18",
+    "name": "NOWNESS",
+    "url": "https://www.nowness.com/",
+    "coverage": "Global",
+    "country": "United Kingdom",
+    "country_source": "https://uk.linkedin.com/company/nowness-com",
+    "country_note": "Official company profile lists London; this identifies the posted operating base, not parent-company nationality.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "19",
+    "name": "nss magazine",
+    "url": "https://www.nssmag.com/en/fashion",
+    "coverage": "Global",
+    "country": "Italy",
+    "country_source": "https://www.nssmag.com/en/p/nss-factory",
+    "country_note": "Publisher identifies Milan and Italian registration for the magazine.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "20",
+    "name": "SHOWstudio",
+    "url": "https://www.showstudio.com/",
+    "coverage": "Global",
+    "country": "United Kingdom",
+    "country_source": "https://www.showstudio.com/contact",
+    "country_note": "SHOWstudio lists Belgravia, London.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "21",
+    "name": "Tagwalk",
+    "url": "https://www.tag-walk.com/en/",
+    "coverage": "Global",
+    "country": "France",
+    "country_source": "https://www.tag-walk.com/en/legal",
+    "country_note": "Tagwalk head office and registration are in Paris.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "22",
+    "name": "Tokyo Fashion",
+    "url": "https://tokyofashion.com/photos/",
+    "coverage": "Japan",
+    "country": "Japan",
+    "country_source": "https://tokyofashion.com/about/",
+    "country_note": "Tokyo-based Japanese street-fashion publication; linked edition and source identity are Japan.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "23",
+    "name": "Vestiaire Collective",
+    "url": "https://www.vestiairecollective.com/",
+    "coverage": "Global",
+    "country": "France",
+    "country_source": "https://faq.vestiairecollective.com/hc/en-us/articles/8977357519121-Legal-Information",
+    "country_note": "Publisher is a French company registered in Paris.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "24",
+    "name": "Vogue China",
+    "url": "https://www.vogue.com.cn/",
+    "coverage": "China",
+    "country": "China",
+    "country_source": "https://www.vogue.com.cn/",
+    "country_note": "Country of the linked Vogue China national edition; not the multinational parent.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "25",
+    "name": "Vogue Korea",
+    "url": "https://www.vogue.co.kr/",
+    "coverage": "South Korea",
+    "country": "South Korea",
+    "country_source": "https://www.vogue.co.kr/",
+    "country_note": "Country of the linked Vogue Korea edition, operated by Doosan Magazine.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "26",
+    "name": "Vogue Runway",
+    "url": "https://www.vogue.com/fashion-shows",
+    "coverage": "Global",
+    "country": "United States",
+    "country_source": "https://www.vogue.com/business-corporate-masthead",
+    "country_note": "American Vogue lists publication and editorial correspondence in New York.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "27",
+    "name": "Xiaohongshu / 小红书",
+    "url": "https://www.xiaohongshu.com/",
+    "coverage": "China",
+    "country": "China",
+    "country_source": "https://www.xiaohongshu.com/",
+    "country_note": "Chinese platform and national operator; country does not limit the geographic range of creator posts.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "28",
+    "name": "032c",
+    "url": "https://www.032c.com/",
+    "coverage": "Global",
+    "country": "Germany",
+    "country_source": "https://www.032c.com/pages/contact-legal",
+    "country_note": "032c System GmbH identifies Berlin, Germany.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "29",
+    "name": "AnOther",
+    "url": "https://www.anothermag.com/",
+    "coverage": "Global",
+    "country": "United Kingdom",
+    "country_source": "https://www.anothermag.com/contact",
+    "country_note": "AnOther Publishing Ltd lists London and UK publication.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "30",
+    "name": "i-D",
+    "url": "https://i-d.co/",
+    "coverage": "Global",
+    "country": "United Kingdom",
+    "country_source": "https://shop.i-d.co/pages/contact",
+    "country_note": "Official contact identifies London, UK; country describes the linked publication, not shareholder nationality.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "31",
+    "name": "Printed Matter",
+    "url": "https://www.printedmatter.org/",
+    "coverage": "Global",
+    "country": "United States",
+    "country_source": "https://www.printedmatter.org/",
+    "country_note": "Printed Matter is the New York institution; official event FAQ corroborates its Chelsea NYC store.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "32",
+    "name": "sabukaru",
+    "url": "https://sabukaru.online/",
+    "coverage": "Japan",
+    "country": "Japan",
+    "country_source": "https://sabukaru.online/about",
+    "country_note": "Official about page explicitly says the magazine is based in Tokyo and its content is global.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "33",
+    "name": "System Magazine",
+    "url": "https://system-magazine.com/",
+    "coverage": "Global",
+    "country": "France",
+    "country_source": "https://system-magazine.com/",
+    "country_note": "Current System masthead lists Paris, France; older London legal pages are not used as the current editorial base.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "34",
+    "name": "The Gentlewoman",
+    "url": "https://thegentlewoman.co.uk/",
+    "coverage": "Global",
+    "country": "United Kingdom",
+    "country_source": "https://thegentlewoman.co.uk/contact",
+    "country_note": "Published by Fantastic Woman Ltd in London, United Kingdom.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "35",
+    "name": "Vestoj",
+    "url": "https://vestoj.com/",
+    "coverage": "Global",
+    "country": "France",
+    "country_source": "https://www.businessoffashion.com/people/anja-aronowsky-cronberg",
+    "country_note": "Editorial biography identifies Vestoj as Paris-based; founder nationality and UK academic patronage are not used as country. Secondary industry biography, corroborated by School of Visual Arts event biography.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "36",
+    "name": "Business of Fashion",
+    "url": "https://www.businessoffashion.com/",
+    "coverage": "Global",
+    "country": "United Kingdom",
+    "country_source": "https://www.businessoffashion.com/legal",
+    "country_note": "The Business of Fashion Limited lists a London registered office; coverage is international.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "37",
+    "name": "FashionNetwork",
+    "url": "https://ww.fashionnetwork.com/",
+    "coverage": "Global",
+    "country": "France",
+    "country_source": "https://cn.fashionjobs.com/texte/4.html",
+    "country_note": "FashionNetwork publisher legal notice gives Paris registration and address.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "38",
+    "name": "Heuritech",
+    "url": "https://heuritech.com/",
+    "coverage": "Global",
+    "country": "France",
+    "country_source": "https://heuritech.com/careers/",
+    "country_note": "Official careers page gives a Paris, France team and address.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "39",
+    "name": "Luxe.CO / 华丽志",
+    "url": "https://luxe.co/",
+    "coverage": "China",
+    "country": "China",
+    "country_source": "https://luxe.co/about",
+    "country_note": "Chinese business publication; the editorial market is China while it reports on international brands.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "40",
+    "name": "Apartamento",
+    "url": "https://www.apartamentomagazine.com/",
+    "coverage": "Global",
+    "country": "Spain",
+    "country_source": "https://www.apartamentomagazine.com/terms-conditions/",
+    "country_note": "Apartamento Publishing SL is explicitly identified as Spanish, registered in Barcelona.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "41",
+    "name": "Behance",
+    "url": "https://www.behance.net/",
+    "coverage": "Global",
+    "country": "United States",
+    "country_source": "https://www.linkedin.com/company/behance-inc-",
+    "country_note": "Platform company profile lists New York; this is the platform base, not its international creators' countries.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "42",
+    "name": "Designspiration",
+    "url": "https://www.designspiration.com/",
+    "coverage": "Global",
+    "country": "United States",
+    "country_source": "https://www.linkedin.com/company/designspiration",
+    "country_note": "Publisher company profile lists Los Angeles, United States.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "43",
+    "name": "It’s Nice That",
+    "url": "https://www.itsnicethat.com/",
+    "coverage": "Global",
+    "country": "United Kingdom",
+    "country_source": "https://www.itsnicethat.com/contact",
+    "country_note": "Official contact lists London.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "44",
+    "name": "Magazine B",
+    "url": "https://magazine-b.com/",
+    "coverage": "South Korea",
+    "country": "South Korea",
+    "country_source": "https://en.magazine-b.com/article/contact/6/441",
+    "country_note": "B Media Company lists Seoul, Republic of Korea.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "45",
+    "name": "Europeana Textile",
+    "url": "https://www.europeana.eu/en/collections/topic/55-textile",
+    "coverage": "Global",
+    "country": "Netherlands",
+    "country_source": "https://www.europeana.eu/en/contact-us",
+    "country_note": "Europeana Foundation is based in The Hague, Netherlands; collections cover Europe.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "46",
+    "name": "firstVIEW",
+    "url": "https://www.firstview.com/",
+    "coverage": "Global",
+    "country": "United States",
+    "country_source": "https://firstview.com/legal.php",
+    "country_note": "Official legal contact gives New York, USA.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "47",
+    "name": "FIT Fashion History Timeline",
+    "url": "https://fashionhistory.fitnyc.edu/",
+    "coverage": "Global",
+    "country": "United States",
+    "country_source": "https://www.fitnyc.edu/about/index.php",
+    "country_note": "FIT is a New York institution and part of the State University of New York.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "48",
+    "name": "Kyoto Costume Institute",
+    "url": "https://www.kci.or.jp/en/archives/",
+    "coverage": "Japan",
+    "country": "Japan",
+    "country_source": "https://www.kci.or.jp/en/archives/",
+    "country_note": "The Kyoto Costume Institute lists Kyoto, Japan.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "49",
+    "name": "V&A Fashion",
+    "url": "https://www.vam.ac.uk/collections/fashion",
+    "coverage": "Global",
+    "country": "United Kingdom",
+    "country_source": "https://www.vam.ac.uk/info/contact-us",
+    "country_note": "Victoria and Albert Museum contact is in London.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "50",
+    "name": "Vintage Fashion Guild",
+    "url": "https://vintagefashionguild.org/",
+    "coverage": "Global",
+    "country": "United States",
+    "country_source": "https://vintagefashionguild.org/about/",
+    "country_note": "The organization states US incorporation; membership and coverage are international.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "51",
+    "name": "Depop",
+    "url": "https://www.depop.com/",
+    "coverage": "Global",
+    "country": "United Kingdom",
+    "country_source": "https://depophelp.zendesk.com/hc/en-gb/articles/360001773148-Terms-of-Service",
+    "country_note": "Depop Limited is registered in England and Wales; its user marketplace is global.",
+    "country_checked": "2026-10-13"
+  },
+  {
+    "id": "52",
+    "name": "r/femalefashionadvice",
+    "url": "https://www.reddit.com/r/femalefashionadvice/",
+    "coverage": "Global",
+    "country": "International community",
+    "country_source": "https://www.reddit.com/r/femalefashionadvice/",
+    "country_note": "The source is a cross-border user community; Reddit's corporate country is not assigned to its members. Direct subreddit extraction was blocked.",
+    "country_checked": "2026-10-13"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "installed": [
+    {
+      "name": "Local Images Plus",
+      "id": "obsidian-local-images-plus",
+      "version": "0.16.6",
+      "source": "https://github.com/Sergei-Korneev/obsidian-local-images-plus/releases/tag/0.16.6"
+    },
+    {
+      "name": "Meta Bind",
+      "id": "obsidian-meta-bind-plugin",
+      "version": "1.5.1",
+      "source": "https://github.com/mProjectsCode/obsidian-meta-bind-plugin/releases/tag/1.5.1"
+    },
+    {
+      "name": "Omnisearch",
+      "id": "omnisearch",
+      "version": "1.31.0",
+      "source": "https://github.com/scambier/obsidian-omnisearch/releases/tag/1.31.0"
+    },
+    {
+      "name": "PDF++",
+      "id": "pdf-plus",
+      "version": "0.40.31",
+      "source": "https://github.com/RyotaUshio/obsidian-pdf-plus/releases/tag/0.40.31"
+    },
+    {
+      "name": "Spaced Repetition",
+      "id": "obsidian-spaced-repetition",
+      "version": "1.15.4",
+      "source": "https://github.com/st3v3nmw/obsidian-spaced-repetition/releases/tag/1.15.4"
+    },
+    {
+      "name": "Tracker",
+      "id": "obsidian-tracker",
+      "version": "1.19.0",
+      "source": "https://github.com/pyrochlore/obsidian-tracker/releases/tag/1.19.0"
+    },
+    {
+      "name": "QuickAdd",
+      "id": "quickadd",
+      "version": "2.31.0",
+      "source": "https://github.com/chhoumann/quickadd/releases/tag/2.31.0"
+    }
+  ],
+  "enabled": [
+    "obsidian-map-view",
+    "obsidian-local-images-plus",
+    "obsidian-meta-bind-plugin",
+    "omnisearch",
+    "pdf-plus",
+    "obsidian-spaced-repetition",
+    "obsidian-tracker",
+    "quickadd"
+  ],
+  "backup": "/home/ivanaguilera/Work/japan-guide-update/plugins/backup-20261006-223130",
+  "verified": [
+    "minimum app versions",
+    "JavaScript syntax",
+    "copied file SHA256 hashes",
+    "enabled plugin registry"
+  ]
+}

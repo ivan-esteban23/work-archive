@@ -1,0 +1,217 @@
+# Editorial Portrait Prompt Library
+
+Reference index created 8 October 2026. Each entry records its reference status, generated result, and exact saved prompt. Some entries include original reference photographs; others were generated from text alone. The reference copies below are unchanged; original Downloads files are retained.
+
+[[Attachments/Editorial Portraits/Editorial Portrait — Prompt.txt|Open the TXT prompt library]]
+
+## How to use this library
+
+Attach a reference image and paste its prompt for reference-guided generation. Say whether you want the same person's appearance or just the visual style. Use the prompt alone for a new subject. File paths in a prompt do not attach images automatically. Change one feature at a time—wardrobe, background, lighting or framing—to compare variations easily.
+
+## 01 — Gray Suit
+
+**Recognition:** hand against cheek, gray suit and tie, long black hair, cool studio background.
+
+### Original reference
+
+![[Attachments/Editorial Portraits/01 — Gray Suit — Original.jpeg|450]]
+
+Original path: `/home/ivanaguilera/Downloads/#goyounjung.jpeg`.
+
+### Generated result
+
+![[Attachments/Editorial Portraits/Editorial Portrait.png|450]]
+
+**Provenance:** generated with this original supplied as the reference image. Requested format: 4:5 vertical.
+
+### Exact generation prompt
+
+```text
+Create a professional photographic fashion editorial portrait using the supplied image as the visual reference. Preserve the adult subject's recognizable facial appearance, long sleek black hair with a subtle side part, direct eye contact, calm poised expression, and hand resting gently against the cheek on the left side of the frame. Wardrobe: beautifully tailored charcoal-gray wool suit jacket, crisp white shirt with an elongated cuff, and a textured dark-gray tie. Background: seamless pale blue-gray studio backdrop, clean and unobtrusive. Composition: vertical 4:5 head-and-upper-torso portrait, carefully balanced crop with breathing room above the hair, eyes as the primary focal point, hand and tailoring clearly visible. Photographic treatment: premium beauty and fashion campaign, 85 mm portrait lens perspective, sharp eyes and lashes, subtle falloff in focus, large diffused key light slightly above and to camera left, soft fill and delicate hair separation, controlled highlights. Retouching: elegant and realistic; retain fine skin texture and believable pores, gentle rosy makeup and soft pink lips, faithful proportions, lifelike eyes, individual hair strands and visible woven fabric. Color grading: restrained cool neutrals with subtle warm skin tones, refined contrast, no excessive saturation. Anatomically correct hand and fingers, graceful manicure. Generate one polished high-resolution portrait. No text, logos, border, watermark, extra accessories, exaggerated airbrushing or artificial plastic skin.
+```
+
+## 02 — Lavender and Silver
+
+**Recognition:** lavender knit, pulled-back hair, two necklaces, pale blue-gray wall. The original has magazine lettering.
+
+### Original reference
+
+![[Attachments/Editorial Portraits/02 — Lavender and Silver — Original.jpeg|450]]
+
+Original path: `/home/ivanaguilera/Downloads/_.jpeg`.
+
+### Generated result
+
+![[Attachments/Editorial Portraits/Lavender and Silver — Editorial Portrait.png|450]]
+
+**Provenance:** this result was generated from text alone. The original above was supplied afterward and linked here for future reference-guided generations. It was not an input to the saved result.
+
+**Adaptation details:** the prompt specifies a rectangular halo crystal earring; the original uses a different curved/drop-shaped motif. The prompt omits magazine lettering. Requested format: 3:4 vertical. These are creative directions, not an exact reconstruction of every original detail.
+
+### Exact generation prompt and short variant
+
+```text
+SUBJECT: Young East Asian woman, mid-20s, delicate oval face, natural straight brows, minimal soft-pink lip, luminous fresh skin with visible natural texture, calm neutral gaze directly to camera. Dark hair pulled into a low ponytail at the nape, two or three loose strands framing the cheek and temple.
+
+WARDROBE: Lilac / lavender bouclé-textured knit top with a soft V neckline, relaxed shoulder, matte fabric, no logos.
+
+JEWELRY (hero detail): layered fine silver-toned chains — a short strand with a small round brilliant stone pendant, a longer strand with a polished crescent / horseshoe pendant; a single drop earring with a halo-set rectangular crystal, faceted sparkle catching the key light. Cool white metal, realistic chain links and prong detail.
+
+ENVIRONMENT: Leaning against a smooth pale blue-grey painted wall, matte texture, no props.
+
+LIGHTING: soft diffused directional daylight from camera-left, high-key, gentle wrap, minimal shadow, subtle specular highlight on cheekbone, earring and chain; faint warm bounce on the shadow side.
+
+CAMERA & COMPOSITION: vertical 3:4, tight beauty crop, head and shoulders, face placed on the left vertical third, generous negative space to the right, subject resting at 8–10 degrees head tilt, eye line just above lens axis. Shot on 85mm f/1.8 at full-frame, shallow depth of field, wall softly rendered.
+
+COLOR & GRADE: pastel cool palette, lilac and pale blue, low saturation, medium-low contrast, filmic highlight rolloff, subtle fine grain, clean commercial beauty retouching that keeps skin texture intact.
+
+MOOD: quiet, intimate, effortless, understated elegance.
+
+NEGATIVE: text, watermark, logo, caption, border, collage, split frame, oversaturation, harsh flash, HDR, plastic skin, over-smoothed skin, heavy contouring, visible retouch lines, extra fingers, distorted hands, malformed jewelry, tangled or broken chain links, mismatched earrings, blurry eyes, motion blur, busy background, clutter.
+
+SHORT VARIANT (for models with tighter context limits)
+
+Editorial beauty portrait of a young East Asian woman with dark hair in a low ponytail, loose face-framing strands, wearing a lilac bouclé V-neck knit and layered fine silver chains with a small stone pendant and crescent pendant, plus a halo-set rectangular crystal drop earring. Calm gaze at camera, head tilted, leaning on a pale blue-grey matte wall. Soft diffused daylight from the left, high-key, pastel cool palette, 85mm f/1.8, shallow depth of field, 3:4 vertical, fine grain, natural skin texture, no text.
+```
+
+## 03 — Silver Eyewear
+
+**Recognition:** rimless silver glasses with dangling metal accents, navy pinstripe blazer, rose lips, glossy nude nails and a charcoal studio background.
+
+### Original reference
+
+![[Attachments/Editorial Portraits/03 — Silver Eyewear — Original.jpeg|450]]
+
+**Original file supplied:** `/home/ivanaguilera/Downloads/𝙛𝙤𝙧 𝙙𝙞𝙫𝙚𝙨   💬.jpeg`.
+
+The reference above is now preserved as an unchanged attachment in this vault. Its silver eyewear, pinstripe blazer, raised hand and charcoal background correspond to this prompt.
+
+### Generated result
+
+![[Attachments/Editorial Portraits/Silver Eyewear — Editorial Portrait.png|450]]
+
+**Provenance:** the saved result was generated from the written prompt alone using the built-in image generator. The original photograph was supplied afterward and is now linked here for future reference-guided generation; it was not attached to the earlier generation. The prompt asks for an original fictional adult subject, so it does not request an exact identity match to the original photo.
+
+**Saved Pictures copy:** `/home/ivanaguilera/Pictures/Silver Eyewear — Editorial Portrait.png`.
+
+**Requested format:** 3:4 vertical. Prompt details describe the intended result; the saved image shows four cuff buttons, rather than the three requested.
+
+**Reuse:** attach the original reference to follow its styling and composition, or the generated result to develop that version. Specify which features to preserve and which to change. Keep the fictional-subject instruction if you want a new person rather than the original photo's likeness.
+
+### Exact generation prompt
+
+```text
+SUBJECT: Original fictional woman, mid-20s, East Asian features, oval face, smooth luminous skin with natural texture preserved, straight soft brows, precise black eyeliner, subtle lower lash detail, small beauty mark on cheek, glossy rose lips slightly parted, calm confident gaze directly into lens. Dark straight hair pulled back sleek, center part, a few fine strands falling over forehead and temples.
+
+EYEWEAR - HERO DETAIL: ultra-minimalist rimless floating-lens glasses, thin polished silver bridge with sculptural articulated joints and tiny dangling metal accents, slim temples, frameless lenses with realistic edge refraction and faint reflection, precise symmetrical placement.
+
+WARDROBE: dark navy pinstripe tailored blazer, sharp notch lapel, structured shoulder, fine white chalk stripes, matte premium wool texture, sleeve cuff with three black buttons visible.
+
+POSE: right hand raised beside face, fingers elegantly extended, long almond nude manicure with high-gloss finish, thumb resting lightly under chin.
+
+ENVIRONMENT: seamless dark charcoal-grey studio backdrop, clean, no props, soft vignette falloff at edges.
+
+LIGHTING: large softbox key front-left, controlled fill, gentle rim separating hair from background, crisp catchlights in eyes, specular highlights on lips, nails, and metal eyewear joints.
+
+CAMERA: vertical 3:4, tight beauty crop head and shoulders, face centered, 85mm f/1.8 full-frame look, shallow depth of field, tack-sharp eyes.
+
+COLOR & GRADE: cool luxury palette - charcoal, navy, silver - contrasted with warm skin and rose lips, medium contrast, deep clean blacks, filmic highlight rolloff, subtle fine grain, restrained high-end retouching, keep pores and fabric weave.
+
+MOOD: powerful, refined, quiet luxury, modern executive elegance.
+
+NEGATIVE: text, watermark, logo, border, collage, oversaturation, harsh flash, HDR, plastic over-smoothed skin, heavy contour, distorted fingers, extra fingers, broken nails, crooked or asymmetric glasses, warped lenses, blurry eyes, motion blur, noisy background, clutter, cartoon, illustration.
+```
+
+## 04 — Mountain Meadow
+
+**Recognition:** windblown blonde hair, black eyelet dress, coral-red statement necklace, black handbag with a striped strap, mountain backdrop and yellow foreground flowers.
+
+### Original reference
+
+![[Attachments/Editorial Portraits/04 — Mountain Meadow — Original.jpg|450]]
+
+**Original file supplied:** `/home/ivanaguilera/Downloads/peakpx (1).jpg`.
+
+The original is copied unchanged into this vault so the reference survives cleaning Downloads.
+
+### Generated result
+
+![[Attachments/Editorial Portraits/Mountain Meadow — Resort Editorial.png|450]]
+
+**Provenance:** the saved result was generated from the written prompt alone using the built-in image generator. This original reference was supplied afterward and associated with the prompt for future use; it was not attached to the earlier generation. The prompt specifies an original fictional adult subject, not an exact identity match to the photograph.
+
+**Saved Pictures copy:** `/home/ivanaguilera/Pictures/Mountain Meadow — Resort Editorial.png`.
+
+**Requested format:** 3:4 vertical. The generated image is an adaptation: its full-body framing includes black boots, which were not specified in the prompt.
+
+**Reuse:** attach the original for its styling/composition, or the generated result for variations of that version. Name what to preserve, then change one feature at a time, such as necklace size or slit height. A file path alone does not attach an image.
+
+### Exact generation prompt
+
+```text
+High-luxury outdoor fashion editorial, premium resort campaign aesthetic.
+
+SUBJECT: Original fictional woman, late-20s, long wavy sun-kissed blonde hair blowing lightly in wind, natural radiant skin with texture, soft bronzed makeup, nude lips, confident direct gaze to camera.
+
+WARDROBE - HERO: black long-sleeve designer midi dress, matte crepe texture, rows of small polished silver eyelets along bodice front, upper sleeves and skirt seams, high side slit on right leg, relaxed bishop sleeves with fitted cuffs, cinched waist with thin black leather belt and small polished silver H-bar buckle.
+
+ACCESSORIES: chunky multi-layer coral-red statement necklace, large polished irregular beads in graduated sizes; structured black leather top-handle handbag with clean stitching, held in right hand, with red-orange striped webbing shoulder strap.
+
+POSE: full-body three-quarter view, right knee bent and lifted, left leg grounded, torso facing camera, head slightly tilted, effortless powerful stance.
+
+ENVIRONMENT: sunlit mountain meadow overlook, hazy blue layered hills in background, pale blue sky, out-of-focus yellow wildflowers in extreme foreground framing bottom of shot, natural grass underfoot.
+
+LIGHTING: bright golden daylight, soft backlight creating halo in hair, gentle lens glow on skin, natural highlights on beads and bag leather, balanced exposure, no harsh shadows.
+
+CAMERA: vertical 3:4, full-body from slightly low angle, 50mm f/2.8 full-frame look, sharp subject, softly blurred foreground flowers and distant mountains, high detail in fabric eyelets and jewelry.
+
+COLOR & GRADE: rich luxury contrast - deep black, coral-red, golden yellow against soft blue sky and green-blue mountains, warm sunlight, vibrant but natural saturation, filmic highlight rolloff, subtle fine grain, high-end retouching preserving skin and fabric texture.
+
+MOOD: freedom, confident, wanderlust, modern jet-set elegance, luxe bohemian.
+
+NEGATIVE: text, watermark, logo, border, collage, oversaturation, HDR, blown-out sky, plastic skin, over-smoothed face, distorted hands, extra fingers, deformed bag, broken strap, mismatched eyelets, blurry face, motion blur, cluttered background, cartoon, illustration.
+
+Produce one high-quality photographic image in vertical 3:4 format. Use restrained stylization and realistic photographic detail.
+```
+
+### Settings note
+
+USER SETTINGS TIP (not exposed as controls by the built-in tool): 3:4 vertical, photographic / raw mode, stylize low, quality high. Keep seed fixed to iterate on necklace size or dress slit height.
+
+These are the user's settings suggestions. The built-in generation tool used here does not expose raw mode, stylize, quality or seed controls; a fixed seed was not set.
+
+## 05 — Red Carpet Gold
+
+**Recognition:** long blonde hair, black evening dress with gold floral embroidery, blue backdrop, direct beauty lighting.
+
+### Original reference
+
+![[Attachments/Editorial Portraits/05 — Red Carpet Gold — Original.jpeg|450]]
+
+### Generated result
+
+![[Attachments/Editorial Portraits/Red Carpet Gold — Beauty Portrait.png|450]]
+
+**Original file supplied:** `/home/ivanaguilera/Downloads/Miku Martineau.jpeg`. This is the user-supplied filename, not an independently verified identification. The reference is copied unchanged into the vault.
+
+**Provenance:** generated from the written prompt alone using the built-in image generator. The reference photograph was supplied afterward and is saved here for future use; it was not an input to this result. The prompt requested an original fictional adult subject rather than an exact likeness.
+
+**Pictures original:** `/home/ivanaguilera/Pictures/red-carpet-beauty-portrait.png` remains in place; the vault holds an identical copy.
+
+**Requested format:** 3:4 vertical. **Adaptation:** the result uses a wider upper-bodice crop and free-flowing hair rather than reproducing the reference's hair styling and neckline exactly.
+
+**Reuse:** attach the reference for its appearance or styling, or attach the result to develop that version. Specify what to preserve and what to change. A filesystem path alone does not attach an image.
+
+### Exact submitted generation prompt
+
+```text
+Generate a photographic high-luxury red-carpet beauty portrait, premium evening campaign aesthetic. Vertical 3:4 composition, tight head-and-shoulders crop with enough upper bodice visible to showcase couture embroidery; face centered. Original fictional adult woman, mid-20s, mixed East Asian and European features, long straight ash-blonde hair with center part falling over shoulders, luminous smooth skin with natural pores and texture preserved, soft defined brows, warm brown eyes with long separated lashes and soft winged liner, subtle peach blush, glossy rose-nude lips slightly parted showing upper teeth, calm soft gaze directly into lens. Hero wardrobe: black luxury evening dress, wide sculpted asymmetric neckline, matte velvet-like bodice, thick shoulder straps and front panels made of sheer mesh fully embroidered with champagne-gold sequins and antique-gold floral applique; intricate reflective beadwork, believable continuous couture craftsmanship. Solid muted royal-blue studio backdrop, smooth matte finish, no props. Soft direct on-axis beauty key like premium event photography, balanced fill, gentle specular highlights on lips, collarbones and sequins, crisp catchlights in both eyes, minimal shadow, even natural skin tone. 85mm f/2.0 full-frame photographic look, tack-sharp eyes and lips, softly rendered hair edges. Palette: deep black, champagne gold, royal blue, warm skin tones; medium-high clarity, rich natural saturation, filmic highlight rolloff, subtle fine grain, high-end beauty retouching preserving pores and sequin texture. Elegant, serene, modern red-carpet royalty and quiet luxury glamour. Avoid text, watermarks, logos, borders, collage, oversaturation, harsh flash hotspots, HDR, plastic over-smoothed skin, heavy contour, asymmetric eyes, blurry eyes, crooked lips, distorted shoulders, broken sequin patterns, noisy background, cartoon or illustration. High quality, low stylization, photorealistic.
+```
+
+### Settings note
+
+The user's suggested controls were photographic/raw mode, low stylization, high quality, and a locked seed for variations. These were expressed as photographic directions where applicable; the built-in tool did not expose raw, stylize, quality, or seed parameters. No seed was locked. Background transparency was set to false.
+
+## Add a future entry
+
+Record: title, original reference filename, generated result filename, exact prompt, whether the original was actually attached, requested format, and any deliberate differences. Copy the reference into `Attachments/Editorial Portraits` with a descriptive filename. This keeps each prompt understandable after Downloads is cleaned.

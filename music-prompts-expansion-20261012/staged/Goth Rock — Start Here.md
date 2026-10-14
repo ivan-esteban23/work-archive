@@ -1,0 +1,61 @@
+# Goth Rock — Start Here
+
+Research snapshot: **10 October 2026** (release shortlist refreshed; the original overview and three-album introduction are unchanged from 8 October 2026). A separate music research and listening project, matching the structure of your metal projects.
+
+## Scope
+
+Explore **gothic rock / goth rock** from post-punk roots through classic scenes and contemporary artists. Include deathrock, darkwave, coldwave, and ethereal wave as related explorations, with their differences explained. Gothic metal and industrial/EBM are neighboring topics, not automatically eligible for a core gothic rock ranking. Musical classification is album-specific; dark imagery alone does not establish genre.
+
+## Project notes
+
+- [[Goth Rock — History Styles and Classics]]
+- [[Goth Rock — Rankings and Listening Journal]] — includes the **Top 30 albums of the 1980s**, verified 10 October 2026
+- [[Goth Rock — Releases and New Bands 2026]]
+- [[Goth Rock — Research and Sources 2026-10-08]]
+- [[Goth Rock — ChatGPT Project Instructions]]
+- [[Goth Rock — ChatGPT Project Prompts]]
+- [[Music Prompt Library]]
+
+## Three starting albums
+
+Suggested exploration order: **Bauhaus — In the Flat Field (1980)** → **The Cure — Pornography (1982)** → **The Sisters of Mercy — First and Last and Always (1985)**. Compare tension and theatrical delivery, atmosphere and repetition, then melodic guitar interplay and machine-driven rhythm. These are editorial listening questions, not claims of direct listening. Original years and sources are in the classics note.
+
+## ChatGPT setup
+
+Suggested project name: **Goth Rock — History, Classics & Discovery**. Unzip the project pack and upload the five numbered text files as sources. Paste Project Instructions.txt into project instructions, then send First Message.txt. Reusable Prompts.txt contains 15 prompts. Uploads are snapshots; this does not create the app project or synchronize it with Obsidian.
+
+## First message
+
+```text
+Let’s start exploring Goth Rock together. Read the project instructions and uploaded sources so we can continue from the work already prepared.
+
+Give me a clear overview of its history, classic albums, major sounds, regional scenes, and current discoveries. Keep gothic rock central while explaining its relationships with post-punk, deathrock, darkwave, coldwave, and ethereal wave. Distinguish researched facts, editorial recommendations, and gaps.
+
+Recommend three contrasting albums to begin with, explain what to notice in each, and ask me one useful question about what I already enjoy. Do not assume I have listened to or rated any album.
+```
+
+## Next step
+
+Start with a three-album listening batch, a history chapter, a regional scene, or an annual ranking. Your listening journal and personal scores stay empty until you supply feedback. This is a researched starter project, not a completed history or exhaustive yearly archive.
+
+## Spotify playlists and discovery
+
+[[Spotify — Playlists and Music Discovery Prompts]] — use the Goth Rock section for playlist creation requests, current releases, and emerging artists.
+
+## Notion listening room snapshot
+
+[[Goth Rock — Notion Snapshot 2026-10-09/Goth Rock — Research and Listening|Open the illustrated listening room]] — 9 October 2026 copy with local artwork, album dossiers, scene atlas, history timeline, Bandcamp discoveries, and the international label directory. This copy does not synchronize automatically with Notion.
+
+## Prompts for developing the Notion note
+
+[[Goth Rock — Notion Development Prompts|42 development prompts]] — album dossiers, artwork, visual layout, history, scenes, Bandcamp releases, international labels, listening feedback, and Obsidian snapshots.
+
+## Latest release update — 10 October 2026
+
+[[Goth Rock — Releases and New Bands 2026]] now carries a 10 October 2026 cutoff. Added: Kylmä Krypta, Vioflesh (Chile), and Rosetta Stone as released albums; The Last Decade, La Mano Sinistra, Vampire Valentine's EP, and David J as upcoming; plus an explicit excluded list and remaining checks.
+
+The Notion listening room copy under [[Goth Rock — Notion Snapshot 2026-10-09/Goth Rock — Research and Listening|illustrated listening room]] still shows the 9 October 2026 Bandcamp shelf and is **not** updated with these. It does not synchronize automatically.
+
+## Expanded project prompts — 12 October 2026
+
+[[Goth Rock — ChatGPT Project Prompts#Deeper research and listening — prompts 16–25|Ten new research and listening prompts]] extend this project’s library to **25 prompts**. Start with a recording dossier (16), a discography route (17), a track-by-track companion (18), artwork and edition research (19), or feedback-based discovery (20); prompts 21–25 focus on this topic’s scenes and musical questions. The existing ChatGPT upload packs remain older snapshots. Copy the prompts from the live note or replace the uploaded prompt snapshot manually.

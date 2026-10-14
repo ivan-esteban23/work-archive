@@ -1,0 +1,15 @@
+{
+  "cases": 18,
+  "passed": true,
+  "checks": [
+    "keyboard Enter",
+    "saved light overrides system dark",
+    "saved dark overrides system light",
+    "reload persistence",
+    "system change before explicit choice",
+    "58 sources",
+    "print light palette",
+    "reduced motion",
+    "no runtime exceptions"
+  ]
+}

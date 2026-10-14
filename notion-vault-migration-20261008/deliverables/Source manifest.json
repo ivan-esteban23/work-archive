@@ -1,0 +1,857 @@
+[
+  {
+    "path": "Asia Trips — Combined Map and Destination Inventory.md",
+    "bytes": 7175,
+    "sha256": "0c24d91d6feb725677426b3c33d3d0b7ef1085e1428a2597cc92afe3c9ac7542"
+  },
+  {
+    "path": "Attachments/Asia Trip Maps/All destination searches.csv",
+    "bytes": 113978,
+    "sha256": "67680aea2336608aa07332d8d9227d630b687d2cdbc00a6dff0d312d59f0d58e"
+  },
+  {
+    "path": "Attachments/Asia Trip Maps/All destination searches.json",
+    "bytes": 376789,
+    "sha256": "58db6ec9547326c74320dcdfe3cf840b1017c7d491717dcde1e28494fc938294"
+  },
+  {
+    "path": "Attachments/Asia Trip Maps/ChatGPT Maps prompt.txt",
+    "bytes": 1345,
+    "sha256": "132ff2cba23ae9f708cdcd27d33ce753997d4c00f00d92a1c3a9209ad6ba5512"
+  },
+  {
+    "path": "Attachments/Asia Trip Maps/Existing orientation pins.json",
+    "bytes": 15844,
+    "sha256": "618583ee18cb1ad2fe3dd488f3df307bdc872e1ed39a36284735886105bdff4f"
+  },
+  {
+    "path": "Attachments/Editorial Portraits/01 — Gray Suit — Original.jpeg",
+    "bytes": 89843,
+    "sha256": "e72abeb9995d41c0fe59c609767b2bef6f8f6dda432f77edb0ae60096270cb1c"
+  },
+  {
+    "path": "Attachments/Editorial Portraits/02 — Lavender and Silver — Original.jpeg",
+    "bytes": 74242,
+    "sha256": "f7074bef634ff0f3b4d51ccb8cc5821970432c724bf5e7b84f8baf040ea9938b"
+  },
+  {
+    "path": "Attachments/Editorial Portraits/03 — Silver Eyewear — Original.jpeg",
+    "bytes": 58009,
+    "sha256": "93632c1ea7db29793239ce59b8119fcf13655f2993353d41ed36563a6bfee404"
+  },
+  {
+    "path": "Attachments/Editorial Portraits/04 — Mountain Meadow — Original.jpg",
+    "bytes": 218492,
+    "sha256": "8385a00c1c2b6762fccf90d22b7631636e95ed3860293940fb81bdc1119d94e7"
+  },
+  {
+    "path": "Attachments/Editorial Portraits/05 — Red Carpet Gold — Original.jpeg",
+    "bytes": 111702,
+    "sha256": "edec75edb2ec3a4340e3fdf94867ac1032295343428e0d91034453cd8c69e859"
+  },
+  {
+    "path": "Attachments/Editorial Portraits/Editorial Portrait — Prompt.txt",
+    "bytes": 16887,
+    "sha256": "5eeff9a5dda0e628e4858d7c534e278645f36a70070a1268821f1be8d4bc096a"
+  },
+  {
+    "path": "Attachments/Editorial Portraits/Editorial Portrait.png",
+    "bytes": 2533998,
+    "sha256": "c8b6b6b750af38d93f4283995711876edb59bee4f486b7ad6aafe7ca50bd9718"
+  },
+  {
+    "path": "Attachments/Editorial Portraits/Lavender and Silver — Editorial Portrait.png",
+    "bytes": 2612003,
+    "sha256": "c9b626eb856af72e3bd3a8d74abeafca404007a5bf52eed618f6398562d31ac5"
+  },
+  {
+    "path": "Attachments/Editorial Portraits/Mountain Meadow — Resort Editorial.png",
+    "bytes": 2386974,
+    "sha256": "545552c35c858c686761977f2560926bc38980853ac0a48d99a4d6e686f4b1c1"
+  },
+  {
+    "path": "Attachments/Editorial Portraits/Red Carpet Gold — Beauty Portrait.png",
+    "bytes": 2632734,
+    "sha256": "69d22c0b025097603800253314665fde6ed2f95946c716f865c22e98081ada7e"
+  },
+  {
+    "path": "Attachments/Editorial Portraits/Silver Eyewear — Editorial Portrait.png",
+    "bytes": 2597568,
+    "sha256": "5482a17d5bffbf63481c7a815e82af84ad536642cbc76d3793a35b506cad5fd1"
+  },
+  {
+    "path": "Attachments/Japan 2027 Maps/Japan 2027 — All places.csv",
+    "bytes": 34208,
+    "sha256": "7b9fe4f52472a456d153c0e78bc9638891eb467dbfdfb3dbea0ec8c326a19a02"
+  },
+  {
+    "path": "Attachments/Japan 2027 Maps/Japan 2027 — Starter pins.kml",
+    "bytes": 4104,
+    "sha256": "0206ce99933e24c93dbdef418b450379a70ad66e21239a515e08565b627c1538"
+  },
+  {
+    "path": "Black Metal — History Subgenres and Classics.md",
+    "bytes": 8282,
+    "sha256": "414027eeb33835a37f8e657ed532a2092ae86e5850163c32ae344aec9836fa5a"
+  },
+  {
+    "path": "Black Metal — Rankings and Listening Journal.md",
+    "bytes": 5351,
+    "sha256": "7c29e95a0b783a63cf9e531f06a6babebb9cfbf6d278752e5aaab96f775009c4"
+  },
+  {
+    "path": "Black Metal — Releases and New Bands 2026.md",
+    "bytes": 4080,
+    "sha256": "0ca113cba10c42fe61d807a8a9bc946d339b13d8468f67d4dc7f81e4a8d573bc"
+  },
+  {
+    "path": "Black Metal — Research and Sources 2026-10-08.md",
+    "bytes": 6349,
+    "sha256": "9dda4ce0228141fcfb20a162c39c3bd46bc607f6f72d447f8366532f110eea60"
+  },
+  {
+    "path": "Black Metal — Start Here.md",
+    "bytes": 2534,
+    "sha256": "49011fb59ea97f90e6d1e786aaeca4be9d9ce572b0fe3414d86f01b0bad8e1c0"
+  },
+  {
+    "path": "China Travel Guide.md",
+    "bytes": 10135,
+    "sha256": "2d07c2bdd5b65396ddfc4322609e8b0a73bb5c438708e233abf43a75e8824432"
+  },
+  {
+    "path": "China — Bookings.md",
+    "bytes": 742,
+    "sha256": "fe71295d630e5356ad811f93dbfbbe60c93e14269a76a463b19de19f2fcdfc0d"
+  },
+  {
+    "path": "China — Budget.md",
+    "bytes": 2332,
+    "sha256": "8be15aa3d73b5be14e7de66ae0c0db1406e05353e1007081fbf6d753ad3bdf9e"
+  },
+  {
+    "path": "China — ChatGPT Project Prompts.md",
+    "bytes": 15354,
+    "sha256": "e967307e6cdfb3c0f50fcfed91a72cc4ad1e61d179f40defd1916ac34cf14b4b"
+  },
+  {
+    "path": "China — Klook Experience Research 2026-10-08.md",
+    "bytes": 5919,
+    "sha256": "9070f583ce56c35cda13c7c9f1d6f3188fb1709a751591f1c17c087e8d107786"
+  },
+  {
+    "path": "China — More Ideas and Route Choices.md",
+    "bytes": 11773,
+    "sha256": "afcf4ab1c836c4954090a37f1f280a8509eb6c2c78b3ab27bffcdaa3db7f96e7"
+  },
+  {
+    "path": "China — Places and Experiences Shortlist.md",
+    "bytes": 12940,
+    "sha256": "3415fa3d513ae42745b7a4d0a53c647abed2a6b6b1f0ca0e086e47383232bf99"
+  },
+  {
+    "path": "China — Preparation Before Choosing Dates.md",
+    "bytes": 4823,
+    "sha256": "a2a375d52fb0e48669b35210f066ad00d8605fc6f8200cd4477d5cd74ee8bce3"
+  },
+  {
+    "path": "China — Research and Sources 2026-10-08.md",
+    "bytes": 9149,
+    "sha256": "00e163e38cfe90ba7f42a65db65f6aa9c8db0f9eea632d63e54b8d7e538f68be"
+  },
+  {
+    "path": "China — Session Recap 2026-10-08.md",
+    "bytes": 5910,
+    "sha256": "943a1e89674a2538ac4ef584d07e44ec1dee021f5b82b91020b4697d28704762"
+  },
+  {
+    "path": "China — Start Here.md",
+    "bytes": 3985,
+    "sha256": "cb2d381beee3c779c66d66cf390ea0d3004c0c1fc7e0ec626f44045115f1beff"
+  },
+  {
+    "path": "Death Metal — History Subgenres and Classics.md",
+    "bytes": 9413,
+    "sha256": "8efc36ff9426465ad52bc85582950a5bacf482d9b66b2a7e50053cdf4bad9e1b"
+  },
+  {
+    "path": "Death Metal — Rankings and Listening Journal.md",
+    "bytes": 5011,
+    "sha256": "916460b13e09e3d8f9feda1fbd2c796b6c25fd2bb52d412d3b46ec812d978689"
+  },
+  {
+    "path": "Death Metal — Releases and New Bands 2026.md",
+    "bytes": 3925,
+    "sha256": "c934e389fc75616fdd875e68a81cdd9121577314789beebac1ac9839f84a24e1"
+  },
+  {
+    "path": "Death Metal — Research and Sources 2026-10-08.md",
+    "bytes": 6165,
+    "sha256": "3f0dce142b437fee0690f2b97f307d716dd85b228200bbcf26e79f17ff2649c3"
+  },
+  {
+    "path": "Death Metal — Start Here.md",
+    "bytes": 2987,
+    "sha256": "93c80f5fcb938aa244d667d9f336d9b853d0a4c1958accdb70591952a0a183f8"
+  },
+  {
+    "path": "Editorial Portrait Prompt Library.md",
+    "bytes": 18502,
+    "sha256": "a90379614c604be7d307e3122a4d59918e846959a0372e382d856f30211a6553"
+  },
+  {
+    "path": "Free AI Courses — Learning Roadmap.md",
+    "bytes": 5887,
+    "sha256": "196f64652a0a126fc20be7a84812885d062ed4fa32048bc03dccf79922d4f053"
+  },
+  {
+    "path": "Goth Rock — History Styles and Classics.md",
+    "bytes": 4554,
+    "sha256": "4db6d62d69e5bea6a9d437c167c5df90420195cb7a7e04342a483344da3104c8"
+  },
+  {
+    "path": "Goth Rock — Rankings and Listening Journal.md",
+    "bytes": 1891,
+    "sha256": "4ddf9cabf263dc4ee0b980cb97f8bf95447ff1a14b85631eb44a16f80b352763"
+  },
+  {
+    "path": "Goth Rock — Releases and New Bands 2026.md",
+    "bytes": 2841,
+    "sha256": "5e866d60aa81cd6c89e61d622fc0dfd39976550b620708cccee6e190bbd8477f"
+  },
+  {
+    "path": "Goth Rock — Research and Sources 2026-10-08.md",
+    "bytes": 2555,
+    "sha256": "857e1e72dd84006fb917397dc2603012615e1f196f8dc9b5c011124b453028f4"
+  },
+  {
+    "path": "Goth Rock — Start Here.md",
+    "bytes": 2941,
+    "sha256": "ff836bd4241e319a59ca27f5edf7a7b60ce4a82a7e864e1cacf56e90bc679677"
+  },
+  {
+    "path": "Heavy Metal — History Styles and Classics.md",
+    "bytes": 7408,
+    "sha256": "d1c7aa0699fcc0fbe95e12a23444cd9e4e2c0f23bc9b339e0c29e535897768dd"
+  },
+  {
+    "path": "Heavy Metal — Rankings and Listening Journal.md",
+    "bytes": 5331,
+    "sha256": "c9c1cf97e9d9009a9be3814d9f4f7eb940964aa38d2f5a0b287e04824bf7691b"
+  },
+  {
+    "path": "Heavy Metal — Releases and New Bands 2026.md",
+    "bytes": 2763,
+    "sha256": "e9cfc87899394fbe37117dd0fcad194e33f1fb48e4ba2de572a6f37f67273c9d"
+  },
+  {
+    "path": "Heavy Metal — Research and Sources 2026-10-08.md",
+    "bytes": 4690,
+    "sha256": "ad3c0c1b4fd977d79f0db977e7e0bac25d948685286a767468af924c30850dca"
+  },
+  {
+    "path": "Heavy Metal — Start Here.md",
+    "bytes": 2813,
+    "sha256": "216e59cbfb614447904a357551f1920236ddaf3406a85e217b5b9d2cd385423d"
+  },
+  {
+    "path": "Japan 2027 — Autumn Guide.md",
+    "bytes": 7926,
+    "sha256": "a29b2e2c9850003c3bff36f9bd71f3390a19911be6f8adba097765005839af8a"
+  },
+  {
+    "path": "Japan 2027 — Best Islands.md",
+    "bytes": 35358,
+    "sha256": "2c2e533f059febcbea8942f68804ff06db8826bdb17806c2719c20f6491809c7"
+  },
+  {
+    "path": "Japan 2027 — Bookings.md",
+    "bytes": 5656,
+    "sha256": "46d3879d4ea72bc849679779bf4f967f209c2883f9fb94cd7bb7770f14994ffe"
+  },
+  {
+    "path": "Japan 2027 — Clothing to Browse Online.md",
+    "bytes": 7882,
+    "sha256": "a731733adb58ac1f2748872fde9d7a01609460ac3c9d74a406ec4f4400c9bc3b"
+  },
+  {
+    "path": "Japan 2027 — Daily Pocket Cards.md",
+    "bytes": 2904,
+    "sha256": "2c2f8337b1ec675c2ddf561306967bca5036cc29daa907221dea9dc7c49195dd"
+  },
+  {
+    "path": "Japan 2027 — Expenses.md",
+    "bytes": 709,
+    "sha256": "65508fe61b4d9a7a9bc61df8436b6f82b69ff24d05e6448841343cee8e879ac9"
+  },
+  {
+    "path": "Japan 2027 — Fukuoka Chapter.md",
+    "bytes": 21924,
+    "sha256": "f4b687a246b9e705b3a94cbbae7fadb4b6cc9a317b63171ab21b99615abd2387"
+  },
+  {
+    "path": "Japan 2027 — Fukuoka Pocket Routes.md",
+    "bytes": 4971,
+    "sha256": "0aa4210f84553af0e973116c8363e06a0fd149bcd658f092d5c5ed5993354c8a"
+  },
+  {
+    "path": "Japan 2027 — Gifts for Her.md",
+    "bytes": 15724,
+    "sha256": "5f5270e2eba07d9f4a2e57393b3d58bd601492d6470ce0ec3fd7d379abcf43f5"
+  },
+  {
+    "path": "Japan 2027 — Health.md",
+    "bytes": 6014,
+    "sha256": "c3b771a29d588121f500c9f7649397ff5b48d6be0a568e0254c6a83c716d9d37"
+  },
+  {
+    "path": "Japan 2027 — Hidden Gems.md",
+    "bytes": 20340,
+    "sha256": "11d652f2c4572bafe4e313616ccfd09feab12ff0ea9dbfadfdd3d736338dd777"
+  },
+  {
+    "path": "Japan 2027 — Hidden Gems.md.bak-20261006-more-gems",
+    "bytes": 9481,
+    "sha256": "22f449fbb9eb708bd131841aa6b8db7a56f65793f65c0969fb1e621fe75031f5"
+  },
+  {
+    "path": "Japan 2027 — Hiking and Mount Fuji.md",
+    "bytes": 7930,
+    "sha256": "f4736fae28ebeae741b4678ac2864b702d6742fc52ee56d3b5ec825396579066"
+  },
+  {
+    "path": "Japan 2027 — Island Access from Haneda and Narita.md",
+    "bytes": 10707,
+    "sha256": "65c414afe7fcd2162e214b06aa4fcd9e97ee671fa12517bef24c1d942b0cd804"
+  },
+  {
+    "path": "Japan 2027 — Japanese Flashcards.md",
+    "bytes": 2604,
+    "sha256": "fbf4481adaeeb6e0c94a5dd9863bc9aed60a4656c0ea835ddbd0b27b2f93afe3"
+  },
+  {
+    "path": "Japan 2027 — Japanese Practice.md",
+    "bytes": 11142,
+    "sha256": "3ef167df5d58f9181361d801fde9b1a5f5dc6b278f5c48262741e6538f34dc75"
+  },
+  {
+    "path": "Japan 2027 — Kichijoji Shopping and Exploring.md",
+    "bytes": 6178,
+    "sha256": "4de7c0015c7cadbdc6810be0e077c7c1bfeca49c1ce6eaa07f0b8de49de95140"
+  },
+  {
+    "path": "Japan 2027 — Klook More Cities and Islands.md",
+    "bytes": 27778,
+    "sha256": "bec614ee02d664b5111046cfaec1a647768a87502adfa5f311caa361886376a6"
+  },
+  {
+    "path": "Japan 2027 — Klook Tours and Experiences.md",
+    "bytes": 18782,
+    "sha256": "7b5a472603bd4d20d9f514eb2db034a37e56f029b6996bb70b6fafd3fce0ce80"
+  },
+  {
+    "path": "Japan 2027 — Map View.md",
+    "bytes": 5070,
+    "sha256": "177f6e3e47f3013b7039284dc59d559cdbd63b8d9632c6340e29f270f2490bb0"
+  },
+  {
+    "path": "Japan 2027 — Maps.md",
+    "bytes": 22265,
+    "sha256": "90ecf4c6cc4c11548d4e5dead54d1fbd2f0711d875edcde3a84acbe8abe24b9c"
+  },
+  {
+    "path": "Japan 2027 — Memories.md",
+    "bytes": 3233,
+    "sha256": "f84b5fa3e4ad7dfb6144df95bd4a8d686e99334dc73e8a0c28526c50a9408512"
+  },
+  {
+    "path": "Japan 2027 — My Five Things.md",
+    "bytes": 3294,
+    "sha256": "9da071dae9800208f170be62bbde26e95995b8d862593bebd96dd5d1facec477"
+  },
+  {
+    "path": "Japan 2027 — Nagoya Chapter.md",
+    "bytes": 24173,
+    "sha256": "ee521648e4947040c67ba67d819d0c4aff08b194521435ec94fa1e91c962b6f5"
+  },
+  {
+    "path": "Japan 2027 — Nagoya Pocket Routes.md",
+    "bytes": 5511,
+    "sha256": "936d682ae39ee9ecbe67cfe7fceb576c89799c1b7f17348a742c5682e31de627"
+  },
+  {
+    "path": "Japan 2027 — Nara Chapter.md",
+    "bytes": 22873,
+    "sha256": "adf56ee91fa731acd3d23cdb2a4c67bf8cab7cb4b5c46e45de6615e646e648ca"
+  },
+  {
+    "path": "Japan 2027 — Nara Pocket Routes.md",
+    "bytes": 4829,
+    "sha256": "ec4cf8b63e9ef6825e4d840f87c6713d80540a6ddebc44a42acd3d0f0f10e5de"
+  },
+  {
+    "path": "Japan 2027 — November vs May.md",
+    "bytes": 5868,
+    "sha256": "72954fb901e6bcd8bce2255461b981cc39ca00c77dcaa569837747d7529ce81e"
+  },
+  {
+    "path": "Japan 2027 — Okinawa Chapter.md",
+    "bytes": 25319,
+    "sha256": "619157b42ec167ff08350beca2c8b9462db8697c38496d0a53fe9b0b48b7f8e0"
+  },
+  {
+    "path": "Japan 2027 — Okinawa Pocket Routes.md",
+    "bytes": 5227,
+    "sha256": "32c4d30fd9300af9c5675c06be9fc7b8b20ead590b829b3f3945cbd638777fc7"
+  },
+  {
+    "path": "Japan 2027 — Osaka Chapter.md",
+    "bytes": 14583,
+    "sha256": "43326205bb9dc4ac5e1a25b9bcc2236edb6f7fcab7492fd12d9cb417d5cd8e73"
+  },
+  {
+    "path": "Japan 2027 — Osaka Pocket Routes.md",
+    "bytes": 4417,
+    "sha256": "3ac917b08cec30c33c7ca45d5b943d6ceacc96034e9a7bd8d5e0a84a5238daa9"
+  },
+  {
+    "path": "Japan 2027 — Photography and Filming Wishlist.md",
+    "bytes": 8631,
+    "sha256": "871c9efe2ff3717fb695b68d5679031e5f45820c70d0dcbc5229dc163a1181b6"
+  },
+  {
+    "path": "Japan 2027 — Place Inbox.md",
+    "bytes": 427,
+    "sha256": "ec40369216edb24b14109d8e440f8bafd86d42cb29359ff90407e37f6f55a19c"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-03-25.md",
+    "bytes": 1522,
+    "sha256": "ca3ed495d4529ff779d2a7e142117713a0d39e5038aca0f69e9d03b42e32c50a"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-03-26.md",
+    "bytes": 1573,
+    "sha256": "d98b6c8a275ab08a50b1ad54a92be737dcdbdce71202f160897faa2665a94627"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-03-27.md",
+    "bytes": 1623,
+    "sha256": "4180261ced5d094c9d1f14bad5ad162da6327bc430ea411232069faba4c45301"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-03-28.md",
+    "bytes": 1580,
+    "sha256": "65e8058cac6a5510e367673774c247d9e8d2fb18a8cc84168e330769a9251ab9"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-03-29.md",
+    "bytes": 1793,
+    "sha256": "cc075648aee1b65c57bd1fa6ab5b3a6477c9dcf7b307d7824486fa6886dd8afb"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-03-30.md",
+    "bytes": 1763,
+    "sha256": "86d2541391984a0738127bd091df06c2eb524d7fc9a3e1902f7224abaaa24dbc"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-03-31.md",
+    "bytes": 1648,
+    "sha256": "1ce11faafe022cc930309879abb83e2fd86ac135c3bedf600c9baef0aa186518"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-04-01.md",
+    "bytes": 1585,
+    "sha256": "2da7ca1ed8ce93d5791976c3ca46ff3401f7793dc3c09b7622ce53a9283ef7d0"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-04-02.md",
+    "bytes": 1636,
+    "sha256": "a30919115dbead0cefa60546bd9dca017eb99eb1460d661715b6b53e2f36af9d"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-04-03.md",
+    "bytes": 1586,
+    "sha256": "c14f2c97a24debc1152be63f2c6909c86feba07e542feb7ce5d379949e492020"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-04-04.md",
+    "bytes": 1863,
+    "sha256": "02e145f4f0f932cfb0eba163e102da80dae447e6122c4b2c6c9bb45bfe2d3ecc"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-04-05.md",
+    "bytes": 1743,
+    "sha256": "7d1d39ecbed895cf0fa75fb5073f9ea9923d744a1cf25bbc16a1461d60c373ec"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-04-06.md",
+    "bytes": 1587,
+    "sha256": "afca56050ad66702ba07c4e985b6d10bf5cf004d15a6f494790b8f98dd9582c7"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-04-07.md",
+    "bytes": 2106,
+    "sha256": "9efa815a36b5e8133fae1703d3a7809a33b92ad78c8c15a356d60a8c618e2012"
+  },
+  {
+    "path": "Japan 2027 — Pocket 2027-04-08.md",
+    "bytes": 1612,
+    "sha256": "f835f17d2bfbe8b2ea30e962eb92d57d306e26816358596f5b4ba57149c52221"
+  },
+  {
+    "path": "Japan 2027 — Preparation Before Choosing Dates.md",
+    "bytes": 10707,
+    "sha256": "424a070714cd569110605664da4d089f7e495d7eea5c737182eeb050192d8fd8"
+  },
+  {
+    "path": "Japan 2027 — Quick Capture.md",
+    "bytes": 1975,
+    "sha256": "351b698179147eb737507773575bac717c48f69980ad1bb11b27c41e5138d86c"
+  },
+  {
+    "path": "Japan 2027 — Sapporo Chapter.md",
+    "bytes": 22956,
+    "sha256": "d04af0d06214185bc4e26d236712b8357f049f56d8e10ba7571d1c3cd238e082"
+  },
+  {
+    "path": "Japan 2027 — Sapporo Pocket Routes.md",
+    "bytes": 5887,
+    "sha256": "ca6b57e94f32bd42b359350a9c8553830d95e7572fc6befedb589a320f4bf212"
+  },
+  {
+    "path": "Japan 2027 — Saved Maps.md",
+    "bytes": 3288,
+    "sha256": "e17ef2e2ac8a3d6ddee43a31d4a3ea970923d9e4682681b7945c73fc8222d841"
+  },
+  {
+    "path": "Japan 2027 — Seasonal Guides.md",
+    "bytes": 2718,
+    "sha256": "4b737b1e84857e4438d275a3a3ca18f9a43661876f3b81df2d11ee5283221937"
+  },
+  {
+    "path": "Japan 2027 — Seasonal Planning and Bookings.md",
+    "bytes": 7561,
+    "sha256": "78afab0682a9385e33d6aaf26de9347a3ea06fcdbe39c7036c3252574b02208f"
+  },
+  {
+    "path": "Japan 2027 — Session Recap 2026-10-06.md",
+    "bytes": 5461,
+    "sha256": "c80b4e7680f6b070b3db4bb5c2dc55b671b36321e88d7b231e3f6e6ba3bb5f4d"
+  },
+  {
+    "path": "Japan 2027 — Session Recap 2026-10-07.md",
+    "bytes": 3827,
+    "sha256": "4e4e8a60868a0a0f961eb1f05cc336c4e67f3ca48fa554cfeb69f0d418f41b48"
+  },
+  {
+    "path": "Japan 2027 — Session Recap 2026-10-08.md",
+    "bytes": 2805,
+    "sha256": "68902ac7f7af84b59acaa5618c6a70caba0bdcf307c5bb10571be8c67c66eea9"
+  },
+  {
+    "path": "Japan 2027 — Shopping Shortlist.md",
+    "bytes": 13982,
+    "sha256": "69117eb889b415e9de20de28b13ca5df9f920ac97d760a904f60b325527edbba"
+  },
+  {
+    "path": "Japan 2027 — Shops and Cafés.md",
+    "bytes": 16678,
+    "sha256": "22d4224ca78a928163a384dc20d92b0db829e10f8f5129a7794f905ed32d5c04"
+  },
+  {
+    "path": "Japan 2027 — Start Here.md",
+    "bytes": 10034,
+    "sha256": "89c245096880cfbf7146f734cad96a8c1b5bd3bc580b08b7494e25ca52fffc41"
+  },
+  {
+    "path": "Japan 2027 — Summer Fuji Climb Option.md",
+    "bytes": 3597,
+    "sha256": "20ec0c8e5c6f77ab6ed5253e606f6ef41b4ef229b594506ce1674f3dfdf18c0b"
+  },
+  {
+    "path": "Japan 2027 — Summer Guide.md",
+    "bytes": 10167,
+    "sha256": "601fa65a4ce4665c84857c88b9516ed2a2a6efba1f019c7af39a3faa5958d1a5"
+  },
+  {
+    "path": "Japan 2027 — Today.md",
+    "bytes": 2804,
+    "sha256": "fb9409871ed76048091e3bd74ef1a226d7ec9c1563471e7507dc1eecadf35b96"
+  },
+  {
+    "path": "Japan 2027 — Travel Essentials.md",
+    "bytes": 20872,
+    "sha256": "1ef1e53b71abc8300a8b42e1c71242ef7c20ed194703857a86b587ec2fee6f50"
+  },
+  {
+    "path": "Japan Travel Guide 2027.md",
+    "bytes": 156261,
+    "sha256": "9e0cdbadb41d53c2bf3cd7723ecd00abf41dc300bf5744a202affe8cda9052e7"
+  },
+  {
+    "path": "Japan Travel Guide 2027.md.bak-20261006-photo-plan",
+    "bytes": 132715,
+    "sha256": "31203ec490194df09a9273a5783b7d880211a75cce2a7864ebb08b09268eda8a"
+  },
+  {
+    "path": "Japan Travel Guide 2027.md.bak-20261006-recommendations",
+    "bytes": 125856,
+    "sha256": "a41f268ea78c4de1673fb18b6b65347017794e05c0b3f19775ae7592175be6d1"
+  },
+  {
+    "path": "Korea 2026 — Autumn Foliage.md",
+    "bytes": 3195,
+    "sha256": "86dd920132e358022cdebe681c396e7811597217765ed0a273ee612eaf1008e7"
+  },
+  {
+    "path": "Korea 2026 — Bookings.md",
+    "bytes": 1475,
+    "sha256": "78da407bcdbd0ca32c4e844c94fbe1c550b491420bea41053b51d8f386341920"
+  },
+  {
+    "path": "Korea 2026 — Budget.md",
+    "bytes": 6386,
+    "sha256": "e6d7294816e275acacc5d0c20e8fd231406b8398b1e64418168b0efc7a1732f6"
+  },
+  {
+    "path": "Korea 2026 — Cafés and Shops.md",
+    "bytes": 3703,
+    "sha256": "7fc988dc7ae07f488bdd58a8d391ada20e17246159f435faf174e2f2f7ea2610"
+  },
+  {
+    "path": "Korea 2026 — ChatGPT Project Sources.md",
+    "bytes": 1423,
+    "sha256": "5911fff8ec35eda02d753b75ad9b3852086fb007d56b7c2b0d614dddf2cae365"
+  },
+  {
+    "path": "Korea 2026 — Daily Pocket Cards.md",
+    "bytes": 1263,
+    "sha256": "69ad92ba8b515f0dd5e6209685f795e7b063c21171bc0a268a49febe80a6941f"
+  },
+  {
+    "path": "Korea 2026 — Departure Checklist.md",
+    "bytes": 5060,
+    "sha256": "99e886c0f6249f838fd8a5806f4eb61a8d45b7838035f9d2ae5d3ccc159c20ad"
+  },
+  {
+    "path": "Korea 2026 — Fitness and Protein.md",
+    "bytes": 7927,
+    "sha256": "27256580a28aba44531f7dfdc24b599028412d64c86d0cd634f42c373f487f4e"
+  },
+  {
+    "path": "Korea 2026 — Flight Routes from Chile.md",
+    "bytes": 7708,
+    "sha256": "a80de37a5a00d2c6426a4a8996d54173d3a5f004d8973f00f482f0aca6e79eb4"
+  },
+  {
+    "path": "Korea 2026 — Flights and Stays.md",
+    "bytes": 7531,
+    "sha256": "cb255368aa5cc166257736bd2f9a8f35b56c91a28b613ba34e068a3f0b5a9295"
+  },
+  {
+    "path": "Korea 2026 — Food.md",
+    "bytes": 3872,
+    "sha256": "6edf917d91b09d823389484fcf524c0ff6fd97e4f56250e1f298e59ce5d0c7ff"
+  },
+  {
+    "path": "Korea 2026 — Health preparation.md",
+    "bytes": 3617,
+    "sha256": "82134efaed8d7484389f1c9e8f6a7f01c72974b9b9acec3fec5ceaef4647ba3a"
+  },
+  {
+    "path": "Korea 2026 — Itinerary.md",
+    "bytes": 7534,
+    "sha256": "b6f32d554a13fb53b5e20e62e959652c4804aeb7d792b13971d50a1036c7b623"
+  },
+  {
+    "path": "Korea 2026 — Korean phrasebook.md",
+    "bytes": 2590,
+    "sha256": "77d091d260800905fba17bd4de12144ddb25a1a7d9afbe28a0be833fda491564"
+  },
+  {
+    "path": "Korea 2026 — Map View.md",
+    "bytes": 12774,
+    "sha256": "752d2fb77d16890201df83921bc8dfa6d834117e3cc78efc03fc3cc3359467bf"
+  },
+  {
+    "path": "Korea 2026 — Maps.md",
+    "bytes": 12677,
+    "sha256": "3a6261faa9cd1dfabc625dba533235f94f74244ea90c29fd8d224cdd997678a2"
+  },
+  {
+    "path": "Korea 2026 — My Five Things.md",
+    "bytes": 2495,
+    "sha256": "4859048cad73d4a481be1f1418d02b0048ff3bf4b994c979864d8e2a444b3213"
+  },
+  {
+    "path": "Korea 2026 — Photography and Filming.md",
+    "bytes": 3763,
+    "sha256": "b48e27258d6b9e8284dc2c007727cc686c917210f82e63b684c5d2e977e104a4"
+  },
+  {
+    "path": "Korea 2026 — Places Shortlist.md",
+    "bytes": 6176,
+    "sha256": "1b3dead0756c4544f86141dfdb47b1e2f1417220f8f9148a1a58f3c467c47051"
+  },
+  {
+    "path": "Korea 2026 — Pocket 2026-10-27.md",
+    "bytes": 1523,
+    "sha256": "a8b74ef402f322fcef9ffcedc966498d148fa68ed5f738815029dcd4f7edfe5a"
+  },
+  {
+    "path": "Korea 2026 — Pocket 2026-10-28.md",
+    "bytes": 1580,
+    "sha256": "94b945b9209c191c964d569562bbe26638394379c7a3dbd163891a08fc91f1f2"
+  },
+  {
+    "path": "Korea 2026 — Pocket 2026-10-29.md",
+    "bytes": 1556,
+    "sha256": "90bc2645a870278c053cdf0e64c567fe3f120f196241dc0a032a74c515ebbee5"
+  },
+  {
+    "path": "Korea 2026 — Pocket 2026-10-30.md",
+    "bytes": 1642,
+    "sha256": "3f0ad6362acd41c2fde82306efdaad985508f0db262263e812d5a81603e6343b"
+  },
+  {
+    "path": "Korea 2026 — Pocket 2026-10-31.md",
+    "bytes": 1610,
+    "sha256": "2964673bea67d2a675643a88aae9c7df668c6e6998b5fe2de55f99c209ecb380"
+  },
+  {
+    "path": "Korea 2026 — Pocket 2026-11-01.md",
+    "bytes": 1569,
+    "sha256": "e713df5d6c808c91b7e9596fec1aefd431e26ed99f00e38b99fff1c6d75ea609"
+  },
+  {
+    "path": "Korea 2026 — Pocket 2026-11-02.md",
+    "bytes": 1562,
+    "sha256": "56194293db94ee27b5ae10fd3bd025c272fba8640cf6294e951af1ceb477ae9c"
+  },
+  {
+    "path": "Korea 2026 — Practical Info.md",
+    "bytes": 6260,
+    "sha256": "caa2e7416da27aaff373724d79ec90ea34fc988f507014f81c81a6b115c9e2eb"
+  },
+  {
+    "path": "Korea 2026 — Preparation Before Choosing Dates.md",
+    "bytes": 4042,
+    "sha256": "32c4ca70b91533c89777d05ee96ff07a5ab48a018d3d5e4726039f06f6d315a6"
+  },
+  {
+    "path": "Korea 2026 — Review and Sources 2026-10-07.md",
+    "bytes": 9501,
+    "sha256": "5c757b987e7ed3dd6b1108a3a6d0a41729abac930b3a53016dbf1b41fec662d8"
+  },
+  {
+    "path": "Korea 2026 — Review and Sources 2026-10-08.md",
+    "bytes": 9684,
+    "sha256": "39f1bf127f38c2ef5a8b2c0174b5888da24ae9f78f81f43965d289017dd65c3e"
+  },
+  {
+    "path": "Korea 2026 — Session Recap 2026-10-07.md",
+    "bytes": 4474,
+    "sha256": "4a94423e442abd5cdc37bf50327b89e7bb21c874d6bd6a4b9dc1ad93bbc5648e"
+  },
+  {
+    "path": "Korea 2026 — Session Recap 2026-10-08.md",
+    "bytes": 2910,
+    "sha256": "4d13a97aa5d27dbbe87d83d7a66960545805cc59b855ca4ceccf7d9f4e032084"
+  },
+  {
+    "path": "Korea 2026 — Shopping shortlist.md",
+    "bytes": 2029,
+    "sha256": "a566facf5b7a2ce331a939a4c088ebc4f57584748d874bb22d18dfb5da8f5084"
+  },
+  {
+    "path": "Korea 2026 — Solo Plan.md",
+    "bytes": 7557,
+    "sha256": "9faae0dc8b6c4c9aa332c9e71e4a74efaefa96340a54b8f782b0a0bb705a1120"
+  },
+  {
+    "path": "Korea 2026 — Start Here.md",
+    "bytes": 5682,
+    "sha256": "997672f957f8f044a3dc9f7e4ee9dc92badb1123d665f7ecff7f634627aa8ccd"
+  },
+  {
+    "path": "Korea 2026 — Transport.md",
+    "bytes": 5018,
+    "sha256": "65865c7654a56f9630c9b2e5111a13cac2e6fbea8e5d99cace7c71be60e2de09"
+  },
+  {
+    "path": "Korea 2026 — Weather and Packing.md",
+    "bytes": 2854,
+    "sha256": "a744d333beae352f87c8e1e865a4490eb82350dc11afaae2df31070a9d6d19d5"
+  },
+  {
+    "path": "Music Prompts/Black Metal — ChatGPT Project Instructions.md",
+    "bytes": 6846,
+    "sha256": "2f3db55c6238fcd0af3d5b16cbd1fb8ec60ae04769d343aef026c0bf6cbb4914"
+  },
+  {
+    "path": "Music Prompts/Black Metal — ChatGPT Project Prompts.md",
+    "bytes": 5731,
+    "sha256": "c300c529c0da8d31191bd22227a7b47cda9b9e7abbfda3bbd9ca5607932c3b87"
+  },
+  {
+    "path": "Music Prompts/Death Metal — ChatGPT Project Instructions.md",
+    "bytes": 6618,
+    "sha256": "3b900efbf7276f80c93add80147b29179a2e030d7a87ca333939eb4ed9cb9777"
+  },
+  {
+    "path": "Music Prompts/Death Metal — ChatGPT Project Prompts.md",
+    "bytes": 7257,
+    "sha256": "efb59276c80af3e36ec279862a30fb21c869c5e683789900ec58527e3f749452"
+  },
+  {
+    "path": "Music Prompts/Goth Rock — ChatGPT Project Instructions.md",
+    "bytes": 5593,
+    "sha256": "e274a0829a4c2ef749d1882e9bb21a8d5f33ac5ec26781393920432c2619c5dc"
+  },
+  {
+    "path": "Music Prompts/Goth Rock — ChatGPT Project Prompts.md",
+    "bytes": 5780,
+    "sha256": "8582312f4f3f3fd0e8794a8d593e8add60882846ce09802eedb7166620a78600"
+  },
+  {
+    "path": "Music Prompts/Heavy Metal — ChatGPT Project Instructions.md",
+    "bytes": 6358,
+    "sha256": "420f4594a7f51fb8a212380871fff0e7932fa896f61e8d5125058e606ced196d"
+  },
+  {
+    "path": "Music Prompts/Heavy Metal — ChatGPT Project Prompts.md",
+    "bytes": 5647,
+    "sha256": "29ceceba011e9a6185b833005c801d591c9bea5fff9b1f52b089166fbf659f83"
+  },
+  {
+    "path": "Music Prompts/Music Project Starter Template.md",
+    "bytes": 4806,
+    "sha256": "573c4c43e9d13374f443f955e6de6420539026f654b1ed493a767fbc07fd829b"
+  },
+  {
+    "path": "Music Prompts/Music Prompt Library.md",
+    "bytes": 8053,
+    "sha256": "bca07690e1ef2ca180d01cb26453e8f604b32171dd8d80e33bd83e05787bc831"
+  },
+  {
+    "path": "Music Prompts/Spotify — Playlists and Music Discovery Prompts.md",
+    "bytes": 18496,
+    "sha256": "1f40fb0a4494792dc283e714b4f505fcecbd58aa9057191c473e23e23c3275ba"
+  },
+  {
+    "path": "Trip Planning Prompt Library.md",
+    "bytes": 11644,
+    "sha256": "76b518dfb3f269e1ded3e0715d9a5d46a09662529fb75651ee9f11b8bb64ab1a"
+  },
+  {
+    "path": "Untitled.md",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Welcome.md",
+    "bytes": 203,
+    "sha256": "ecd0dfb6b21143ff52cfe36f93636df57e5b21773c101491b86f10ce17556ca8"
+  }
+]

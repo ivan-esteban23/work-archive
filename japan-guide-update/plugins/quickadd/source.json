@@ -1,0 +1,22 @@
+{
+  "repo": "chhoumann/quickadd",
+  "release": "2.31.0",
+  "url": "https://github.com/chhoumann/quickadd/releases/tag/2.31.0",
+  "manifest": {
+    "id": "quickadd",
+    "name": "QuickAdd",
+    "version": "2.31.0",
+    "minAppVersion": "1.13.0",
+    "description": "Quickly add new pages or content to your vault.",
+    "author": "Christian B. B. Houmann",
+    "authorUrl": "https://bagerbach.com",
+    "fundingUrl": "https://www.buymeacoffee.com/chhoumann",
+    "helpUrl": "https://quickadd.obsidian.guide/docs/",
+    "isDesktopOnly": false
+  },
+  "files": {
+    "manifest.json": "fa83faf1a6bd0094773f44e0b0af68ee1e9fefadb4df4c940bfe4d42bf6011c7",
+    "main.js": "f24fe2569a53c5d4aa6d0eb8c421044885a42fe41596271f344f3a2d78a84237",
+    "styles.css": "9467ef3622cd1137ce5a0148e16de23b9f5be87bc8c204fb6050c48f8f29994d"
+  }
+}

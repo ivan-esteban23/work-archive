@@ -1,0 +1,24 @@
+{
+  "repo": "scambier/obsidian-omnisearch",
+  "release": "1.31.0",
+  "url": "https://github.com/scambier/obsidian-omnisearch/releases/tag/1.31.0",
+  "manifest": {
+    "id": "omnisearch",
+    "name": "Omnisearch",
+    "version": "1.31.0",
+    "minAppVersion": "1.13.3",
+    "description": "A search engine that just works.",
+    "author": "Simon Cambier",
+    "authorUrl": "https://scambier.xyz",
+    "fundingUrl": {
+      "Github": "https://github.com/sponsors/scambier",
+      "Ko-fi": "https://ko-fi.com/scambier"
+    },
+    "isDesktopOnly": false
+  },
+  "files": {
+    "manifest.json": "26b1ffc250b1d90605f60c132f783e3148dd399e5baf5862040671d86294bc85",
+    "main.js": "9f2456705d0840f3cccf62a8e99a6fdaf8901939936e44d4dd27fc6b2d522f31",
+    "styles.css": "c6a56b1a18ff867f12ebbb3a139060a249704281e1b449003ff487969621a2e6"
+  }
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "obsidian-map-view",
+    "version": "6.1.4",
+    "action": "preserved"
+  },
+  {
+    "id": "obsidian-local-images-plus",
+    "version": "0.16.6",
+    "action": "preserved"
+  },
+  {
+    "id": "obsidian-meta-bind-plugin",
+    "version": "1.5.1",
+    "action": "preserved"
+  },
+  {
+    "id": "omnisearch",
+    "version": "1.31.0",
+    "action": "preserved"
+  },
+  {
+    "id": "pdf-plus",
+    "version": "0.40.31",
+    "action": "preserved"
+  },
+  {
+    "id": "obsidian-spaced-repetition",
+    "version": "1.15.4",
+    "action": "preserved"
+  },
+  {
+    "id": "obsidian-tracker",
+    "version": "1.19.0",
+    "action": "preserved"
+  },
+  {
+    "id": "quickadd",
+    "version": "2.31.0",
+    "action": "preserved"
+  },
+  {
+    "id": "templater-obsidian",
+    "version": "2.26.0",
+    "action": "preserved"
+  },
+  {
+    "id": "obsidian-tasks-plugin",
+    "version": "8.5.0",
+    "action": "preserved"
+  },
+  {
+    "id": "calendar",
+    "version": "1.5.10",
+    "action": "preserved"
+  },
+  {
+    "id": "table-editor-obsidian",
+    "version": "0.23.2",
+    "action": "preserved"
+  },
+  {
+    "id": "tag-wrangler",
+    "version": "0.6.5",
+    "action": "preserved"
+  },
+  {
+    "id": "dataview",
+    "version": "0.5.68",
+    "action": "preserved"
+  },
+  {
+    "id": "obsidian-minimal-settings",
+    "version": "9.0.0",
+    "action": "preserved"
+  },
+  {
+    "id": "obsidian-style-settings",
+    "version": "1.0.9",
+    "action": "preserved"
+  },
+  {
+    "id": "obsidian-excalidraw-plugin",
+    "repo": "zsviczian/obsidian-excalidraw-plugin",
+    "version": "2.29.0",
+    "minAppVersion": "1.8.7",
+    "tag": "2.29.0",
+    "action": "staged",
+    "sha256": {
+      "manifest.json": "4880b885c50643ef848d31cea829776ca2e96747353aee334d71e875f79d31c0",
+      "main.js": "4da2084a4eafe7d328484fa5742004b9fb990346c4c84fde924b885a5ecc1c17",
+      "styles.css": "173e9c161a01c53b3c173344e023de4d327fd0658e476961b46b0e6a93117ded"
+    }
+  },
+  {
+    "id": "obsidian-linter",
+    "repo": "platers/obsidian-linter",
+    "version": "1.34.1",
+    "minAppVersion": "1.13.0",
+    "tag": "1.34.1",
+    "action": "staged",
+    "sha256": {
+      "manifest.json": "796d0c47d50d1c56c53ce604da45e5674763e7cd57fd5fa1ccc1a2d31fef4e91",
+      "main.js": "b3134716933daa397214aa94ce019e1e27db8054621dcea87bdbe91ff5acae19",
+      "styles.css": "aeda3a668070de1e48650d1613a96bd018e0b7b3aa5fabdc85263589f1198634"
+    }
+  },
+  {
+    "id": "note-toolbar",
+    "repo": "chrisgurney/obsidian-note-toolbar",
+    "version": "1.35.16",
+    "minAppVersion": "1.11.0",
+    "tag": "1.35.16",
+    "action": "staged",
+    "sha256": {
+      "manifest.json": "d5829c4c53f264664b257cb7b084e5be38e755cc75beaba9c97c66c46ee24f67",
+      "main.js": "081887faa5a7cc3e47142f6a26fcb986555d13cd1ff6b73964e8683a8c34a1de",
+      "styles.css": "140e1fca9d538f77b8b0ffa8374e50aa179884c2ddea63cbd4f90f7856545894"
+    }
+  },
+  {
+    "id": "periodic-notes",
+    "repo": "liamcain/obsidian-periodic-notes",
+    "version": "0.0.17",
+    "minAppVersion": "0.10.11",
+    "tag": "1.0.0-beta.3",
+    "action": "staged",
+    "sha256": {
+      "manifest.json": "bda29323f75d3b3fcbda489335825b97fe4b574914d04635e9a7e67f2414049c",
+      "main.js": "934ca94359b6a4b9f02093d4a44fa59654c5237b31cf02d7b982c58168851bb1",
+      "styles.css": "ff2c00b5ee79d18d02e7a8f48cb2e6512c912f75f88ee053d94668c90a96b39a"
+    }
+  }
+]

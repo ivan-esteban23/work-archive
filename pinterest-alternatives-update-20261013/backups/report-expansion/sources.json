@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Cosmos",
+    "category": "Collect & organize",
+    "region": "Global",
+    "url": "https://www.cosmos.so/",
+    "use": "Visual discovery, color-led searches and project collections. Start here for a Pinterest-like browsing experience.",
+    "access": "Account for collecting. Offers controls to show, blur or hide images flagged as AI-generated.",
+    "verification_url": "https://www.cosmos.so/"
+  },
+  {
+    "name": "Are.na",
+    "category": "Collect & organize",
+    "region": "Global",
+    "url": "https://www.are.na/",
+    "use": "Connect images, text and links in channels; useful for concept research with written context.",
+    "access": "Account for saving. Channels connect ideas; original image provenance still needs checking.",
+    "verification_url": "https://www.are.na/about"
+  },
+  {
+    "name": "Raindrop.io",
+    "category": "Collect & organize",
+    "region": "Global",
+    "url": "https://raindrop.io/",
+    "use": "Keep source URLs organized by collection and tag, alongside your credit records.",
+    "access": "Free and paid plans. Check plan requirements for preservation and advanced features.",
+    "verification_url": "https://raindrop.io/"
+  },
+  {
+    "name": "Milanote",
+    "category": "Collect & organize",
+    "region": "Global",
+    "url": "https://milanote.com/",
+    "use": "Arrange images, notes and links into an editorial moodboard or shoot brief.",
+    "access": "Account required for boards. Check current limits before committing a large project.",
+    "verification_url": "https://milanote.com/"
+  },
+  {
+    "name": "FigJam",
+    "category": "Collect & organize",
+    "region": "Global",
+    "url": "https://www.figma.com/figjam/",
+    "use": "Build a shared canvas for image grouping, annotations and collaborative decisions.",
+    "access": "Figma account for editing; a whiteboard rather than a fashion discovery feed.",
+    "verification_url": "https://www.figma.com/figjam/"
+  },
+  {
+    "name": "PureRef",
+    "category": "Collect & organize",
+    "region": "Global",
+    "url": "https://www.pureref.com/",
+    "use": "Arrange your own reference images on a focused desktop canvas. Recommended local option for this Linux setup.",
+    "access": "Supports Windows, macOS and Linux. Provides a workspace for references rather than a source catalogue.",
+    "verification_url": "https://www.pureref.com/"
+  },
+  {
+    "name": "Eagle",
+    "category": "Collect & organize",
+    "region": "Global",
+    "url": "https://en.eagle.cool/",
+    "use": "Manage a large local collection with tags, folders and visual search.",
+    "access": "Official downloads list Windows and macOS; no native Linux download was listed.",
+    "verification_url": "https://en.eagle.cool/"
+  },
+  {
+    "name": "Linkwarden",
+    "category": "Collect & organize",
+    "region": "Global",
+    "url": "https://linkwarden.app/",
+    "use": "Collect links and preserve pages; useful when the underlying article may change.",
+    "access": "Hosted service or self-hosting. Login pages and dynamic media may need special handling; verify each saved page.",
+    "verification_url": "https://linkwarden.app/"
+  },
+  {
+    "name": "Shaarli",
+    "category": "Collect & organize",
+    "region": "Global",
+    "url": "https://github.com/shaarli/Shaarli",
+    "use": "Keep a lightweight, self-hosted bookmark archive with descriptions and tags.",
+    "access": "Technical setup required. A link archive rather than a polished image discovery platform.",
+    "verification_url": "https://github.com/shaarli/Shaarli"
+  },
+  {
+    "name": "FASHIONSNAP",
+    "category": "Fashion references",
+    "region": "Japan",
+    "url": "https://www.fashionsnap.com/streetstyle/",
+    "use": "Study documented street outfits, layering and brand details across Tokyo and other Japanese cities.",
+    "access": "Japanese interface. Use snap dates and photographer credits when selecting references.",
+    "verification_url": "https://www.fashionsnap.com/streetstyle/"
+  },
+  {
+    "name": "Tokyo Fashion",
+    "category": "Fashion references",
+    "region": "Japan",
+    "url": "https://tokyofashion.com/photos/",
+    "use": "Explore Harajuku, Shibuya and Japanese subculture silhouettes through street photography.",
+    "access": "Includes archival material. Check each photo’s date before describing it as a 2025–2026 trend.",
+    "verification_url": "https://tokyofashion.com/photos/"
+  },
+  {
+    "name": "MUSINSA Snap",
+    "category": "Fashion references",
+    "region": "South Korea",
+    "url": "https://www.musinsa.com/snap/main/recommend",
+    "use": "Compare Korean daily outfits using the current Snap interface and styling categories.",
+    "access": "Korean interface with dynamic content. Commercial and creator styling is not a representative population sample.",
+    "verification_url": "https://www.musinsa.com/snap/main/recommend"
+  },
+  {
+    "name": "Vogue Korea",
+    "category": "Fashion references",
+    "region": "South Korea",
+    "url": "https://www.vogue.co.kr/",
+    "use": "Research Korean fashion editorial direction, styling and local fashion coverage.",
+    "access": "Korean-language publication. Separate editorials and celebrity looks from everyday streetwear.",
+    "verification_url": "https://www.vogue.co.kr/"
+  },
+  {
+    "name": "Vogue China",
+    "category": "Fashion references",
+    "region": "China",
+    "url": "https://www.vogue.com.cn/",
+    "use": "Explore Chinese fashion editorials, designer coverage and magazine art direction.",
+    "access": "Chinese-language publication. Save the specific article, date and photo credit.",
+    "verification_url": "https://www.vogue.com.cn/"
+  },
+  {
+    "name": "Dewu / 得物",
+    "category": "Fashion references",
+    "region": "China",
+    "url": "https://www.dewu.com/",
+    "use": "Explore a Chinese commerce-and-community platform for streetwear and outfit ideas.",
+    "access": "Official site confirms a community entry point and app downloads; full community browsing was not tested.",
+    "verification_url": "https://www.dewu.com/"
+  },
+  {
+    "name": "Xiaohongshu / 小红书",
+    "category": "Fashion references",
+    "region": "China",
+    "url": "https://www.xiaohongshu.com/",
+    "use": "Search creator styling and garment vocabulary such as 新中式穿搭 and 马面裙穿搭.",
+    "access": "Retained from the original shortlist. Automated access failed; login requirements and current search features were not verified.",
+    "verification_url": "https://www.xiaohongshu.com/"
+  },
+  {
+    "name": "Jing Daily",
+    "category": "Fashion references",
+    "region": "China",
+    "url": "https://jingdaily.com/",
+    "use": "Add reporting and market context to a China-focused visual board.",
+    "access": "Some reporting is subscription content. An article’s trend claim needs its own evidence.",
+    "verification_url": "https://jingdaily.com/"
+  },
+  {
+    "name": "Vogue Runway",
+    "category": "Fashion references",
+    "region": "Global",
+    "url": "https://www.vogue.com/fashion-shows",
+    "use": "Compare designer collections by season, garment shape and styling.",
+    "access": "Subscription prompts appear. Runway images describe collections, not everyday adoption.",
+    "verification_url": "https://www.vogue.com/fashion-shows"
+  },
+  {
+    "name": "Tagwalk",
+    "category": "Fashion references",
+    "region": "Global",
+    "url": "https://www.tag-walk.com/en/",
+    "use": "Research runway looks, collections and styling vocabulary; useful for comparing silhouettes.",
+    "access": "Account and premium sections exist. Check feature access; reports and runway signals have a different scope from street fashion.",
+    "verification_url": "https://www.tag-walk.com/en/"
+  },
+  {
+    "name": "nss magazine",
+    "category": "Fashion references",
+    "region": "Global",
+    "url": "https://www.nssmag.com/en/fashion",
+    "use": "Explore fashion-week street photography, culture and editorial references.",
+    "access": "Open the dated gallery, not just the feed. Coverage varies by event and city.",
+    "verification_url": "https://www.nssmag.com/en/fashion"
+  },
+  {
+    "name": "Dazed",
+    "category": "Fashion references",
+    "region": "Global",
+    "url": "https://www.dazeddigital.com/fashion",
+    "use": "Study experimental styling, youth culture and fashion editorial treatments.",
+    "access": "Distinguish editorial, sponsored and documentary material.",
+    "verification_url": "https://www.dazeddigital.com/fashion"
+  },
+  {
+    "name": "SHOWstudio",
+    "category": "Fashion references",
+    "region": "Global",
+    "url": "https://www.showstudio.com/",
+    "use": "Study fashion film, performance and illustration when developing motion or shoot direction.",
+    "access": "Main site blocked automated retrieval. Official gallery page supports the fashion-film and illustration focus; playback was not tested.",
+    "verification_url": "https://shop.showstudio.com/pages/about-show-gallery"
+  },
+  {
+    "name": "Vestiaire Collective",
+    "category": "Fashion references",
+    "region": "Global",
+    "url": "https://www.vestiairecollective.com/",
+    "use": "Inspect resale listings for garment details, construction and vintage styling clues.",
+    "access": "Seller descriptions and dates need cross-checking; inventory changes and photos are not a trend sample.",
+    "verification_url": "https://www.vestiairecollective.com/"
+  },
+  {
+    "name": "Designspiration",
+    "category": "Design & art direction",
+    "region": "Global",
+    "url": "https://www.designspiration.com/",
+    "use": "Explore visual ideas for palette, typography and photographic treatments.",
+    "access": "JavaScript required; saving uses an account. Trace collected images to their original creator.",
+    "verification_url": "https://www.designspiration.com/"
+  },
+  {
+    "name": "Behance",
+    "category": "Design & art direction",
+    "region": "Global",
+    "url": "https://www.behance.net/",
+    "use": "Study creative portfolios for magazine grids, branding, photography and presentation systems.",
+    "access": "Official help page verified; homepage retrieval failed. Projects demonstrate an author’s design approach.",
+    "verification_url": "https://help.behance.net/hc/en-us/articles/204483894-What-is-Behance"
+  },
+  {
+    "name": "It’s Nice That",
+    "category": "Design & art direction",
+    "region": "Global",
+    "url": "https://www.itsnicethat.com/",
+    "use": "Find designer and photographer stories to inform editorial typography and visual direction.",
+    "access": "Use the article’s named studio or artist as the next research step.",
+    "verification_url": "https://www.itsnicethat.com/"
+  },
+  {
+    "name": "V&A Fashion",
+    "category": "Archives & textiles",
+    "region": "Global",
+    "url": "https://www.vam.ac.uk/collections/fashion",
+    "use": "Research historical garment forms, construction and collection context.",
+    "access": "Historical collection evidence, not a current-trend feed. Check item dates and image-use terms.",
+    "verification_url": "https://www.vam.ac.uk/collections/fashion"
+  },
+  {
+    "name": "Europeana Textile",
+    "category": "Archives & textiles",
+    "region": "Global",
+    "url": "https://www.europeana.eu/en/collections/topic/55-textile",
+    "use": "Explore textile and dress references across European cultural collections.",
+    "access": "Rights and metadata vary by item and contributing institution. Use the individual record.",
+    "verification_url": "https://www.europeana.eu/en/collections/topic/55-textile"
+  }
+]

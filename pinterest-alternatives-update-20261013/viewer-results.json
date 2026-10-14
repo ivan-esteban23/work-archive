@@ -1,0 +1,80 @@
+{
+  "all": 52,
+  "title": "Pinterest Alternatives — Visual Research and Moodboarding",
+  "search": 1,
+  "japan": 4,
+  "collect": 12,
+  "empty": true,
+  "reset": 52,
+  "horizontalOverflow": false,
+  "images": {
+    "logos": 52,
+    "broken": []
+  },
+  "printButtons": {
+    "buttons": 1,
+    "calls": 1
+  },
+  "sharing": {
+    "buttons": 52,
+    "sourceCopied": true,
+    "publicURL": true,
+    "params": true,
+    "restored": true,
+    "fallback": true
+  },
+  "identity": {
+    "icon": true,
+    "footerLinks": true,
+    "footer": true,
+    "themeColors": 2
+  },
+  "cardDetails": {
+    "count": 52,
+    "closed": true,
+    "opens": true,
+    "printExpanded": true,
+    "restored": true
+  },
+  "fonts": {
+    "serif": true,
+    "sans": true,
+    "faces": [
+      {
+        "family": "Instrument Serif",
+        "status": "loaded"
+      },
+      {
+        "family": "Source Sans 3",
+        "status": "loaded"
+      }
+    ]
+  },
+  "finish": {
+    "reviews": 52,
+    "printExpanded": true,
+    "printRestored": true,
+    "skipFocused": true,
+    "focusVisible": false
+  },
+  "mobile": {
+    "width": 390,
+    "overflow": false,
+    "columns": 1,
+    "compact": true
+  },
+  "navigation": {
+    "labels": 52,
+    "initial": 12,
+    "searchCount": 1,
+    "reset": true,
+    "sticky": true
+  },
+  "editorial": {
+    "picks": 8,
+    "routes": 4,
+    "opened": true,
+    "closed": true,
+    "links": true
+  }
+}

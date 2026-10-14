@@ -1,0 +1,105 @@
+# Hardcore & Punk — ChatGPT Project Prompts
+
+Copy a prompt into this separate project and replace bracketed fields.
+
+## Research add-on
+
+```text
+Browse as of today and open sources. Verify exact recording identity, original year, format, edition, release status, and scope. Cite near claims; separate fact, promotional language, interpretation, editorial recommendation, and my reactions. Do not invent listening, scores, or consensus.
+```
+
+## 1. Start the project
+
+```text
+Read this project’s context and instructions. Help me explore punk rock and hardcore punk through history, styles, classics, current discoveries, and regional scenes. Explain what has been verified and what is still a research plan. Offer a chronological path and a sound-based path, then suggest three contrasting starter recordings. Include short releases when appropriate and identify their format. Ask what I already enjoy without assuming prior listening or scores.
+```
+
+## 2. History in chapters
+
+```text
+Create a sourced chapter plan for punk rock and hardcore punk from relevant precursors to today. Compare early regional developments, later hardcore paths, and international DIY networks. Begin the first chapter. Distinguish historical evidence from disputed origins and do not present an outline as the whole history.
+```
+
+## 3. Map sounds and neighbors
+
+```text
+Keep punk rock and hardcore punk central. Explore melodic hardcore, D-beat, crust, anarcho-punk, street punk/Oi!, youth crew, and regional scenes as distinct research paths, not a universal taxonomy. Treat post-hardcore, emo, skate punk, and pop-punk as labeled related explorations. Crossover thrash, metallic hardcore, metalcore, and grindcore require explicit inclusion for rankings and focused playlists; do not assume all modern uses of “hardcore” mean the same sound. Hardcore electronic dance music is outside this project. Classify recordings rather than assigning an entire catalog one label. Distinguish musical style, scene, political tradition, and personal lifestyle; straight edge is not a synonym for all hardcore. Explain contested terminology without gatekeeping. Give sourced recording examples with exact titles, original years, and formats. Explain practical listening cues and contested boundaries.
+```
+
+## 4. Classics beyond full-lengths
+
+```text
+Recommend five classic or overlooked punk/hardcore recordings for [era/style]. Include EPs or singles when appropriate, clearly labeling formats. Verify original years and editions. Explain historical significance separately from musical appeal and give one listening question per recording.
+```
+
+## 5. DIY, labels, and zines
+
+```text
+Research [punk/hardcore scene] through labels, zines, venues, all-ages shows, distribution, and community practices. Use archives and participant accounts with context. Connect this history to verified recordings without romanticizing a single scene or assuming shared politics.
+```
+
+## 6. Hardcore and metal boundaries
+
+```text
+Compare punk-rooted hardcore, metallic hardcore, crossover thrash, and metalcore through verified contrasting recordings. Separate shared audiences from musical classification. Explain disputed terminology by era and scene, and ask which branches I want included in this project’s playlists and rankings.
+```
+
+## 7. Regional scene
+
+```text
+Research punk and hardcore in [country/region, such as Chile, Latin America, Japan, or the UK]. Verify local histories, labels, recordings, and current artists. Show gaps and regional differences. Recommend a manageable batch including short releases if relevant.
+```
+
+## 8. Rank one year
+
+```text
+Develop an editorial top [five/ten] punk/hardcore studio full-lengths for [year]. State included branches and verify a candidate pool before ranking. Prepare a separate short-release list if requested; do not mix EPs, demos, splits, or reissues into the album pool. Distinguish editorial recommendations, named published lists, and my personal favorites.
+```
+
+## 9. Build an annual archive
+
+```text
+Research [year range] one year at a time. Track original studio albums and short releases separately, preserving format and edition details. Record sources, disputed eligibility, omissions, and unfinished years. Do not pad weak pools or imply an unfilled archive is complete.
+```
+
+## 10. Current releases
+
+```text
+Research punk/hardcore releases from the actual current calendar year through today. Open artist/label sources; verify original dates and release status. Separate released full-lengths, EPs/singles/demos/splits, upcoming announcements, live records, compilations, and reissues. Recommend three priorities with reasons; state included styles and the research cutoff.
+```
+
+## 11. Emerging artists
+
+```text
+Find five debut/early-discography punk/hardcore artists for [region/style/year]. Verify release history and formation details where available, mention earlier demos/EPs and experienced-member projects, and distinguish emerging from new to me. Give entry recordings and attributed independent appraisal when available; use fewer if evidence is insufficient.
+```
+
+## 12. Compare recordings
+
+```text
+Compare [recording A] and [recording B] on songwriting, pace, riffs, rhythm, vocals, hooks, arrangement, production, and context. Verify original years, formats, and editions. Use sources and my feedback without claiming unsupported audio access. Explain why each is worth trying.
+```
+
+## 13. Record my feedback
+
+```text
+I listened to [artist/recording/edition], [full listen/sample]. My reaction: [feedback]. Optional date and score: [details]. Preserve my wording in this project’s journal and leave missing fields blank. Recommend two close matches and one contrasting experiment; ask one useful follow-up question.
+```
+
+## 14. Listening route
+
+```text
+Plan a [number]-recording or [length]-track punk/hardcore listening route for [era/style/theme]. Include short releases where useful, label neighbors, verify identities and original years, and explain the progression. Give direct links or clearly labeled searches. Do not claim playback or saves without requested, successful actions.
+```
+
+## 15. Continue and refresh notes
+
+```text
+Summarize verified research, editorial recommendations, my explicit feedback and decisions, and unresolved gaps. Prepare named Markdown updates for Hardcore & Punk notes and identify uploaded snapshots to replace. Preserve other music projects and do not claim automatic synchronization.
+```
+
+Hardcore & Punk — Start Here · Music Prompt Library
+
+## Spotify playlists and discovery
+
+Seven Hardcore & Punk Spotify prompts

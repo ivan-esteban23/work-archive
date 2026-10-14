@@ -1,0 +1,3888 @@
+{
+  "kyoto-tea": {
+    "ttd_data": null,
+    "attractions_data": null,
+    "tour_experience_data": [
+      {
+        "title": "Arashiyama Bamboo Forest & Nara Park Deer & Fushimi Inari Shrine Torii Gate Day Tour (Departing from Osaka/Kyoto)",
+        "location": "35.0168802,135.6712906",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.6",
+          "max_star": "5",
+          "text": null,
+          "count": "1.0K+ reviews",
+          "booked": "20K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 89.69",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 145133,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "* Tickets for the 38th Naniwa Yodogawa Fireworks Festival are now on sale! 🎟️ [Click here to buy tickets](https://www.klook.com/zh-TW/activity/234115-the-38th-naniwa-yodogawa-fireworks-festival/?spm=LanguageCurrencySelectionPopup.MoreLanguage_LIST&clickId=5742ad36f3)\n* 🎨 Thoughtful Bonus | Get off in Kyoto and visit teamLab Biovortex along the way\nAfter the tour, if you get off in Kyoto, you can head directly to Kyoto's newest and largest immersive digital art museum, \"teamLab Biovortex\", and personally experience the futuristic art world of sound and light interaction! 🎟️ [[Click here to buy tickets](https://www.klook.com/zh-TW/activity/167098-teamlab-kyoto/?spm=LanguageCurrencySelectionPopup.MoreLanguage_LIST&clickId=5ba89ba660)]\n⏰ Friendly Reminder: teamLab is open until 21:00 (last entry at 19:30). Visiting after getting off the bus allows for about 1.5 to 2 hours of exploration. If you want to fully experience it (officially recommended 2-3 hours), it is advised to purchase tickets in advance and arrange ample time.\n* Interact closely with leisurely strolling Nara deer in Nara Park and experience the unique joy of feeding them\n* Walk through the thousands of vermilion torii gates at Fushimi Inari Taisha and explore Kyoto's most iconic red torii gate secret spot\n* Stroll along the Arashiyama bamboo groves and enjoy the Kyoto scenery where the Togetsukyo Bridge intertwines with mountains and waters\n* Explore classic attractions in Kyoto and Nara, experiencing historical culture and natural beauty",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/n7xayqp3fhlnk5ann3ce.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "145133",
+            "request_id": "e3ce029e-093b-46eb-9225-bcfd618269e8"
+          },
+          "object_id": "100_145133"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/145133-arashiyama-nara-park-fushimi-inari-taisha-tour-from-osaka-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=e3ce029e-093b-46eb-9225-bcfd618269e8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "【Kyoto & Nara & Uji One-Day Tour】Nara Park Cute Deer & Fushimi Inari-taisha Shrine Senbon Torii & World Heritage Todai-ji Temple & Byodo-in Temple & Uji Matcha Food Street & Uji River & Uji Park & Asagiri Bridge One-Day Tour",
+        "location": "34.685109,135.804802",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "1.1K+ reviews",
+          "booked": "10K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 77.59",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 142440,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Nara",
+        "act_summary": "🌈A cross-city journey, enjoying the charm of three cities in one day: starting from Osaka, directly to Kyoto, Nara, and Uji, traveling through Japan's three major historical and cultural cities in one day, experiencing the unique customs of different regions 🎏~\n\n🦌Nara Park deer interaction experience: Get up close with thousands of wild cute deer strolling leisurely, feel the beautiful moments of nature and harmony, and leave unforgettable memories 💕~\n\n🏰Tōdai-ji Temple, a World Heritage Site, a shocking pilgrimage: Visit the Great Buddha Hall, the largest existing wooden building in Japan, and its iconic giant bronze Buddha statue, Vairocana Buddha 🙏. Feel the solemnity and grandeur of the millennium-old temple, and appreciate the infinite charm of Buddhist architectural art and the wisdom of ancient craftsmen~\n\n🍵Uji Matcha culture immersive experience: Explore the origin of matcha, stroll along the Uji River, visit Byōdō-in Temple, taste authentic matcha desserts on Uji Matcha Food Street 🍰, and experience the leisurely charm of traditional Japanese tea ceremony 🌿~\n\n🏯Fushimi Inari Shrine, a sacred place for praying for wealth 🙏, don't forget to pray for a smooth career and a journey of good luck here~\n\n💰 Check in at the popular red \"Senbon Torii\" on INS ⛩️, stroll through the endless torii gate corridor, and feel the mysterious atmosphere~",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Nara",
+        "cover_url": "https://res.klook.com/image/upload/activities/vnuvqx6ruzxsddwl7aag.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "142440",
+            "request_id": "e3ce029e-093b-46eb-9225-bcfd618269e8"
+          },
+          "object_id": "100_142440"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/142440-kyoto-nara-uji-world-heritage-scenic-explore-one-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=e3ce029e-093b-46eb-9225-bcfd618269e8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Nara & Uji Day Trip: Nara Park & Todai-ji Temple & Uji & Genji no Yu Onsen | Depart from Osaka",
+        "location": "34.685047,135.843012",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.5",
+          "max_star": "5",
+          "text": null,
+          "count": "318 reviews",
+          "booked": "4K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 64.05",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 89617,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Nara",
+        "act_summary": "* Interact closely with adorable deer in Nara Park and feel the warm and harmonious moment of coexistence between humans and nature.\n* Visit Todai-ji Temple and Kasuga Taisha Shrine, both World Heritage sites, to appreciate the solemn atmosphere and profound heritage of Japan's ancient capital.\n* Stroll along the foot of Mount Wakakusa and enjoy a panoramic view of Nara, experiencing the unique charm of the ancient city's tranquility and serenity.\n* Visit Byodo-in Temple and The Tale of Genji Museum in Uji to step into the world of art and literature of the Heian period.\n* Wander along Matcha Street, taste authentic matcha desserts and cuisine, and indulge in the rich tea fragrance and thousand-year-old tea culture.\n* You can choose to go to Genji no Yu to soak in a natural hot spring, relieve fatigue, and enjoy an authentic Japanese healing experience.\n* The one-day itinerary combines nature, culture, cuisine, and hot springs, bringing a fulfilling and relaxing ancient capital experience.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Nara",
+        "cover_url": "https://res.klook.com/image/upload/activities/owkg73nj6t3lk6whguyd.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "89617",
+            "request_id": "e3ce029e-093b-46eb-9225-bcfd618269e8"
+          },
+          "object_id": "100_89617"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/89617-nara-uji-day-tour-osaka/?utm_source=openai&utm_medium=platform-openai&utm_term=e3ce029e-093b-46eb-9225-bcfd618269e8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto Nara Arashiyama Day Trip | Nara Park Deer Feeding & Fushimi Inari Shrine's Thousand Torii Gates & Arashiyama Scenic Railway & Bamboo Forest Path | Kyoto or Osaka Drop-off",
+        "location": "35.009449,135.666773",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "324 reviews",
+          "booked": "3K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 64.05",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 135640,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "* 📸Dance with deer in Nara Park, explore Todai-ji Temple: A new Kyoto day trip experience\n*  Unveiling Kyoto's hidden gem! Fushimi Chiikawa Main Store, take you to experience different Japanese-style trinkets🛍️\n*  Stroll through Arashiyama Sagano, the serene bamboo forest path is the tranquil paradise that urbanites dream of🧘‍♀️\n* 👣The secret garden of Arashiyama Station, wash away your fatigue and regain inner peace in the foot bath onsen\n* 🎨Yuzen Korin Day Trip: Experience the colorful Kimono, as if traveling back to that elegant era\n* Special Gift: Deer crackers - 1 serving per group, 2 servings for groups of 4-6 people, adding interactive fun",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/tmpb1ow0u56hjosnjexw.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "135640",
+            "request_id": "e3ce029e-093b-46eb-9225-bcfd618269e8"
+          },
+          "object_id": "100_135640"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/135640-kyoto-nara-arashiyama-day-trip-nara-park-deer-feeding-fushimi-ina/?utm_source=openai&utm_medium=platform-openai&utm_term=e3ce029e-093b-46eb-9225-bcfd618269e8",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "food_data": null,
+    "events_data": null,
+    "activity_data": [
+      {
+        "title": "Arashiyama Bamboo Forest & Nara Park Deer & Fushimi Inari Shrine Torii Gate Day Tour (Departing from Osaka/Kyoto)",
+        "location": "35.0168802,135.6712906",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.6",
+          "max_star": "5",
+          "text": null,
+          "count": "1.0K+ reviews",
+          "booked": "20K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 89.69",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 145133,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "* Tickets for the 38th Naniwa Yodogawa Fireworks Festival are now on sale! 🎟️ [Click here to buy tickets](https://www.klook.com/zh-TW/activity/234115-the-38th-naniwa-yodogawa-fireworks-festival/?spm=LanguageCurrencySelectionPopup.MoreLanguage_LIST&clickId=5742ad36f3)\n* 🎨 Thoughtful Bonus | Get off in Kyoto and visit teamLab Biovortex along the way\nAfter the tour, if you get off in Kyoto, you can head directly to Kyoto's newest and largest immersive digital art museum, \"teamLab Biovortex\", and personally experience the futuristic art world of sound and light interaction! 🎟️ [[Click here to buy tickets](https://www.klook.com/zh-TW/activity/167098-teamlab-kyoto/?spm=LanguageCurrencySelectionPopup.MoreLanguage_LIST&clickId=5ba89ba660)]\n⏰ Friendly Reminder: teamLab is open until 21:00 (last entry at 19:30). Visiting after getting off the bus allows for about 1.5 to 2 hours of exploration. If you want to fully experience it (officially recommended 2-3 hours), it is advised to purchase tickets in advance and arrange ample time.\n* Interact closely with leisurely strolling Nara deer in Nara Park and experience the unique joy of feeding them\n* Walk through the thousands of vermilion torii gates at Fushimi Inari Taisha and explore Kyoto's most iconic red torii gate secret spot\n* Stroll along the Arashiyama bamboo groves and enjoy the Kyoto scenery where the Togetsukyo Bridge intertwines with mountains and waters\n* Explore classic attractions in Kyoto and Nara, experiencing historical culture and natural beauty",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/n7xayqp3fhlnk5ann3ce.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "145133",
+            "request_id": "e3ce029e-093b-46eb-9225-bcfd618269e8"
+          },
+          "object_id": "100_145133"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/145133-arashiyama-nara-park-fushimi-inari-taisha-tour-from-osaka-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=e3ce029e-093b-46eb-9225-bcfd618269e8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "【Kyoto & Nara & Uji One-Day Tour】Nara Park Cute Deer & Fushimi Inari-taisha Shrine Senbon Torii & World Heritage Todai-ji Temple & Byodo-in Temple & Uji Matcha Food Street & Uji River & Uji Park & Asagiri Bridge One-Day Tour",
+        "location": "34.685109,135.804802",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "1.1K+ reviews",
+          "booked": "10K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 77.59",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 142440,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Nara",
+        "act_summary": "🌈A cross-city journey, enjoying the charm of three cities in one day: starting from Osaka, directly to Kyoto, Nara, and Uji, traveling through Japan's three major historical and cultural cities in one day, experiencing the unique customs of different regions 🎏~\n\n🦌Nara Park deer interaction experience: Get up close with thousands of wild cute deer strolling leisurely, feel the beautiful moments of nature and harmony, and leave unforgettable memories 💕~\n\n🏰Tōdai-ji Temple, a World Heritage Site, a shocking pilgrimage: Visit the Great Buddha Hall, the largest existing wooden building in Japan, and its iconic giant bronze Buddha statue, Vairocana Buddha 🙏. Feel the solemnity and grandeur of the millennium-old temple, and appreciate the infinite charm of Buddhist architectural art and the wisdom of ancient craftsmen~\n\n🍵Uji Matcha culture immersive experience: Explore the origin of matcha, stroll along the Uji River, visit Byōdō-in Temple, taste authentic matcha desserts on Uji Matcha Food Street 🍰, and experience the leisurely charm of traditional Japanese tea ceremony 🌿~\n\n🏯Fushimi Inari Shrine, a sacred place for praying for wealth 🙏, don't forget to pray for a smooth career and a journey of good luck here~\n\n💰 Check in at the popular red \"Senbon Torii\" on INS ⛩️, stroll through the endless torii gate corridor, and feel the mysterious atmosphere~",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Nara",
+        "cover_url": "https://res.klook.com/image/upload/activities/vnuvqx6ruzxsddwl7aag.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "142440",
+            "request_id": "e3ce029e-093b-46eb-9225-bcfd618269e8"
+          },
+          "object_id": "100_142440"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/142440-kyoto-nara-uji-world-heritage-scenic-explore-one-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=e3ce029e-093b-46eb-9225-bcfd618269e8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Nara & Uji Day Trip: Nara Park & Todai-ji Temple & Uji & Genji no Yu Onsen | Depart from Osaka",
+        "location": "34.685047,135.843012",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.5",
+          "max_star": "5",
+          "text": null,
+          "count": "318 reviews",
+          "booked": "4K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 64.05",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 89617,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Nara",
+        "act_summary": "* Interact closely with adorable deer in Nara Park and feel the warm and harmonious moment of coexistence between humans and nature.\n* Visit Todai-ji Temple and Kasuga Taisha Shrine, both World Heritage sites, to appreciate the solemn atmosphere and profound heritage of Japan's ancient capital.\n* Stroll along the foot of Mount Wakakusa and enjoy a panoramic view of Nara, experiencing the unique charm of the ancient city's tranquility and serenity.\n* Visit Byodo-in Temple and The Tale of Genji Museum in Uji to step into the world of art and literature of the Heian period.\n* Wander along Matcha Street, taste authentic matcha desserts and cuisine, and indulge in the rich tea fragrance and thousand-year-old tea culture.\n* You can choose to go to Genji no Yu to soak in a natural hot spring, relieve fatigue, and enjoy an authentic Japanese healing experience.\n* The one-day itinerary combines nature, culture, cuisine, and hot springs, bringing a fulfilling and relaxing ancient capital experience.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Nara",
+        "cover_url": "https://res.klook.com/image/upload/activities/owkg73nj6t3lk6whguyd.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "89617",
+            "request_id": "e3ce029e-093b-46eb-9225-bcfd618269e8"
+          },
+          "object_id": "100_89617"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/89617-nara-uji-day-tour-osaka/?utm_source=openai&utm_medium=platform-openai&utm_term=e3ce029e-093b-46eb-9225-bcfd618269e8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto Nara Arashiyama Day Trip | Nara Park Deer Feeding & Fushimi Inari Shrine's Thousand Torii Gates & Arashiyama Scenic Railway & Bamboo Forest Path | Kyoto or Osaka Drop-off",
+        "location": "35.009449,135.666773",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "324 reviews",
+          "booked": "3K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 64.05",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 135640,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "* 📸Dance with deer in Nara Park, explore Todai-ji Temple: A new Kyoto day trip experience\n*  Unveiling Kyoto's hidden gem! Fushimi Chiikawa Main Store, take you to experience different Japanese-style trinkets🛍️\n*  Stroll through Arashiyama Sagano, the serene bamboo forest path is the tranquil paradise that urbanites dream of🧘‍♀️\n* 👣The secret garden of Arashiyama Station, wash away your fatigue and regain inner peace in the foot bath onsen\n* 🎨Yuzen Korin Day Trip: Experience the colorful Kimono, as if traveling back to that elegant era\n* Special Gift: Deer crackers - 1 serving per group, 2 servings for groups of 4-6 people, adding interactive fun",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/tmpb1ow0u56hjosnjexw.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "135640",
+            "request_id": "e3ce029e-093b-46eb-9225-bcfd618269e8"
+          },
+          "object_id": "100_135640"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/135640-kyoto-nara-arashiyama-day-trip-nara-park-deer-feeding-fushimi-ina/?utm_source=openai&utm_medium=platform-openai&utm_term=e3ce029e-093b-46eb-9225-bcfd618269e8",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "search_handle": {
+      "language": "en_US",
+      "currency": "USD",
+      "userQuery": "Kyoto tea ceremony and hands-on matcha making experiences",
+      "newSearchIndex": {
+        "indexName": "search_vertical_ttd_v3_alias",
+        "leafCategoryIds": [
+          118,
+          146,
+          564,
+          514,
+          515,
+          475,
+          318,
+          511,
+          274,
+          517,
+          518,
+          519,
+          520,
+          123,
+          124,
+          125,
+          127,
+          128,
+          129,
+          130,
+          131,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          178,
+          340,
+          368,
+          418,
+          419,
+          479,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          522,
+          559,
+          577,
+          578,
+          579,
+          580,
+          581,
+          585,
+          629,
+          642,
+          644,
+          645,
+          646
+        ]
+      },
+      "productTags": [
+        "tea ceremony"
+      ],
+      "algoTagIds": [
+        "400007578"
+      ],
+      "algoTags": [],
+      "recognitionCategories": [],
+      "ttdTagIds": [],
+      "countryIds": [
+        1012
+      ],
+      "provinceIds": [
+        5938
+      ],
+      "cityIds": [],
+      "poiId": null,
+      "poiName": null,
+      "departureIds": null,
+      "departureType": null,
+      "lat": 0,
+      "lon": 0,
+      "radius": 10000,
+      "startDate": "2027-03-31",
+      "endDate": "2027-04-06",
+      "priceFrom": 0,
+      "priceTo": 99999999.99,
+      "budgetLevelTags": null,
+      "serviceUserGroupTags": null,
+      "dietaryPreferenceTags": null,
+      "serviceLangTags": null,
+      "serviceFiltersTags": null,
+      "durationTag": null,
+      "departureTimeTag": null,
+      "instantConfirm": null,
+      "sort": "most_relevant",
+      "srcCountryId": -1,
+      "srcCityId": -1,
+      "countryCode": "",
+      "offset": 0,
+      "size": 4,
+      "requestId": "e3ce029e-093b-46eb-9225-bcfd618269e8",
+      "hotelName": null,
+      "starLevel": null,
+      "reviewScore": null,
+      "hotelTagIds": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "roomNumber": 1,
+      "adultNum": 2,
+      "childNum": 0,
+      "districtAreaIds": null,
+      "placeIds": null
+    },
+    "search_meta": {
+      "match_type": "STRICT",
+      "selected_tier": 0,
+      "relaxations": [],
+      "sub_categories": {
+        "tour_experience": {
+          "match_type": "STRICT",
+          "selected_tier": 0,
+          "route": "GENERAL",
+          "attempts": 1,
+          "tier_funnel": [
+            {
+              "tier": 0,
+              "count": 40,
+              "cost_ms": 22
+            }
+          ],
+          "relaxations": []
+        }
+      }
+    },
+    "location": null
+  },
+  "uji": {
+    "ttd_data": null,
+    "attractions_data": null,
+    "tour_experience_data": [
+      {
+        "title": "Kyoto Kinkaku-ji, Kiyomizu-dera, and Uji One-Day Tour",
+        "location": "35.039787,135.7334596",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "2.3K+ reviews",
+          "booked": "20K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 74.75",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 122392,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "🌏English & Chinese tour guide, warm and friendly, rich in experience, taking you to explore Kyoto and Uji, enjoying the charm of the ancient capital and the land of matcha🗺️🍵\n\n🏛️World Heritage Tour: Explore Kinkaku-ji Temple✨, Kiyomizu-dera Temple💧, Byodo-in Temple⛩️, and experience Kyoto's profound historical heritage~\n\n🍜Taste the gourmet food around Kiyomizu-dera Temple and Uji matcha desserts🍵, satisfying your taste buds and experiencing authentic flavors~\n\n🏞️Admire the magnificent Kinkaku-ji Temple, Japan's oldest wooden structure Kiyomizu-dera Temple, and the natural scenery of the Uji River🌊\n\n📸Visit the popular photo spots Yasaka Koshindo and Kyoto's characteristic landmarks, leaving beautiful memories, a must-visit for check-ins🗺️",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/xf0pc6o9hqupurwmp8np.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "122392",
+            "request_id": "acefdb9d-a43e-4571-b145-c639bcb3aa7e"
+          },
+          "object_id": "100_122392"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/122392-kinkakuji-kiyomizudera-uji-river-byodoin-one-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "【Kyoto & Nara & Uji One-Day Tour】Nara Park Cute Deer & Fushimi Inari-taisha Shrine Senbon Torii & World Heritage Todai-ji Temple & Byodo-in Temple & Uji Matcha Food Street & Uji River & Uji Park & Asagiri Bridge One-Day Tour",
+        "location": "34.685109,135.804802",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "1.1K+ reviews",
+          "booked": "10K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 77.59",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 142440,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Nara",
+        "act_summary": "🌈A cross-city journey, enjoying the charm of three cities in one day: starting from Osaka, directly to Kyoto, Nara, and Uji, traveling through Japan's three major historical and cultural cities in one day, experiencing the unique customs of different regions 🎏~\n\n🦌Nara Park deer interaction experience: Get up close with thousands of wild cute deer strolling leisurely, feel the beautiful moments of nature and harmony, and leave unforgettable memories 💕~\n\n🏰Tōdai-ji Temple, a World Heritage Site, a shocking pilgrimage: Visit the Great Buddha Hall, the largest existing wooden building in Japan, and its iconic giant bronze Buddha statue, Vairocana Buddha 🙏. Feel the solemnity and grandeur of the millennium-old temple, and appreciate the infinite charm of Buddhist architectural art and the wisdom of ancient craftsmen~\n\n🍵Uji Matcha culture immersive experience: Explore the origin of matcha, stroll along the Uji River, visit Byōdō-in Temple, taste authentic matcha desserts on Uji Matcha Food Street 🍰, and experience the leisurely charm of traditional Japanese tea ceremony 🌿~\n\n🏯Fushimi Inari Shrine, a sacred place for praying for wealth 🙏, don't forget to pray for a smooth career and a journey of good luck here~\n\n💰 Check in at the popular red \"Senbon Torii\" on INS ⛩️, stroll through the endless torii gate corridor, and feel the mysterious atmosphere~",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Nara",
+        "cover_url": "https://res.klook.com/image/upload/activities/vnuvqx6ruzxsddwl7aag.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "142440",
+            "request_id": "acefdb9d-a43e-4571-b145-c639bcb3aa7e"
+          },
+          "object_id": "100_142440"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/142440-kyoto-nara-uji-world-heritage-scenic-explore-one-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Uji Byodoin & Uji Matcha Food Street & Uji River & Uji Park & Fushimi Inari Taisha & Katsuo-ji Daruma Wall Day Tour (Departing from Osaka and Kyoto)",
+        "location": "34.8845134,135.7997037",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "276 reviews",
+          "booked": "3K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 64.05",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 156282,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Uji",
+        "act_summary": "* Tickets for the 38th Naniwa Yodogawa Fireworks Festival are now on sale! 🎟️[Click here to buy tickets](https://www.klook.com/zh-TW/activity/234115-the-38th-naniwa-yodogawa-fireworks-festival/?spm=LanguageCurrencySelectionPopup.MoreLanguage_LIST&clickId=5742ad36f3)\n* Up-close pilgrimage to a World Heritage site: Byodoin Temple's Phoenix Hall is the design featured on the 10-yen coin, and taking a photo with the coin is an exclusive check-in ritual\n* Senbon Torii walking experience: The vermilion torii gate tunnels of Fushimi Inari Taisha winding through the mountain offer completely different atmospheres when visited in the morning versus the evening\n* Japan's only Daruma stamp-collecting culture: Katsuo-ji Temple's unique mini Daruma fortune-slip collecting activity; what you bring home is not just a souvenir, but a wish\n* Direct travel with no transfers, saving time and effort: Entire journey by chartered tour bus with no need to transfer between trains and buses on your own, leaving time for experiences rather than transportation",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Uji",
+        "cover_url": "https://res.klook.com/image/upload/activities/xdpgvwphrsdd9wnzrdcy.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "156282",
+            "request_id": "acefdb9d-a43e-4571-b145-c639bcb3aa7e"
+          },
+          "object_id": "100_156282"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/156282-uji-byodo-in-fushimi-inari-taisha-katsuoji-minoh-falls-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Nara & Uji Day Trip: Nara Park & Todai-ji Temple & Uji & Genji no Yu Onsen | Depart from Osaka",
+        "location": "34.685047,135.843012",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.5",
+          "max_star": "5",
+          "text": null,
+          "count": "318 reviews",
+          "booked": "4K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 64.05",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 89617,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Nara",
+        "act_summary": "* Interact closely with adorable deer in Nara Park and feel the warm and harmonious moment of coexistence between humans and nature.\n* Visit Todai-ji Temple and Kasuga Taisha Shrine, both World Heritage sites, to appreciate the solemn atmosphere and profound heritage of Japan's ancient capital.\n* Stroll along the foot of Mount Wakakusa and enjoy a panoramic view of Nara, experiencing the unique charm of the ancient city's tranquility and serenity.\n* Visit Byodo-in Temple and The Tale of Genji Museum in Uji to step into the world of art and literature of the Heian period.\n* Wander along Matcha Street, taste authentic matcha desserts and cuisine, and indulge in the rich tea fragrance and thousand-year-old tea culture.\n* You can choose to go to Genji no Yu to soak in a natural hot spring, relieve fatigue, and enjoy an authentic Japanese healing experience.\n* The one-day itinerary combines nature, culture, cuisine, and hot springs, bringing a fulfilling and relaxing ancient capital experience.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Nara",
+        "cover_url": "https://res.klook.com/image/upload/activities/owkg73nj6t3lk6whguyd.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "89617",
+            "request_id": "acefdb9d-a43e-4571-b145-c639bcb3aa7e"
+          },
+          "object_id": "100_89617"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/89617-nara-uji-day-tour-osaka/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "food_data": null,
+    "events_data": null,
+    "activity_data": [
+      {
+        "title": "Kyoto Kinkaku-ji, Kiyomizu-dera, and Uji One-Day Tour",
+        "location": "35.039787,135.7334596",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "2.3K+ reviews",
+          "booked": "20K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 74.75",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 122392,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "🌏English & Chinese tour guide, warm and friendly, rich in experience, taking you to explore Kyoto and Uji, enjoying the charm of the ancient capital and the land of matcha🗺️🍵\n\n🏛️World Heritage Tour: Explore Kinkaku-ji Temple✨, Kiyomizu-dera Temple💧, Byodo-in Temple⛩️, and experience Kyoto's profound historical heritage~\n\n🍜Taste the gourmet food around Kiyomizu-dera Temple and Uji matcha desserts🍵, satisfying your taste buds and experiencing authentic flavors~\n\n🏞️Admire the magnificent Kinkaku-ji Temple, Japan's oldest wooden structure Kiyomizu-dera Temple, and the natural scenery of the Uji River🌊\n\n📸Visit the popular photo spots Yasaka Koshindo and Kyoto's characteristic landmarks, leaving beautiful memories, a must-visit for check-ins🗺️",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/xf0pc6o9hqupurwmp8np.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "122392",
+            "request_id": "acefdb9d-a43e-4571-b145-c639bcb3aa7e"
+          },
+          "object_id": "100_122392"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/122392-kinkakuji-kiyomizudera-uji-river-byodoin-one-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "【Kyoto & Nara & Uji One-Day Tour】Nara Park Cute Deer & Fushimi Inari-taisha Shrine Senbon Torii & World Heritage Todai-ji Temple & Byodo-in Temple & Uji Matcha Food Street & Uji River & Uji Park & Asagiri Bridge One-Day Tour",
+        "location": "34.685109,135.804802",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "1.1K+ reviews",
+          "booked": "10K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 77.59",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 142440,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Nara",
+        "act_summary": "🌈A cross-city journey, enjoying the charm of three cities in one day: starting from Osaka, directly to Kyoto, Nara, and Uji, traveling through Japan's three major historical and cultural cities in one day, experiencing the unique customs of different regions 🎏~\n\n🦌Nara Park deer interaction experience: Get up close with thousands of wild cute deer strolling leisurely, feel the beautiful moments of nature and harmony, and leave unforgettable memories 💕~\n\n🏰Tōdai-ji Temple, a World Heritage Site, a shocking pilgrimage: Visit the Great Buddha Hall, the largest existing wooden building in Japan, and its iconic giant bronze Buddha statue, Vairocana Buddha 🙏. Feel the solemnity and grandeur of the millennium-old temple, and appreciate the infinite charm of Buddhist architectural art and the wisdom of ancient craftsmen~\n\n🍵Uji Matcha culture immersive experience: Explore the origin of matcha, stroll along the Uji River, visit Byōdō-in Temple, taste authentic matcha desserts on Uji Matcha Food Street 🍰, and experience the leisurely charm of traditional Japanese tea ceremony 🌿~\n\n🏯Fushimi Inari Shrine, a sacred place for praying for wealth 🙏, don't forget to pray for a smooth career and a journey of good luck here~\n\n💰 Check in at the popular red \"Senbon Torii\" on INS ⛩️, stroll through the endless torii gate corridor, and feel the mysterious atmosphere~",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Nara",
+        "cover_url": "https://res.klook.com/image/upload/activities/vnuvqx6ruzxsddwl7aag.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "142440",
+            "request_id": "acefdb9d-a43e-4571-b145-c639bcb3aa7e"
+          },
+          "object_id": "100_142440"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/142440-kyoto-nara-uji-world-heritage-scenic-explore-one-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Uji Byodoin & Uji Matcha Food Street & Uji River & Uji Park & Fushimi Inari Taisha & Katsuo-ji Daruma Wall Day Tour (Departing from Osaka and Kyoto)",
+        "location": "34.8845134,135.7997037",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "276 reviews",
+          "booked": "3K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 64.05",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 156282,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Uji",
+        "act_summary": "* Tickets for the 38th Naniwa Yodogawa Fireworks Festival are now on sale! 🎟️[Click here to buy tickets](https://www.klook.com/zh-TW/activity/234115-the-38th-naniwa-yodogawa-fireworks-festival/?spm=LanguageCurrencySelectionPopup.MoreLanguage_LIST&clickId=5742ad36f3)\n* Up-close pilgrimage to a World Heritage site: Byodoin Temple's Phoenix Hall is the design featured on the 10-yen coin, and taking a photo with the coin is an exclusive check-in ritual\n* Senbon Torii walking experience: The vermilion torii gate tunnels of Fushimi Inari Taisha winding through the mountain offer completely different atmospheres when visited in the morning versus the evening\n* Japan's only Daruma stamp-collecting culture: Katsuo-ji Temple's unique mini Daruma fortune-slip collecting activity; what you bring home is not just a souvenir, but a wish\n* Direct travel with no transfers, saving time and effort: Entire journey by chartered tour bus with no need to transfer between trains and buses on your own, leaving time for experiences rather than transportation",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Uji",
+        "cover_url": "https://res.klook.com/image/upload/activities/xdpgvwphrsdd9wnzrdcy.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "156282",
+            "request_id": "acefdb9d-a43e-4571-b145-c639bcb3aa7e"
+          },
+          "object_id": "100_156282"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/156282-uji-byodo-in-fushimi-inari-taisha-katsuoji-minoh-falls-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Nara & Uji Day Trip: Nara Park & Todai-ji Temple & Uji & Genji no Yu Onsen | Depart from Osaka",
+        "location": "34.685047,135.843012",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.5",
+          "max_star": "5",
+          "text": null,
+          "count": "318 reviews",
+          "booked": "4K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 64.05",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 89617,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Nara",
+        "act_summary": "* Interact closely with adorable deer in Nara Park and feel the warm and harmonious moment of coexistence between humans and nature.\n* Visit Todai-ji Temple and Kasuga Taisha Shrine, both World Heritage sites, to appreciate the solemn atmosphere and profound heritage of Japan's ancient capital.\n* Stroll along the foot of Mount Wakakusa and enjoy a panoramic view of Nara, experiencing the unique charm of the ancient city's tranquility and serenity.\n* Visit Byodo-in Temple and The Tale of Genji Museum in Uji to step into the world of art and literature of the Heian period.\n* Wander along Matcha Street, taste authentic matcha desserts and cuisine, and indulge in the rich tea fragrance and thousand-year-old tea culture.\n* You can choose to go to Genji no Yu to soak in a natural hot spring, relieve fatigue, and enjoy an authentic Japanese healing experience.\n* The one-day itinerary combines nature, culture, cuisine, and hot springs, bringing a fulfilling and relaxing ancient capital experience.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Nara",
+        "cover_url": "https://res.klook.com/image/upload/activities/owkg73nj6t3lk6whguyd.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "89617",
+            "request_id": "acefdb9d-a43e-4571-b145-c639bcb3aa7e"
+          },
+          "object_id": "100_89617"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/89617-nara-uji-day-tour-osaka/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "search_handle": {
+      "language": "en_US",
+      "currency": "USD",
+      "userQuery": "Uji matcha tea tours and tea experiences",
+      "newSearchIndex": {
+        "indexName": "search_vertical_ttd_v3_alias",
+        "leafCategoryIds": [
+          118,
+          146,
+          564,
+          514,
+          515,
+          475,
+          318,
+          511,
+          274,
+          517,
+          518,
+          519,
+          520,
+          123,
+          124,
+          125,
+          127,
+          128,
+          129,
+          130,
+          131,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          178,
+          340,
+          368,
+          418,
+          419,
+          479,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          522,
+          559,
+          577,
+          578,
+          579,
+          580,
+          581,
+          585,
+          629,
+          642,
+          644,
+          645,
+          646
+        ]
+      },
+      "productTags": [
+        "matcha"
+      ],
+      "algoTagIds": [],
+      "algoTags": [
+        "matcha"
+      ],
+      "recognitionCategories": [],
+      "ttdTagIds": [],
+      "countryIds": [
+        1012
+      ],
+      "provinceIds": [],
+      "cityIds": [
+        26932
+      ],
+      "poiId": null,
+      "poiName": null,
+      "departureIds": null,
+      "departureType": null,
+      "lat": 0,
+      "lon": 0,
+      "radius": 10000,
+      "startDate": "2027-04-04",
+      "endDate": "2027-04-04",
+      "priceFrom": 0,
+      "priceTo": 99999999.99,
+      "budgetLevelTags": null,
+      "serviceUserGroupTags": null,
+      "dietaryPreferenceTags": null,
+      "serviceLangTags": null,
+      "serviceFiltersTags": null,
+      "durationTag": null,
+      "departureTimeTag": null,
+      "instantConfirm": null,
+      "sort": "most_relevant",
+      "srcCountryId": -1,
+      "srcCityId": -1,
+      "countryCode": "",
+      "offset": 0,
+      "size": 4,
+      "requestId": "acefdb9d-a43e-4571-b145-c639bcb3aa7e",
+      "hotelName": null,
+      "starLevel": null,
+      "reviewScore": null,
+      "hotelTagIds": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "roomNumber": 1,
+      "adultNum": 2,
+      "childNum": 0,
+      "districtAreaIds": null,
+      "placeIds": null
+    },
+    "search_meta": {
+      "match_type": "STRICT",
+      "selected_tier": 0,
+      "relaxations": [],
+      "sub_categories": {
+        "tour_experience": {
+          "match_type": "STRICT",
+          "selected_tier": 0,
+          "route": "GENERAL",
+          "attempts": 1,
+          "tier_funnel": [
+            {
+              "tier": 0,
+              "count": 25,
+              "cost_ms": 34
+            }
+          ],
+          "relaxations": []
+        }
+      }
+    },
+    "location": null
+  },
+  "tokyo-food": {
+    "ttd_data": null,
+    "attractions_data": null,
+    "tour_experience_data": [
+      {
+        "title": "Tokyo : Small-group Imperial Palace Historical Walking Tour",
+        "location": "35.685175,139.7527995",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "271 reviews",
+          "booked": "2K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 25.29",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 172245,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "* Discover a city where futuristic cityscapes and ancient traditions harmoniously coexist.\n* Journey to the Imperial Palace, the magnificent and historic home of the Emperor of Japan, a site of immense cultural importance.\n*  Go beyond the guidebooks with our expert guides to uncover secret locations and untold stories within the palace walls.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/jxru0btseb66uviulbxo.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "172245",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_172245"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/172245-tokyo-imperial-palace-historical-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tsukiji Fish Market Food and Walking Tour",
+        "location": "35.6649974,139.7698163",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "350 reviews",
+          "booked": "4K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 24.65",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 126018,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "* Embark on a journey through the Tsukiji Fish Market, home to one of the largest and most famous fish markets in the world\n* Begin your journey by navigating through Tsukiji Hongwanji, a stunning temple known for its intricate carvings and serene interior\n* The English-speaking tour guide take you to the lively outer market, filled with fresh seafood, vegetables, and other traditional ingredients \n* Learn about the market's history and its significance in Japanese cuisine from your guide",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/t0ghffv9d9yun4zyprq7.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "126018",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_126018"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/126018-tokyo-city-tsukiji-fish-market-2-hour-food-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo: Tsukiji Fish Market Street Food & Culture Exploration Tour",
+        "location": "35.6664862,139.7722836",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "90 reviews",
+          "booked": "1K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 31.59",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 142656,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "Enjoy a food tour at the world's largest fish markets with a special set provided by your guide. You'll learn about artisan techniques, flavor-enhancing methods, and Japanese food culture.\n\n* Special wasabi set by our guide - Further enhances the flavor\n* Fresh Tuna, Wagyu, and a variety of traditional street food\n* Craftsmanship of Tsukiji's artisans in Japanese cuisine\n* Traditional preservation techniques that enhance umami\n* Rich history of the fish market and its role in Japanese culinary culture",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/alkjywdwqb3aav6g2n9u.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "142656",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_142656"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/142656-tokyo-tsukiji-fish-market-street-food-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo Private & Personalized City Highlights and Hidden Gems Tour",
+        "location": "35.6619707,139.703795",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "4 reviews",
+          "booked": "50+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 53.25",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 95833,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "- Your adventure will be fully personalized by your knowledgeable host, reflecting your interests.\n- You could delve into the urban pulse of Shibuya, exploring its iconic landmarks and hidden side streets.\n- Choose to immerse yourself in the vibrant Harajuku district, known for its eclectic markets and unique street food.\n- You may prefer to wander through the historical streets of Asakusa and Ueno, filled with cultural landmarks and trendy cafes.\n- Consider exploring Yanaka, a 'town within the city', blending traditional shops with creative modern establishments.\n- Opt to savor authentic Japanese cuisine at a local eatery, indulging in delectable sushi, ramen, or a refreshing cup of matcha tea.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/o6jrasdu9opwcemhizoe.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "95833",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_95833"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/95833-tokyo-private-half-day-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "food_data": [
+      {
+        "title": "Tokyo: Shinjuku Food Tour- 15 Dishes and 4 Eateries",
+        "location": "35.6930893,139.699505",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "52 reviews",
+          "booked": "300+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 55.59",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 188779,
+        "vertical_type": 100,
+        "sub_title": "Food tours · Tokyo",
+        "act_summary": "Dive into the lively heart of Tokyo with this Shinjuku Food Tour, where every stop reveals a new flavor and story. Over the course of the evening, you’ll visit four carefully selected local eateries around Shinjuku and Kabukicho — areas famous for their neon lights, buzzing nightlife, and endless food options.\n\nYour local guide will take you to restaurants loved by Tokyoites, not tourists. Together, you’ll taste 15 authentic Japanese dishes, including favorites like yakitori (grilled skewers), gyoza dumplings, karaage (fried chicken), fresh sashimi, and more. Each stop offers something different — from cozy izakaya pubs to family-run diners that serve true comfort food.",
+        "act_detail": null,
+        "category_name": "Food tours",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/lsmab6rpjmames0wxc2t.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "188779",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_188779"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/188779-tokyo-shinjuku-food-tour-15-dishes-and-4-eateries/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo: Tsukiji Fish Market Street Food Tour",
+        "location": "35.6649974,139.7698163",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "29 reviews",
+          "booked": "200+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 19.75",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 188797,
+        "vertical_type": 100,
+        "sub_title": "Food tours · Tokyo",
+        "act_summary": "* The Heart of Tokyo’s Food Scene:\nExplore Tsukiji, the historic district and must-visit destination for Japanese cuisine and local culture lovers.\n\n* Unique Tsukiji Hongwanji Temple:\nVisit this stunning temple known for its rare Indian-style architecture and deep spiritual history.\n\n* Vibrant Outer Market:\nNavigate a maze of family-run shops. Your guide leads you to fresh ingredients and hidden gems away from the crowds.\n\n* Discover Authentic Flavors:\nLearn about Wagyu, tuna, and tamagoyaki. Gain expert knowledge with the freedom to taste what you like.\n\n* Insight into Local Traditions:\nUnderstand Japan’s culinary heritage through stories of artisans who have preserved Tsukiji for generations.",
+        "act_detail": null,
+        "category_name": "Food tours",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/tsorh1rvhrhrcabsz5ma.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "188797",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_188797"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/188797-tokyo-tsukiji-fish-market-street-food-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "【Grand Opening】Tokyo: Guided Sake Tasting Experience (with Omakase Sushi Course)",
+        "location": "35.6572527,139.7430689",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": null,
+          "max_star": null,
+          "text": null,
+          "count": null,
+          "booked": "",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 62.39",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 204333,
+        "vertical_type": 100,
+        "sub_title": "Food tours · Tokyo",
+        "act_summary": "Discover Japanese sake through a guided tasting experience in Tokyo's East Azabu area. Taste 8 or more carefully selected types of sake from across Japan and learn about their sweetness, dryness, aroma, and unique characteristics with easy-to-understand guidance from staff. This experience also includes 10 pieces of sushi, allowing you to enjoy a delicious pairing of sake and sushi. Perfect for couples, friends, solo travelers, and anyone looking for an authentic Japanese food and cultural experience in Tokyo.",
+        "act_detail": null,
+        "category_name": "Food tours",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/ya2bvkknar1wqn95wt3f.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "204333",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_204333"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/204333-grand-opening-tokyo-guided-sake-tasting-experience-with-10-pieces/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Shinjuku Bar Hopping Tour Izakaya & Golden Gai (3hr All-Drink / 2hr)",
+        "location": "35.69382530,139.70335590",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": null,
+          "max_star": null,
+          "text": null,
+          "count": null,
+          "booked": "",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 94.75",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 195206,
+        "vertical_type": 100,
+        "sub_title": "Food tours · Tokyo",
+        "act_summary": "- Flexible Options: Choose our 3-hour tour with all-you-can-drink included, or our budget-friendly 2-hour mini trip!\n- Popular Drinks & Snacks: Enjoy well-loved Japanese alcoholic beverages paired with delicious local bar bites\n- Iconic Shinjuku Nightlife: Experience the vibrant neon lights of Kabukicho and the retro charm of Omoide Yokocho\n- Golden Gai Exploration: Discover a unique network of tiny, atmospheric dive bars tucked into historic alleyways\n- Tokyo's Drinking Hub: Navigate the absolute best drinking spots in Shinjuku, Tokyo's premier entertainment district\n- Atmospheric Izakaya Hopping: Stroll through cozy backstreets filled with authentic local taverns",
+        "act_detail": null,
+        "category_name": "Food tours",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/fofdn454fne2fj1pg0uv.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "195206",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_195206"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/195206-tokyo-shinjuku-izakaya-and-golden-gai-bar-hopping-tour-2h/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "events_data": null,
+    "activity_data": [
+      {
+        "title": "Tokyo : Small-group Imperial Palace Historical Walking Tour",
+        "location": "35.685175,139.7527995",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "271 reviews",
+          "booked": "2K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 25.29",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 172245,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "* Discover a city where futuristic cityscapes and ancient traditions harmoniously coexist.\n* Journey to the Imperial Palace, the magnificent and historic home of the Emperor of Japan, a site of immense cultural importance.\n*  Go beyond the guidebooks with our expert guides to uncover secret locations and untold stories within the palace walls.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/jxru0btseb66uviulbxo.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "172245",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_172245"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/172245-tokyo-imperial-palace-historical-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo: Shinjuku Food Tour- 15 Dishes and 4 Eateries",
+        "location": "35.6930893,139.699505",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "52 reviews",
+          "booked": "300+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 55.59",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 188779,
+        "vertical_type": 100,
+        "sub_title": "Food tours · Tokyo",
+        "act_summary": "Dive into the lively heart of Tokyo with this Shinjuku Food Tour, where every stop reveals a new flavor and story. Over the course of the evening, you’ll visit four carefully selected local eateries around Shinjuku and Kabukicho — areas famous for their neon lights, buzzing nightlife, and endless food options.\n\nYour local guide will take you to restaurants loved by Tokyoites, not tourists. Together, you’ll taste 15 authentic Japanese dishes, including favorites like yakitori (grilled skewers), gyoza dumplings, karaage (fried chicken), fresh sashimi, and more. Each stop offers something different — from cozy izakaya pubs to family-run diners that serve true comfort food.",
+        "act_detail": null,
+        "category_name": "Food tours",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/lsmab6rpjmames0wxc2t.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "188779",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_188779"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/188779-tokyo-shinjuku-food-tour-15-dishes-and-4-eateries/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo: Tsukiji Fish Market Street Food Tour",
+        "location": "35.6649974,139.7698163",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "29 reviews",
+          "booked": "200+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 19.75",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 188797,
+        "vertical_type": 100,
+        "sub_title": "Food tours · Tokyo",
+        "act_summary": "* The Heart of Tokyo’s Food Scene:\nExplore Tsukiji, the historic district and must-visit destination for Japanese cuisine and local culture lovers.\n\n* Unique Tsukiji Hongwanji Temple:\nVisit this stunning temple known for its rare Indian-style architecture and deep spiritual history.\n\n* Vibrant Outer Market:\nNavigate a maze of family-run shops. Your guide leads you to fresh ingredients and hidden gems away from the crowds.\n\n* Discover Authentic Flavors:\nLearn about Wagyu, tuna, and tamagoyaki. Gain expert knowledge with the freedom to taste what you like.\n\n* Insight into Local Traditions:\nUnderstand Japan’s culinary heritage through stories of artisans who have preserved Tsukiji for generations.",
+        "act_detail": null,
+        "category_name": "Food tours",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/tsorh1rvhrhrcabsz5ma.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "188797",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_188797"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/188797-tokyo-tsukiji-fish-market-street-food-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tsukiji Fish Market Food and Walking Tour",
+        "location": "35.6649974,139.7698163",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "350 reviews",
+          "booked": "4K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 24.65",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 126018,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "* Embark on a journey through the Tsukiji Fish Market, home to one of the largest and most famous fish markets in the world\n* Begin your journey by navigating through Tsukiji Hongwanji, a stunning temple known for its intricate carvings and serene interior\n* The English-speaking tour guide take you to the lively outer market, filled with fresh seafood, vegetables, and other traditional ingredients \n* Learn about the market's history and its significance in Japanese cuisine from your guide",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/t0ghffv9d9yun4zyprq7.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "126018",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_126018"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/126018-tokyo-city-tsukiji-fish-market-2-hour-food-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo: Tsukiji Fish Market Street Food & Culture Exploration Tour",
+        "location": "35.6664862,139.7722836",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "90 reviews",
+          "booked": "1K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 31.59",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 142656,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "Enjoy a food tour at the world's largest fish markets with a special set provided by your guide. You'll learn about artisan techniques, flavor-enhancing methods, and Japanese food culture.\n\n* Special wasabi set by our guide - Further enhances the flavor\n* Fresh Tuna, Wagyu, and a variety of traditional street food\n* Craftsmanship of Tsukiji's artisans in Japanese cuisine\n* Traditional preservation techniques that enhance umami\n* Rich history of the fish market and its role in Japanese culinary culture",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/alkjywdwqb3aav6g2n9u.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "142656",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_142656"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/142656-tokyo-tsukiji-fish-market-street-food-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "【Grand Opening】Tokyo: Guided Sake Tasting Experience (with Omakase Sushi Course)",
+        "location": "35.6572527,139.7430689",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": null,
+          "max_star": null,
+          "text": null,
+          "count": null,
+          "booked": "",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 62.39",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 204333,
+        "vertical_type": 100,
+        "sub_title": "Food tours · Tokyo",
+        "act_summary": "Discover Japanese sake through a guided tasting experience in Tokyo's East Azabu area. Taste 8 or more carefully selected types of sake from across Japan and learn about their sweetness, dryness, aroma, and unique characteristics with easy-to-understand guidance from staff. This experience also includes 10 pieces of sushi, allowing you to enjoy a delicious pairing of sake and sushi. Perfect for couples, friends, solo travelers, and anyone looking for an authentic Japanese food and cultural experience in Tokyo.",
+        "act_detail": null,
+        "category_name": "Food tours",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/ya2bvkknar1wqn95wt3f.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "204333",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_204333"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/204333-grand-opening-tokyo-guided-sake-tasting-experience-with-10-pieces/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Shinjuku Bar Hopping Tour Izakaya & Golden Gai (3hr All-Drink / 2hr)",
+        "location": "35.69382530,139.70335590",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": null,
+          "max_star": null,
+          "text": null,
+          "count": null,
+          "booked": "",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 94.75",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 195206,
+        "vertical_type": 100,
+        "sub_title": "Food tours · Tokyo",
+        "act_summary": "- Flexible Options: Choose our 3-hour tour with all-you-can-drink included, or our budget-friendly 2-hour mini trip!\n- Popular Drinks & Snacks: Enjoy well-loved Japanese alcoholic beverages paired with delicious local bar bites\n- Iconic Shinjuku Nightlife: Experience the vibrant neon lights of Kabukicho and the retro charm of Omoide Yokocho\n- Golden Gai Exploration: Discover a unique network of tiny, atmospheric dive bars tucked into historic alleyways\n- Tokyo's Drinking Hub: Navigate the absolute best drinking spots in Shinjuku, Tokyo's premier entertainment district\n- Atmospheric Izakaya Hopping: Stroll through cozy backstreets filled with authentic local taverns",
+        "act_detail": null,
+        "category_name": "Food tours",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/fofdn454fne2fj1pg0uv.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "195206",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_195206"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/195206-tokyo-shinjuku-izakaya-and-golden-gai-bar-hopping-tour-2h/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo Private & Personalized City Highlights and Hidden Gems Tour",
+        "location": "35.6619707,139.703795",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "4 reviews",
+          "booked": "50+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 53.25",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 95833,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "- Your adventure will be fully personalized by your knowledgeable host, reflecting your interests.\n- You could delve into the urban pulse of Shibuya, exploring its iconic landmarks and hidden side streets.\n- Choose to immerse yourself in the vibrant Harajuku district, known for its eclectic markets and unique street food.\n- You may prefer to wander through the historical streets of Asakusa and Ueno, filled with cultural landmarks and trendy cafes.\n- Consider exploring Yanaka, a 'town within the city', blending traditional shops with creative modern establishments.\n- Opt to savor authentic Japanese cuisine at a local eatery, indulging in delectable sushi, ramen, or a refreshing cup of matcha tea.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/o6jrasdu9opwcemhizoe.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "95833",
+            "request_id": "a2155eb8-3058-42ea-865c-ade017e9d394"
+          },
+          "object_id": "100_95833"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/95833-tokyo-private-half-day-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "search_handle": {
+      "language": "en_US",
+      "currency": "USD",
+      "userQuery": "Tokyo small group food walking tours",
+      "newSearchIndex": {
+        "indexName": "search_vertical_ttd_v3_alias",
+        "leafCategoryIds": [
+          118,
+          146,
+          564,
+          514,
+          515,
+          475,
+          318,
+          511,
+          274,
+          517,
+          518,
+          519,
+          520,
+          123,
+          124,
+          125,
+          127,
+          128,
+          129,
+          130,
+          131,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          178,
+          340,
+          368,
+          418,
+          419,
+          479,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          522,
+          559,
+          577,
+          578,
+          579,
+          580,
+          581,
+          585,
+          629,
+          642,
+          644,
+          645,
+          646
+        ]
+      },
+      "productTags": [
+        "walking tour",
+        "dining"
+      ],
+      "algoTagIds": [],
+      "algoTags": [],
+      "recognitionCategories": [
+        150,
+        493
+      ],
+      "ttdTagIds": [],
+      "countryIds": [
+        1012
+      ],
+      "provinceIds": [],
+      "cityIds": [
+        28
+      ],
+      "poiId": null,
+      "poiName": null,
+      "departureIds": null,
+      "departureType": null,
+      "lat": 0,
+      "lon": 0,
+      "radius": 10000,
+      "startDate": "2027-03-26",
+      "endDate": "2027-03-30",
+      "priceFrom": 0,
+      "priceTo": 99999999.99,
+      "budgetLevelTags": null,
+      "serviceUserGroupTags": null,
+      "dietaryPreferenceTags": null,
+      "serviceLangTags": null,
+      "serviceFiltersTags": null,
+      "durationTag": null,
+      "departureTimeTag": null,
+      "instantConfirm": null,
+      "sort": "most_relevant",
+      "srcCountryId": -1,
+      "srcCityId": -1,
+      "countryCode": "",
+      "offset": 0,
+      "size": 4,
+      "requestId": "a2155eb8-3058-42ea-865c-ade017e9d394",
+      "hotelName": null,
+      "starLevel": null,
+      "reviewScore": null,
+      "hotelTagIds": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "roomNumber": 1,
+      "adultNum": 2,
+      "childNum": 0,
+      "districtAreaIds": null,
+      "placeIds": null
+    },
+    "search_meta": {
+      "match_type": "STRICT",
+      "selected_tier": 0,
+      "relaxations": [],
+      "sub_categories": {
+        "food": {
+          "match_type": "STRICT",
+          "selected_tier": 0,
+          "route": "GENERAL",
+          "attempts": 1,
+          "tier_funnel": [
+            {
+              "tier": 0,
+              "count": 10,
+              "cost_ms": 16
+            }
+          ],
+          "relaxations": []
+        },
+        "tour_experience": {
+          "match_type": "STRICT",
+          "selected_tier": 0,
+          "route": "GENERAL",
+          "attempts": 1,
+          "tier_funnel": [
+            {
+              "tier": 0,
+              "count": 20,
+              "cost_ms": 16
+            }
+          ],
+          "relaxations": []
+        }
+      }
+    },
+    "location": null
+  },
+  "fuji": {
+    "ttd_data": null,
+    "attractions_data": null,
+    "tour_experience_data": [
+      {
+        "title": "Mt. Fuji Instagram-Worthy Spots Day Tour: Ladder Town, Oshino Hakkai, Lake Kawaguchi, Lawson Convenience Store (Departing from Tokyo Station or Shinjuku Station)",
+        "location": "35.3606255,138.7273634",
+        "address": null,
+        "distance": "15.4km",
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "35.1K+ reviews",
+          "booked": "300K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 49.29",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 93901,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Fujinomiya",
+        "act_summary": "* Chosen by 300,000+ Travelers | Popular Choice for Mount Fuji Instagram-Worthy Routes: Specializing in Mount Fuji day tours with mature route design and extensive operational experience, consistently welcomed by travelers.\n* Meeting Point Packages | Optional English-Speaking Private Car: Arranging vehicles with corresponding English-speaking support, no group mixing, and no vehicle switching, allowing you to communicate easily throughout and enjoy a smoother trip to Mount Fuji.\n* Curated Popular Photo Spots | Capture Multiple Classic Perspectives of Mount Fuji in One Go: Connecting top attractions such as Chureito Pagoda, Hikawa Clock Shop, Oshino Hakkai, and Lake Kawaguchiko Oishi Park, effortlessly capturing classic combinations of Mount Fuji with Japanese streetscapes and lakeside scenery.\n* Guaranteed Departure for One | Daily Departures for Greater Flexibility: No need to wait for group formation; solo travelers can set off easily. Whether traveling alone, as a couple, or with family, you can conveniently arrange a one-day trip to Mount Fuji.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Fujinomiya",
+        "cover_url": "https://res.klook.com/image/upload/activities/o4x2nesz8ry9tnmzo1md.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "93901",
+            "request_id": "6ee10b94-568d-4775-bdff-f12ec974a0fc"
+          },
+          "object_id": "100_93901"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/93901-mtfuji-one-day-tour-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "【Mount Fuji Magnificent Scenery Exploration Day Tour】Arakurayama Sengen Park & Kawaguchiko Oishi Park & Oshino Hakkai & INS Famous Lawson & Hikawa Clock Shop (Departing from Tokyo)",
+        "location": "35.5170946,138.7517787",
+        "address": null,
+        "distance": "2.2km",
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "11.9K+ reviews",
+          "booked": "100K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 72.60",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 131149,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Minamitsuru",
+        "act_summary": "**🎉 [Limited-time Surprise] Upgrade to morning hotel pickup for only $1!**\n**📝 Warm reminder: Please click the dropdown button on the right side of the package type and select the [Morning Hotel Pickup] package!**\n\n🏯 Visit Arakurayama Sengen Park, hailed as a must-visit spot for photographers worldwide, and admire the classic view of Mount Fuji and the Chureito Pagoda together.\n\n⛩️ Visit the ancient shrine of Arakura Fuji Sengen Shrine (founded in 705 AD), and pray for family happiness and peace.\n\n🚶‍♀️ Stroll through the \"Stairway Town\" – Fujiyoshida Street, where retro shops and the magnificent scenery of Mount Fuji perfectly blend, as if traveling through time.\n\n🌊 Lake Kawaguchiko is known as the shining pearl among the Fuji Five Lakes. Mount Fuji's spectacular eruption ten thousand years ago shaped this beautiful landscape of lakes and mountains.\n\n🍁 Wander through Oishi Park, known as nature's four-season palette, and quietly enjoy the poetic time amidst the lake and mountains.\n\n💧 Visit Oshino Hakkai, one of Japan's \"100 Famous Waters.\" Its spring water originates from Mount Fuji's melting snow, sweet and clear. Legend has it that drinking it can prolong life.\n\n🦢 At the crystal-clear Lake Yamanakako, admire the majestic beauty of Mount Fuji up close and interact intimately with elegant swans, creating unforgettable memories.\n\n📷 Take photos at the INS-style Lawson convenience store at the foot of Mount Fuji! Fashion and nature wonderfully merge here.\n\n✨ Welcome to our Mount Fuji exploration tour! We look forward to meeting you amidst the stunning scenery!",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Minamitsuru",
+        "cover_url": "https://res.klook.com/image/upload/activities/r6flrvfstfqrumfsuu4j.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "131149",
+            "request_id": "6ee10b94-568d-4775-bdff-f12ec974a0fc"
+          },
+          "object_id": "100_131149"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/131149-mount-fuji-magnificent-scenery-day-tour-from-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Mount Fuji Day Trip: Includes Kawaguchiko Tenjozan Park Ropeway Ticket & Arakurayama Sengen Park & Nichikawa Clock Shop & Lawson Convenience Store & Oishi Park (Departing from Tokyo)",
+        "location": "35.4837442,138.7953833",
+        "address": null,
+        "distance": "3.9km",
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "3.9K+ reviews",
+          "booked": "20K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 70.39",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 110632,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Fujiyoshida",
+        "act_summary": "- 🚗 Don't want too many people? Then choose a small group of 9! Want a guided tour? Then choose a regular tour!\n- Afraid of hard-to-find meeting points? Then choose a small group with hotel pick-up!\n- Want to customize your own itinerary and play by yourself? Then choose a private car charter!\n- 📷 We offer a complimentary ride on the Mt. Kachi Kachi Ropeway at Lake Kawaguchiko | A superb view of Fuji and the lake from below the mountain\nLocated at the highest point of Lake Kawaguchiko, take the Mt. Kachi Kachi Ropeway directly to the observation deck, where you can take in the full view of Mount Fuji and the scenery of Lake Kawaguchiko.\nLooking out from above, every frame is a stunning and healing natural painting.\n- 🌈 Kawaguchiko Oishi Park | The Four Seasons Fairy Tale of Mount Fuji\nSitting by the lake, gazing at the snow-capped peak of Mount Fuji that never melts. Spring cherry blossoms, summer lavender, autumn maple leaves, and winter snow, the most beautiful appearances of the four seasons are hidden here.\n- 🗻 Arakurayama Sengen Park | A photographer's secret spot for viewing Mount Fuji\nClimb to the observation deck to capture the grandeur of Mount Fuji and the Chureito Pagoda in the same frame.\nCherry blossoms cover the mountains in spring, and red leaves dye them in autumn, making every season an unrepeatable fairyland.\n- 💫 Fujiyoshida Old Town | A ladder town walking in the clouds\nWalking through the streets full of Showa-era charm, you can look up and see the majestic Mount Fuji. Retro shops, nostalgic street scenes, and distant mountains complement each other, and every corner hides a gentle Japanese atmosphere.\n- 📷 Mount Fuji's Internet-famous Lawson | A dreamy collision of modernity and nature\nThe convenience store under the snowy mountain has become a popular check-in landmark across the internet. Every casual shot is a Japanese blockbuster, capturing the most special moments of Mount Fuji.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Fujiyoshida",
+        "cover_url": "https://res.klook.com/image/upload/activities/vyxtaenq91194uzgjvsi.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "110632",
+            "request_id": "6ee10b94-568d-4775-bdff-f12ec974a0fc"
+          },
+          "object_id": "100_110632"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/110632-mount-fuji-arakurayama-sengen-park-lake-kawakuchi-tour-from-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "【Mount Fuji Scenic Photography Day Tour】Chureito Pagoda & Kawaguchiko Oishi Park & Oshino Hakkai & INS Lawson & Hikawa Clock Shop (Departing from Tokyo)",
+        "location": "35.5170946,138.7517787",
+        "address": null,
+        "distance": "2.2km",
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "10.0K+ reviews",
+          "booked": "90K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 82.09",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 100747,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Minamitsuru",
+        "act_summary": "**🎉【Limited-time Surprise】Upgrade to morning hotel pickup for only $1~**\n📝 Please click the dropdown button to the right of the package type and select the [Morning Hotel Pickup] package~\n\n🏯 Arakurayama Sengen Park｜A must-visit spot for photographers worldwide, with the Five-Story Pagoda and Mount Fuji in the same frame, capturing the most classic Japanese-style scenery~\n\n⛩️ Arakura Fuji Sengen Shrine｜A thousand-year-old shrine founded in 705 AD, pray for happiness and peace for your family amidst the solemn torii gates and stone steps~\n\n🚶‍♀️ Fujiyoshida \"Stairway Town\"｜At the end of the retro streets, Mount Fuji unfolds like a painting, as if traveling through time~\n\n🌊 Lake Kawaguchiko｜The most dazzling pearl among the Fuji Five Lakes, the landscape shaped by Mount Fuji's eruption ten thousand years ago, every casual shot is a masterpiece~\n\n🍁 Oishi Park｜Nature's seasonal palette, flowers change with the seasons, forming an oil painting-like scene with Mount Fuji in the same frame~\n\n💧 Oshino Hakkai｜Selected as one of Japan's \"100 Famous Waters,\" the spring water originates from Mount Fuji's melting snow, sweet and clear, legend has it that drinking it can prolong life~\n\n🦢 Lake Yamanakako｜The lake surface is clear as a mirror, admire the majestic beauty of Mount Fuji up close, interact intimately with elegant swans, and create unforgettable memories~\n\n📷 INS Lawson at the Foot of Mount Fuji｜Blue and white signs with Mount Fuji in the same frame, a wonderful collision of fashion and nature, every casual shot is a blockbuster~\n\n✨ From thousand-year-old shrines to lakeside flower seas, from classic photo spots to hidden springs, we look forward to embarking on this beautiful scenic journey with you~",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Minamitsuru",
+        "cover_url": "https://res.klook.com/image/upload/activities/fy96b6xjzde73qeegnw5.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "100747",
+            "request_id": "6ee10b94-568d-4775-bdff-f12ec974a0fc"
+          },
+          "object_id": "100_100747"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/100747-mount-fuji-arakurayama-park-oshino-hakkai-kawaguchiko-bus-tour-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "food_data": null,
+    "events_data": null,
+    "activity_data": [
+      {
+        "title": "Mt. Fuji Instagram-Worthy Spots Day Tour: Ladder Town, Oshino Hakkai, Lake Kawaguchi, Lawson Convenience Store (Departing from Tokyo Station or Shinjuku Station)",
+        "location": "35.3606255,138.7273634",
+        "address": null,
+        "distance": "15.4km",
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "35.1K+ reviews",
+          "booked": "300K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 49.29",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 93901,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Fujinomiya",
+        "act_summary": "* Chosen by 300,000+ Travelers | Popular Choice for Mount Fuji Instagram-Worthy Routes: Specializing in Mount Fuji day tours with mature route design and extensive operational experience, consistently welcomed by travelers.\n* Meeting Point Packages | Optional English-Speaking Private Car: Arranging vehicles with corresponding English-speaking support, no group mixing, and no vehicle switching, allowing you to communicate easily throughout and enjoy a smoother trip to Mount Fuji.\n* Curated Popular Photo Spots | Capture Multiple Classic Perspectives of Mount Fuji in One Go: Connecting top attractions such as Chureito Pagoda, Hikawa Clock Shop, Oshino Hakkai, and Lake Kawaguchiko Oishi Park, effortlessly capturing classic combinations of Mount Fuji with Japanese streetscapes and lakeside scenery.\n* Guaranteed Departure for One | Daily Departures for Greater Flexibility: No need to wait for group formation; solo travelers can set off easily. Whether traveling alone, as a couple, or with family, you can conveniently arrange a one-day trip to Mount Fuji.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Fujinomiya",
+        "cover_url": "https://res.klook.com/image/upload/activities/o4x2nesz8ry9tnmzo1md.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "93901",
+            "request_id": "6ee10b94-568d-4775-bdff-f12ec974a0fc"
+          },
+          "object_id": "100_93901"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/93901-mtfuji-one-day-tour-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "【Mount Fuji Magnificent Scenery Exploration Day Tour】Arakurayama Sengen Park & Kawaguchiko Oishi Park & Oshino Hakkai & INS Famous Lawson & Hikawa Clock Shop (Departing from Tokyo)",
+        "location": "35.5170946,138.7517787",
+        "address": null,
+        "distance": "2.2km",
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "11.9K+ reviews",
+          "booked": "100K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 72.60",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 131149,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Minamitsuru",
+        "act_summary": "**🎉 [Limited-time Surprise] Upgrade to morning hotel pickup for only $1!**\n**📝 Warm reminder: Please click the dropdown button on the right side of the package type and select the [Morning Hotel Pickup] package!**\n\n🏯 Visit Arakurayama Sengen Park, hailed as a must-visit spot for photographers worldwide, and admire the classic view of Mount Fuji and the Chureito Pagoda together.\n\n⛩️ Visit the ancient shrine of Arakura Fuji Sengen Shrine (founded in 705 AD), and pray for family happiness and peace.\n\n🚶‍♀️ Stroll through the \"Stairway Town\" – Fujiyoshida Street, where retro shops and the magnificent scenery of Mount Fuji perfectly blend, as if traveling through time.\n\n🌊 Lake Kawaguchiko is known as the shining pearl among the Fuji Five Lakes. Mount Fuji's spectacular eruption ten thousand years ago shaped this beautiful landscape of lakes and mountains.\n\n🍁 Wander through Oishi Park, known as nature's four-season palette, and quietly enjoy the poetic time amidst the lake and mountains.\n\n💧 Visit Oshino Hakkai, one of Japan's \"100 Famous Waters.\" Its spring water originates from Mount Fuji's melting snow, sweet and clear. Legend has it that drinking it can prolong life.\n\n🦢 At the crystal-clear Lake Yamanakako, admire the majestic beauty of Mount Fuji up close and interact intimately with elegant swans, creating unforgettable memories.\n\n📷 Take photos at the INS-style Lawson convenience store at the foot of Mount Fuji! Fashion and nature wonderfully merge here.\n\n✨ Welcome to our Mount Fuji exploration tour! We look forward to meeting you amidst the stunning scenery!",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Minamitsuru",
+        "cover_url": "https://res.klook.com/image/upload/activities/r6flrvfstfqrumfsuu4j.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "131149",
+            "request_id": "6ee10b94-568d-4775-bdff-f12ec974a0fc"
+          },
+          "object_id": "100_131149"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/131149-mount-fuji-magnificent-scenery-day-tour-from-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Mount Fuji Day Trip: Includes Kawaguchiko Tenjozan Park Ropeway Ticket & Arakurayama Sengen Park & Nichikawa Clock Shop & Lawson Convenience Store & Oishi Park (Departing from Tokyo)",
+        "location": "35.4837442,138.7953833",
+        "address": null,
+        "distance": "3.9km",
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "3.9K+ reviews",
+          "booked": "20K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 70.39",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 110632,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Fujiyoshida",
+        "act_summary": "- 🚗 Don't want too many people? Then choose a small group of 9! Want a guided tour? Then choose a regular tour!\n- Afraid of hard-to-find meeting points? Then choose a small group with hotel pick-up!\n- Want to customize your own itinerary and play by yourself? Then choose a private car charter!\n- 📷 We offer a complimentary ride on the Mt. Kachi Kachi Ropeway at Lake Kawaguchiko | A superb view of Fuji and the lake from below the mountain\nLocated at the highest point of Lake Kawaguchiko, take the Mt. Kachi Kachi Ropeway directly to the observation deck, where you can take in the full view of Mount Fuji and the scenery of Lake Kawaguchiko.\nLooking out from above, every frame is a stunning and healing natural painting.\n- 🌈 Kawaguchiko Oishi Park | The Four Seasons Fairy Tale of Mount Fuji\nSitting by the lake, gazing at the snow-capped peak of Mount Fuji that never melts. Spring cherry blossoms, summer lavender, autumn maple leaves, and winter snow, the most beautiful appearances of the four seasons are hidden here.\n- 🗻 Arakurayama Sengen Park | A photographer's secret spot for viewing Mount Fuji\nClimb to the observation deck to capture the grandeur of Mount Fuji and the Chureito Pagoda in the same frame.\nCherry blossoms cover the mountains in spring, and red leaves dye them in autumn, making every season an unrepeatable fairyland.\n- 💫 Fujiyoshida Old Town | A ladder town walking in the clouds\nWalking through the streets full of Showa-era charm, you can look up and see the majestic Mount Fuji. Retro shops, nostalgic street scenes, and distant mountains complement each other, and every corner hides a gentle Japanese atmosphere.\n- 📷 Mount Fuji's Internet-famous Lawson | A dreamy collision of modernity and nature\nThe convenience store under the snowy mountain has become a popular check-in landmark across the internet. Every casual shot is a Japanese blockbuster, capturing the most special moments of Mount Fuji.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Fujiyoshida",
+        "cover_url": "https://res.klook.com/image/upload/activities/vyxtaenq91194uzgjvsi.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "110632",
+            "request_id": "6ee10b94-568d-4775-bdff-f12ec974a0fc"
+          },
+          "object_id": "100_110632"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/110632-mount-fuji-arakurayama-sengen-park-lake-kawakuchi-tour-from-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "【Mount Fuji Scenic Photography Day Tour】Chureito Pagoda & Kawaguchiko Oishi Park & Oshino Hakkai & INS Lawson & Hikawa Clock Shop (Departing from Tokyo)",
+        "location": "35.5170946,138.7517787",
+        "address": null,
+        "distance": "2.2km",
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "10.0K+ reviews",
+          "booked": "90K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 82.09",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 100747,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Minamitsuru",
+        "act_summary": "**🎉【Limited-time Surprise】Upgrade to morning hotel pickup for only $1~**\n📝 Please click the dropdown button to the right of the package type and select the [Morning Hotel Pickup] package~\n\n🏯 Arakurayama Sengen Park｜A must-visit spot for photographers worldwide, with the Five-Story Pagoda and Mount Fuji in the same frame, capturing the most classic Japanese-style scenery~\n\n⛩️ Arakura Fuji Sengen Shrine｜A thousand-year-old shrine founded in 705 AD, pray for happiness and peace for your family amidst the solemn torii gates and stone steps~\n\n🚶‍♀️ Fujiyoshida \"Stairway Town\"｜At the end of the retro streets, Mount Fuji unfolds like a painting, as if traveling through time~\n\n🌊 Lake Kawaguchiko｜The most dazzling pearl among the Fuji Five Lakes, the landscape shaped by Mount Fuji's eruption ten thousand years ago, every casual shot is a masterpiece~\n\n🍁 Oishi Park｜Nature's seasonal palette, flowers change with the seasons, forming an oil painting-like scene with Mount Fuji in the same frame~\n\n💧 Oshino Hakkai｜Selected as one of Japan's \"100 Famous Waters,\" the spring water originates from Mount Fuji's melting snow, sweet and clear, legend has it that drinking it can prolong life~\n\n🦢 Lake Yamanakako｜The lake surface is clear as a mirror, admire the majestic beauty of Mount Fuji up close, interact intimately with elegant swans, and create unforgettable memories~\n\n📷 INS Lawson at the Foot of Mount Fuji｜Blue and white signs with Mount Fuji in the same frame, a wonderful collision of fashion and nature, every casual shot is a blockbuster~\n\n✨ From thousand-year-old shrines to lakeside flower seas, from classic photo spots to hidden springs, we look forward to embarking on this beautiful scenic journey with you~",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Minamitsuru",
+        "cover_url": "https://res.klook.com/image/upload/activities/fy96b6xjzde73qeegnw5.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "100747",
+            "request_id": "6ee10b94-568d-4775-bdff-f12ec974a0fc"
+          },
+          "object_id": "100_100747"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/100747-mount-fuji-arakurayama-park-oshino-hakkai-kawaguchiko-bus-tour-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "search_handle": {
+      "language": "en_US",
+      "currency": "USD",
+      "userQuery": "Mount Fuji and Lake Kawaguchi photography day tours departing from Tokyo",
+      "newSearchIndex": {
+        "indexName": "search_vertical_ttd_v3_alias",
+        "leafCategoryIds": [
+          118,
+          146,
+          564,
+          514,
+          515,
+          475,
+          318,
+          511,
+          274,
+          517,
+          518,
+          519,
+          520,
+          123,
+          124,
+          125,
+          127,
+          128,
+          129,
+          130,
+          131,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          178,
+          340,
+          368,
+          418,
+          419,
+          479,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          522,
+          559,
+          577,
+          578,
+          579,
+          580,
+          581,
+          585,
+          629,
+          642,
+          644,
+          645,
+          646
+        ]
+      },
+      "productTags": [
+        "one day tour",
+        "photography"
+      ],
+      "algoTagIds": [],
+      "algoTags": [
+        "one day tour"
+      ],
+      "recognitionCategories": [
+        150,
+        493,
+        154,
+        152,
+        151,
+        155,
+        153,
+        157,
+        644,
+        340,
+        585,
+        645,
+        496,
+        494,
+        123
+      ],
+      "ttdTagIds": [],
+      "countryIds": [
+        1012
+      ],
+      "provinceIds": [
+        4529
+      ],
+      "cityIds": [
+        26576
+      ],
+      "poiId": [
+        50274308
+      ],
+      "poiName": null,
+      "departureIds": [
+        28
+      ],
+      "departureType": "city",
+      "lat": 0,
+      "lon": 0,
+      "radius": 5000,
+      "startDate": "2027-03-26",
+      "endDate": "2027-03-30",
+      "priceFrom": 0,
+      "priceTo": 99999999.99,
+      "budgetLevelTags": null,
+      "serviceUserGroupTags": null,
+      "dietaryPreferenceTags": null,
+      "serviceLangTags": null,
+      "serviceFiltersTags": null,
+      "durationTag": null,
+      "departureTimeTag": null,
+      "instantConfirm": null,
+      "sort": "most_relevant",
+      "srcCountryId": -1,
+      "srcCityId": -1,
+      "countryCode": "",
+      "offset": 0,
+      "size": 4,
+      "requestId": "6ee10b94-568d-4775-bdff-f12ec974a0fc",
+      "hotelName": null,
+      "starLevel": null,
+      "reviewScore": null,
+      "hotelTagIds": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "roomNumber": 1,
+      "adultNum": 2,
+      "childNum": 0,
+      "districtAreaIds": null,
+      "placeIds": null
+    },
+    "search_meta": {
+      "match_type": "STRICT",
+      "selected_tier": 0,
+      "relaxations": [],
+      "sub_categories": {
+        "tour_experience": {
+          "match_type": "STRICT",
+          "selected_tier": 0,
+          "route": "POI_ID",
+          "attempts": 1,
+          "tier_funnel": [
+            {
+              "tier": 0,
+              "count": 97,
+              "cost_ms": 22
+            }
+          ],
+          "relaxations": []
+        }
+      }
+    },
+    "location": {
+      "type": "poi",
+      "location": "35.4973138,138.7551994",
+      "poi_id": 50274308,
+      "poi_name": "Fujikawaguchiko"
+    }
+  },
+  "tea-focused": {
+    "ttd_data": null,
+    "attractions_data": null,
+    "tour_experience_data": [
+      {
+        "title": "Kyoto: Gion Make Your Own Chopsticks with Engraving Option",
+        "location": "34.9988893,135.7776402",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "3.3K+ reviews",
+          "booked": "10K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 8.15",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 181896,
+        "vertical_type": 100,
+        "sub_title": "Workshops · Kyoto",
+        "act_summary": "* Craft your own beautiful chopsticks using traditional Japanese techniques with expert local guidance\n\n* Choose from various natural woods and personalize your pair with optional name engraving (Additional charge)\n\n* Choice of wood (10 types available; 2 are included in the price, and the remaining types require an additional charge of JPY 1,000-5,000)\n\n* Enjoy a fun, hands-on cultural experience perfect for families, couples, and friends\n\n* Learn the meaning of Japanese craftsmanship in a relaxed Kyoto studio setting\n\n* Take home your handmade chopsticks — a unique Kyoto souvenir to cherish forever",
+        "act_detail": null,
+        "category_name": "Workshops",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/rcaazv9gdrtg6kyixzu0.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "181896",
+            "request_id": "bfa0f551-8ddd-410f-b654-7a6604018bd8"
+          },
+          "object_id": "100_181896"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/181896-crafting-your-own-chopsticks-experience-in-gion-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto: Ring Making Workshop : Vintage Japanese Coin Ring",
+        "location": "35.00278070,135.75989160",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "1.7K+ reviews",
+          "booked": "7K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 18.05",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 202375,
+        "vertical_type": 100,
+        "sub_title": "Workshops · Kyoto",
+        "act_summary": "* Create a unique ring using vintage coins from around the world\n* Beginner-friendly workshop with step-by-step guidance from skilled instructors\n* Popular activity for couples and friends, including matching pair ring making\n* Take home your handcrafted ring on the same day as a memorable Kyoto souvenir",
+        "act_detail": null,
+        "category_name": "Workshops",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/rv2upxxme3oeimmzyyup.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "202375",
+            "request_id": "bfa0f551-8ddd-410f-b654-7a6604018bd8"
+          },
+          "object_id": "100_202375"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/202375-kyoto-vintage-ring-making-workshop/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto: Gion Hidden Gems & Geisha Culture Tour",
+        "location": "35.0037816,135.777245",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "1.2K+ reviews",
+          "booked": "10K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 16.25",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 148681,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "- Chance to Spot a Geisha\n- Visit a 1,000-Year-Old Shrine\n- See Edo-Period Townhouses\n- Get Local Tips & Recommendations\n- Explore quiet lanes and hidden gems",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/cag4dmwoyxegjjolg2n7.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "148681",
+            "request_id": "bfa0f551-8ddd-410f-b654-7a6604018bd8"
+          },
+          "object_id": "100_148681"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/148681-kyoto-geisha-gion-history-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "1-Hour Geisha/Maiko Show in Kyoto",
+        "location": "34.9967009,135.7711022",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.7",
+          "max_star": "5",
+          "text": null,
+          "count": "197 reviews",
+          "booked": "3K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 69.49",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 152375,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "Rare Maiko Performance – See an exclusive show by a Maiko, one of only ~40 remaining in Kyoto.\n\nAuthentic Geisha World – Experience the unique cultural tradition that only Kyoto offers.\n\nComplete Experience – Includes a 1-hour show, green tea, and a professional guide/translator.\n\nCultural Treasure – A must-see opportunity to witness a disappearing tradition.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/xzdao60erizr4bs1gwuq.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "152375",
+            "request_id": "bfa0f551-8ddd-410f-b654-7a6604018bd8"
+          },
+          "object_id": "100_152375"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/152375-1-hour-geisha-show-performance-in-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "food_data": null,
+    "events_data": null,
+    "activity_data": [
+      {
+        "title": "Kyoto: Gion Make Your Own Chopsticks with Engraving Option",
+        "location": "34.9988893,135.7776402",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "3.3K+ reviews",
+          "booked": "10K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 8.15",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 181896,
+        "vertical_type": 100,
+        "sub_title": "Workshops · Kyoto",
+        "act_summary": "* Craft your own beautiful chopsticks using traditional Japanese techniques with expert local guidance\n\n* Choose from various natural woods and personalize your pair with optional name engraving (Additional charge)\n\n* Choice of wood (10 types available; 2 are included in the price, and the remaining types require an additional charge of JPY 1,000-5,000)\n\n* Enjoy a fun, hands-on cultural experience perfect for families, couples, and friends\n\n* Learn the meaning of Japanese craftsmanship in a relaxed Kyoto studio setting\n\n* Take home your handmade chopsticks — a unique Kyoto souvenir to cherish forever",
+        "act_detail": null,
+        "category_name": "Workshops",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/rcaazv9gdrtg6kyixzu0.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "181896",
+            "request_id": "bfa0f551-8ddd-410f-b654-7a6604018bd8"
+          },
+          "object_id": "100_181896"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/181896-crafting-your-own-chopsticks-experience-in-gion-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto: Ring Making Workshop : Vintage Japanese Coin Ring",
+        "location": "35.00278070,135.75989160",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "1.7K+ reviews",
+          "booked": "7K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 18.05",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 202375,
+        "vertical_type": 100,
+        "sub_title": "Workshops · Kyoto",
+        "act_summary": "* Create a unique ring using vintage coins from around the world\n* Beginner-friendly workshop with step-by-step guidance from skilled instructors\n* Popular activity for couples and friends, including matching pair ring making\n* Take home your handcrafted ring on the same day as a memorable Kyoto souvenir",
+        "act_detail": null,
+        "category_name": "Workshops",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/rv2upxxme3oeimmzyyup.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "15",
+            "product_id": "202375",
+            "request_id": "bfa0f551-8ddd-410f-b654-7a6604018bd8"
+          },
+          "object_id": "100_202375"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/202375-kyoto-vintage-ring-making-workshop/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto: Gion Hidden Gems & Geisha Culture Tour",
+        "location": "35.0037816,135.777245",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "1.2K+ reviews",
+          "booked": "10K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 16.25",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 148681,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "- Chance to Spot a Geisha\n- Visit a 1,000-Year-Old Shrine\n- See Edo-Period Townhouses\n- Get Local Tips & Recommendations\n- Explore quiet lanes and hidden gems",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/cag4dmwoyxegjjolg2n7.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "148681",
+            "request_id": "bfa0f551-8ddd-410f-b654-7a6604018bd8"
+          },
+          "object_id": "100_148681"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/148681-kyoto-geisha-gion-history-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "1-Hour Geisha/Maiko Show in Kyoto",
+        "location": "34.9967009,135.7711022",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.7",
+          "max_star": "5",
+          "text": null,
+          "count": "197 reviews",
+          "booked": "3K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 69.49",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 152375,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "Rare Maiko Performance – See an exclusive show by a Maiko, one of only ~40 remaining in Kyoto.\n\nAuthentic Geisha World – Experience the unique cultural tradition that only Kyoto offers.\n\nComplete Experience – Includes a 1-hour show, green tea, and a professional guide/translator.\n\nCultural Treasure – A must-see opportunity to witness a disappearing tradition.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/xzdao60erizr4bs1gwuq.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "152375",
+            "request_id": "bfa0f551-8ddd-410f-b654-7a6604018bd8"
+          },
+          "object_id": "100_152375"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/152375-1-hour-geisha-show-performance-in-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "search_handle": {
+      "language": "en_US",
+      "currency": "USD",
+      "userQuery": "Kyoto Japanese tea ceremony experience",
+      "newSearchIndex": {
+        "indexName": "search_vertical_ttd_v3_alias",
+        "leafCategoryIds": [
+          118,
+          146,
+          564,
+          514,
+          515,
+          475,
+          318,
+          511,
+          274,
+          517,
+          518,
+          519,
+          520,
+          123,
+          124,
+          125,
+          127,
+          128,
+          129,
+          130,
+          131,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          178,
+          340,
+          368,
+          418,
+          419,
+          479,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          522,
+          559,
+          577,
+          578,
+          579,
+          580,
+          581,
+          585,
+          629,
+          642,
+          644,
+          645,
+          646
+        ]
+      },
+      "productTags": [
+        "tea ceremony"
+      ],
+      "algoTagIds": [
+        "400007578"
+      ],
+      "algoTags": [],
+      "recognitionCategories": [],
+      "ttdTagIds": [
+        "7959"
+      ],
+      "countryIds": [
+        1012
+      ],
+      "provinceIds": [
+        5938
+      ],
+      "cityIds": [],
+      "poiId": null,
+      "poiName": null,
+      "departureIds": null,
+      "departureType": null,
+      "lat": 0,
+      "lon": 0,
+      "radius": 10000,
+      "startDate": "2027-03-31",
+      "endDate": "2027-04-06",
+      "priceFrom": 0,
+      "priceTo": 99999999.99,
+      "budgetLevelTags": null,
+      "serviceUserGroupTags": null,
+      "dietaryPreferenceTags": null,
+      "serviceLangTags": null,
+      "serviceFiltersTags": null,
+      "durationTag": "nature_0to3_hours",
+      "departureTimeTag": null,
+      "instantConfirm": null,
+      "sort": "most_relevant",
+      "srcCountryId": -1,
+      "srcCityId": -1,
+      "countryCode": "",
+      "offset": 0,
+      "size": 4,
+      "requestId": "bfa0f551-8ddd-410f-b654-7a6604018bd8",
+      "hotelName": null,
+      "starLevel": null,
+      "reviewScore": null,
+      "hotelTagIds": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "roomNumber": 1,
+      "adultNum": 2,
+      "childNum": 0,
+      "districtAreaIds": null,
+      "placeIds": null
+    },
+    "search_meta": {
+      "match_type": "STRICT",
+      "selected_tier": 0,
+      "relaxations": [],
+      "sub_categories": {
+        "tour_experience": {
+          "match_type": "STRICT",
+          "selected_tier": 0,
+          "route": "GENERAL",
+          "attempts": 1,
+          "tier_funnel": [
+            {
+              "tier": 0,
+              "count": 144,
+              "cost_ms": 28
+            }
+          ],
+          "relaxations": []
+        }
+      }
+    },
+    "location": null
+  },
+  "kyoto-walk": {
+    "ttd_data": null,
+    "attractions_data": null,
+    "tour_experience_data": [
+      {
+        "title": "1-Hour Geisha/Maiko Show in Kyoto",
+        "location": "34.9967009,135.7711022",
+        "address": null,
+        "distance": "966m",
+        "review": {
+          "star": "4.7",
+          "max_star": "5",
+          "text": null,
+          "count": "197 reviews",
+          "booked": "3K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 69.49",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 152375,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "Rare Maiko Performance – See an exclusive show by a Maiko, one of only ~40 remaining in Kyoto.\n\nAuthentic Geisha World – Experience the unique cultural tradition that only Kyoto offers.\n\nComplete Experience – Includes a 1-hour show, green tea, and a professional guide/translator.\n\nCultural Treasure – A must-see opportunity to witness a disappearing tradition.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/xzdao60erizr4bs1gwuq.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "152375",
+            "request_id": "045fb4d4-9f66-4584-9fda-cb18887f4fcd"
+          },
+          "object_id": "100_152375"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/152375-1-hour-geisha-show-performance-in-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto: Gion Hidden Gems & Geisha Culture Tour",
+        "location": "35.0037816,135.777245",
+        "address": null,
+        "distance": "0m",
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "1.2K+ reviews",
+          "booked": "10K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 13.09",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 148681,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "- Chance to Spot a Geisha\n- Visit a 1,000-Year-Old Shrine\n- See Edo-Period Townhouses\n- Get Local Tips & Recommendations\n- Explore quiet lanes and hidden gems",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/cag4dmwoyxegjjolg2n7.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "148681",
+            "request_id": "045fb4d4-9f66-4584-9fda-cb18887f4fcd"
+          },
+          "object_id": "100_148681"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/148681-kyoto-geisha-gion-history-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto: Nijo Castle Admission / World Heritage Guided Tour",
+        "location": "35.0140076,135.7485369",
+        "address": null,
+        "distance": "2.9km",
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "122 reviews",
+          "booked": "1K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 41.69",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 148498,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "- Small group of up to 10 people\n- Admission included\n- Shogun vs. Emperor rivalry\n- Photogenic gardens with colorful koi carp swimming through the castle’s moats\n- Guided walk marking the end of the Shogunate",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/iqkcrts3tkxlhj7dk7mr.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "148498",
+            "request_id": "045fb4d4-9f66-4584-9fda-cb18887f4fcd"
+          },
+          "object_id": "100_148498"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/148498-kyoto-nijo-castle-history-walking-tour-world-heritage/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto Gion Night Guided Walking Tour (3 Hours)",
+        "location": "35.003783967055696,135.77507268453013",
+        "address": null,
+        "distance": "198m",
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "798 reviews",
+          "booked": "7K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 25.15",
+          "selling_price_format": "From {price}"
+        },
+        "vertical_id": 87999,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "* Explore the wonderfully atmospheric Gion district at night\n* Gain a deeper understanding of Japan’s culture and traditions from a friendly and knowledgeable guide\n* Wander around traditional backstreets, visit offbeat temples and shrines, and even get to catch a glimpse of a geiko or maiko (apprentice geiko)\n* Book at any time – last-minute bookings are accepted!",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/koyrtpgwclr0ava3vvvu.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "87999",
+            "request_id": "045fb4d4-9f66-4584-9fda-cb18887f4fcd"
+          },
+          "object_id": "100_87999"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/87999-kyoto-gion-night-walk-small-group-guided-tour-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "food_data": null,
+    "events_data": null,
+    "activity_data": [
+      {
+        "title": "1-Hour Geisha/Maiko Show in Kyoto",
+        "location": "34.9967009,135.7711022",
+        "address": null,
+        "distance": "966m",
+        "review": {
+          "star": "4.7",
+          "max_star": "5",
+          "text": null,
+          "count": "197 reviews",
+          "booked": "3K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 69.49",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 152375,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "Rare Maiko Performance – See an exclusive show by a Maiko, one of only ~40 remaining in Kyoto.\n\nAuthentic Geisha World – Experience the unique cultural tradition that only Kyoto offers.\n\nComplete Experience – Includes a 1-hour show, green tea, and a professional guide/translator.\n\nCultural Treasure – A must-see opportunity to witness a disappearing tradition.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/xzdao60erizr4bs1gwuq.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "152375",
+            "request_id": "045fb4d4-9f66-4584-9fda-cb18887f4fcd"
+          },
+          "object_id": "100_152375"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/152375-1-hour-geisha-show-performance-in-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto: Gion Hidden Gems & Geisha Culture Tour",
+        "location": "35.0037816,135.777245",
+        "address": null,
+        "distance": "0m",
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "1.2K+ reviews",
+          "booked": "10K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 13.09",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 148681,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "- Chance to Spot a Geisha\n- Visit a 1,000-Year-Old Shrine\n- See Edo-Period Townhouses\n- Get Local Tips & Recommendations\n- Explore quiet lanes and hidden gems",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/cag4dmwoyxegjjolg2n7.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "148681",
+            "request_id": "045fb4d4-9f66-4584-9fda-cb18887f4fcd"
+          },
+          "object_id": "100_148681"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/148681-kyoto-geisha-gion-history-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto: Nijo Castle Admission / World Heritage Guided Tour",
+        "location": "35.0140076,135.7485369",
+        "address": null,
+        "distance": "2.9km",
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "122 reviews",
+          "booked": "1K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 41.69",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 148498,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "- Small group of up to 10 people\n- Admission included\n- Shogun vs. Emperor rivalry\n- Photogenic gardens with colorful koi carp swimming through the castle’s moats\n- Guided walk marking the end of the Shogunate",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/iqkcrts3tkxlhj7dk7mr.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "148498",
+            "request_id": "045fb4d4-9f66-4584-9fda-cb18887f4fcd"
+          },
+          "object_id": "100_148498"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/148498-kyoto-nijo-castle-history-walking-tour-world-heritage/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Kyoto Gion Night Guided Walking Tour (3 Hours)",
+        "location": "35.003783967055696,135.77507268453013",
+        "address": null,
+        "distance": "198m",
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "798 reviews",
+          "booked": "7K+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 25.15",
+          "selling_price_format": "From {price}"
+        },
+        "vertical_id": 87999,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Kyoto",
+        "act_summary": "* Explore the wonderfully atmospheric Gion district at night\n* Gain a deeper understanding of Japan’s culture and traditions from a friendly and knowledgeable guide\n* Wander around traditional backstreets, visit offbeat temples and shrines, and even get to catch a glimpse of a geiko or maiko (apprentice geiko)\n* Book at any time – last-minute bookings are accepted!",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Kyoto",
+        "cover_url": "https://res.klook.com/image/upload/activities/koyrtpgwclr0ava3vvvu.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "87999",
+            "request_id": "045fb4d4-9f66-4584-9fda-cb18887f4fcd"
+          },
+          "object_id": "100_87999"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/87999-kyoto-gion-night-walk-small-group-guided-tour-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "search_handle": {
+      "language": "en_US",
+      "currency": "USD",
+      "userQuery": "Kyoto Gion walking tour",
+      "newSearchIndex": {
+        "indexName": "search_vertical_ttd_v3_alias",
+        "leafCategoryIds": [
+          118,
+          146,
+          564,
+          514,
+          515,
+          475,
+          318,
+          511,
+          274,
+          517,
+          518,
+          519,
+          520,
+          123,
+          124,
+          125,
+          127,
+          128,
+          129,
+          130,
+          131,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          178,
+          340,
+          368,
+          418,
+          419,
+          479,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          522,
+          559,
+          577,
+          578,
+          579,
+          580,
+          581,
+          585,
+          629,
+          642,
+          644,
+          645,
+          646
+        ]
+      },
+      "productTags": [
+        "walking tour"
+      ],
+      "algoTagIds": [],
+      "algoTags": [],
+      "recognitionCategories": [
+        150,
+        493
+      ],
+      "ttdTagIds": [],
+      "countryIds": [
+        1012
+      ],
+      "provinceIds": [
+        5938
+      ],
+      "cityIds": [
+        30
+      ],
+      "poiId": [
+        50294481
+      ],
+      "poiName": null,
+      "departureIds": null,
+      "departureType": null,
+      "lat": 0,
+      "lon": 0,
+      "radius": 5000,
+      "startDate": "2027-03-31",
+      "endDate": "2027-04-06",
+      "priceFrom": 0,
+      "priceTo": 99999999.99,
+      "budgetLevelTags": null,
+      "serviceUserGroupTags": null,
+      "dietaryPreferenceTags": null,
+      "serviceLangTags": null,
+      "serviceFiltersTags": null,
+      "durationTag": null,
+      "departureTimeTag": null,
+      "instantConfirm": null,
+      "sort": "most_relevant",
+      "srcCountryId": -1,
+      "srcCityId": -1,
+      "countryCode": "",
+      "offset": 0,
+      "size": 4,
+      "requestId": "045fb4d4-9f66-4584-9fda-cb18887f4fcd",
+      "hotelName": null,
+      "starLevel": null,
+      "reviewScore": null,
+      "hotelTagIds": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "roomNumber": 1,
+      "adultNum": 2,
+      "childNum": 0,
+      "districtAreaIds": null,
+      "placeIds": null
+    },
+    "search_meta": {
+      "match_type": "STRICT",
+      "selected_tier": 0,
+      "relaxations": [],
+      "sub_categories": {
+        "tour_experience": {
+          "match_type": "STRICT",
+          "selected_tier": 0,
+          "route": "POI_ID",
+          "attempts": 1,
+          "tier_funnel": [
+            {
+              "tier": 0,
+              "count": 80,
+              "cost_ms": 17
+            }
+          ],
+          "relaxations": []
+        }
+      }
+    },
+    "location": {
+      "type": "poi",
+      "location": "35.0037816,135.777245",
+      "poi_id": 50294481,
+      "poi_name": "Gion"
+    }
+  },
+  "tokyo-personal": {
+    "ttd_data": null,
+    "attractions_data": null,
+    "tour_experience_data": [
+      {
+        "title": "Imperial Palace East Garden and Heritage of Edo Castle Private Tour",
+        "location": "35.685175,139.7527995",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "26 reviews",
+          "booked": "500+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 78.95",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 137539,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "- Explore the Palace's East Gardens to enjoy beautiful seasonal flowers and walk through the grounds of the old Shogun's castle.\n- Take a stroll around Nihonbashi, Tokyo's bustling commercial hub with over 400 years of history.\n- Since it’s a completely private tour, you can explore freely and at your own pace.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": false,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/c5ooxqhsyoelw9lbh3jq.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "137539",
+            "request_id": "ff580226-c4a6-40f3-aa0e-09c2eb13b41d"
+          },
+          "object_id": "100_137539"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/137539-imperial-palace-east-garden-and-heritage-of-edo-castle-private-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=ff580226-c4a6-40f3-aa0e-09c2eb13b41d",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo Private & Personalized City Highlights and Hidden Gems Tour",
+        "location": "35.6619707,139.703795",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "4 reviews",
+          "booked": "50+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 53.25",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 95833,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "- Your adventure will be fully personalized by your knowledgeable host, reflecting your interests.\n- You could delve into the urban pulse of Shibuya, exploring its iconic landmarks and hidden side streets.\n- Choose to immerse yourself in the vibrant Harajuku district, known for its eclectic markets and unique street food.\n- You may prefer to wander through the historical streets of Asakusa and Ueno, filled with cultural landmarks and trendy cafes.\n- Consider exploring Yanaka, a 'town within the city', blending traditional shops with creative modern establishments.\n- Opt to savor authentic Japanese cuisine at a local eatery, indulging in delectable sushi, ramen, or a refreshing cup of matcha tea.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/o6jrasdu9opwcemhizoe.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "95833",
+            "request_id": "ff580226-c4a6-40f3-aa0e-09c2eb13b41d"
+          },
+          "object_id": "100_95833"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/95833-tokyo-private-half-day-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=ff580226-c4a6-40f3-aa0e-09c2eb13b41d",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo Private Tour: Custom Highlights with a Licensed Guide",
+        "location": "35.6763976,139.69932589999996",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "22 reviews",
+          "booked": "300+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 254.19",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 25686,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "- Design your own Tokyo adventure — tell your guide what interests you most, and they'll tailor the route accordingly\n- Your private guide shares insider knowledge you won't find in any guidebook — from local legends to hidden gems\n- Learn Tokyo through the eyes of a passionate local — not just facts, but stories that bring each site to life\n- Your guide can take you from the historic Imperial Palace and Meiji Shrine, to the lively Tsukiji fish market, and even Harajuku's trendy Takeshita Street — the choice is yours\n- Connect with the living culture of Tokyo — from centuries-old shrine rituals to the etiquette of a local tea house, your guide brings real cultural context to every stop, not just photo opportunities",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/mgssvq88im3scveb86eg.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "25686",
+            "request_id": "ff580226-c4a6-40f3-aa0e-09c2eb13b41d"
+          },
+          "object_id": "100_25686"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/25686-private-tokyo-half-full-day-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=ff580226-c4a6-40f3-aa0e-09c2eb13b41d",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo 4-Hr Private Tour: Meiji Shrine & Shibuya",
+        "location": "35.6763976,139.6993259",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": null,
+          "max_star": null,
+          "text": null,
+          "count": null,
+          "booked": "",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 104.20",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 137625,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "*  Enjoy  4-hour private tour with complete peace of mind!\n* In addition to Meiji Shrine, you can choose one location from captivating historical spots such as Shibuya, Shinjuku, Harajuku, or Omotesando, and we will guide you there.\n* Discover trivia and insights from your guide that aren’t found in guidebooks.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": false,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/x0y8y61ulxjqb1xfv6hk.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "137625",
+            "request_id": "ff580226-c4a6-40f3-aa0e-09c2eb13b41d"
+          },
+          "object_id": "100_137625"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/137625-tokyo-meiji-shrine-asakusa-4h-private-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=ff580226-c4a6-40f3-aa0e-09c2eb13b41d",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "food_data": null,
+    "events_data": null,
+    "activity_data": [
+      {
+        "title": "Imperial Palace East Garden and Heritage of Edo Castle Private Tour",
+        "location": "35.685175,139.7527995",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.8",
+          "max_star": "5",
+          "text": null,
+          "count": "26 reviews",
+          "booked": "500+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 78.95",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 137539,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "- Explore the Palace's East Gardens to enjoy beautiful seasonal flowers and walk through the grounds of the old Shogun's castle.\n- Take a stroll around Nihonbashi, Tokyo's bustling commercial hub with over 400 years of history.\n- Since it’s a completely private tour, you can explore freely and at your own pace.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": false,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/c5ooxqhsyoelw9lbh3jq.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "137539",
+            "request_id": "ff580226-c4a6-40f3-aa0e-09c2eb13b41d"
+          },
+          "object_id": "100_137539"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/137539-imperial-palace-east-garden-and-heritage-of-edo-castle-private-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=ff580226-c4a6-40f3-aa0e-09c2eb13b41d",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo Private & Personalized City Highlights and Hidden Gems Tour",
+        "location": "35.6619707,139.703795",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "5.0",
+          "max_star": "5",
+          "text": null,
+          "count": "4 reviews",
+          "booked": "50+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 53.25",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 95833,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "- Your adventure will be fully personalized by your knowledgeable host, reflecting your interests.\n- You could delve into the urban pulse of Shibuya, exploring its iconic landmarks and hidden side streets.\n- Choose to immerse yourself in the vibrant Harajuku district, known for its eclectic markets and unique street food.\n- You may prefer to wander through the historical streets of Asakusa and Ueno, filled with cultural landmarks and trendy cafes.\n- Consider exploring Yanaka, a 'town within the city', blending traditional shops with creative modern establishments.\n- Opt to savor authentic Japanese cuisine at a local eatery, indulging in delectable sushi, ramen, or a refreshing cup of matcha tea.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/o6jrasdu9opwcemhizoe.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "95833",
+            "request_id": "ff580226-c4a6-40f3-aa0e-09c2eb13b41d"
+          },
+          "object_id": "100_95833"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/95833-tokyo-private-half-day-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=ff580226-c4a6-40f3-aa0e-09c2eb13b41d",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo Private Tour: Custom Highlights with a Licensed Guide",
+        "location": "35.6763976,139.69932589999996",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": "4.9",
+          "max_star": "5",
+          "text": null,
+          "count": "22 reviews",
+          "booked": "300+ booked",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 254.19",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 25686,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "- Design your own Tokyo adventure — tell your guide what interests you most, and they'll tailor the route accordingly\n- Your private guide shares insider knowledge you won't find in any guidebook — from local legends to hidden gems\n- Learn Tokyo through the eyes of a passionate local — not just facts, but stories that bring each site to life\n- Your guide can take you from the historic Imperial Palace and Meiji Shrine, to the lively Tsukiji fish market, and even Harajuku's trendy Takeshita Street — the choice is yours\n- Connect with the living culture of Tokyo — from centuries-old shrine rituals to the etiquette of a local tea house, your guide brings real cultural context to every stop, not just photo opportunities",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": true,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/mgssvq88im3scveb86eg.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "25686",
+            "request_id": "ff580226-c4a6-40f3-aa0e-09c2eb13b41d"
+          },
+          "object_id": "100_25686"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/25686-private-tokyo-half-full-day-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=ff580226-c4a6-40f3-aa0e-09c2eb13b41d",
+        "feature_reviews": null,
+        "hotel_info": null
+      },
+      {
+        "title": "Tokyo 4-Hr Private Tour: Meiji Shrine & Shibuya",
+        "location": "35.6763976,139.6993259",
+        "address": null,
+        "distance": null,
+        "review": {
+          "star": null,
+          "max_star": null,
+          "text": null,
+          "count": null,
+          "booked": "",
+          "number": null,
+          "dot": " • ",
+          "new_style": false
+        },
+        "price": {
+          "selling_price": "US$ 104.20",
+          "selling_price_format": "{selling_price}"
+        },
+        "vertical_id": 137625,
+        "vertical_type": 100,
+        "sub_title": "Day trips · Tokyo",
+        "act_summary": "*  Enjoy  4-hour private tour with complete peace of mind!\n* In addition to Meiji Shrine, you can choose one location from captivating historical spots such as Shibuya, Shinjuku, Harajuku, or Omotesando, and we will guide you there.\n* Discover trivia and insights from your guide that aren’t found in guidebooks.",
+        "act_detail": null,
+        "category_name": "Day trips",
+        "instant": false,
+        "city_name": "Tokyo",
+        "cover_url": "https://res.klook.com/image/upload/activities/x0y8y61ulxjqb1xfv6hk.jpg",
+        "track_info": {
+          "extra": {
+            "sub_category_id": "2",
+            "product_id": "137625",
+            "request_id": "ff580226-c4a6-40f3-aa0e-09c2eb13b41d"
+          },
+          "object_id": "100_137625"
+        },
+        "cta_text": "Book on Klook",
+        "deep_link": "https://www.klook.com/en-US/activity/137625-tokyo-meiji-shrine-asakusa-4h-private-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=ff580226-c4a6-40f3-aa0e-09c2eb13b41d",
+        "feature_reviews": null,
+        "hotel_info": null
+      }
+    ],
+    "search_handle": {
+      "language": "en_US",
+      "currency": "USD",
+      "userQuery": "Tokyo private personalized walking tour vintage shopping cafes",
+      "newSearchIndex": {
+        "indexName": "search_vertical_ttd_v3_alias",
+        "leafCategoryIds": [
+          118,
+          146,
+          564,
+          514,
+          515,
+          475,
+          318,
+          511,
+          274,
+          517,
+          518,
+          519,
+          520,
+          123,
+          124,
+          125,
+          127,
+          128,
+          129,
+          130,
+          131,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          178,
+          340,
+          368,
+          418,
+          419,
+          479,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          522,
+          559,
+          577,
+          578,
+          579,
+          580,
+          581,
+          585,
+          629,
+          642,
+          644,
+          645,
+          646
+        ]
+      },
+      "productTags": [
+        "walking tour",
+        "shopping"
+      ],
+      "algoTagIds": [],
+      "algoTags": [],
+      "recognitionCategories": [
+        150,
+        493,
+        517,
+        520,
+        274,
+        519,
+        511,
+        518
+      ],
+      "ttdTagIds": [],
+      "countryIds": [
+        1012
+      ],
+      "provinceIds": [],
+      "cityIds": [
+        28
+      ],
+      "poiId": null,
+      "poiName": null,
+      "departureIds": null,
+      "departureType": null,
+      "lat": 0,
+      "lon": 0,
+      "radius": 10000,
+      "startDate": "2027-03-26",
+      "endDate": "2027-03-30",
+      "priceFrom": 0,
+      "priceTo": 99999999.99,
+      "budgetLevelTags": null,
+      "serviceUserGroupTags": null,
+      "dietaryPreferenceTags": null,
+      "serviceLangTags": null,
+      "serviceFiltersTags": null,
+      "durationTag": null,
+      "departureTimeTag": null,
+      "instantConfirm": null,
+      "sort": "most_relevant",
+      "srcCountryId": -1,
+      "srcCityId": -1,
+      "countryCode": "",
+      "offset": 0,
+      "size": 4,
+      "requestId": "ff580226-c4a6-40f3-aa0e-09c2eb13b41d",
+      "hotelName": null,
+      "starLevel": null,
+      "reviewScore": null,
+      "hotelTagIds": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "roomNumber": 1,
+      "adultNum": 2,
+      "childNum": 0,
+      "districtAreaIds": null,
+      "placeIds": null
+    },
+    "search_meta": {
+      "match_type": "STRICT",
+      "selected_tier": 0,
+      "relaxations": [],
+      "sub_categories": {
+        "tour_experience": {
+          "match_type": "STRICT",
+          "selected_tier": 0,
+          "route": "GENERAL",
+          "attempts": 1,
+          "tier_funnel": [
+            {
+              "tier": 0,
+              "count": 29,
+              "cost_ms": 18
+            }
+          ],
+          "relaxations": []
+        }
+      }
+    },
+    "location": null
+  }
+}

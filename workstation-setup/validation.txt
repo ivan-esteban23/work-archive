@@ -1,0 +1,9 @@
+Validation: 2026-10-12
+PASS Bash syntax and no-change default plan.
+PASS Embedded Python syntax.
+PASS Live download-only: official registry, all four GitHub releases/assets, manifest IDs, nonempty JavaScript.
+PASS Isolated vault application: 20 enabled plugins, safeMode=false, unrelated config and existing data.json preserved, pre-change backup verified.
+PASS Injected apply failure: changed plugins/config restored.
+PASS Concurrent configuration change: aborted, user edit preserved.
+Not executed: system package installs, Qoder installer, AM sync/app installs, SSH/firewall changes.
+Not tested: plugin loading inside Obsidian, Qoder authentication, remote SSH login.

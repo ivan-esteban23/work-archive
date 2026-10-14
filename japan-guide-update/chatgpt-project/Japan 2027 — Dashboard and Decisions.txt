@@ -1,0 +1,496 @@
+JAPAN 2027 — DASHBOARD AND DECISIONS — PROJECT SOURCE (PART A OF 6)
+
+Exported: 2026-10-07T14:18:27-03:00
+Source: live local Obsidian Japan guide (same snapshot as the complete export).
+
+Dashboard, session recaps, priorities, photography wishlist. Read this file first.
+
+This is a snapshot for a ChatGPT project, not a live connection to Obsidian.
+Later vault edits require a refreshed export. The current dashboard and latest
+session recap live in Part A; newer notes and the user's latest instructions
+take precedence over everything here.
+
+All source note content and external URLs are preserved. Obsidian [[wiki links]]
+refer to other named source notes; they are not public web links.
+No Korea notes, plugin settings, account credentials, or backup copies are included.
+Map content holds search queries and starter coordinates; do not assume every
+query is a verified venue or every coordinate is an entrance.
+
+Existing dates, budgets, destinations, shopping ideas, and tour shortlists retain
+their original provisional status. An activity appearing here is not a booking,
+and displayed prices are not confirmed 2027 quotes. Follow the user's current
+choices and verify time-sensitive information before making recommendations.
+
+SIBLING FILES (upload all six together):
+  - Japan 2027 — Dashboard and Decisions.txt <-- this file
+  - Japan 2027 — Itinerary and Pocket Cards.txt
+  - Japan 2027 — City Chapters and Regions.txt
+  - Japan 2027 — Shopping Food and Experiences.txt
+  - Japan 2027 — Planning Essentials and Seasons.txt
+  - Japan 2027 — Maps and Routes.txt
+
+SOURCE INDEX (original export numbering preserved)
+
+1. Japan 2027 — Start Here.md
+2. Japan 2027 — Session Recap 2026-10-07.md
+25. Japan 2027 — My Five Things.md
+35. Japan 2027 — Photography and Filming Wishlist.md
+58. Japan 2027 — Session Recap 2026-10-06.md
+
+==============================================================================
+BEGIN SOURCE 1: Japan 2027 — Start Here.md
+==============================================================================
+
+# 🌸 Japan 2027 — Start Here
+
+**Klook for other cities:** [[Japan 2027 — Klook More Cities and Islands|Fukuoka, Nagoya, Nara, Osaka and more — 31 tour/experience options]]
+
+**Klook shortlist:** [[Japan 2027 — Klook Tours and Experiences|12 tours and two craft workshops — prices, fit, and booking links]]
+
+**Latest recap:** [[Japan 2027 — Session Recap 2026-10-07|7 October continuation]] · **Capture and review:** [[Japan 2027 — Quick Capture|Expense, place, memory forms and Japanese flashcards]]
+
+**Nagoya chapter:** [[Japan 2027 — Nagoya Chapter|Food, Osu shopping, records, city sights, transport, and Maps]] · [[Japan 2027 — Nagoya Pocket Routes|Three flexible routes]].
+
+**Okinawa chapter:** [[Japan 2027 — Okinawa Chapter|Naha, coasts, food, crafts, transport, and Maps]] · [[Japan 2027 — Okinawa Pocket Routes|Four flexible routes]].
+
+**Nara chapter:** [[Japan 2027 — Nara Chapter|Temples, park, cafés, crafts, transport, and Maps]] · [[Japan 2027 — Nara Pocket Routes|Three day-trip choices]].
+
+**Sapporo chapter:** [[Japan 2027 — Sapporo Chapter|Food, parks, shopping, Otaru/Jozankei, airport access, and Maps]] · [[Japan 2027 — Sapporo Pocket Routes|Four flexible pocket routes]].
+
+**Fukuoka chapter:** [[Japan 2027 — Fukuoka Chapter|Food, yatai, shopping, sightseeing, airport access, and Maps]] · [[Japan 2027 — Fukuoka Pocket Routes|Three flexible pocket routes]].
+
+**Island chapter:** [[Japan 2027 — Best Islands|Best islands for your interests, seasonal comparisons, and route choices]].
+
+**Explore Osaka:** [[Japan 2027 — Osaka Chapter|The full Osaka chapter]] · [[Japan 2027 — Osaka Pocket Routes|Three flexible pocket routes]]. Shopping, food, filming, Minoh, and seasonal route alternatives.
+
+**Other seasons:** [[Japan 2027 — Seasonal Guides|Summer guide, November autumn guide, and November-versus-May comparison]]
+
+**Hiking and Fuji:** [[Japan 2027 — Hiking and Mount Fuji|Fuji viewpoints, Mount Takao, and Kyoto hiking options]]
+
+**Gifts for her:** [[Japan 2027 — Gifts for Her|Sweets, fashion, and beauty — US$200 gift plan]]
+
+**Clothing links and your sizes:** [[Japan 2027 — Clothing to Browse Online|👕 T-shirts, shirts, trousers, flannel, and denim jackets]]
+
+**Shopping shortlist:** [[Japan 2027 — Shopping Shortlist|🛍️ Priorities, Tamiya, and spending caps]]
+
+**Photography and filming:** [[Japan 2027 — Photography and Filming Wishlist|📷 Shot ideas, light, and permissions]]
+
+**Daily pocket cards:** [[Japan 2027 — Daily Pocket Cards|📱 Open a compact plan for each travel date]]
+
+**Resume tomorrow:** [[Japan 2027 — Session Recap 2026-10-06|🌙 Saved session recap and next steps]]
+
+**Saved map files and offline setup:** [[Japan 2027 — Saved Maps]]
+
+**Interactive maps:** [[Japan 2027 — Map View|🗺️ Tokyo and Kyoto/Uji pins]]
+
+**Maps:** [[Japan 2027 — Maps|📍 All destination, shop, café, and transport searches]]
+
+[[Japan Travel Guide 2027|📖 Full guide]] · [[Japan 2027 — Bookings|🎟️ Bookings]] · [[Japan 2027 — Today|📱 Today]]
+
+> [!info] Working plan · updated 6 October 2026
+> **Arrive in Japan 25 March → depart Japan 8 April 2027: 14 nights.** Tokyo 6 nights → Kyoto 6 nights → Tokyo 2 nights. These are proposed dates; the guide records no confirmed bookings. Departing Santiago on 25 March would produce a different stay length.
+
+## ✅ Your next three actions
+
+- [ ] Confirm traveler count, passport nationality, and whether the US$5,000 in-Japan ceiling is per person.
+- [ ] Compare flight itineraries by **local arrival/departure dates**, baggage, connections, and full price; compare Tokyo return with Osaka KIX departure.
+- [ ] Compare total hotel quotes for the resulting nights, including taxes, room requirements, station walks, and exact cancellation terms.
+
+Record confirmed choices in the full guide and actual reservations in [[Japan 2027 — Bookings]]. A research idea becomes a commitment only after you choose and book it.
+
+## 🧭 Open decisions in the order they matter
+
+| Decision | Current working assumption | What to record next |
+| --- | --- | --- |
+| Travelers and rooms | Budget example assumes one traveler | Actual traveler count, rooms, dietary or mobility needs |
+| Dates | 25 March–8 April in Japan | Flight dates and local arrival/departure times |
+| Return route | Return to Tokyo on 6 April | Compare total cost of KIX departure, including transfers and changed hotel nights |
+| Spending ceiling | US$5,000 in Japan; flights separate | Personal ceiling in CLP, currency conversion date and fees |
+| Hotel bases | Tokyo → Kyoto → Tokyo | Hotels, full-stay totals, check-in/out, cancellation cutoffs |
+| 4 April excursion | Uji, Nara, Osaka, or Kyoto | Choose one; Uji is the guide’s proposed matcha-focused option |
+| Paid experiences | Optional; no purchases recorded | Choose only priorities that fit the route and budget |
+
+## 💰 Budget you can use
+
+The full guide allocates **US$3,850 planned spending + US$1,150 reserve = US$5,000**, excluding international flights. This assumes one traveler, 14 nights, and up to 15 calendar days; it is an estimate, not a quote.
+
+- **Accommodation target:** US$2,100 total, averaging US$150 per night including applicable taxes and fees.
+- **Meals/drinks target:** US$600 across 15 days.
+- **Other planned costs:** US$1,150 for rail, local/airport transport, experiences, connectivity/insurance, shopping, and miscellaneous.
+- **Separate costs:** international flights and the guide’s separate equipment purchases.
+
+[[Japan Travel Guide 2027#💵 US$5,000 budget and affordable food plan|Open the category budget]] · [[Japan 2027 — Bookings#💰 Payment summary|Open actual booked commitments]]
+
+Before payment, compare **already committed costs + remaining estimated costs** with the ceiling. Include outstanding balances once; paid amounts are part of the reservation total. Convert each foreign-currency amount using a recorded rate and date, then allow for fees. Keep the reserve visible rather than assigning it to optional shopping.
+
+## 📅 When to revisit the plan
+
+| Trigger | Action | Where to record it |
+| --- | --- | --- |
+| Flights chosen | Rebuild hotel dates, transfer days, airports, and night count | Full guide and Bookings |
+| Each reservation | Save confirmation; record payment and exact cancellation time zone; set a calendar reminder | Bookings |
+| Early 2027 | Recheck blossom forecasts, attraction access, and seasonal event announcements | Full guide’s official schedule check |
+| Early February 2027, adjusted to the actual departure | Pre-travel consultation; review vaccines, medicines, and any health needs | Health |
+| Rail purchase | Confirm actual booking window, fare terms, baggage space, and ticket entry method | Bookings and Travel Essentials |
+| One week before departing Santiago | Recheck entry/transit requirements, connectivity, offline documents, and first hotel transfer | Travel Essentials |
+| Each evening in Japan | Choose tomorrow’s anchor, nearby meal, weather backup, and return plan | Today |
+
+This note does not send reminders. Dates calculated from current ticket rules remain provisional until the provider confirms the 2027 rule.
+
+## 📱 Open the right note
+
+| What you need | Note |
+| --- | --- |
+| Detailed routes, cafés, shopping, and equipment research | [[Japan Travel Guide 2027]] |
+| Reservations, balances, and cancellation deadlines | [[Japan 2027 — Bookings]] |
+| Entry preparation, luggage, arrival, and contacts | [[Japan 2027 — Travel Essentials]] |
+| Pre-travel appointment, vaccines, and staying well | [[Japan 2027 — Health]] |
+| One practical day’s plan | [[Japan 2027 — Today]] |
+| Everyday Japanese practice and phrase reminders | [[Japan 2027 — Japanese Practice]] |
+| The experiences that matter most | [[Japan 2027 — My Five Things]] |
+| Optional quieter outings | [[Japan 2027 — Hidden Gems]] |
+| Memories and favorite photographs | [[Japan 2027 — Memories]] |
+
+## 🌸 Keep the itinerary flexible
+
+Choose **one main outing per half-day**, with a nearby meal and a stop you can skip. Swap outdoor photo blocks using live weather and blossom reports while respecting reservations and hotel dates. The existing flexible days are 30 March, 3/5 April, and 7 April; protect packing time before transfers and departure.
+
+If matcha becomes the priority for 4 April, use [[Japan Travel Guide 2027#🍵 Uji — the strongest new option for your interests|the Uji route]] instead of the Nara/Osaka alternatives. Keep optional discoveries in [[Japan 2027 — Hidden Gems]] until you choose one.
+
+
+END SOURCE 1
+
+
+==============================================================================
+BEGIN SOURCE 2: Japan 2027 — Session Recap 2026-10-07.md
+==============================================================================
+
+# 🌙 Japan 2027 — Session recap · 7 October 2026
+
+[[Japan 2027 — Start Here|Dashboard]] · [[Japan 2027 — Session Recap 2026-10-06|Previous recap]]
+
+Resumed from the 6 October recap and inspected the current vault. Since that recap, the guide gained daily pocket cards, photo/film priorities, shopping and gift lists, seasonal comparisons, island research, and Osaka, Fukuoka, Sapporo, Nara, Okinawa, and Nagoya chapters. These remain options rather than confirmed additions to the route.
+
+## This continuation
+
+- Configured three QuickAdd capture forms: expenses, places, and memories. Instructions: [[Japan 2027 — Quick Capture]].
+- Added [[Japan 2027 — Expenses]] and [[Japan 2027 — Place Inbox]]; memories append under the existing journal's My entries heading.
+- Added [[Japan 2027 — Japanese Flashcards|22 Japanese flashcards]] from the current Japanese Practice note.
+- Checked note links, capture targets, configuration structure, and the deck's match to the installed card separator/tag settings. Live form submission and card review have not been tested inside Obsidian.
+- Preserved the earlier recap, existing notes, unrelated plugin settings, and current itinerary assumptions. A backup of changed files is in the workspace's `resume-20261007/backup` folder.
+
+## Pick up next time
+
+1. Reload Obsidian and try a capture; review a few Japanese cards.
+2. Confirm passport nationality, traveler count, and whether the US$5,000 ceiling is per person before narrowing flight/hotel plans.
+3. Choose a seasonal route and excursion; the main working stay is still provisionally 25 March–8 April 2027, Tokyo → Kyoto → Tokyo.
+4. Verify precise shop/café branches before extending the interactive maps. Add hotel pins after choosing hotels.
+5. Download the required offline areas on your iPhone using [[Japan 2027 — Saved Maps]].
+
+Tracker and Meta Bind remain available for later configuration. No reservations, payments, or notifications were created.
+
+## Klook continuation
+
+Searched Klook and added [[Japan 2027 — Klook Tours and Experiences|12 tour options and two craft workshops]] with displayed USD prices, rating snapshots, activity links, route-fit notes, and package checks. Linked the shortlist from Start Here, the full guide, and Bookings. These are research options; 2027 availability and final package pricing are unconfirmed. Dedicated tea-ceremony searches did not produce a clearly described ceremony. No booking or payment was made.
+
+## Klook — additional cities and islands
+
+Added [[Japan 2027 — Klook More Cities and Islands|31 additional tour/experience options]] for Fukuoka, Nagoya, Nara, Osaka, Sapporo/Otaru, Okinawa/Kerama, Kamakura/Enoshima, Hiroshima/Miyajima, Naoshima, Shodoshima, Yakushima, Ishigaki, and Miyako. Each has a Klook link, displayed USD price, rating snapshot, and package checks. No travel dates were applied to these searches; seasonal options were marked. Taketomi/Sado searches did not establish matching island tours. Linked the note from the original shortlist, dashboard, and relevant chapters. No booking, payment, or dated-route change was made.
+
+
+## Japan Trip project — sourced travel essay
+
+Prepared a separate UTF-8 text essay for manual upload to the ChatGPT project Japan Trip → Sources: `Japan 2027 — Travel Essay and Verified Sources.txt`, saved under `/home/ivanaguilera/Work/japan-guide-update/chatgpt-project/`. The essay develops the current 14-night Tokyo/Kyoto plan and compares optional cities and islands using 21 official tourism, local-government, and operator pages checked on 7 October 2026. Recommendations are labeled as judgments; future blossom timing, availability, and exact-date costs remain unconfirmed. The file was saved locally, not uploaded. No itinerary, reservation, or budget allocation was changed.
+
+
+END SOURCE 2
+
+
+==============================================================================
+BEGIN SOURCE 25: Japan 2027 — My Five Things.md
+==============================================================================
+
+# 💛 Japan 2027 — Five things I really want
+
+**Photography and filming:** [[Japan 2027 — Photography and Filming Wishlist|📷 Shot ideas, light, and permissions]]
+
+**Maps:** [[Japan 2027 — Maps|📍 All destination, shop, café, and transport searches]]
+
+[[Japan Travel Guide 2027|← Full travel guide]] · [[Japan 2027 — Today|📱 Today]]
+
+> A starting list based on your interests in the guide. Edit these until they feel like your own priorities. Use them to choose between optional outings, not to turn the trip into another checklist.
+
+## 🌸 1. Bring home a cherry-blossom photo I love
+- [ ] Spend an unhurried session photographing blossoms and choose one favorite image.
+- **Why:** sakura photography is the main reason for this trip.
+- **Opportunity:** a flexible Tokyo or Kyoto photo day, guided by actual bloom conditions.
+- **What counts:** a picture that captures how the trip felt—wide scenery, a reflection, a close-up, or falling petals if conditions allow.
+- **Favorite photo / location:** …
+
+## 🍵 2. Enjoy excellent matcha and find one tea to bring home
+- [ ] Try an unsweetened matcha preparation and choose a tea I would enjoy drinking at home.
+- **Why:** turn the matcha interest into both an experience and a lasting souvenir.
+- **Opportunity:** the planned Ginza café outing or a Kyoto tea stop; Uji is an optional alternative to research.
+- **What counts:** one enjoyable tasting and a thoughtful purchase—not visiting every tea shop.
+- **Tea / shop / tasting notes:** …
+
+## 👖 3. Find one clothing piece that reminds me of Japan
+- [ ] Choose one vintage or locally purchased piece that fits well and that I will actually wear.
+- **Why:** bring home something personal rather than buying souvenirs just to fill a bag.
+- **Opportunity:** an existing Tokyo or Kyoto shopping block.
+- **What counts:** one favorite piece within the shopping allowance; skip the purchase if nothing feels right.
+- **Item / shop / price:** …
+
+## 🍽️ 4. Have one meal worth remembering
+- [ ] Pick one meal to enjoy slowly, without rushing to the next attraction.
+- **Why:** make space for food as part of the experience, beyond everyday budget meals.
+- **Opportunity:** a relaxed Tokyo or Kyoto evening, or Osaka if that excursion is chosen.
+- **What counts:** a meal I genuinely enjoy; it does not need to be expensive or famous.
+- **Restaurant / dish / memory:** …
+
+## 🎥 5. Make one short film that feels like my trip
+- [ ] Collect a few clips during the journey and make a short personal travel film.
+- **Why:** connect the photography and content-creation plans with a finished memory.
+- **Opportunity:** small moments throughout the trip; editing can wait until home.
+- **What counts:** a suggested 30–90 second film combining blossoms, streets, food or tea, and one personal moment. Posting it is optional.
+- **Clips / final film link:** …
+
+## 🧭 When two plans compete
+
+1. Which one supports a priority I have not experienced yet?
+2. Is the opportunity time-sensitive, such as good blossoms or light?
+3. Does it fit today's energy, route, and remaining budget?
+
+Choose the better fit and let the other option go. Rest can be the best decision, too.
+
+**The one thing I would most regret missing:** …  
+**Something I am happy to skip:** …
+
+
+END SOURCE 25
+
+
+==============================================================================
+BEGIN SOURCE 35: Japan 2027 — Photography and Filming Wishlist.md
+==============================================================================
+
+# 📷 Japan 2027 — Photography and filming wishlist
+
+**Hiking and Fuji:** [[Japan 2027 — Hiking and Mount Fuji|Fuji viewpoints, Mount Takao, and Kyoto hiking options]]
+
+[[Japan 2027 — Start Here|← Dashboard]] · [[Japan 2027 — Daily Pocket Cards|Daily cards]] · [[Japan 2027 — Today|Today]] · [[Japan 2027 — Memories|Keep your favorites]]
+
+**Creative plan · added 7 October 2026.** Based on the proposed 25 March–8 April itinerary. Light suggestions are creative preferences, not promised conditions or entry times. Check access, weather, flowering, and local signs; choose one photo and one short sequence each day rather than collecting everything.
+
+## My three priorities
+
+- [ ] **A blossom photo I love:** one strong wide scene, reflection, or close detail.
+- [ ] **A matcha memory:** tea color, a cup in my hands, and a sentence about the taste.
+- [ ] **One 30–90 second travel film:** blossoms, city/temple details, tea or food, and a personal moment.
+
+These support [[Japan 2027 — My Five Things]]; a finished personal memory counts even if nothing is posted.
+
+## Chidorigafuchi
+
+**Slot:** [[Japan 2027 — Pocket 2027-03-27|27 March]]; a Tokyo buffer can replace it.
+- [ ] Photo: blossom branches framing the moat; try one reflection and one close detail.
+- [ ] Film: a steady wide view, water movement, then a blossom close-up; 5–10 seconds per clip.
+**Light:** soft morning light or overcast for details; reflections depend on wind. Keep evening footage optional until illumination is confirmed.
+
+## Shinjuku Gyoen
+
+**Slot:** [[Japan 2027 — Pocket 2027-03-28|28 March]].
+- [ ] Photo: garden-wide context, then a branch against a clean background.
+- [ ] Film: a stationary garden view and blossom movement from a permitted spot.
+**Light:** morning within verified access hours; gentle backlight if available. A handheld session keeps the kit simple; see the venue rules below.
+
+## Nakameguro
+
+**Slot:** [[Japan 2027 — Pocket 2027-03-29|29 March]].
+- [ ] Photo: river perspective, reflections, and neighborhood textures.
+- [ ] Film: one river-wide clip and a nearby detail; record only from a place where stopping is allowed.
+**Light:** late afternoon; optional blue-hour/night footage only if access and seasonal lighting are confirmed. Move off busy bridges before composing.
+
+## Philosopher’s Path
+
+**Slot:** [[Japan 2027 — Pocket 2027-04-01|1 April]] or a swapped Kyoto day.
+- [ ] Photo: canal leading lines; add petals on water only if conditions provide them.
+- [ ] Film: steady water, a tree detail, and a short personal reaction from a clear standing spot.
+**Light:** soft morning light; overcast can suit blossom detail. Protect the relaxed 2–3 hour photo block.
+
+## Historic Kyoto
+
+**Slot:** [[Japan 2027 — Pocket 2027-04-02|2 April]].
+- [ ] Photo: an allowed Kiyomizu-dera architectural composition, then one historic-street detail.
+- [ ] Film: a wide view and a texture/detail without blocking steps or foot traffic.
+**Light:** morning within visiting hours; choose architecture and textures if blossoms disappoint. Gion footage depends on local permissions and signs.
+
+## Fushimi Inari
+
+**Slot:** [[Japan 2027 — Pocket 2027-04-03|3 April]].
+- [ ] Photo: torii repetition or a close architectural detail from an allowed public position.
+- [ ] Film: one stationary corridor view and one detail; skip a shot if it would interrupt worship or obstruct movement.
+**Light:** try gentler morning light; the full mountain route is optional. No empty-corridor promise.
+
+## Asakusa
+
+**Slot:** [[Japan 2027 — Pocket 2027-03-26|26 March]].
+- [ ] Photo: temple/streetscape context and one small detail; Sumida Park is an optional existing extension.
+- [ ] Film: a street-wide clip and a purchased snack close-up where permitted.
+**Light:** easy morning session; shorten it for jet lag. Do not add a separate outing just for footage.
+
+## Matcha and shops
+
+**Slots:** [[Japan 2027 — Pocket 2027-04-04|optional Uji on 4 April]], existing café stops, or [[Japan 2027 — Pocket 2027-04-07|7 April shopping]].
+- [ ] Photo: matcha color beside natural window light; souvenir and hands; one personally meaningful record or vintage find.
+- [ ] Film: tea preparation only if staff agree, cup-to-table detail, and a tasting reaction. For shops, choose an approved detail or record the purchase back at the hotel.
+**Light:** natural window light when available; protect the experience and meal time. Uji remains one excursion choice, replacing Nara/Osaka.
+
+## Tokyo buffer
+
+**Slots:** [[Japan 2027 — Pocket 2027-03-30|30 March]] and [[Japan 2027 — Pocket 2027-04-07|7 April]].
+- [ ] Revisit one missed blossom shot or make a small neighborhood story in the single area chosen that day.
+**Light:** choose from current weather and bloom reports. A skyline shot stays optional; visibility and access decide.
+
+## Kyoto buffer
+
+**Slot:** [[Japan 2027 — Pocket 2027-04-05|5 April]].
+- [ ] Revisit the strongest blossom scene; if choosing Arashiyama instead, frame bamboo from the permitted path and capture one steady clip.
+**Light:** soft light when available; return with time to pack. The alternative replaces the blossom outing.
+
+## Travel moments
+
+**Slots:** arrival, the two intercity transfers, and departure.
+- [ ] Packing detail, a window landscape if practical, and a short arrival/return voice note.
+Avoid showing passport, boarding-pass codes, reservation numbers, or private screens. Filming is optional; transfers and recovery take priority.
+
+## A simple film sequence
+
+1. **Opening:** a blossom scene or first-impression voice note.
+2. **Tokyo:** one wide street/river view and one detail.
+3. **Journey:** a brief window view or packing transition.
+4. **Kyoto:** canal or temple context, then a detail.
+5. **Tea and a personal moment:** matcha and one sentence about the experience.
+6. **Ending:** favorite scene and a closing thought.
+
+For each chosen scene, aim for a **wide view → medium view → detail**, holding clips about 5–10 seconds with a little stillness before/after the action. Capture a short clean ambient sound where recording is welcome. Use vertical framing for your primary social clips; take a separate horizontal view only if you want a landscape version. Keep recording choices consistent with a kit tested before departure.
+
+Livestreaming is a separate optional activity: choose a permitted location, test the connection/audio, and set a short time limit. Recording footage does not establish permission to broadcast it.
+
+## Permissions and venue checks
+
+**Shinjuku Gyoen:** the official page distinguishes personal non-commercial filming from commercial work, restricts obstructive professional equipment for specified photo activities during busy seasons, and says monetized livestreaming is not permitted. Check the exact activity and equipment rules before visiting. Its current 2027 restriction listing pairs dates with inconsistent weekdays, so reconfirm the dated notice rather than treating it as a final calendar. [Official photography/filming rules](https://policies.env.go.jp/national-garden/shinjukugyoen/english/photography/image_capture/)
+
+**Kyoto/Gion:** respect designated photography areas, private property, and street access. Do not follow or photograph geiko/maiko without permission or block streets. [Kyoto City visitor guidance](https://kyoto.travel/en/news/sightseeing-guidelines/)
+
+For each café, shop, temple, or other venue, check its own rules; asking about photos does not establish permission for video, livestreaming, commercial work, or a tripod. Until confirmed, mark permission as **not checked**. Sources checked 7 October 2026; recheck before travel.
+
+### Permission record — copy per venue
+
+- **Place / date:** …
+- **Intended use:** personal photo / recorded video / public post / monetized content / livestream …
+- **Equipment:** handheld / grip / tripod / microphone …
+- **Status:** not checked / allowed with conditions / declined …
+- **Rule link or staff response, checked on:** …
+- **Allowed area, time, and conditions:** …
+- **Alternative if declined:** another permitted shot or a voice note later …
+
+## Choose today’s shots
+
+Copy your choices into [[Japan 2027 — Today]]:
+- **Photo I most want:** …
+- **Short sequence:** wide … → medium … → detail …
+- **Light / access / permission checked:** …
+- **Favorite file and story:** …
+
+Each evening, keep one favorite photo and one useful clip in [[Japan 2027 — Memories]]. Back up originals separately from the camera card/device and verify the copies before deleting anything. Editing and posting can wait until home.
+
+
+END SOURCE 35
+
+
+==============================================================================
+BEGIN SOURCE 58: Japan 2027 — Session Recap 2026-10-06.md
+==============================================================================
+
+# 🌙 Japan 2027 — Session recap · 6 October 2026
+
+[[Japan 2027 — Start Here|← Planning dashboard]] · [[Japan Travel Guide 2027|Full guide]]
+
+A working recap for continuing tomorrow; this is not a verbatim conversation transcript.
+
+## Where we left off
+
+The guide is ready for another planning session. Tonight’s last work saved the map export files and offline-download instructions. Tomorrow, start here rather than rebuilding the guide.
+
+**Resume message:** “Continue my Japan 2027 guide from the session recap dated 6 October 2026.”
+
+## Current trip assumptions
+
+- Depart from Santiago, Chile. Proposed Japan stay: **25 March–8 April 2027**, 14 nights; dates and bookings remain provisional.
+- Tokyo 6 nights → Kyoto 6 nights → Tokyo 2 nights. Exact hotels and airport terminals are still to be chosen.
+- In-Japan budget ceiling: **US$5,000**, with the working plan US$3,850 plus US$1,150 reserve; flights separate. Confirm traveler count and whether the budget is per person.
+- Interests: sakura photography, matcha, cafés, thrift/vintage shopping, souvenirs, vinyl records, vintage film-related shops, and filming.
+- Uji is a proposed matcha-focused option for 4 April, replacing another excursion. It is not a confirmed booking.
+- iPhone with Apple Pay; debit cards from Banco Chile, Banco Falabella, Global66, and Prex Chile. Actual Suica top-up compatibility still needs testing with the user’s card.
+- Passport nationality still needs confirmation before treating any visa advice as applicable.
+
+## Completed in the guide
+
+- Expanded health preparation, conditional visa guidance, Visit Japan Web arrival preparation, eSIM considerations, payment/Suica planning, travel essentials, and tax-free shopping guidance.
+- Expanded shops/cafés and neighborhood ideas, including thrift, records, and vintage movie-related shopping.
+- Added [[Japan 2027 — Japanese Practice|Japanese conversation practice]], with a daily practice checkbox in [[Japan 2027 — Today]]. This is a checklist, not a scheduled notification.
+- Collected [[Japan 2027 — Maps|Google Maps destination searches]]. The index contains 186 distinct search queries, including broad chain searches and alternative searches for the same destination; it is not 186 verified venues.
+- Added [[Japan 2027 — Map View|two interactive starter maps]] with 11 sourced pins across Tokyo, Kyoto, and optional Uji. Site coordinates are not confirmed entrances/platforms. Most shops/cafés still need precise branch coordinates.
+- Repaired formatting: converted four dense schedule, Ginza café, matcha-shopping, and apps tables into readable sections; removed excess table padding and preserved source links. The full guide was reopened in Reading view. **Ctrl+E** switches between reading and editing.
+
+## Installed and enabled plugins
+
+Community plugins were turned on for this vault. The enabled list is:
+
+- Map View 6.1.4
+- QuickAdd 2.31.0
+- Spaced Repetition 1.15.4
+- Omnisearch 1.31.0
+- PDF++ 0.40.31
+- Meta Bind 1.5.1
+- Tracker 1.19.0
+- Local Images Plus 0.16.6
+
+Plugin downloads came from official author repositories. Minimum app versions, JavaScript syntax, copied file hashes, and the enablement registry were checked. Obsidian was restarted. A complete live feature test of every plugin was not performed.
+
+**Tasks, Homepage, Calendar, and Advanced Tables were suggested earlier but were not installed by the seven-plugin installation request.** Text Extractor was also not installed; Omnisearch PDF/image indexing needs that additional plugin.
+
+## Saved map files
+
+Open [[Japan 2027 — Saved Maps]] for the instructions and files:
+
+- [[Attachments/Japan 2027 Maps/Japan 2027 — All places.csv|All places CSV]] — 186 search queries for importing into Google My Maps.
+- [[Attachments/Japan 2027 Maps/Japan 2027 — Starter pins.kml|Starter pins KML]] — 11 sourced coordinates.
+
+These exports are stored in the vault. **No Google account import or iPhone offline-map download was performed.** Google Maps offline areas must be downloaded in the iPhone app: profile picture → Offline maps → Select your own map → Download. Tokyo, Kyoto, airport coverage, and any chosen excursion should be checked separately. Offline Maps does not provide walking or public-transport directions.
+
+## Useful next steps for tomorrow
+
+1. Set up QuickAdd capture forms for expenses, places, and memories.
+2. Build a small Spaced Repetition deck from the existing Japanese Practice note.
+3. Configure Tracker only after choosing consistent expense/practice fields; configure Meta Bind dashboard controls if helpful.
+4. Verify the installed plugins’ behavior inside Obsidian and confirm map rendering.
+5. Download Google Maps areas on the iPhone and, if desired, import the saved files into Google My Maps.
+6. Add precise shop/café pins after confirming exact branches; add hotels once booked.
+7. Continue the actual travel decisions: passport/travelers, flights, hotel bases, selected excursion, and reservations.
+
+No task above is a booking, payment, or scheduled reminder. Tomorrow’s starting point can be changed to match your priorities.
+
+## Workspace reference
+
+Vault: `/home/ivanaguilera/Documents/Obsidian Vault`
+
+Scripts, installation reports, source downloads, and backups: `/home/ivanaguilera/Work/japan-guide-update`
+
+Recent work folders: `map-view`, `plugins`, `formatting`, `map-export`, and `session`. Use those backups if a change needs to be reversed.
+
+
+END SOURCE 58
+
+

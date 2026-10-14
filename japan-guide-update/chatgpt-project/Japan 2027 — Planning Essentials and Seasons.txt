@@ -1,0 +1,1182 @@
+JAPAN 2027 — PLANNING ESSENTIALS AND SEASONS — PROJECT SOURCE (PART E OF 6)
+
+Exported: 2026-10-07T14:18:27-03:00
+Source: live local Obsidian Japan guide (same snapshot as the complete export).
+
+Bookings, travel essentials, health, Japanese practice, seasonal guides and comparisons.
+
+This is a snapshot for a ChatGPT project, not a live connection to Obsidian.
+Later vault edits require a refreshed export. The current dashboard and latest
+session recap live in Part A; newer notes and the user's latest instructions
+take precedence over everything here.
+
+All source note content and external URLs are preserved. Obsidian [[wiki links]]
+refer to other named source notes; they are not public web links.
+No Korea notes, plugin settings, account credentials, or backup copies are included.
+Map content holds search queries and starter coordinates; do not assume every
+query is a verified venue or every coordinate is an entrance.
+
+Existing dates, budgets, destinations, shopping ideas, and tour shortlists retain
+their original provisional status. An activity appearing here is not a booking,
+and displayed prices are not confirmed 2027 quotes. Follow the user's current
+choices and verify time-sensitive information before making recommendations.
+
+SIBLING FILES (upload all six together):
+  - Japan 2027 — Dashboard and Decisions.txt
+  - Japan 2027 — Itinerary and Pocket Cards.txt
+  - Japan 2027 — City Chapters and Regions.txt
+  - Japan 2027 — Shopping Food and Experiences.txt
+  - Japan 2027 — Planning Essentials and Seasons.txt <-- this file
+  - Japan 2027 — Maps and Routes.txt
+
+SOURCE INDEX (original export numbering preserved)
+
+6. Japan 2027 — Autumn Guide.md
+8. Japan 2027 — Bookings.md
+15. Japan 2027 — Health.md
+19. Japan 2027 — Japanese Flashcards.md
+20. Japan 2027 — Japanese Practice.md
+30. Japan 2027 — November vs May.md
+56. Japan 2027 — Seasonal Guides.md
+57. Japan 2027 — Seasonal Planning and Bookings.md
+61. Japan 2027 — Summer Fuji Climb Option.md
+62. Japan 2027 — Summer Guide.md
+64. Japan 2027 — Travel Essentials.md
+
+==============================================================================
+BEGIN SOURCE 6: Japan 2027 — Autumn Guide.md
+==============================================================================
+
+# 🍁 Japan 2027 — Autumn Guide
+
+**Nagoya comparison:** [[Japan 2027 — Nagoya Chapter|Tokugawaen, food, and city photography]]. Autumn color and 2027 event dates need checking; a stay replaces other nights.
+
+**Okinawa comparison:** [[Japan 2027 — Okinawa Chapter|November culture, food, and coastal walks]]. It replaces mainland foliage time; swimming permission and sea conditions remain local dated checks.
+
+**Nara day-trip alternative:** [[Japan 2027 — Nara Chapter|Temples and park/tree photography]]. Use actual foliage, daylight, and closing reports before replacing another Kyoto day.
+
+**Sapporo comparison:** [[Japan 2027 — Sapporo Chapter|Hokkaido city food and seasonal timing]]. Usual city foliage is mid-October to early November; a mid/late-November module trades away Kyoto time without guaranteeing northern colors.
+
+**Fukuoka alternative:** [[Japan 2027 — Fukuoka Chapter|City food, park photography, and hot-pot dinners]]. Compare its route tradeoffs before reducing Kyoto foliage time; future events and colors remain unconfirmed.
+
+**Island alternatives:** [[Japan 2027 — Best Islands]] includes Miyajima and Shodoshima foliage leads and a Naoshima art option; actual color timing and travel-day access need checking.
+
+**Osaka option:** [[Japan 2027 — Osaka Chapter]] adds city shopping/night photography and an optional Minoh foliage walk. Choose a Kyoto day trip or replace two Kyoto nights with Osaka; actual foliage and access need checking. [[Japan 2027 — Osaka Pocket Routes|Open the pocket routes]].
+
+[[Japan 2027 — Seasonal Guides|← Seasonal guides]] · [[Japan 2027 — November vs May|November versus May]] · [[Japan 2027 — Seasonal Planning and Bookings|Budget and reservations]]
+
+**Concept:** November photography, Fuji lakes, low-elevation hikes, matcha/cafés, and your existing shopping interests. **Working length:** 15 days / 14 nights. **Dates/year:** unconfirmed; 2027 is the inherited planning year. No bookings recorded.
+
+## Window to compare
+
+My first window is **mid-to-late November**, positioning Kyoto later in the trip for foliage. JNTO describes November's brisk weather and notes that Kyoto's autumn color season starts around mid-November; actual timing varies by year, site, and elevation. Use annual local foliage reports before assigning temple days. [JNTO November](https://www.japan.travel/en/guide/november/).
+
+This guide plans low-elevation walking. Mountain weather/access need separate checks, and November is outside Fuji's normal summit season. Fuji viewpoints remain weather-dependent. There is no guaranteed peak-color or clear-sky date.
+
+## Route
+
+**Tokyo 4 nights → Kawaguchiko 2 → Kyoto 6 → Tokyo 2 = 14 nights.** Same base pattern as scenic summer, making the seasons easier to compare. Choose Kyoto dates around the actual foliage window; compare a KIX departure before committing the final Tokyo return.
+
+Use the summer guide's operator links for Tokyo–Kawaguchiko, the possible Mishima connection to Kyoto, and the Tokyo return. Recheck the November timetable and connection buffer. Kyoto foliage demand can affect hotel availability; compare real quotes rather than assuming this is a cheaper season.
+
+## Fifteen-day autumn outline
+
+These are proposed blocks. Swap foliage days according to local reports and weather; do not stack every temple into one outing. Confirm admission/photography rules separately for each visit.
+
+| Day / night | Main plan | Alternative / evening | Photography focus |
+| --- | --- | --- | --- |
+| 1 / Tokyo 1 | Arrive, hotel, dinner, rest | Nearby walk only if energy allows | First autumn city scene |
+| 2 / Tokyo 2 | Asakusa and a riverside walk | Café and indoor browsing | Architecture / city layers |
+| 3 / Tokyo 3 | Kichijoji park, vintage, coffee, and one record shop | LOFT or gift browsing | Water reflections / leaves if present |
+| 4 / Tokyo 4 | Takao Trail 1 if open and conditions suit | Tokyo garden and café alternative | Woodland / temple detail |
+| 5 / Kawaguchiko 1 | Transfer; lakeside orientation | Local dinner and early rest | Fuji view if visible |
+| 6 / Kawaguchiko 2 | Choose lakeside/Oishi Park plus Chureito OR ropeway | Keep a flexible local weather day | Wide mountain / reflection detail |
+| 7 / Kyoto 1 | Transfer on a verified connection; easy evening | Rest | Arrival atmosphere |
+| 8 / Kyoto 2 | Nanzen-ji / Eikando area: choose manageable visits | Café; illumination only if announced and booked where needed | Maple/architecture detail |
+| 9 / Kyoto 3 | Arashiyama riverside and one chosen temple | Lunch, return, short neighborhood walk | River and hillside color |
+| 10 / Kyoto 4 | Tofuku-ji-focused morning; optional Fushimi area later | Reduce walking if queues are long | One autumn composition |
+| 11 / Kyoto 5 | Uji tea/matcha outing | Central Kyoto tea/gifts alternative | Tea story / riverside |
+| 12 / Kyoto 6 | Daimonji viewpoint OR Kurama–Kibune if access/daylight suit | Flexible foliage catch-up and cafés | Panorama or forest |
+| 13 / Tokyo 5 | Return to Tokyo | Easy evening / laundry | Travel transition |
+| 14 / Tokyo 6 | Tamiya plus one gift/clothing stop; packing | Donki or earlier shopping lead as time allows | Souvenir story |
+| 15 / — | Airport and departure | Protect transfer buffer | Optional final frame |
+
+Kyoto's official [green-maple/foliage spot list](https://global.kyoto.travel/en/faq/detail.php?faq_id=1034) identifies Nanzen-ji, Eikando, Tofuku-ji, and Arashiyama as maple destinations; the route above is my selection from those areas. Specific 2027 illumination periods, night admission, and tickets are unconfirmed. [Arashiyama area guide](https://www.kyoto.travel/en/areas/saga-arashiyama/).
+
+## Walking, clothing, and photo rhythm
+
+[[Japan 2027 — Hiking and Mount Fuji|Existing trail research]] gives Takao, Daimonji, and Kurama–Kibune options. Its spring dates are not autumn reservations. Finish hikes in daylight, check access notices, and adapt to wet/icy ground. Choose a city walk if conditions or your preferred effort make the hike unsuitable.
+
+Pack layers, a warmer outer layer for evenings/lakes, rain protection, and shoes with grip. Plan one main outdoor area and a café break rather than crossing Kyoto repeatedly. My shot sequence: wide scene → leaf/architectural detail → person-scale walking shot with permission → ambient sound. Keep a weather/daylight note in the daily plan once dates are fixed.
+
+## Buying and eating
+
+Autumn is a useful context for browsing your flannel, denim-jacket, and trousers wishlist, but exact stock and size availability still need checking. Use [[Japan 2027 — Clothing to Browse Online]], [[Japan 2027 — Shopping Shortlist]], [[Japan 2027 — Kichijoji Shopping and Exploring]], and [[Japan 2027 — Gifts for Her]] as research references. Old March/April visit dates and October 2026 product stock do not transfer to this itinerary.
+
+Keep matcha/cafés in Uji and central Kyoto, choose one vintage/record outing in Tokyo, and keep Tamiya as the last Tokyo shopping anchor. Her gifts remain capped at US$200 if retained; budget inclusion is handled in [[Japan 2027 — Seasonal Planning and Bookings|the planning note]]. No restaurant or shopping appointment is booked.
+
+## Next decisions
+
+- [ ] Confirm year, local arrival/departure dates, traveler count, and 14-night length.
+- [ ] Decide November versus [[Japan 2027 — November vs May|May]] using scenery and weather preferences.
+- [ ] Check lodging quotes for the actual foliage dates and total route cost.
+- [ ] Check foliage updates, dated temple admission/illumination notices, trail access, and Fuji visibility.
+- [ ] Reserve transport/paid experiences only after the dated route is set.
+- [ ] Generate dated pocket cards and update calendar-day hours before departure.
+
+This is a complete route concept with flexible daily blocks; seasonal conditions, prices, and bookings remain open.
+
+
+END SOURCE 6
+
+
+==============================================================================
+BEGIN SOURCE 8: Japan 2027 — Bookings.md
+==============================================================================
+
+# 🎟️ Japan 2027 — Booking and cancellation dashboard
+
+**Research shortlist:** [[Japan 2027 — Klook Tours and Experiences|Klook tours and experiences]] — record here only after choosing and booking.
+
+**Maps:** [[Japan 2027 — Maps|📍 All destination, shop, café, and transport searches]]
+
+[[Japan Travel Guide 2027|← Full travel guide]] · [[Japan 2027 — Today|📱 Today]]
+
+> Planning dates only: arrival in Japan **25 March 2027**, departure **8 April 2027**. No confirmed bookings are recorded in the guide. Update hotel dates from the actual flights before booking. International flights are separate from the guide’s US$5,000 in-Japan planning ceiling.
+
+## ⏰ Next deadlines
+
+Keep this table sorted with the nearest deadline first. Copy exact terms from each confirmation, including the time zone. **Unknown cancellation terms do not mean free cancellation.**
+
+| Booking | Deadline (date, time, time zone) | Decision / action | Reminder set | Done |
+| --- | --- | --- | --- | --- |
+| Add after booking | TBD | Keep, change, or cancel | No | ☐ |
+
+Set a calendar reminder before each deadline, leaving time to act. This note does **not** send automatic alerts.
+
+## 🏨 Accommodation
+
+Dates below are **check-in → check-out**, not flight departure dates. Record the full stay price with taxes and mandatory fees, and specify whether it covers one room or one person.
+
+| Stay | Proposed dates | Nights | Hotel / booking status | Full cost + currency | Cancellation deadline / penalty | Confirmation |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Tokyo · first stay | 25–31 March 2027 | 6 | Not booked | TBD | TBD | — |
+| Kyoto | 31 March–6 April 2027 | 6 | Not booked | TBD | TBD | — |
+| Tokyo · final stay | 6–8 April 2027 | 2 | Not booked | TBD | TBD | — |
+
+## ✈️ Flights and transport
+
+For flights, record local departure and arrival dates separately. For trains, record the actual service, station, seat, and baggage arrangements in the booking details below.
+
+| Booking | Proposed date / route | Status | Total cost + currency | Change / refund terms | Confirmation |
+| --- | --- | --- | --- | --- | --- |
+| International flights | SCL ↔ Japan; arrival 25 March, departure 8 April | Not booked | TBD | TBD | — |
+| Outbound Shinkansen | 31 March · Tokyo → Kyoto | Not booked | TBD | TBD | — |
+| Return Shinkansen | 6 April · Kyoto → Tokyo | Not booked | TBD | TBD | — |
+| Arrival airport transfer | 25 March · airport and hotel TBD | Plan after flights / hotel | TBD | TBD if reserved | — |
+| Departure airport transfer | 8 April · hotel and airport TBD | Plan after flights / hotel | TBD | TBD if reserved | — |
+
+If departing from Osaka instead, update the route and remove the return train and final Tokyo stay from the active plan.
+
+## 🎫 Experiences and other reservations
+
+Only add activities you choose to book; an optional idea is not a commitment.
+
+| Activity / service | Date and local time | Status | Total cost + currency | Cancellation deadline / penalty | Confirmation |
+| --- | --- | --- | --- | --- | --- |
+| Selected attraction / experience | TBD | Undecided | TBD | TBD | — |
+| Travel insurance | Cover the full journey, including flight days | Not arranged | TBD | TBD | — |
+| eSIM / SIM / pocket Wi-Fi | Activation / collection TBD | Not arranged | TBD | TBD | — |
+
+**Status labels:** Undecided · Researching · Not booked · Booked · Cancelled · Completed. Link confirmation files or private booking-detail notes in the final column.
+
+## 💰 Payment summary
+
+Keep currencies separate until you record an exchange rate and conversion date. “Booked total” includes paid and outstanding amounts; do not add the paid amount to it again.
+
+| Scope / currency | Booked total | Already paid | Still payable | Refund pending |
+| --- | --- | --- | --- | --- |
+| In-Japan bookings · JPY | TBD | TBD | TBD | — |
+| In-Japan bookings · other currency (specify) | TBD | TBD | TBD | — |
+| International flights · currency TBD | TBD | TBD | TBD | — |
+
+**Converted in-Japan booked total:** TBD USD · **Exchange rate / date:** TBD  
+**Unallocated budget:** planning ceiling minus converted booked total; still needs to cover meals, unbooked transport, shopping, and contingency. See [[Japan Travel Guide 2027#💵 US$5,000 budget and affordable food plan|the full budget plan]].
+
+## 🧾 Booking details — reusable block
+
+Copy this block below for each confirmed reservation or create a separate linked note.
+
+### Booking name — replace me
+- **Provider / booked through:**
+- **Status / traveler or room count:**
+- **Service date and time / time zone:**
+- **Address / station / terminal:**
+- **Google Maps link / actual entrance:**
+- **Booking reference / confirmation file:**
+- **Total cost and currency / taxes included:**
+- **Paid / balance due / payment deadline:**
+- **Free-cancellation cutoff (exact date, time, time zone):**
+- **Penalty after cutoff / no-show policy:**
+- **Change terms / cancellation method:**
+- **Reminder date:**
+- **Special details:** check-in window, luggage storage, train carriage and seat, or included services
+- **If cancelled:** cancellation receipt, expected refund, and date refund received
+
+## ✅ After each booking
+
+- [ ] Update the correct table and payment summary.
+- [ ] Save the confirmation offline and link it here.
+- [ ] Copy the exact cancellation and payment deadlines into “Next deadlines.”
+- [ ] Set reminders in your calendar and mark them as set.
+- [ ] Check dates against the neighboring hotel stay, train, or flight.
+
+Store sensitive confirmations in private notes if you share your travel guide.
+
+
+END SOURCE 8
+
+
+==============================================================================
+BEGIN SOURCE 15: Japan 2027 — Health.md
+==============================================================================
+
+# 🩺 Japan 2027 — Health preparation
+
+**Maps:** [[Japan 2027 — Maps|📍 All destination, shop, café, and transport searches]]
+
+[[Japan 2027 — Start Here|← Dashboard]] · [[Japan 2027 — Travel Essentials|Travel essentials]]
+
+**Official guidance checked: 6 October 2026.** General preparation for the proposed two-week Tokyo–Kyoto trip; personalize it with a clinician and recheck guidance in 2027. These steps reduce risk but cannot guarantee you will avoid illness.
+
+## 📅 Book a pre-travel appointment
+
+- [ ] Aim for **early February 2027**, allowing time for follow-up before the actual Santiago departure date.
+- [ ] Bring vaccine records, medication names/doses, allergies, and the itinerary, including transit countries and any rural outings.
+- [ ] Discuss ongoing conditions, recent symptoms, walking demands, and long-flight suitability.
+- [ ] Ask which examination or tests are appropriate for your history; do not assume a broad blood-test package is necessary.
+- [ ] Plan any overdue dental care early enough to recover before travel.
+
+CDC recommends a consultation at least a month before visiting Japan. Earlier review helps if vaccine series or an existing condition need attention. [CDC Japan guidance](https://wwwnc.cdc.gov/travel/destinations/traveler/none/japan) · [Pre-travel consultation framework](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/the-pre-travel-consultation.html)
+
+## 💉 Review vaccines with your clinician
+
+- [ ] Check routine protection, especially **measles/MMR**, tetanus-containing vaccines, and seasonal influenza; review current COVID-19 recommendations for your age and health.
+- [ ] Discuss **hepatitis A and B** based on prior vaccination, health, age, and activities.
+- [ ] Reassess if the itinerary changes to longer rural stays, camping, or higher-risk activities.
+
+CDC does not recommend Japanese encephalitis vaccination for short trips limited to urban areas. Rural exposure can change that assessment. Recommendations are individualized and differ from border-entry requirements. [Current CDC Japan vaccine recommendations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/japan)
+
+## 😷 Reduce respiratory infections
+
+Keep vaccinations current, wash hands regularly, favor well-ventilated spaces, and consider a well-fitting high-filtration mask in crowded indoor places, airports, and public transport. If sick, reduce contact with others and seek advice promptly if you are at higher risk of severe illness. [CDC respiratory-illness prevention](https://www.cdc.gov/respiratory-viruses/prevention/index.html)
+
+## ✈️ Prepare for the long flights
+
+Move your legs and do calf exercises while seated; walk periodically when safe. If you have a previous clot, recent surgery, pregnancy, or another clot-risk factor, ask your clinician about tailored prevention and whether compression stockings are appropriate. Do not start aspirin or blood thinners for a flight on your own. [CDC long-distance travel and blood clots](https://www.cdc.gov/yellow-book/hcp/travel-air-sea/deep-vein-thrombosis-and-pulmonary-embolism.html)
+
+Keep arrival day light, allow sleep and regular meals, and build walking tolerance before the trip. Comfortable, already-tested shoes and breaks fit the guide’s photography days better than an ambitious first-day schedule.
+
+## 🍱 Food, outdoors, and allergies
+
+Wash hands before eating; choose food prepared and stored safely. If pregnant, immunocompromised, or otherwise vulnerable to foodborne illness, discuss avoiding raw or undercooked foods with your clinician. Use sun protection and prevent insect bites during outdoor outings. [CDC Japan health precautions](https://wwwnc.cdc.gov/travel/destinations/traveler/none/japan)
+
+If you have seasonal allergies or asthma, agree on a symptom plan before departure. Record food allergies in Japanese and ask restaurants about ingredients and cross-contact rather than assuming a dish is suitable.
+
+## 💊 Medicines and a small travel kit
+
+- [ ] Check **each active ingredient**, quantity, and any required permission against Japan’s medicine-import rules before packing, including over-the-counter products.
+- [ ] Keep regular medicines in labeled original packaging in hand luggage, with a prescription/clinician letter and a supply covering the full journey and foreseeable delays, within permitted limits.
+- [ ] Ask a pharmacist about suitable pain/fever relief, any allergy treatment, and oral rehydration sachets; pack plasters/blister dressings, a thermometer, masks, and hand sanitizer.
+- [ ] Confirm insurance medical coverage, exclusions for existing conditions, and the assistance number.
+
+Japan allows up to a month’s supply of many ordinary prescription medicines without Import Confirmation, but controlled or prohibited ingredients have separate rules. A foreign prescription alone does not establish permission. [Official Japanese medicine-import guidance](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kojinyunyu/topics/tp010401-1_00001.html)
+
+## 📞 If you become unwell
+
+Use [[Japan 2027 — Travel Essentials#📞 Contacts to save offline|the contacts card]] and your insurer to find suitable care. Severe breathing difficulty, chest pain, fainting, or a severe allergic reaction needs urgent assessment; in Japan call **119** for an ambulance. Tell clinicians about recent international travel. [JNTO emergency contacts](https://www.japan.travel/en/plan/hotline/)
+
+## 📝 Personal checklist — complete privately
+
+- **Appointment date / clinic:** TBD.
+- **Vaccine review and follow-up:** TBD.
+- **Medication import check completed:** TBD.
+- **Allergy / ongoing-condition plan:** TBD.
+- **Insurance assistance / coverage checked:** TBD.
+
+Keep detailed diagnoses, prescriptions, and personal medical records in a private note if sharing the travel guide.
+
+
+END SOURCE 15
+
+
+==============================================================================
+BEGIN SOURCE 19: Japan 2027 — Japanese Flashcards.md
+==============================================================================
+
+# 🗣️ Japan 2027 — Japanese Flashcards
+
+#flashcards/japan2027
+
+[[Japan 2027 — Japanese Practice|Conversations and pronunciation]] · [[Japan 2027 — Today|Today]]
+
+Open the command palette, search **Spaced Repetition**, and choose its flashcard review command. Select the Japan 2027 deck. Say the answer aloud before revealing it; use Again, Hard, Good, or Easy according to recall. Start with five minutes and then practice a conversation from the original note.
+
+These 22 cards use the existing phrase note. Review schedules are created by the plugin as you answer. There is no timed notification or audio attached.
+
+## Say it in Japanese
+
+Excuse me / sorry::すみません。 — Sumimasen.
+
+Please speak slowly.::ゆっくり話してください。 — Yukkuri hanashite kudasai.
+
+Could you say that once more?::もう一度お願いします。 — Mō ichido onegai shimasu.
+
+Sorry, I don’t understand.::すみません、わかりません。 — Sumimasen, wakarimasen.
+
+One of this, please.::これを一つお願いします。 — Kore o hitotsu onegai shimasu.
+
+A matcha latte, please.::抹茶ラテをお願いします。 — Matcha rate o onegai shimasu.
+
+What do you recommend?::おすすめは何ですか？ — Osusume wa nan desu ka?
+
+I’ll have it here.::店内でお願いします。 — Tennai de onegai shimasu.
+
+To take away, please.::持ち帰りでお願いします。 — Mochikaeri de onegai shimasu.
+
+The bill, please.::お会計をお願いします。 — Okaikei o onegai shimasu.
+
+How much is this?::これはいくらですか？ — Kore wa ikura desu ka?
+
+May I try this on?::試着してもいいですか？ — Shichaku shite mo ii desu ka?
+
+Can I listen to this before buying?::これを試聴できますか？ — Kore o shichō dekimasu ka?
+
+May I take a photo?::写真を撮ってもいいですか？ — Shashin o totte mo ii desu ka?
+
+Can I pay by card?::カードで払えますか？ — Kādo de haraemasu ka?
+
+I don’t need a bag.::袋はいりません。 — Fukuro wa irimasen.
+
+Where is the restroom?::トイレはどこですか？ — Toire wa doko desu ka?
+
+Do I need to change trains?::乗り換えが必要ですか？ — Norikae ga hitsuyō desu ka?
+
+## Understand the reply
+
+What does this mean: 何名様ですか？::How many people? — Nanmei-sama desu ka?
+
+What does this mean: 売り切れです。::It’s sold out. — Urikire desu.
+
+What does this mean: 少々お待ちください。::Please wait a moment. — Shōshō omachi kudasai.
+
+What does this mean: こちらです。::Here / this way. — Kochira desu.
+
+
+END SOURCE 19
+
+
+==============================================================================
+BEGIN SOURCE 20: Japan 2027 — Japanese Practice.md
+==============================================================================
+
+# 🗣️ Japan 2027 — Everyday Japanese refresher
+
+**Flashcards:** [[Japan 2027 — Japanese Flashcards|Review 22 phrases with Spaced Repetition]]
+
+[[Japan 2027 — Start Here|← Dashboard]] · [[Japan Travel Guide 2027|Full guide]] · [[Japan 2027 — Today|Today]]
+
+A short refresher for the Japanese you already know. Use polite everyday forms with shop staff and people you have just met. Read the Japanese first; use the pronunciation column when you get stuck. These are practice examples, not scripts you must follow exactly.
+
+## ⏱️ Five minutes after breakfast
+
+- [ ] **1 minute:** say three useful phrases aloud without reading the pronunciation.
+- [ ] **2 minutes:** play both sides of one conversation below, twice.
+- [ ] **1 minute:** replace the item, number, or destination with something from today’s plan.
+- [ ] **1 minute:** choose one phrase to use today; review yesterday’s difficult reply.
+
+**Today’s phrase:** …  
+**A reply I want to understand:** …  
+**What I actually said / heard:** …
+
+This checklist is the practice reminder in your vault; it does not send a timed notification.
+
+## 🔑 Phrases that keep a conversation going
+
+| Meaning | Japanese | Pronunciation |
+| --- | --- | --- |
+| Excuse me / sorry | すみません。 | Sumimasen. |
+| Good morning, politely | おはようございます。 | Ohayō gozaimasu. |
+| Hello / good afternoon | こんにちは。 | Konnichiwa. |
+| Good evening | こんばんは。 | Konbanwa. |
+| Thank you very much | ありがとうございます。 | Arigatō gozaimasu. |
+| I speak a little Japanese. | 日本語は少し話せます。 | Nihongo wa sukoshi hanasemasu. |
+| Please speak slowly. | ゆっくり話してください。 | Yukkuri hanashite kudasai. |
+| Could you say that once more? | もう一度お願いします。 | Mō ichido onegai shimasu. |
+| Could you write it down? | 書いてもらえますか？ | Kaite moraemasu ka? |
+| I understand. | わかりました。 | Wakarimashita. |
+| Sorry, I don’t understand. | すみません、わかりません。 | Sumimasen, wakarimasen. |
+
+**Pronunciation reminders:** **ō / ū** mark long vowels; hold the sound a little longer. The topic particle **は** is pronounced **wa**, and **を** is pronounced **o**. The final vowel in *desu* and *masu* is often light. Say a short clear sentence rather than rushing a memorized paragraph.
+
+## ☕ Cafés and restaurants
+
+| Meaning | Japanese | Pronunciation |
+| --- | --- | --- |
+| One person. | 一人です。 | Hitori desu. |
+| Two people. | 二人です。 | Futari desu. |
+| One of this, please. | これを一つお願いします。 | Kore o hitotsu onegai shimasu. |
+| An iced coffee, please. | アイスコーヒーをお願いします。 | Aisu kōhī o onegai shimasu. |
+| A hot coffee, please. | ホットコーヒーをお願いします。 | Hotto kōhī o onegai shimasu. |
+| A matcha latte, please. | 抹茶ラテをお願いします。 | Matcha rate o onegai shimasu. |
+| What do you recommend? | おすすめは何ですか？ | Osusume wa nan desu ka? |
+| I’ll have it here. | 店内でお願いします。 | Tennai de onegai shimasu. |
+| To take away, please. | 持ち帰りでお願いします。 | Mochikaeri de onegai shimasu. |
+| The bill, please. | お会計をお願いします。 | Okaikei o onegai shimasu. |
+
+**Practice — ordering coffee**
+
+- **You:** すみません、アイスコーヒーを一つお願いします。  
+  *Sumimasen, aisu kōhī o hitotsu onegai shimasu.* — Excuse me, one iced coffee, please.
+- **Staff:** 店内でお召し上がりですか？  
+  *Tennai de omeshiagari desu ka?* — Will you have it here?
+- **You:** はい、店内でお願いします。  
+  *Hai, tennai de onegai shimasu.* — Yes, here please.
+- **Staff:** サイズはいかがなさいますか？  
+  *Saizu wa ikaga nasaimasu ka?* — What size would you like?
+- **You:** Mサイズをお願いします。  
+  *Emu saizu o onegai shimasu.* — Medium, please.
+
+Swap **アイスコーヒー** for **抹茶ラテ**. If taking away, answer **持ち帰りでお願いします**. Sizes and order of questions vary by shop.
+
+## 👖 Clothing, thrift, records, and film shops
+
+| Meaning | Japanese | Pronunciation |
+| --- | --- | --- |
+| How much is this? | これはいくらですか？ | Kore wa ikura desu ka? |
+| May I try this on? | 試着してもいいですか？ | Shichaku shite mo ii desu ka? |
+| Do you have another size? | 別のサイズはありますか？ | Betsu no saizu wa arimasu ka? |
+| I’ll take this. | これをください。 | Kore o kudasai. |
+| Do you have records by ___? | ___のレコードはありますか？ | ___ no rekōdo wa arimasu ka? |
+| Can I listen to this before buying? | これを試聴できますか？ | Kore o shichō dekimasu ka? |
+| Can I see the condition of the record? | レコードの状態を見てもいいですか？ | Rekōdo no jōtai o mite mo ii desu ka? |
+| Does this have English subtitles? | これには英語の字幕がありますか？ | Kore ni wa eigo no jimaku ga arimasu ka? |
+| Does this have Spanish subtitles? | これにはスペイン語の字幕がありますか？ | Kore ni wa Supeingo no jimaku ga arimasu ka? |
+| Do you have movie posters? | 映画のポスターはありますか？ | Eiga no posutā wa arimasu ka? |
+| May I take a photo? | 写真を撮ってもいいですか？ | Shashin o totte mo ii desu ka? |
+
+**Practice — a record shop**
+
+- **You:** すみません、ジャズのレコードはどこですか？  
+  *Sumimasen, jazu no rekōdo wa doko desu ka?* — Excuse me, where are the jazz records?
+- **Staff:** こちらです。  
+  *Kochira desu.* — This way / here.
+- **You:** ありがとうございます。これを試聴できますか？  
+  *Arigatō gozaimasu. Kore o shichō dekimasu ka?* — Thank you. Can I preview this?
+- **Staff:** はい、できます。  
+  *Hai, dekimasu.* — Yes, you can.
+
+Try the alternative staff reply: **すみません、できません。** (*Sumimasen, dekimasen.* — Sorry, you can’t.) Answer **わかりました。ありがとうございます。** — I understand. Thank you.
+
+## 💳 Checkout and everyday questions
+
+| Meaning | Japanese | Pronunciation |
+| --- | --- | --- |
+| Can I pay by card? | カードで払えますか？ | Kādo de haraemasu ka? |
+| Can I pay with Suica? | Suicaで払えますか？ | Suika de haraemasu ka? |
+| A bag, please. | 袋をお願いします。 | Fukuro o onegai shimasu. |
+| I don’t need a bag. | 袋はいりません。 | Fukuro wa irimasen. |
+| I don’t have a point card. | ポイントカードは持っていません。 | Pointo kādo wa motte imasen. |
+| Where is the restroom? | トイレはどこですか？ | Toire wa doko desu ka? |
+| Do you offer tax-free shopping? | 免税できますか？ | Menzei dekimasu ka? |
+
+**Listen for staff questions:**
+
+| What you may hear | Pronunciation | Meaning / possible answer |
+| --- | --- | --- |
+| いらっしゃいませ。 | Irasshaimase. | Welcome! A nod is enough; no set reply is required. |
+| 何名様ですか？ | Nanmei-sama desu ka? | How many people? → 一人です / 二人です. |
+| 袋はご利用ですか？ | Fukuro wa goriyō desu ka? | Would you like a bag? → 袋はいりません if you don’t. |
+| ポイントカードはお持ちですか？ | Pointo kādo wa omochi desu ka? | Do you have a point card? → 持っていません. |
+| お支払いはどうなさいますか？ | Oshiharai wa dō nasaimasu ka? | How will you pay? → カードでお願いします. |
+| 少々お待ちください。 | Shōshō omachi kudasai. | Please wait a moment. → はい. |
+| こちらです。 | Kochira desu. | Here / this way; follow the gesture. |
+| 売り切れです。 | Urikire desu. | It’s sold out. |
+
+**Avoid the ambiguous 大丈夫です (*daijōbu desu*) when declining a bag:** it can mean “that’s fine” or “no thanks.” **袋はいりません** makes your meaning clear. A bag may cost extra.
+
+## 🚉 Directions and trains
+
+| Meaning | Japanese | Pronunciation |
+| --- | --- | --- |
+| Where is ___ Station? | ___駅はどこですか？ | ___ eki wa doko desu ka? |
+| Does this train go to ___? | この電車は___に行きますか？ | Kono densha wa ___ ni ikimasu ka? |
+| Which platform is the train to ___? | ___行きは何番線ですか？ | ___ yuki wa nanbansen desu ka? |
+| Where is the exit? | 出口はどこですか？ | Deguchi wa doko desu ka? |
+| Left / right / straight ahead | 左 / 右 / まっすぐ | Hidari / migi / massugu. |
+| Do I need to change trains? | 乗り換えが必要ですか？ | Norikae ga hitsuyō desu ka? |
+
+**Practice — confirming a train**
+
+- **You:** すみません、この電車は新宿に行きますか？  
+  *Sumimasen, kono densha wa Shinjuku ni ikimasu ka?* — Excuse me, does this train go to Shinjuku?
+- **Staff:** はい、行きます。  
+  *Hai, ikimasu.* — Yes, it does.
+- **You:** ありがとうございます。  
+  *Arigatō gozaimasu.* — Thank you.
+
+If you hear a longer explanation, try **すみません、もう一度、ゆっくりお願いします。** (*Sumimasen, mō ichido, yukkuri onegai shimasu.* — Sorry, once more, slowly, please.) Point to the destination written on your phone and check station signs.
+
+## 💬 A little friendly conversation
+
+| Meaning | Japanese | Pronunciation |
+| --- | --- | --- |
+| I’m from Chile. | チリから来ました。 | Chiri kara kimashita. |
+| This is my first time in Japan. | 日本は初めてです。 | Nihon wa hajimete desu. |
+| I like Japanese music. | 日本の音楽が好きです。 | Nihon no ongaku ga suki desu. |
+| This café is lovely. | 素敵なカフェですね。 | Suteki na kafe desu ne. |
+| This is delicious. | おいしいです。 | Oishii desu. |
+| I’m practicing Japanese. | 日本語を練習しています。 | Nihongo o renshū shite imasu. |
+
+Use the “first time” sentence only if it is true. A short exchange is plenty; let busy staff get back to work.
+
+## 🔁 Repeat this seven-day practice cycle
+
+| Day | Practice | One task |
+| --- | --- | --- |
+| 1 | Conversation repair | Ask for repetition and slower speech without looking. |
+| 2 | Café | Order a drink and answer here/takeaway. |
+| 3 | Shopping | Ask price, size, and permission to try something on. |
+| 4 | Records and movies | Ask for an artist, preview listening, or subtitles. |
+| 5 | Checkout | Answer bag, point-card, and payment questions. |
+| 6 | Trains | Replace Shinjuku with your actual destination. |
+| 7 | Friendly chat + review | Say where you’re from and one interest; repeat the hardest dialogue. |
+
+Repeat with new items and destinations. During the trip, practice the situation you expect that day instead of following the cycle rigidly.
+
+For audio practice, use your translation app’s Japanese playback while online. Test the exact phrase, listen once, then repeat it without the screen. Keep [[Japan Travel Guide 2027#🗣️ Useful Japanese phrases|the original phrase list]] for food/dietary wording and its notes.
+
+
+END SOURCE 20
+
+
+==============================================================================
+BEGIN SOURCE 30: Japan 2027 — November vs May.md
+==============================================================================
+
+# 🍁🌿 Japan — November versus May
+
+**Nagoya comparison:** [[Japan 2027 — Nagoya Chapter]] adapts Tokugawaen and city/town walks for November color versus May greenery without assuming peak dates.
+
+**Okinawa comparison:** [[Japan 2027 — Okinawa Chapter]] distinguishes November land/coast exploring from late-May rainy-season planning; neither guarantees beach conditions.
+
+**Nara comparison:** [[Japan 2027 — Nara Chapter]] adapts a Kyoto/Osaka excursion to November colors or May greenery; late-May wisteria and annual peaks are not guaranteed.
+
+**Sapporo comparison:** [[Japan 2027 — Sapporo Chapter]] treats late May as Hokkaido spring and mid/late November as a colder city-food option; flowering and foliage need local dated checks.
+
+**Fukuoka comparison:** [[Japan 2027 — Fukuoka Chapter]] adapts city walks, food, and a Dazaifu/coastal outing to November or May without assuming annual conditions or events.
+
+**Island scenery comparison:** [[Japan 2027 — Best Islands]] adds November foliage and May greenery choices, with suggested stays and explicit mainland-night tradeoffs.
+
+**Osaka comparison:** [[Japan 2027 — Osaka Chapter]] includes Minoh for November foliage when reports support it, or May greenery, alongside the same city shopping and food options. Osaka is an optional route change in either season.
+
+[[Japan 2027 — Seasonal Guides|← Seasonal guides]] · [[Japan 2027 — Autumn Guide|November route]] · [[Japan 2027 — Seasonal Planning and Bookings|Budget and decisions]]
+
+**Purpose:** choose between November autumn colors and May greenery/warmer days after reviewing summer. Working year 2027; no dates selected. My comparison uses the same **15 days / 14 nights** and **Tokyo 4 → Fuji lakes 2 → Kyoto 6 → Tokyo 2** route to isolate seasonal differences.
+
+| Dimension | November | May, after Golden Week |
+| --- | --- | --- |
+| Main scenery | Autumn color in Kyoto/Tokyo; exact timing varies | Fresh greenery, green maples, and other spring flowers; not a Tokyo/Kyoto blossom trip |
+| Walking feel | Cooler days and colder evenings; plan earlier hike finishes | Generally warmer conditions for city walks; heat/rain remain possible |
+| Photography | My pick for leaves, temple contrasts, reflections, and possible evening light-ups | My pick for green forest scenes, gardens, and brighter spring landscapes |
+| Hiking | Low-elevation options; high mountains may have winter conditions | Low-elevation options; verify high-mountain conditions rather than treating May as summer |
+| Fuji | Lake/viewpoint visit; summit climb outside normal season | Lake/viewpoint visit; summit climb outside normal season |
+| Crowds | Popular foliage locations can be busy; compare real lodging quotes | Golden Week is especially busy; compare the calmer second half of May |
+| Clothing/shopping | Browse outerwear and layers if useful at home | Browse lighter pieces if useful at home; exact seasonal stock varies |
+| What to verify | Foliage progress, night-visit announcements, daylight, trail access | Holiday dates, garden/flower conditions, rain forecasts, trail access |
+
+[JNTO November](https://www.japan.travel/en/guide/november/) · [JNTO May](https://www.japan.travel/en/guide/may/) · [National parks seasons and climate](https://faq.japan-travel.jnto.jp/national-parks/plan-your-visit/seasons-and-climate/) · [Fuji season](https://www.fujisan-climb.jp/en/season/).
+
+May's second half is my starting window for warmer walking and greenery. JNTO notes that Tokyo/Kyoto's cherry blossoms have generally finished by May; later northern blossom travel requires a different regional route. Neither season guarantees sun or a clear Fuji view, and no claim that either is always cheaper is supported without dated quotes.
+
+## May adaptation of the autumn itinerary
+
+Keep the same hotels/base count provisionally and make these changes:
+
+| Days | May version |
+| --- | --- |
+| 1–4 | Tokyo arrival, Asakusa, Kichijoji, and Takao or a garden; photograph greenery rather than chasing leaf color. |
+| 5–6 | Fuji lakes, choosing two manageable viewpoints and keeping weather flexibility. |
+| 7 | Kyoto transfer; rest and easy dinner. |
+| 8 | Nanzen-ji/Eikando area for green maples and architecture; no autumn illumination assumed. |
+| 9 | Arashiyama river/greenery and one chosen temple. |
+| 10 | Tofuku-ji for green-maple scenery, or a lighter central Kyoto day. |
+| 11 | Uji matcha/café outing. |
+| 12 | Daimonji OR Kurama–Kibune if conditions suit; a city fallback remains available. |
+| 13–15 | Tokyo return, Tamiya plus selected gifts/clothing, packing, departure. |
+
+Kyoto confirms that its well-known autumn maple sites are also green-maple destinations. [Official green-maple suggestions](https://global.kyoto.travel/en/faq/detail.php?faq_id=1034). Admission, opening days, and trail access require the actual May dates.
+
+## How I would choose for you
+
+- **November:** first choice if the trip centers on seasonal photography and Kyoto temple scenery.
+- **May:** first choice if warmer walking days and greenery matter more than autumn color.
+- **Summer:** the season to investigate a Fuji summit climb, plus festival possibilities, while adapting city days to heat.
+
+These are personal recommendations based on your interests. All three retain cafés, matcha, vintage clothes, records, Tamiya, and her gifts; those interests do not require a particular season.
+
+## Decision record
+
+Preferred season: … · year: … · arrival/departure: … · main scenery goal: … · preferred hike effort: … · Fuji scenic visit/summit: …
+
+Before choosing, compare full hotel/transport quotes for the same night count, flight arrival/departure dates, and cancellation terms. Save the result in the seasonal planning note. The summer, November, and May concepts are alternatives; their budgets are not added together.
+
+
+END SOURCE 30
+
+
+==============================================================================
+BEGIN SOURCE 56: Japan 2027 — Seasonal Guides.md
+==============================================================================
+
+# 🗾 Japan — seasonal travel guides
+
+**Nagoya option:** [[Japan 2027 — Nagoya Chapter]] compares a transfer stop, two-night city stay, and three-night stay with one Inuyama/Ghibli/museum branch.
+
+**Okinawa option:** [[Japan 2027 — Okinawa Chapter]] compares a four-night Naha base with a longer beach stay, summer/November/May conditions, and 14-night alternatives.
+
+**Nara option:** [[Japan 2027 — Nara Chapter]] expands a Kyoto/Osaka day trip, with summer, November, May, and one-night alternatives.
+
+**Sapporo option:** [[Japan 2027 — Sapporo Chapter]] compares three/four nights, with summer, May spring, and November tradeoffs plus explicit 14-night alternatives.
+
+**Fukuoka option:** [[Japan 2027 — Fukuoka Chapter]] compares a three-night Kyushu-city module, with summer/November/May adaptations and explicit 14-night route alternatives.
+
+**Island options:** [[Japan 2027 — Best Islands|Miyajima, Naoshima, Yakushima, Okinawa islands, and more]] — compare one module before changing the itinerary.
+
+**Osaka chapter:** [[Japan 2027 — Osaka Chapter|Food, fashion, hobby shops, cafés, records, and Minoh]] · [[Japan 2027 — Osaka Pocket Routes|Three undated pocket routes]]. Includes a Kyoto day trip, two Osaka nights, and KIX-departure alternatives.
+
+**Working year: 2027**, inherited from your existing trip research; actual year/dates remain unconfirmed. Built 7 October 2026. All three concepts are alternatives for one trip, unless you later choose multiple visits.
+
+| Open | Purpose |
+| --- | --- |
+| [[Japan 2027 — Summer Guide]] | Summer cities, Fuji lakes, hiking choices, and festival planning |
+| [[Japan 2027 — Summer Fuji Climb Option]] | Optional summit branch requiring its own preparation and reservations |
+| [[Japan 2027 — Autumn Guide]] | November foliage, Kyoto/Tokyo photography, and low-elevation hiking |
+| [[Japan 2027 — November vs May]] | Compare November autumn colors with May greenery, including a May route adaptation |
+| [[Japan 2027 — Seasonal Planning and Bookings]] | Shared budget, decisions, reservation records, and checks |
+| [[Japan 2027 — Start Here|Existing cherry-blossom guide]] | Your March/April concept |
+
+**My suggested order:** review summer → decide Fuji scenic visit or summit → compare November and May → choose a season before assigning calendar dates or buying tickets. Fifteen-day outlines are included in the summer and autumn guides; dated daily pocket cards should follow the chosen arrival date.
+
+
+END SOURCE 56
+
+
+==============================================================================
+BEGIN SOURCE 57: Japan 2027 — Seasonal Planning and Bookings.md
+==============================================================================
+
+# 🧭 Seasonal planning, budget, and bookings
+
+**Nagoya decision:** [[Japan 2027 — Nagoya Chapter|Transfer stop, two nights, or three nights]]. Identify replaced Kyoto nights and quote full rail, luggage, hotel, and chosen admission costs within the existing ceiling.
+
+**Okinawa decision:** [[Japan 2027 — Okinawa Chapter|Four-night, split-base, or Okinawa-focused routes]]. Requote flights, baggage, replaced hotels, local transfers, and selected boat/car/activity costs within the existing ceiling.
+
+**Nara decision:** [[Japan 2027 — Nara Chapter|Day trip or one replaced hotel night]]. Compare station choice, return rail, paid areas, and current restoration/gallery notices within the shared budget.
+
+**Sapporo route decision:** [[Japan 2027 — Sapporo Chapter|Three-night, four-night, or Hokkaido-focused alternatives]]. Requote CTS flights, airport legs, day trips, and replaced hotel nights within the existing budget.
+
+**Fukuoka route decision:** [[Japan 2027 — Fukuoka Chapter|Tokyo-return versus departure-via-FUK alternatives]]. Requote transport/hotels and identify replaced nights before booking; no extra allowance or reservation added.
+
+**Island airport access:** [[Japan 2027 — Island Access from Haneda and Narita|Haneda/Narita onward-route comparison and connection records]]. Dated services and full costs remain unconfirmed.
+
+**Island decision:** [[Japan 2027 — Best Islands|Choose one island module]] before revising hotel nights, transport, and activities. Requote the entire route within the current ceiling; no island reservation or extra allowance has been added.
+
+**Osaka route decision:** [[Japan 2027 — Osaka Chapter|Day trip, two-night stay, or KIX departure]]; choose one before assigning hotels and transport. Recalculate actual category totals within the existing ceiling. No Osaka booking or extra shopping allowance has been added.
+
+[[Japan 2027 — Seasonal Guides|← Seasonal guides]] · [[Japan 2027 — Summer Guide|Summer]] · [[Japan 2027 — Autumn Guide|November]] · [[Japan 2027 — November vs May|May comparison]]
+
+## Assumptions and decisions
+
+Inherited research: **2027**, **15 calendar days / 14 nights**, one traveler for the budget example, **US$5,000 in Japan excluding international flights**. These are working assumptions for comparing the new guides, not newly confirmed dates or spending authorization. Existing flights/hotels remain unconfirmed.
+
+| Decision | Working plan | Final choice |
+| --- | --- | --- |
+| Season / year | Summer first, then November versus May | … |
+| Length / travelers / rooms | 14 nights, one-person budget example | … |
+| Arrival and departure | Tokyo return; compare KIX departure | … |
+| Summer Fuji | Scenic two-night lake stay; summit branch separate | … |
+| Hiking | Choose one accessible outing; effort unconfirmed | … |
+| Regional variation | Kamikochi only by replacing Kyoto nights | … |
+| Gifts | Up to US$200 for her; relationship to US$300 shopping remains open | … |
+
+## Provisional cost ceilings for comparison
+
+These are my planning allocations, **not quoted prices**. They replace the blossom guide's category example for evaluating each seasonal alternative; they do not change that guide's budget or create three trip commitments.
+
+| Category | US$ planning amount | Before booking |
+| --- | --- | --- |
+| Accommodation | 2,100 | 14-night total, taxes/fees included; average target US$150/night |
+| Meals and drinks | 600 | Up to 15 calendar days, US$40/day target |
+| Intercity transport | 400 | Fuji access and Kyoto/Tokyo travel quotes; record legs once |
+| Local and airport transport | 250 | Hotel/airport routes and day-trip local legs |
+| Admissions / activities | 300 | Exact temples, viewpoints, cable cars/ropeways, and selected events |
+| Connectivity / insurance | 150 | Actual cover and connection choice |
+| Shopping / miscellaneous | 300 | Your purchases and gifts according to the chosen scenario |
+| Planned subtotal | **4,100** | Rebuild from actual quotes |
+| Unassigned reserve | **900** | Maintain visibly until costs are known |
+| Total in-Japan envelope | **5,000** | International flights excluded |
+
+**Gift scenarios:** if her US$200 is inside shopping/miscellaneous, it leaves up to US$100 for your other purchases; revise prior personal category caps accordingly. If additional, planned spending becomes **US$4,300**, reserve **US$700**, inside the same US$5,000 ceiling. This scenario does not confirm extra spending. Her suggested US$80 fashion / US$50 beauty / US$50 sweets / US$20 flexible reserve total US$200; count each purchase once.
+
+**Fuji summit branch:** hut, guide, equipment, admission, and extra transport need actual quotes. Replace the relevant accommodation/transport/activities amounts, then reassess the reserve and route. Do not treat the US$300 activities allocation as proof that a guided climb fits. Gear bought separately and international flights need explicit separate tracking.
+
+Use the actual yen/payment exchange rate and fees. Compare **committed reservation totals + remaining estimates** with the ceiling; deposits are part of the full reservation cost, not an additional cost. No seasonal rate or exact airfare has been checked.
+
+## Reservation record — empty until booked
+
+| Item / route | Dates | Full total / currency | Paid / due | Cancellation deadline and time zone | Confirmation / source |
+| --- | --- | --- | --- | --- | --- |
+| International flights | TBD | TBD | — | TBD | — |
+| Tokyo first block | TBD | TBD | — | TBD | — |
+| Kawaguchiko lodging | TBD | TBD | — | TBD | — |
+| Kyoto lodging | TBD | TBD | — | TBD | — |
+| Tokyo final block | TBD | TBD | — | TBD | — |
+| Intercity transport | TBD | TBD | — | TBD | — |
+| Selected paid experience | TBD | TBD | — | TBD | — |
+| Fuji hut / guide, only if chosen | TBD | TBD | — | TBD | — |
+
+No reservation, payment, or hold has been made. A dated shortlist is not a booking confirmation.
+
+## Checks at the useful time
+
+1. **Before setting dates:** choose year/season, hiking level, Fuji goal, traveler count, and airports; compare full route quotes.
+2. **Before each booking:** verify the dated official timetable/access notice, exact price, luggage/inclusions, cancellation terms, and running total.
+3. **When annual announcements appear:** update festival arrangements, Fuji openings/fees/reservation rules, autumn illuminations, and relevant transport booking windows. Current 2026 details are not 2027 confirmation.
+4. **Close to departure:** recheck entry/transit requirements for your actual nationality/route, attraction/trail access, and local conditions; use [[Japan 2027 — Travel Essentials|the existing essentials]] as a checklist reference and refresh date-sensitive facts.
+5. **Once dates are chosen:** create seasonal dated pocket cards, actual station-to-hotel routes, and calendar-specific opening checks. Do not reuse the blossom cards' dates.
+6. **Each evening:** back up photos, record spending, and settle next day's main stop and fallback.
+
+## Reusable research
+
+[[Japan 2027 — Shopping Shortlist]] · [[Japan 2027 — Clothing to Browse Online]] · [[Japan 2027 — Gifts for Her]] · [[Japan 2027 — Kichijoji Shopping and Exploring]] · [[Japan 2027 — Photography and Filming Wishlist]]
+
+These notes supply interests, links, size references, and purchase ideas. Their date-specific March/April routes and October 2026 stock claims must be rechecked for the chosen season. Map exports from the blossom route need updating if destinations change.
+
+
+END SOURCE 57
+
+
+==============================================================================
+BEGIN SOURCE 61: Japan 2027 — Summer Fuji Climb Option.md
+==============================================================================
+
+# 🗻 Summer Fuji — optional summit branch
+
+[[Japan 2027 — Summer Guide|← Summer guide]] · [[Japan 2027 — Seasonal Planning and Bookings|Budget and booking records]]
+
+**Decision still open:** you requested hiking and a Fuji visit; a summit climb has not been selected. Your hiking experience and preferred effort are not recorded. Scenic lake/viewpoint visits remain the default summer route.
+
+The [official climbing site](https://www.fujisan-climb.jp/en/) publishes trail openings, reservations, fees, preparation, and notices. Summer opening differs by trail and year; **2026 information is background, not confirmation of the 2027 season**. Do not apply old fee, gate-hour, or booking-opening details to a future purchase.
+
+## How the climb changes the itinerary
+
+Compare this **14-night alternative** only if you choose the summit:
+
+**Tokyo 4 → Kawaguchiko 1 → mountain hut 1 → Kawaguchiko 2 → Kyoto 4 → Tokyo 2 = 14 nights.**
+
+| Day | Proposed block | Night |
+| --- | --- | --- |
+| 1–4 | Same Tokyo block as the summer guide | Tokyo 4 |
+| 5 | Transfer to Kawaguchiko; organize equipment and next day's verified access | Kawaguchiko |
+| 6 | Travel to the chosen trailhead, acclimatize, climb to a reserved hut | Mountain hut |
+| 7 | Optional summit attempt if appropriate, descend on the correct trail, return and rest | Kawaguchiko |
+| 8 | Recovery / local lake day; no long intercity transfer planned | Kawaguchiko |
+| 9 | Transfer to Kyoto on a verified connection | Kyoto |
+| 10–12 | Kyoto highlights, reduced to fit the climb branch | Kyoto 3 further nights |
+| 13–14 | Tokyo return, shopping, packing | Tokyo 2 |
+| 15 | Departure | — |
+
+**Day 8 is a recovery day.** If a weather delay shifts the climb, replace further Kyoto time or extend the trip explicitly before changing reservations. Buffer time does not guarantee a delayed hut or transport reservation can be moved.
+
+The hut replaces a hotel night; it is not an extra uncounted night. Luggage storage/forwarding and transport after descent require confirmation. A sunrise summit is optional, not a reason to climb through the night without rest. The official [Yoshida model plan](https://www.fujisan-climb.jp/en/modelplan-yoshida/) provides a starting reference for a hut-based climb; a guide/operator should settle the route, pace, and suitability if selected.
+
+## What to verify before selecting this branch
+
+- [ ] Prior mountain experience, usual walking hours, and readiness for a strenuous high-altitude outing.
+- [ ] Exact trail, opening period, current access rules, admission/reservation requirements, and current fee.
+- [ ] Mountain hut: confirmed night, location on the selected trail, meals, bedding, arrival requirements, cancellation terms.
+- [ ] Guide/operator if wanted: actual quote, inclusions, equipment, weather/turnaround policy, and meeting point.
+- [ ] Proper clothing/footwear, waterproofs, headlamp, food/water, and the official preparation guidance; summer city clothing alone is insufficient.
+- [ ] Trailhead transport both ways, descent route, return accommodation, and itinerary recovery time.
+- [ ] Weather/trail notices and an agreed turnaround plan; the summit remains optional.
+- [ ] Actual total for hut, access, transport, guide, and equipment, with reductions elsewhere if required to stay inside the cap.
+
+**Cost status:** no hut, guide, equipment-rental, or admission quote. No summit reservation has been made. Do not add these costs invisibly to the scenic-route budget. If you choose scenic Fuji, retain the summer guide's two lake nights and skip this branch.
+
+
+END SOURCE 61
+
+
+==============================================================================
+BEGIN SOURCE 62: Japan 2027 — Summer Guide.md
+==============================================================================
+
+# ☀️ Japan 2027 — Summer Guide
+
+**Nagoya alternative:** [[Japan 2027 — Nagoya Chapter|Food, Osu, and indoor museum choices]]. Replace Kyoto nights and shorten outdoor blocks in heat/rain.
+
+**Okinawa alternative:** [[Japan 2027 — Okinawa Chapter|Main-island culture and coast]]. Replace other nights; summer heat/typhoon conditions and full domestic-flight costs need checking.
+
+**Nara day-trip alternative:** [[Japan 2027 — Nara Chapter|Todai-ji, park, and one afternoon choice]]. Replace one Kyoto-area outing; keep heat breaks and compare Wakakusa as a separate active route.
+
+**Sapporo alternative:** [[Japan 2027 — Sapporo Chapter|Summer parks, food, Otaru, and an optional fourth-night outing]]. Compare replaced nights and domestic flight costs before selecting it.
+
+**Fukuoka alternative:** [[Japan 2027 — Fukuoka Chapter|Yatai, tea, vintage browsing, and coast/culture choices]]. Adding the city replaces other nights; the current summer outline remains unchanged.
+
+**Island alternatives:** [[Japan 2027 — Best Islands]] compares beach stays, forest hiking, art islands, and an Enoshima Tokyo outing. Multi-night islands replace existing bases; the daily outline remains unchanged.
+
+**Osaka option:** [[Japan 2027 — Osaka Chapter]] provides a Kyoto day trip or two-night variation, replacing Kyoto time while preserving 14 nights; summer heat breaks are included. [[Japan 2027 — Osaka Pocket Routes|Open the pocket routes]]. The daily table below remains the original scenic-Fuji concept.
+
+[[Japan 2027 — Seasonal Guides|← Seasonal guides]] · [[Japan 2027 — Seasonal Planning and Bookings|Budget and reservations]] · [[Japan 2027 — Autumn Guide|Autumn alternative]]
+
+**Status:** planning guide; no dates, hotels, transport, festival tickets, or climbs booked. **Working length:** 15 days / 14 nights, one traveler as a budgeting assumption. **Your interests:** photography/filming, hiking, Fuji, cafés and matcha, vintage clothes, Tamiya, records, and gifts.
+
+## Best starting window
+
+My first window to compare is **late July into early August**, before the main mid-August Obon travel period. Early July can overlap the rainy season; July/August city sightseeing requires planning for heat and humidity. This is a seasonal recommendation, not a forecast or a promise of lower prices. [JNTO July](https://www.japan.travel/en/guide/july/) · [JNTO August](https://www.japan.travel/en/guide/august/).
+
+If Gion Matsuri is a priority, choose the Kyoto nights around the festival rather than preserving the order below. Kyoto's official guide identifies **July 17 and 24** as procession highlights within the July festival; the exact **2027 arrangements, access, and paid seats need checking**. [Kyoto festival information](https://global.kyoto.travel/en/faq/detail.php?faq_id=2025). No firework date or seasonal event has been assigned to this itinerary.
+
+## Route and accommodation count
+
+**Tokyo 4 nights → Kawaguchiko 2 → Kyoto 6 → Tokyo 2 = 14 nights.** This scenic-Fuji route is the default. Choose air-conditioned rooms with practical station access and cancellable terms where possible; lake-view lodging is an optional upgrade, not a requirement. Compare a Tokyo return flight against departing Osaka/KIX before fixing the last two nights.
+
+Tokyo → Kawaguchiko: compare [direct highway bus](https://bus.fujikyu.co.jp/en/lp/en-shinjuku-kawaguchiko/) and [FUJI EXCURSION rail](https://e.fujikyu-railway.jp/fujikaiyuu/). Kawaguchiko → Kyoto: check the [Mishima–Kawaguchiko liner](https://bus.fujikyu.co.jp/en/highway/mishima/) in the required direction, then the [Tokaido Shinkansen](https://global.jr-central.co.jp/en/). Allow a connection buffer for road delays. If that dated connection is unsuitable, compare returning through Tokyo before Kyoto. Fares and schedules are unconfirmed.
+
+## Fifteen-day outline
+
+These are my proposed outing blocks, not attraction opening times. Choose one main outdoor block per day and use lunch/cafés/indoor browsing to break up the heat. Swap adjacent days when weather or opening notices justify it.
+
+| Day / night | Main plan | Flexible or bad-weather alternative | Photo/film prompt |
+| --- | --- | --- | --- |
+| 1 / Tokyo 1 | Arrive, hotel transfer, food, rest | Nearby indoor meal | First neighborhood scene |
+| 2 / Tokyo 2 | Asakusa early; café and indoor browsing later | Shorten walking and stay near transport | Temple detail / river scene |
+| 3 / Tokyo 3 | Kichijoji: choose park, vintage, coffee, and one record shop | LOFT or record browsing with breaks | Pond reflection / shop entrance |
+| 4 / Tokyo 4 | Choose an early Takao walk if conditions suit; otherwise a Tokyo park | Shops/café day; full hike is optional | Forest/temple detail |
+| 5 / Kawaguchiko 1 | Travel to the Fuji lakes; hotel and lakeside walk | Café and local orientation | Wide lake-and-mountain view if visible |
+| 6 / Kawaguchiko 2 | Choose two: lakeside/Oishi Park, Chureito viewpoint, or ropeway | Keep local; no mountain outing in poor weather | One wide frame and one detail |
+| 7 / Kyoto 1 | Transfer via a verified connection; easy dinner | Treat as a travel/rest day | Evening arrival atmosphere |
+| 8 / Kyoto 2 | Higashiyama early, then seated lunch/café and one indoor stop | Reduce temple count | Street layers / architectural detail |
+| 9 / Kyoto 3 | Arashiyama early, then lunch and return | Nearby café / indoor browsing | River, greenery, bamboo detail |
+| 10 / Kyoto 4 | Uji matcha-focused outing | Central Kyoto tea/café alternative | Tea preparation with permission |
+| 11 / Kyoto 5 | Central Kyoto markets, shops, and gift browsing | Keep the day mostly indoors | One purchase and its story |
+| 12 / Kyoto 6 | Optional early Daimonji walk OR Kurama–Kibune if conditions and effort suit | Festival only if dates fit, or relaxed city day | Hill panorama or forest sequence |
+| 13 / Tokyo 5 | Return to Tokyo; hotel and easy evening | Rest and laundry | Travel transition |
+| 14 / Tokyo 6 | Tamiya in Shinbashi; choose Donki or clothing/gift stop, then pack | Limit to the main purchase | Souvenir detail; ask before shop filming |
+| 15 / — | Airport transfer and departure | Leave a reliable transfer buffer | Optional final scene |
+
+Night labels count actual nights in each base: Tokyo's final block is its fifth/sixth nights. Arrival/departure times can change what is realistic on Days 1 and 15. The guide's [existing Fuji viewpoints](https://www.mtfujiropeway.jp/en/) include weather-dependent operations; keep a second opportunity for a view during the two-night stay. Summer visibility is not guaranteed.
+
+## Hiking choices
+
+- **Scenic Fuji lakes:** default, with Chureito's stairs an optional effort. [[Japan 2027 — Hiking and Mount Fuji|Existing hiking research]] supplies viewpoint and trail links; its March/April date suggestions do not apply here.
+- **Takao Trail 1:** a possible Tokyo hike, shortened with cable-car assistance if operating. Use the [operator's map](https://www.takaotozan.co.jp/course/img/course_map_english.pdf) and current access notices. A summer city visit does not require a full summit walk.
+- **Daimonji or Kurama–Kibune:** choose one Kyoto outdoor block; rain, heat, and trail notices can replace it with city activities. Your preferred effort is still unknown.
+- **Fuji summit:** open the separate [[Japan 2027 — Summer Fuji Climb Option|climb option]]. The default two-night lake stay does not provide the climb, descent, and recovery block by itself.
+- **Kamikochi nature variation:** if alpine-valley scenery matters more than six Kyoto nights, compare **Tokyo 4 → Fuji lakes 2 → Matsumoto 2 → Kyoto 4 → Tokyo 2 = 14 nights**. Use Matsumoto as the access base and spend a full day on a low valley walking route, with current transfers checked. This replaces Kyoto days rather than adding nights. [Official walking routes](https://www.kamikochi.org/thingstodo/walking) · [Access](https://www.kamikochi.org/access). Valley walks do not imply readiness for the high alpine summits. This variant is not scheduled in the default daily table.
+
+## Cafés, shopping, and her gifts
+
+Use [[Japan 2027 — Kichijoji Shopping and Exploring|Kichijoji]] for vintage/records/coffee and [[Japan 2027 — Shopping Shortlist|the shopping research]] for Tamiya and Donki. Kyoto/Uji provide the matcha focus. Choose one clothing piece or compact hobby purchase before optional records/stationery; check actual garment measurements and luggage space.
+
+[[Japan 2027 — Clothing to Browse Online|Your clothing links]] and [[Japan 2027 — Gifts for Her|her clothing, beauty, perfume, and sweets]] remain browsing leads checked in October 2026. Earlier flannels/faux-fur hoodies may be autumn/winter products; summer trip stock, variants, and sizes are unconfirmed. Choose suitable garments for use at home rather than assuming every shop carries them year-round. Record consumption during the trip under meals and take-home food gifts under shopping.
+
+## Phone-ready day rhythm and checklist
+
+**Morning:** main outdoor block when access allows → **midday:** lunch, seated break, café or indoor activity → **later:** short photo walk or one shop → **evening:** dinner, photos backed up, next-day weather/transport checked. This is a flexible rhythm, not an assertion that every attraction opens early.
+
+- [ ] Confirm year, arrival/departure dates, traveler count, hiking effort, and scenic Fuji versus summit.
+- [ ] Check hotel air-conditioning, full-stay price, station access, and cancellation deadline.
+- [ ] Save dated transport and return connections; verify festival arrangements only after choosing dates.
+- [ ] Carry water, sun/rain protection, light city clothing, and grip footwear; use proper mountain layers if hiking.
+- [ ] Replace outdoor plans when local heat/weather/access notices make them unsuitable.
+- [ ] Compare all actual prices with [[Japan 2027 — Seasonal Planning and Bookings|the seasonal budget]] before purchase.
+
+International flights, dated transport fares, event access, and accommodation remain unquoted. This guide is ready for choosing a route; it is not a confirmed travel schedule.
+
+
+END SOURCE 62
+
+
+==============================================================================
+BEGIN SOURCE 64: Japan 2027 — Travel Essentials.md
+==============================================================================
+
+# 🧳 Japan 2027 — Travel Essentials
+
+**Maps:** [[Japan 2027 — Maps|📍 All destination, shop, café, and transport searches]]
+
+[[Japan 2027 — Start Here|← Dashboard]] · [[Japan Travel Guide 2027|Full guide]] · [[Japan 2027 — Bookings|Bookings]]
+
+**New official-source checks: 6 October 2026.** These are current rules and preparation steps, not confirmed 2027 requirements. Recheck before paying for flights and before departure. Fill in personal fields after selecting the route.
+
+## 🛂 Entry and arrival preparation
+
+- [ ] Check the requirements for each traveler’s actual passport; departing from Chile does not establish nationality.
+- [ ] Check transit-country requirements for the selected connections, including any airport changes or separate tickets.
+- [ ] After booking, prepare Visit Japan Web using the actual arrival flight and accommodation details.
+- [ ] Save essential travel documents securely offline and confirm how to display the arrival code before departure.
+
+**Passport-specific starting point:** Japan’s current short-stay exemption list includes Chile, with a usual landing-permission period of 90 days for listed countries without a shorter stated period. Use this only if the traveler holds the relevant passport and meets the applicable conditions; nationality is still unconfirmed in your plan. [MOFA short-stay exemption list](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) · [Embassy of Japan in Chile](https://www.cl.emb-japan.go.jp/itpr_ja/procedimientodevisado.html)
+
+**Visit Japan Web:** the Digital Agency provides online arrival procedures for immigration and customs. Access it through the official agency page. Completing the form does not replace checking visa eligibility. [Official Visit Japan Web information and access](https://www.digital.go.jp/en/policies/visit_japan_web)
+
+## 🛂 Visa check — passport confirmation pending
+
+**Checked 6 October 2026. Traveler passport nationality and type remain unconfirmed.**
+
+**If traveling on an ordinary Chilean passport for tourism:** Chile appears on Japan’s current visa-exemption list, with a usual short-stay period of up to **90 days**. The proposed 14-night holiday fits that duration. Exemption covers eligible short visits without remunerated professional activity in Japan; it is not permission to work. [Japan MOFA exemption list](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) · [Embassy in Chile visa guidance](https://www.cl.emb-japan.go.jp/itpr_ja/procedimientodevisado.html)
+
+**Documents recommended by the Embassy of Japan in Chile:** a valid passport with at least six months remaining, return-flight evidence, and printed accommodation confirmations covering the stay. It also recommends insurance and evidence of financial means. Its approximate US$100/day figure is document-preparation guidance, not a fee or a replacement for your budget. Confirm directly with the embassy if passport validity is close to that recommendation. [Embassy’s visa-exempt traveler checklist](https://www.cl.emb-japan.go.jp/itpr_ja/exencion.html)
+
+- [ ] Confirm the passport country and type for every traveler; do not use Chilean residence as proof of eligibility.
+- [ ] Confirm tourism purpose and the actual dates; recheck rules before booking and departure in 2027.
+- [ ] Check passport expiry against embassy guidance and the chosen transit route.
+- [ ] Save return/onward travel evidence and accommodation confirmations.
+- [ ] Check **transit requirements separately** after choosing connection countries and airports.
+
+Visit Japan Web handles arrival procedures; it is not a visa application or a substitute for visa eligibility. Your personal visa status remains pending passport confirmation.
+
+## 📱 Visit Japan Web — prepare before flying
+
+**Checked 6 October 2026; recheck terminal arrangements for 2027.** Online preparation reduces paperwork; it does not guarantee a short queue or replace immigration inspection.
+
+1. Open [the official Visit Japan Web landing page](https://services.digital.go.jp/en/visit-japan-web/) and create an account.
+2. Enter your traveler/passport information and the actual arrival flight and first accommodation details.
+3. Complete the immigration and customs declarations and have the resulting arrival QR/2D code ready with your passport.
+4. Keep the phone charged and save an offline copy of the code as a backup. Update the registration if flight or accommodation details change.
+
+Visit Japan Web supports online arrival procedures. [Digital Agency explanation](https://www.digital.go.jp/en/policies/visit_japan_web)
+
+### What happens after landing
+
+Where integrated kiosks operate, scan your code and passport, complete the photo/fingerprint steps as instructed, and follow the displayed routing to the immigration booth. Collect luggage, then complete customs; eligible passengers may use a facial-recognition customs gate, while others are directed to an officer.
+
+**Current integrated-kiosk locations relevant to your trip:** Haneda terminals **2 and 3**; Narita terminal **3**. The published list does not establish integrated-kiosk availability at Narita terminals 1 or 2. Check your actual arrival terminal and follow staff instructions. [Official terminal list](https://www.customs.go.jp/english/passenger/kiosk_2.pdf)
+
+Integrated kiosks reduce duplicate data submission; dedicated immigration booths still involve inspection. Customs may require additional checks. **Do not plan an airport transfer around a guaranteed processing time.** [Official integrated-kiosk process](https://www.customs.go.jp/english/passenger/Pilot_kiosk.htm)
+
+## 🛬 Arrival card — complete after booking
+
+| Detail | Actual value |
+| --- | --- |
+| Arrival airport / terminal | TBD |
+| Arrival date / local time | TBD |
+| First hotel / address in Japanese | TBD |
+| Hotel entrance Google Maps link | TBD — fill after booking |
+| Hotel phone / check-in window | TBD |
+| Preferred airport-to-hotel route | TBD |
+| Final usable departure for that route | TBD — check the actual operating day |
+| Late-arrival backup and cost limit | TBD |
+| Mobile data activation / backup | TBD |
+
+Choose the transfer after checking the actual hotel entrance, station exit, and luggage needs. Save directions offline. If delayed, check the next operating service and inform the hotel before its check-in cutoff. The guide already has [[Japan Travel Guide 2027#🛬 First-day checklist|a first-day checklist]].
+
+## 🧳 Tokyo–Kyoto luggage decision
+
+Measure **length + width + height**, including protruding handles and wheels, before buying the train ticket.
+
+| Suitcase total dimensions | Current JR Central guidance for ordinary luggage |
+| --- | --- |
+| Up to 160 cm | Oversized-baggage reservation is not required by size; storage must suit the bag and available space |
+| Over 160 cm and up to 250 cm | Reserve a seat with an oversized baggage area |
+| Over 250 cm | Cannot be brought aboard under these rules; arrange another solution |
+
+JR Central’s summary distinguishes these size bands. Selecting an ordinary reserved seat does not automatically reserve the oversized area. Recheck the current operator rules and any special-item exceptions before booking. [Official JR Central luggage guidance](https://global.jr-central.co.jp/en/info/oversized-baggage/) · [SmartEX baggage booking steps](https://smart-ex.jp/en/entraining/oversized-baggage/)
+
+- **My suitcase measurements / total:** TBD.
+- **Carry or forward:** TBD.
+- **Train seat and baggage arrangement:** record in [[Japan 2027 — Bookings]].
+- **If forwarding:** confirm both hotels accept it, delivery date, full price, and pickup cutoff. Keep essentials with you until confirmed delivery; do not assume same-day service between Tokyo and Kyoto.
+
+## 📞 Contacts to save offline
+
+| Need | Number / information |
+| --- | --- |
+| Urgent police help in Japan | **110** |
+| Ambulance / fire in Japan | **119** |
+| JNTO visitor assistance | **050-3816-2787** in Japan; **+81-50-3816-2787** from overseas |
+| Travel insurer assistance / policy | TBD |
+| Current hotel / address | TBD |
+| Personal contact | TBD |
+
+JNTO lists the visitor hotline as available 24 hours daily in English, Chinese, and Korean. Keep urgent police and ambulance numbers separate from general visitor assistance. [Official JNTO hotline and emergency numbers](https://www.japan.travel/en/plan/hotline/)
+
+## 🩺 Health preparation
+
+Open [[Japan 2027 — Health]] for the pre-travel appointment, vaccine review, medicine-import checks, and illness-prevention checklist. Aim for early February 2027, adjusted to your actual departure and clinical needs.
+
+## 📲 Apps to prepare on your iPhone
+
+**Official sources checked 6 October 2026.** Recommended for your Tokyo–Kyoto trip using an iPhone and a Chilean account. This is a practical shortlist, not a ranking of app usage among Japanese residents. Recheck App Store region availability, phone requirements, fees, and 2027 features before departure. Use the developer’s official page for download links.
+
+### Google Maps
+
+**Priority:** Essential
+
+**How you will use it:** Open the guide’s saved shops, cafés, sightseeing stops, and transport locations; plan the next journey online
+
+**Setup / official link:** Download your Tokyo/Kyoto areas if available, and save important route screenshots. Offline Maps does not provide walking or public-transport directions. [Google’s iPhone guidance](https://support.google.com/maps/answer/6291838?co=GENIE.Platform%3DiOS&hl=en) · [[Japan 2027 — Maps|Your Maps index]]
+
+### Google Translate (or Apple Translate)
+
+**Priority:** Essential
+
+**How you will use it:** Read signs and menus, type a question, or help with a short conversation
+
+**Setup / official link:** Download Japanese and Spanish in Google Translate before leaving, then test in airplane mode. Available offline functions vary; do not assume every feature works offline. [Google iPhone language downloads](https://support.google.com/translate/answer/6142473?co=GENIE.Platform%3DiOS&hl=en) · [Apple alternative](https://support.apple.com/en-ae/guide/iphone/-iphd74cb450f/ios)
+
+### Apple Wallet + Suica
+
+**Priority:** Essential setup
+
+**How you will use it:** Tap for supported local transport and purchases
+
+**Setup / official link:** Wallet is built in; create Suica there rather than installing the separate Japanese Suica app for basic use. Test a small top-up using your own card; Apple Pay enrollment alone does not confirm that every Chilean debit card can fund Suica. Keep backup cash/card. [Apple setup instructions](https://support.apple.com/ja-jp/108772)
+
+### Safety tips
+
+**Priority:** Essential preparation
+
+**How you will use it:** Receive earthquake, tsunami, and special weather warnings, and access disaster guidance
+
+**Setup / official link:** Set the language, locations, and notification permissions before travel. This is the visitor-focused tool supervised by Japan’s Tourism Agency. [Official agency guidance](https://www.mlit.go.jp/kankocho/seisaku_seido/kihonkeikaku/jizoku_kankochi/anzenkakuho/inbound/tool.html)
+
+### Japan Travel by NAVITIME
+
+**Priority:** Useful addition
+
+**How you will use it:** A second tool for rail/transit route planning, plus nearby stations and ATMs
+
+**Setup / official link:** Choose the visitor version named Japan Travel by NAVITIME. Check which current features are free or require payment before subscribing. [Official app page](https://static.japan.travel.navitime.com/app-lp/en/index.html)
+
+### GO
+
+**Priority:** Useful taxi backup
+
+**How you will use it:** Request a taxi when tired, carrying luggage, or unable to use the planned train
+
+**Setup / official link:** Register and test phone verification before leaving. Official visitor guidance supports non-Japanese phone numbers and international cards/Apple Pay. Confirm your actual card and the fare plus fees. Short-term foreign visitors currently incur an International Service Charge; check the booking screen. [Official visitor app page](https://go.goinc.jp/en) · [Fee explanation](https://support.go.goinc.jp/hc/en-us/articles/46695032643737-What-is-the-International-Service-Charge)
+
+### Tabelog multilingual app
+
+**Priority:** Useful for food
+
+**How you will use it:** Find nearby restaurants/cafés, photos, and available reservations
+
+**Setup / official link:** Use the multilingual version. Browsing can start without signup; online reservations require an account and acceptance of the restaurant’s conditions. If unavailable in the Chilean App Store, use its English website. [Official multilingual app](https://tabelog.com/en/tabelog-multilingual-app/) · [FAQ](https://tabelog.com/en/help)
+
+### LINE
+
+**Priority:** Optional social tool
+
+**How you will use it:** Communicate when a local contact or business specifically uses LINE
+
+**Setup / official link:** Install only if you will use it. For residents of Chile, current account creation uses Continue with Apple or Google; select the country you actually live in. It is not required to ride trains or shop. [Official signup instructions](https://help.line.me/?contentId=20001192)
+
+### Your chosen eSIM app, bank apps, airline app, and Obsidian
+
+**Priority:** Keep ready
+
+**How you will use it:** Manage data, approve payments, access the actual flight booking, and read your guide
+
+**Setup / official link:** Pick the eSIM after comparing its plan. Test bank verification abroad and ensure your vault/confirmations are available offline before leaving; this note does not install apps or configure your phone.
+
+
+### 🌐 Bookmark these instead of relying on another app
+
+- **Visit Japan Web:** open the official service through Safari and optionally add its shortcut to the Home Screen. Complete the actual arrival details and save the code backup. [Official access](https://services.digital.go.jp/en/visit-japan-web/)
+- **SmartEX:** use the official English website for Tokyo–Kyoto bookings. Chile is absent from the currently published list of countries/regions where its international app can be downloaded; do not rely on finding it in your Chilean App Store. [Official app-region FAQ](https://smart-ex.jp/en/faq/category/detail/?id=582) · [English booking service](https://smart-ex.jp/en/)
+
+### 💴 Local payment app you can skip for this holiday
+
+**PayPay:** its official signup requirements exclude overseas phone numbers and require a Japanese mobile number capable of SMS verification. A data-only travel eSIM does not supply that. Use your planned Suica, supported debit-card payments, and cash rather than building your payment plan around a PayPay account. [Official requirements](https://paypay.ne.jp/help/c0032/)
+
+### ✅ Before leaving Chile
+
+- [ ] Update the chosen apps and complete needed signups while phone verification is easy.
+- [ ] Download translation languages and available map areas; save essential route screenshots separately.
+- [ ] Add/test Suica and keep a backup payment method.
+- [ ] Enable Safety tips alerts for your destinations.
+- [ ] Test GO registration if you want a taxi fallback; review current visitor fees.
+- [ ] Bookmark Visit Japan Web and SmartEX in Safari.
+- [ ] Test offline access to Obsidian, flight/hotel confirmations, and the contacts card.
+- [ ] Confirm how your Chilean phone number receives bank/SMS codes abroad without unexpected roaming costs.
+
+## 📱 Phone and payment backups
+
+These are practical preparation suggestions; test them with your actual devices, bank, and mobile provider.
+
+- [ ] Confirm the phone is unlocked and supports the selected eSIM/SIM; check activation timing, data allowance, and hotspot terms before paying.
+- [ ] Decide how to receive bank verification codes abroad; a data-only travel eSIM may not receive calls or SMS sent to your home number. Check roaming charges with your home carrier.
+- [ ] Carry a backup physical payment card separately from the main wallet, plus some yen. Confirm overseas use and know the card-freezing procedure.
+- [ ] Save hotel addresses in Japanese, confirmations, key contacts, and a simple route offline. Do not rely entirely on live maps or a phone wallet.
+- [ ] Prepare secure account-recovery access if the phone is lost; keep recovery codes private and separate from the device.
+
+**If the phone or wallet is lost:** contact the venue/transport operator and local police as appropriate; freeze affected cards and use the device’s lost-mode controls from a trusted device. Use the hotel and [[#📞 Contacts to save offline|contacts card]] for assistance.
+
+## 🌏 Earthquake and weather alerts
+
+- [ ] Install **Safety tips** through JNTO’s official guidance and enable relevant alerts before traveling.
+- [ ] On hotel arrival, identify the emergency exits and ask staff about evacuation arrangements.
+- [ ] Follow official alerts and staff instructions if a disruption occurs; recheck transport before continuing the itinerary.
+
+JNTO recommends Safety tips among its visitor information tools for natural disasters. [Official JNTO safety guidance and app links](https://faq.japan-travel.jnto.go.jp/en/plan/emergencies/)
+
+## 🗣️ A small offline language kit
+
+[[Japan 2027 — Japanese Practice|Open the daily conversation refresher]] for polite phrases, common replies, and practice dialogues.
+
+- [ ] Download the translation app’s Japanese language pack if supported and test it without mobile data.
+- [ ] Save the hotel name/address in Japanese and the names of your next stations.
+- [ ] Prepare any food-allergy statement with reliable translation; ask about ingredients and cross-contact. Camera translation alone does not establish that a meal is safe for an allergy.
+
+The main guide already includes [[Japan Travel Guide 2027#🗣️ Useful Japanese phrases|useful Japanese phrases]]. Keep the essentials accessible without searching the full guide.
+
+## 🎁 Bringing matcha and food souvenirs back to Chile
+
+**Official guidance checked 6 October 2026; recheck before returning in 2027.** SAG requires declaration of plant- and animal-origin products carried into Chile. Declare tea/matcha and relevant food souvenirs; commercial or sealed packaging does not remove the declaration obligation. An inspector determines whether entry is permitted. [SAG traveler declaration guidance](https://www.sag.gob.cl/tramites/declaracion-jurada-sag-sobre-ingreso-de-productos-de-origen-vegetal-o-animal-chile) · [SAG entry rules](https://www.sag.gob.cl/ambitos-de-accion/ingreso-chile)
+
+- [ ] Check the specific products with SAG before buying anything whose admission is uncertain.
+- [ ] Keep tea and food in original labeled packaging and accessible for inspection.
+- [ ] Prepare the required declaration through [SAG’s official portal](https://dj.sag.gob.cl/) or the accepted arrival procedure; do not guess the opening window for 2027.
+
+## 🧾 Tax-free purchases before departure
+
+See [[Japan Travel Guide 2027#🧾 Tax-free shopping for the 2027 trip|verified shops and the new refund process]]. Complete the required customs confirmation before checking in any baggage containing goods that may need inspection; confirm the actual airport procedure. Track refunds separately from money already paid.
+
+## ✈️ The evening before leaving Japan
+
+- [ ] Confirm departure airport, terminal, airline check-in deadline, and baggage allowance from the actual ticket.
+- [ ] Calculate hotel → airport travel for the real departure day, with time for check-in/security and a disruption buffer; save a backup route.
+- [ ] Check checkout time, luggage storage, and any Wi-Fi rental return instructions.
+- [ ] Back up photos and pack passport, medicines, payment cards, and flight documents where accessible.
+- [ ] Review souvenir declarations for Chile and any requirements at connection airports.
+
+## 🎒 One week before leaving Santiago
+
+- [ ] Confirm flights, local dates, hotel nights, and airport transfers agree.
+- [ ] Recheck passport and transit requirements using official sources for the actual traveler.
+- [ ] Prepare arrival procedures and secure offline confirmations.
+- [ ] Test mobile data setup, maps, payment cards, and charging adapters.
+- [ ] Confirm suitcase dimensions and any train baggage reservation.
+- [ ] Save hotel addresses, insurance contact, and useful numbers offline.
+- [ ] Choose the first easy meal and keep arrival-day sightseeing optional.
+
+Use [[Japan 2027 — Today]] for live weather, opening hours, and the route each day. Keep private passport scans and complete booking references out of any publicly shared copy.
+
+
+END SOURCE 64
+
+

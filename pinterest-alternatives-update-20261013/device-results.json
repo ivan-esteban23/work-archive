@@ -1,0 +1,214 @@
+{
+  "results": [
+    {
+      "name": "Phone small",
+      "theme": "light",
+      "width": 320,
+      "overflow": false,
+      "columns": 1,
+      "bg": "rgb(244, 240, 232)",
+      "text": "rgb(36, 33, 30)",
+      "logos": true,
+      "dark": false
+    },
+    {
+      "name": "Phone small",
+      "theme": "dark",
+      "width": 320,
+      "overflow": false,
+      "columns": 1,
+      "bg": "rgb(25, 23, 21)",
+      "text": "rgb(242, 237, 228)",
+      "logos": true,
+      "dark": true
+    },
+    {
+      "name": "Android phone",
+      "theme": "light",
+      "width": 360,
+      "overflow": false,
+      "columns": 1,
+      "bg": "rgb(244, 240, 232)",
+      "text": "rgb(36, 33, 30)",
+      "logos": true,
+      "dark": false
+    },
+    {
+      "name": "Android phone",
+      "theme": "dark",
+      "width": 360,
+      "overflow": false,
+      "columns": 1,
+      "bg": "rgb(25, 23, 21)",
+      "text": "rgb(242, 237, 228)",
+      "logos": true,
+      "dark": true
+    },
+    {
+      "name": "iPhone",
+      "theme": "light",
+      "width": 390,
+      "overflow": false,
+      "columns": 1,
+      "bg": "rgb(244, 240, 232)",
+      "text": "rgb(36, 33, 30)",
+      "logos": true,
+      "dark": false
+    },
+    {
+      "name": "iPhone",
+      "theme": "dark",
+      "width": 390,
+      "overflow": false,
+      "columns": 1,
+      "bg": "rgb(25, 23, 21)",
+      "text": "rgb(242, 237, 228)",
+      "logos": true,
+      "dark": true
+    },
+    {
+      "name": "Phone landscape",
+      "theme": "light",
+      "width": 844,
+      "overflow": false,
+      "columns": 2,
+      "bg": "rgb(244, 240, 232)",
+      "text": "rgb(36, 33, 30)",
+      "logos": true,
+      "dark": false
+    },
+    {
+      "name": "Phone landscape",
+      "theme": "dark",
+      "width": 844,
+      "overflow": false,
+      "columns": 2,
+      "bg": "rgb(25, 23, 21)",
+      "text": "rgb(242, 237, 228)",
+      "logos": true,
+      "dark": true
+    },
+    {
+      "name": "iPad portrait",
+      "theme": "light",
+      "width": 768,
+      "overflow": false,
+      "columns": 2,
+      "bg": "rgb(244, 240, 232)",
+      "text": "rgb(36, 33, 30)",
+      "logos": true,
+      "dark": false
+    },
+    {
+      "name": "iPad portrait",
+      "theme": "dark",
+      "width": 768,
+      "overflow": false,
+      "columns": 2,
+      "bg": "rgb(25, 23, 21)",
+      "text": "rgb(242, 237, 228)",
+      "logos": true,
+      "dark": true
+    },
+    {
+      "name": "Android tablet",
+      "theme": "light",
+      "width": 800,
+      "overflow": false,
+      "columns": 2,
+      "bg": "rgb(244, 240, 232)",
+      "text": "rgb(36, 33, 30)",
+      "logos": true,
+      "dark": false
+    },
+    {
+      "name": "Android tablet",
+      "theme": "dark",
+      "width": 800,
+      "overflow": false,
+      "columns": 2,
+      "bg": "rgb(25, 23, 21)",
+      "text": "rgb(242, 237, 228)",
+      "logos": true,
+      "dark": true
+    },
+    {
+      "name": "iPad landscape",
+      "theme": "light",
+      "width": 1024,
+      "overflow": false,
+      "columns": 2,
+      "bg": "rgb(244, 240, 232)",
+      "text": "rgb(36, 33, 30)",
+      "logos": true,
+      "dark": false
+    },
+    {
+      "name": "iPad landscape",
+      "theme": "dark",
+      "width": 1024,
+      "overflow": false,
+      "columns": 2,
+      "bg": "rgb(25, 23, 21)",
+      "text": "rgb(242, 237, 228)",
+      "logos": true,
+      "dark": true
+    },
+    {
+      "name": "Windows desktop",
+      "theme": "light",
+      "width": 1366,
+      "overflow": false,
+      "columns": 3,
+      "bg": "rgb(244, 240, 232)",
+      "text": "rgb(36, 33, 30)",
+      "logos": true,
+      "dark": false
+    },
+    {
+      "name": "Windows desktop",
+      "theme": "dark",
+      "width": 1366,
+      "overflow": false,
+      "columns": 3,
+      "bg": "rgb(25, 23, 21)",
+      "text": "rgb(242, 237, 228)",
+      "logos": true,
+      "dark": true
+    },
+    {
+      "name": "macOS desktop",
+      "theme": "light",
+      "width": 1440,
+      "overflow": false,
+      "columns": 3,
+      "bg": "rgb(244, 240, 232)",
+      "text": "rgb(36, 33, 30)",
+      "logos": true,
+      "dark": false
+    },
+    {
+      "name": "macOS desktop",
+      "theme": "dark",
+      "width": 1440,
+      "overflow": false,
+      "columns": 3,
+      "bg": "rgb(25, 23, 21)",
+      "text": "rgb(242, 237, 228)",
+      "logos": true,
+      "dark": true
+    }
+  ],
+  "print": {
+    "bg": "rgb(255, 255, 255)",
+    "tools": "none"
+  },
+  "compact": {
+    "collapsed": true,
+    "opened": true,
+    "active": true,
+    "visible": 4,
+    "reset": true,
+    "closed": true
+  }
+}

@@ -1,0 +1,9 @@
+
+DevTools listening on ws://127.0.0.1:9239/devtools/browser/12ee91f5-3224-4f9b-bbcc-37e5930f9781
+[7207:7211:1014/085548.507280:ERROR:base/nix/mime_util_xdg.cc:139] Invalid mime.cache file does not contain null prior to ALIAS_LIST_OFFSET=44
+[7207:7211:1014/085548.507551:ERROR:base/nix/mime_util_xdg.cc:139] Invalid mime.cache file does not contain null prior to ALIAS_LIST_OFFSET=44
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+[7133:7167:1014/085554.942978:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[7133:7167:1014/085622.622804:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[7133:7167:1014/085705.450450:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[7133:7167:1014/085751.348827:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2

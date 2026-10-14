@@ -1,0 +1,63 @@
+## Optional save request
+
+
+Append this to a playlist prompt when you want the action performed:
+
+```text
+Create this as a new playlist in my linked Spotify account, named “[playlist name]”. Use private visibility if that option is supported; if visibility cannot be controlled, explain before saving. Leave existing playlists unchanged. If the available Spotify integration cannot save a playlist, provide the curated tracklist and available Spotify links instead. Only confirm creation when the tool reports success, and return the playlist link; otherwise state the remaining step.
+```
+
+## Shared quality add-on
+
+```text
+Use this project's available sources and my explicit feedback. Verify exact artist, track, album, and edition; show original release year rather than substituting a remaster year. Use Spotify's catalog tools if available to check matches, and label unverified matches or title searches. Prefer studio versions unless I ask otherwise; avoid duplicates. Explain any unavailable track and proposed replacement. Do not claim access to my listening history or other projects unless it is actually available. Do not claim direct listening, playback, or saves without evidence.
+```
+
+
+## Hardcore & Punk
+
+Project dashboard · Research prompts
+
+Added **2026-10-09**. Use the shared quality add-on and append the optional save request when you want a new playlist saved.
+
+### 39. First exploration — No Quiet Exit
+
+```text
+Spotify, curate a 24-track “Hardcore & Punk — No Quiet Exit” listening plan balancing punk rock and hardcore punk across classic and contemporary recordings. Use no more than two tracks per artist and include tracks from EPs or singles when relevant. Label melodic hardcore, D-beat/crust, and other branches; put post-hardcore in a separate optional section. Do not substitute metalcore or electronic hardcore. Show exact artist, track, original release, year, and format. Explain the journey without assuming I have heard anything.
+```
+
+### 40. Fast, melodic, and abrasive
+
+```text
+Spotify, plan an 18-track punk/hardcore comparison in three chapters: fast and compact, melodic and hook-driven, and abrasive or rhythmically varied. Treat these as listening descriptions, not a fixed taxonomy. Use six contrasting tracks per chapter with verified original releases and formats. Label neighboring styles and ask which features I enjoy before recommending a follow-up. Avoid duplicate songs and invented timestamps.
+```
+
+### 41. This year’s discoveries
+
+```text
+Research punk/hardcore releases from the actual current calendar year through today. Verify original dates, formats, status, and included branches from opened artist/label sources. Choose up to five released recordings and ask Spotify to curate two verified tracks per recording where available. Label albums and EPs separately; keep demos/splits explicit and announcements, live records, compilations, and reissues separate. Use fewer candidates if needed, cite sources, and label this a discovery batch rather than a final ranking.
+```
+
+### 42. Emerging artists
+
+```text
+Find five debut/early-discography punk/hardcore artists in [region/style]. Verify release history, mention earlier EPs/demos and experienced-member projects, and distinguish emerging from new to me. Spotify, curate up to two available tracks per artist, with exact original releases and format labels. Attribute independent appraisal when available, avoid unsupported acclaim, and do not replace catalog gaps with unrelated artists.
+```
+
+### 43. Short releases, complete statements
+
+```text
+Spotify, plan a listening session using four punk/hardcore EPs or singles from [era/style]. Verify original identities, track orders, years, formats, and runtimes where available. Preserve each release as a complete block rather than scattering its songs. Explain why each belongs and label archival compilation matches when original releases are unavailable. Do not mistake a compilation’s date for the original year or force short releases into an album ranking.
+```
+
+### 44. Punk roots and heavier branches
+
+```text
+Spotify, propose two separate eight-track listening routes: punk-rooted hardcore and metallic/crossover neighbors. Verify classifications and label disputed cases; do not treat metalcore, crossover thrash, and metallic hardcore as synonyms. Explain shared features and differences through supported descriptions, distinguishing documented influence from your comparison. Keep the second route optional so I can decide whether to include it in this project.
+```
+
+### 45. Chile and beyond
+
+```text
+Research punk/hardcore in [Chile or another chosen region] using opened historical and artist/label sources. Spotify, plan up to 15 verified tracks across documented eras or branches. Show local context, original releases, and formats. Explain catalog gaps and give official listening alternatives separately; do not fill the list with unrelated artists or imply the region has one sound. Keep regional history and contemporary promotion distinct.
+```

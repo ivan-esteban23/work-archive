@@ -1,0 +1,19 @@
+JAPAN 2027 — CONFIRMED DECISIONS
+A manually maintained log. Upload alongside the six guide files.
+Update by hand after any chat where something gets decided.
+
+Entries here override the Complete Guide snapshot and the Trip Profile.
+Newest first. This file is never overwritten by export.py — only you edit it.
+
+Status is either:
+  CONFIRMED — you chose it, no money moved yet.
+  BOOKED — money moved. The confirmation itself lives outside this
+  project (email, airline app, hotel site). Never paste confirmation
+  codes, passport numbers, or payment details here — record dates,
+  totals, and cancellation deadlines only.
+
+Format, one block per decision:
+  Date decided | Decision | Status | Notes
+
+(none yet — the first entry goes here after flights, dates, traveler
+count, rooms, or budget scope are decided)

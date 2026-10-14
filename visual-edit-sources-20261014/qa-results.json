@@ -1,0 +1,170 @@
+{
+  "cases": [
+    {
+      "width": 390,
+      "locale": "en",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "Find emerging photographers and artists for portrait and mood references."
+    },
+    {
+      "width": 390,
+      "locale": "es",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "Descubre fotógrafos y artistas emergentes como referencias de retratos y atmósfera."
+    },
+    {
+      "width": 390,
+      "locale": "zh-Hans",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "寻找新锐摄影师和艺术家，作为肖像与氛围参考。"
+    },
+    {
+      "width": 390,
+      "locale": "zh-Hant",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "尋找新銳攝影師和藝術家，作為肖像與氛圍參考。"
+    },
+    {
+      "width": 390,
+      "locale": "ja",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "新進の写真家やアーティストから、ポートレートや雰囲気の参考を探す。"
+    },
+    {
+      "width": 390,
+      "locale": "ko",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "신진 사진가와 예술가에게서 인물 사진과 분위기 참고 자료를 찾으세요."
+    },
+    {
+      "width": 768,
+      "locale": "en",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "Find emerging photographers and artists for portrait and mood references."
+    },
+    {
+      "width": 768,
+      "locale": "es",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "Descubre fotógrafos y artistas emergentes como referencias de retratos y atmósfera."
+    },
+    {
+      "width": 768,
+      "locale": "zh-Hans",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "寻找新锐摄影师和艺术家，作为肖像与氛围参考。"
+    },
+    {
+      "width": 768,
+      "locale": "zh-Hant",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "尋找新銳攝影師和藝術家，作為肖像與氛圍參考。"
+    },
+    {
+      "width": 768,
+      "locale": "ja",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "新進の写真家やアーティストから、ポートレートや雰囲気の参考を探す。"
+    },
+    {
+      "width": 768,
+      "locale": "ko",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "신진 사진가와 예술가에게서 인물 사진과 분위기 참고 자료를 찾으세요."
+    },
+    {
+      "width": 1440,
+      "locale": "en",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "Find emerging photographers and artists for portrait and mood references."
+    },
+    {
+      "width": 1440,
+      "locale": "es",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "Descubre fotógrafos y artistas emergentes como referencias de retratos y atmósfera."
+    },
+    {
+      "width": 1440,
+      "locale": "zh-Hans",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "寻找新锐摄影师和艺术家，作为肖像与氛围参考。"
+    },
+    {
+      "width": 1440,
+      "locale": "zh-Hant",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "尋找新銳攝影師和藝術家，作為肖像與氛圍參考。"
+    },
+    {
+      "width": 1440,
+      "locale": "ja",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "新進の写真家やアーティストから、ポートレートや雰囲気の参考を探す。"
+    },
+    {
+      "width": 1440,
+      "locale": "ko",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "newText": "신진 사진가와 예술가에게서 인물 사진과 분위기 참고 자료를 찾으세요."
+    }
+  ],
+  "search": true,
+  "countryFilter": true,
+  "favorites": true,
+  "errors": []
+}

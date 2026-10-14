@@ -1,0 +1,33 @@
+# Hardcore & Punk — History Styles and Classics
+
+Prepared **9 October 2026**. This is a chapter plan with three checked starter identities, not a completed historical survey. Style paths below are research scope, not verified origin claims.
+
+## History to develop
+
+| Chapter | Research questions |
+| --- | --- |
+| Precursors and early punk | Compare accounts of musical precursors and early regional scenes; verify recordings rather than naming one universal origin. |
+| Hardcore developments | Investigate early US and international developments, recording practices, tempo, arrangements, and local terminology. |
+| DIY networks | Examine independent labels, zines, venues, all-ages shows, touring, and distribution through archives and participant accounts. |
+| Distinct paths | Explore melodic hardcore, D-beat, crust, anarcho-punk, street punk/Oi!, and youth crew without equating scenes with uniform sounds. |
+| Neighboring styles | Compare post-hardcore, emo, skate punk, pop-punk, crossover thrash, and metallic hardcore with clear eligibility decisions. |
+| International scenes | Investigate Chile/Latin America, Japan, Europe, and other documented scenes; avoid treating each country as one sound. |
+| Contemporary discovery | Verify new recordings and emerging artists, keeping albums and short releases separate. |
+
+## Starter listening route
+
+These are editorial starting points to compare, not a ranked canon or personal favorites. Listening questions describe what to investigate rather than claimed direct audio analysis.
+
+| Recording | Original year / format | Listening question | Checked source |
+| --- | --- | --- | --- |
+| Ramones — Ramones | 1976 / studio album | How do compact songs and hooks shape your enjoyment? | [Rhino label overview](https://www.rhino.com/aod/ramones-ramones) supports debut identity and original year. Its “first true punk album” wording is a promotional interpretation, not adopted here as an uncontested origin claim. |
+| Minor Threat — Out of Step | 1983 / 12-inch EP in the label catalog | What do you enjoy about pace, vocal attack, and rhythmic changes? | [Official Bandcamp](https://minorthreat.bandcamp.com/album/out-of-step) confirms original year; [Dischord catalog](https://dischord.com/release/010/out-of-step) identifies the EP format. Preserve this label designation despite varying platform descriptions. |
+| Fugazi — Repeater | 1990 / studio full-length; related post-hardcore exploration | How do rhythm, arrangement, and vocal interplay change the route? | [Dischord catalog](https://dischord.com/release/044/repeater) confirms first full-length and original year; 2009 refers to a later vinyl recut/reissue. The related-style placement is editorial and needs further genre-source work. |
+
+## Scope decisions
+
+Keep punk rock and hardcore punk central. Explore melodic hardcore, D-beat, crust, anarcho-punk, street punk/Oi!, youth crew, and regional scenes as distinct research paths, not a universal taxonomy. Treat post-hardcore, emo, skate punk, and pop-punk as labeled related explorations. Crossover thrash, metallic hardcore, metalcore, and grindcore require explicit inclusion for rankings and focused playlists; do not assume all modern uses of “hardcore” mean the same sound. Hardcore electronic dance music is outside this project. Classify recordings rather than assigning an entire catalog one label. Distinguish musical style, scene, political tradition, and personal lifestyle; straight edge is not a synonym for all hardcore. Explain contested terminology without gatekeeping.
+
+Next: add attributed historical and critical sources, verify more contrasting recordings, and develop a first chapter. Short releases deserve their own treatment rather than exclusion from the listening path.
+
+[[Hardcore & Punk — Start Here]]

@@ -1,0 +1,20 @@
+{
+  "existing_notes_audited": 10,
+  "maps_links_before": 106,
+  "maps_links_after": 325,
+  "index_search_entries": 186,
+  "changed_existing_notes": [
+    "Japan 2027 \u2014 Bookings.md",
+    "Japan 2027 \u2014 Health.md",
+    "Japan 2027 \u2014 Hidden Gems.md",
+    "Japan 2027 \u2014 Memories.md",
+    "Japan 2027 \u2014 My Five Things.md",
+    "Japan 2027 \u2014 Shops and Caf\u00e9s.md",
+    "Japan 2027 \u2014 Start Here.md",
+    "Japan 2027 \u2014 Today.md",
+    "Japan 2027 \u2014 Travel Essentials.md",
+    "Japan Travel Guide 2027.md"
+  ],
+  "new_note": "Japan 2027 \u2014 Maps.md",
+  "validation": "Maps URL syntax/API parameters and wikilink file targets passed; search results/place pins not independently verified."
+}

@@ -1,0 +1,1176 @@
+JAPAN 2027 — SHOPPING FOOD AND EXPERIENCES — PROJECT SOURCE (PART D OF 6)
+
+Exported: 2026-10-07T14:18:27-03:00
+Source: live local Obsidian Japan guide (same snapshot as the complete export).
+
+Shopping shortlist, shops/cafés, gifts, clothing, Klook tours, expenses, place inbox.
+
+This is a snapshot for a ChatGPT project, not a live connection to Obsidian.
+Later vault edits require a refreshed export. The current dashboard and latest
+session recap live in Part A; newer notes and the user's latest instructions
+take precedence over everything here.
+
+All source note content and external URLs are preserved. Obsidian [[wiki links]]
+refer to other named source notes; they are not public web links.
+No Korea notes, plugin settings, account credentials, or backup copies are included.
+Map content holds search queries and starter coordinates; do not assume every
+query is a verified venue or every coordinate is an entrance.
+
+Existing dates, budgets, destinations, shopping ideas, and tour shortlists retain
+their original provisional status. An activity appearing here is not a booking,
+and displayed prices are not confirmed 2027 quotes. Follow the user's current
+choices and verify time-sensitive information before making recommendations.
+
+SIBLING FILES (upload all six together):
+  - Japan 2027 — Dashboard and Decisions.txt
+  - Japan 2027 — Itinerary and Pocket Cards.txt
+  - Japan 2027 — City Chapters and Regions.txt
+  - Japan 2027 — Shopping Food and Experiences.txt <-- this file
+  - Japan 2027 — Planning Essentials and Seasons.txt
+  - Japan 2027 — Maps and Routes.txt
+
+SOURCE INDEX (original export numbering preserved)
+
+4. Japan 2027 — Klook Tours and Experiences.md
+5. Japan 2027 — Klook More Cities and Islands.md
+9. Japan 2027 — Clothing to Browse Online.md
+11. Japan 2027 — Expenses.md
+14. Japan 2027 — Gifts for Her.md
+36. Japan 2027 — Place Inbox.md
+59. Japan 2027 — Shopping Shortlist.md
+60. Japan 2027 — Shops and Cafés.md
+
+==============================================================================
+BEGIN SOURCE 4: Japan 2027 — Klook Tours and Experiences.md
+==============================================================================
+
+# 🎟️ Japan 2027 — Klook tours and experiences
+
+**More destinations:** [[Japan 2027 — Klook More Cities and Islands|31 options for Fukuoka, Nagoya, Nara, Osaka, Sapporo, Okinawa, and the island chapters]]
+
+[[Japan 2027 — Start Here|Dashboard]] · [[Japan Travel Guide 2027|Full guide]] · [[Japan 2027 — Bookings|Booking records]]
+
+Researched on **7 October 2026** using Klook search. **12 tours plus two optional craft workshops**, chosen around your interest in food, matcha, cafés, shopping, cultural walks, photography, and meaningful souvenirs.
+
+Searches used the provisional Tokyo window **26–30 March 2027**, Kyoto **31 March–6 April 2027**, and Uji **4 April 2027**. Returned listings do not establish that a 2027 departure or package is available. The suggested slots below are planning judgments, not reservations. Nothing here has been booked.
+
+**Prices:** amounts below are exactly as displayed in the returned Klook results, in USD. They are not confirmed trip-date quotes or trip totals. Final price and availability depend on dates, party size, package options, and inventory; check each linked activity. Taxes, inclusions, pricing unit (person/group), and cancellation terms still need confirmation where not specified.
+
+## Where I would start
+
+- **A memorable meal:** compare the Shinjuku food tour with one Tsukiji tour; choose the meal style you prefer.
+- **Kyoto context without a full bus day:** compare the two Gion walks and select one, or choose Nijo Castle for history.
+- **Shopping/cafés:** the personalized Tokyo walk could fit your interests if the host agrees to the requested neighborhoods and stops.
+- **Your matcha priority:** the returned Uji tours are broader sightseeing routes. Compare their actual Uji free time with [[Japan Travel Guide 2027|your existing self-guided Uji plan]]. The tea-ceremony searches did not return a clearly described dedicated ceremony, so none is presented as confirmed here.
+- **Fuji photography:** pick at most one Fuji outing. These are sightseeing tours, not summit climbs or guaranteed photography instruction. Views and blossoms depend on conditions; compare the exact route and cancellation terms before committing.
+
+## Compare the shortlist
+
+| Tour / experience | Displayed price | Klook rating / reviews |
+| --- | --- | --- |
+| [Tokyo: Shinjuku Food Tour- 15 Dishes and 4 Eateries](https://www.klook.com/en-US/activity/188779-tokyo-shinjuku-food-tour-15-dishes-and-4-eateries/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394) | US$ 55.59 | 5.0/5 · 52 reviews |
+| [Tokyo: Tsukiji Fish Market Street Food Tour](https://www.klook.com/en-US/activity/188797-tokyo-tsukiji-fish-market-street-food-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394) | US$ 19.75 | 4.9/5 · 29 reviews |
+| [Tsukiji Fish Market Food and Walking Tour](https://www.klook.com/en-US/activity/126018-tokyo-city-tsukiji-fish-market-2-hour-food-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394) | US$ 24.65 | 4.9/5 · 350 reviews |
+| [Tokyo Private & Personalized City Highlights and Hidden Gems Tour](https://www.klook.com/en-US/activity/95833-tokyo-private-half-day-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=ff580226-c4a6-40f3-aa0e-09c2eb13b41d) | US$ 53.25 | 5.0/5 · 4 reviews |
+| [Kyoto: Gion Hidden Gems & Geisha Culture Tour](https://www.klook.com/en-US/activity/148681-kyoto-geisha-gion-history-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd) | US$ 13.09 | 4.9/5 · 1.2K+ reviews |
+| [Kyoto Gion Night Guided Walking Tour (3 Hours)](https://www.klook.com/en-US/activity/87999-kyoto-gion-night-walk-small-group-guided-tour-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd) | US$ 25.15 | 4.8/5 · 798 reviews |
+| [Kyoto: Nijo Castle Admission / World Heritage Guided Tour](https://www.klook.com/en-US/activity/148498-kyoto-nijo-castle-history-walking-tour-world-heritage/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd) | US$ 41.69 | 5.0/5 · 122 reviews |
+| [Kyoto Kinkaku-ji, Kiyomizu-dera, and Uji One-Day Tour](https://www.klook.com/en-US/activity/122392-kinkakuji-kiyomizudera-uji-river-byodoin-one-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e) | US$ 74.75 | 4.9/5 · 2.3K+ reviews |
+| [Uji Byodoin & Uji Matcha Food Street & Uji River & Uji Park & Fushimi Inari Taisha & Katsuo-ji Daruma Wall Day Tour (Departing from Osaka and Kyoto)](https://www.klook.com/en-US/activity/156282-uji-byodo-in-fushimi-inari-taisha-katsuoji-minoh-falls-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e) | US$ 64.05 | 4.9/5 · 276 reviews |
+| [Mt. Fuji Instagram-Worthy Spots Day Tour: Ladder Town, Oshino Hakkai, Lake Kawaguchi, Lawson Convenience Store (Departing from Tokyo Station or Shinjuku Station)](https://www.klook.com/en-US/activity/93901-mtfuji-one-day-tour-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc) | US$ 49.29 | 4.8/5 · 35.1K+ reviews |
+| [【Mount Fuji Magnificent Scenery Exploration Day Tour】Arakurayama Sengen Park & Kawaguchiko Oishi Park & Oshino Hakkai & INS Famous Lawson & Hikawa Clock Shop (Departing from Tokyo)](https://www.klook.com/en-US/activity/131149-mount-fuji-magnificent-scenery-day-tour-from-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc) | US$ 72.60 | 4.9/5 · 11.9K+ reviews |
+| [Mount Fuji Day Trip: Includes Kawaguchiko Tenjozan Park Ropeway Ticket & Arakurayama Sengen Park & Nichikawa Clock Shop & Lawson Convenience Store & Oishi Park (Departing from Tokyo)](https://www.klook.com/en-US/activity/110632-mount-fuji-arakurayama-sengen-park-lake-kawakuchi-tour-from-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc) | US$ 70.39 | 4.8/5 · 3.9K+ reviews |
+| [Kyoto: Gion Make Your Own Chopsticks with Engraving Option](https://www.klook.com/en-US/activity/181896-crafting-your-own-chopsticks-experience-in-gion-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8) | US$ 8.15 | 5.0/5 · 3.3K+ reviews |
+| [Kyoto: Ring Making Workshop : Vintage Japanese Coin Ring](https://www.klook.com/en-US/activity/202375-kyoto-vintage-ring-making-workshop/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8) | US$ 18.05 | 5.0/5 · 1.7K+ reviews |
+
+## Tokyo — food and a local guide
+
+### [Tokyo: Shinjuku Food Tour- 15 Dishes and 4 Eateries](https://www.klook.com/en-US/activity/188779-tokyo-shinjuku-food-tour-15-dishes-and-4-eateries/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394)
+
+**Displayed price:** US$ 55.59 · **Klook rating:** 5.0/5 · 52 reviews
+
+A food-led evening through Shinjuku and Kabukicho. The listing describes 15 dishes across four eateries.
+
+**How it could fit:** Consider one evening during 26–30 March, after a lighter afternoon.
+
+**Check before selecting:** Check the selected package’s exact food/drink inclusions, start time, dietary accommodations, and walking distance.
+
+### [Tokyo: Tsukiji Fish Market Street Food Tour](https://www.klook.com/en-US/activity/188797-tokyo-tsukiji-fish-market-street-food-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394)
+
+**Displayed price:** US$ 19.75 · **Klook rating:** 4.9/5 · 29 reviews
+
+Guided introduction to Tsukiji’s outer market, Hongwanji Temple, and food traditions; tasting choices are described as flexible.
+
+**How it could fit:** Use as the main morning outing during the first Tokyo stay, followed by a nearby café.
+
+**Check before selecting:** Food costs are not clearly included in the returned summary. Check what the displayed price covers; choose this or the next Tsukiji tour.
+
+### [Tsukiji Fish Market Food and Walking Tour](https://www.klook.com/en-US/activity/126018-tokyo-city-tsukiji-fish-market-2-hour-food-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=a2155eb8-3058-42ea-865c-ade017e9d394)
+
+**Displayed price:** US$ 24.65 · **Klook rating:** 4.9/5 · 350 reviews
+
+Another Tsukiji outer-market walking option, with an English-speaking guide described in the listing.
+
+**How it could fit:** Alternative to the previous Tsukiji listing, rather than an additional market visit.
+
+**Check before selecting:** Check duration, tastings, meeting point, and the selected package’s language. Do not assume access to an auction or restricted wholesale market.
+
+### [Tokyo Private & Personalized City Highlights and Hidden Gems Tour](https://www.klook.com/en-US/activity/95833-tokyo-private-half-day-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=ff580226-c4a6-40f3-aa0e-09c2eb13b41d)
+
+**Displayed price:** US$ 53.25 · **Klook rating:** 5.0/5 · 4 reviews
+
+Personalized neighborhoods and local stops: the summary mentions Harajuku, Asakusa/Ueno, Yanaka, cafés, and food.
+
+**How it could fit:** Consider 30 March’s flexible Tokyo block, or recheck for 7 April if you prefer the final stay.
+
+**Check before selecting:** Ask whether your chosen package can cover vintage shops, records, and cafés. Those specialist shopping stops are not guaranteed by the summary. Confirm duration, transport costs, and whether pricing is per person or group. The 5.0 rating is based on only four reviews.
+
+## Kyoto — guided walks and history
+
+### [Kyoto: Gion Hidden Gems & Geisha Culture Tour](https://www.klook.com/en-US/activity/148681-kyoto-geisha-gion-history-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd)
+
+**Displayed price:** US$ 13.09 · **Klook rating:** 4.9/5 · 1.2K+ reviews
+
+A guided Gion walk emphasizing townhouses, a shrine, local tips, and cultural context.
+
+**How it could fit:** Use within one Kyoto half-day, 1–5 April, instead of repeating a separate Gion walk.
+
+**Check before selecting:** Two returned searches displayed US$ 13.09 and US$ 16.25 for this same activity. Confirm the price for the exact date/package. Seeing a geiko or maiko is not guaranteed; follow the guide’s access and photography rules.
+
+### [Kyoto Gion Night Guided Walking Tour (3 Hours)](https://www.klook.com/en-US/activity/87999-kyoto-gion-night-walk-small-group-guided-tour-walking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd)
+
+**Displayed price:** US$ 25.15 · **Klook rating:** 4.8/5 · 798 reviews
+
+A three-hour evening walk through Gion, traditional streets, and temples/shrines as described by the listing.
+
+**How it could fit:** Alternative to the daytime Gion tour on an otherwise quiet Kyoto evening.
+
+**Check before selecting:** Check the actual start/end time, meeting point, walking route, and guide language. Treat street encounters as incidental, not a booked performance.
+
+### [Kyoto: Nijo Castle Admission / World Heritage Guided Tour](https://www.klook.com/en-US/activity/148498-kyoto-nijo-castle-history-walking-tour-world-heritage/?utm_source=openai&utm_medium=platform-openai&utm_term=045fb4d4-9f66-4584-9fda-cb18887f4fcd)
+
+**Displayed price:** US$ 41.69 · **Klook rating:** 5.0/5 · 122 reviews
+
+Nijo Castle history tour. The summary describes admission included and a group of up to ten.
+
+**How it could fit:** Possible Kyoto culture block on 3 or 5 April; compare against your planned sightseeing.
+
+**Check before selecting:** Confirm that admission and the stated group size apply to the selected package. Check duration and permitted photography areas.
+
+## Uji and Kyoto — broader day trips
+
+### [Kyoto Kinkaku-ji, Kiyomizu-dera, and Uji One-Day Tour](https://www.klook.com/en-US/activity/122392-kinkakuji-kiyomizudera-uji-river-byodoin-one-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e)
+
+**Displayed price:** US$ 74.75 · **Klook rating:** 4.9/5 · 2.3K+ reviews
+
+Combines Kinkaku-ji, Kiyomizu-dera, and Uji; the summary mentions Byodo-in, the river, and matcha desserts.
+
+**How it could fit:** Possible replacement for the 4 April excursion, if you want a structured multi-stop day.
+
+**Check before selecting:** Check departure city, exact pickup, temple admissions, food costs, and time actually allocated to Uji. Several sights overlap your existing Kyoto plan. This is sightseeing, not a verified hands-on matcha workshop.
+
+### [Uji Byodoin & Uji Matcha Food Street & Uji River & Uji Park & Fushimi Inari Taisha & Katsuo-ji Daruma Wall Day Tour (Departing from Osaka and Kyoto)](https://www.klook.com/en-US/activity/156282-uji-byodo-in-fushimi-inari-taisha-katsuoji-minoh-falls-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=acefdb9d-a43e-4571-b145-c639bcb3aa7e)
+
+**Displayed price:** US$ 64.05 · **Klook rating:** 4.9/5 · 276 reviews
+
+Bus-based route advertised with Uji/Byodo-in, Fushimi Inari, and Katsuo-ji; the title lists departure from Osaka and Kyoto.
+
+**How it could fit:** Another 4 April excursion alternative; select a Kyoto departure if that is your hotel base.
+
+**Check before selecting:** Confirm the departure/return stops and actual itinerary: the product URL also references Minoh Falls, which is not clearly specified in the returned title/summary. Check admissions and Uji free time. It is not a dedicated tea ceremony.
+
+## Fuji — sightseeing day trips from Tokyo
+
+### [Mt. Fuji Instagram-Worthy Spots Day Tour: Ladder Town, Oshino Hakkai, Lake Kawaguchi, Lawson Convenience Store (Departing from Tokyo Station or Shinjuku Station)](https://www.klook.com/en-US/activity/93901-mtfuji-one-day-tour-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc)
+
+**Displayed price:** US$ 49.29 · **Klook rating:** 4.8/5 · 35.1K+ reviews
+
+Photo-stop itinerary advertised around Fuji, Oshino Hakkai, Lake Kawaguchi, and Fujiyoshida street views, departing from Tokyo Station or Shinjuku.
+
+**How it could fit:** Weather-dependent alternative for one full Tokyo day, preferably the flexible 30 March block.
+
+**Check before selecting:** The listing offers different meeting-point/private-car packages. Check the selected route, group size, guide language, and time at each photo stop; do not assume every mentioned stop belongs to every package.
+
+### [【Mount Fuji Magnificent Scenery Exploration Day Tour】Arakurayama Sengen Park & Kawaguchiko Oishi Park & Oshino Hakkai & INS Famous Lawson & Hikawa Clock Shop (Departing from Tokyo)](https://www.klook.com/en-US/activity/131149-mount-fuji-magnificent-scenery-day-tour-from-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc)
+
+**Displayed price:** US$ 72.60 · **Klook rating:** 4.9/5 · 11.9K+ reviews
+
+Scenic outing featuring Arakurayama/Chureito views, Lake Kawaguchi’s Oishi Park, and Oshino Hakkai in the listing.
+
+**How it could fit:** Alternative to the other Fuji tours for the same full-day slot.
+
+**Check before selecting:** Check the actual stop list, walking/stairs, departure and return time, and whether pickup is included. Promotional upgrade wording in the returned listing is not a confirmed 2027 offer.
+
+### [Mount Fuji Day Trip: Includes Kawaguchiko Tenjozan Park Ropeway Ticket & Arakurayama Sengen Park & Nichikawa Clock Shop & Lawson Convenience Store & Oishi Park (Departing from Tokyo)](https://www.klook.com/en-US/activity/110632-mount-fuji-arakurayama-sengen-park-lake-kawakuchi-tour-from-tokyo/?utm_source=openai&utm_medium=platform-openai&utm_term=6ee10b94-568d-4775-bdff-f12ec974a0fc)
+
+**Displayed price:** US$ 70.39 · **Klook rating:** 4.8/5 · 3.9K+ reviews
+
+Fuji sightseeing with a Kawaguchiko ropeway ticket advertised in the title, plus Arakurayama and Oishi Park.
+
+**How it could fit:** Consider if the ropeway matters more than collecting many street-photo stops.
+
+**Check before selecting:** Confirm the ropeway inclusion and its weather-related contingency. Small-group, regular-tour, pickup, and private-charter options appear in the summary; the displayed price does not establish which option you will receive.
+
+## Optional Kyoto workshops — souvenirs you make
+
+### [Kyoto: Gion Make Your Own Chopsticks with Engraving Option](https://www.klook.com/en-US/activity/181896-crafting-your-own-chopsticks-experience-in-gion-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8)
+
+**Displayed price:** US$ 8.15 · **Klook rating:** 5.0/5 · 3.3K+ reviews
+
+Make a pair of wooden chopsticks in Gion, with optional personalization.
+
+**How it could fit:** A possible short cultural stop alongside a Kyoto café/shopping block.
+
+**Check before selecting:** The summary says two wood choices are included; other woods cost JPY 1,000–5,000 extra, and engraving also costs extra. Check duration, language, and the full selected cost.
+
+### [Kyoto: Ring Making Workshop : Vintage Japanese Coin Ring](https://www.klook.com/en-US/activity/202375-kyoto-vintage-ring-making-workshop/?utm_source=openai&utm_medium=platform-openai&utm_term=bfa0f551-8ddd-410f-b654-7a6604018bd8)
+
+**Displayed price:** US$ 18.05 · **Klook rating:** 5.0/5 · 1.7K+ reviews
+
+Beginner-friendly vintage-coin ring workshop, with the finished ring taken home the same day according to the listing.
+
+**How it could fit:** Optional alternative to the chopstick workshop if a wearable souvenir appeals more.
+
+**Check before selecting:** Confirm coin/material choices, fitting, duration, guide language, and any upgrades in your chosen package.
+
+## Choose and book
+
+Keep this as a shortlist. Select one main activity for a half-day or one full-day excursion, accounting for travel, breaks, and your existing route. Gion tours are alternatives to each other; Tsukiji tours are alternatives to each other; Fuji tours are alternatives to each other. A Uji bus tour replaces an excursion rather than adding another city day.
+
+On the linked Klook page, choose the exact date, party size, package, language, and meeting point. Read the itinerary, inclusions/exclusions, mobility requirements, and cancellation cutoff. Record an actual purchase in [[Japan 2027 — Bookings]], including its total currency, confirmation, and cancellation deadline. Avoid counting included food or transport twice in your budget.
+
+Ratings and review counts are snapshots from these searches. Your guide's dates remain provisional. The original detailed routes and daily cards remain available for deciding which activity to choose.
+
+
+END SOURCE 4
+
+
+==============================================================================
+BEGIN SOURCE 5: Japan 2027 — Klook More Cities and Islands.md
+==============================================================================
+
+# 🗾 Japan 2027 — Klook more cities and islands
+
+[[Japan 2027 — Start Here|Dashboard]] · [[Japan 2027 — Klook Tours and Experiences|Tokyo, Kyoto, Uji and Fuji shortlist]] · [[Japan 2027 — Bookings|Booking records]]
+
+**Research checked: 7 October 2026.** Added **31 tour/experience options** across the other city chapters and relevant island modules. Fukuoka, Nagoya, Nara, and Osaka appear first, followed by the guide’s other destinations.
+
+These searches did **not** apply travel dates: the extra chapters have no assigned dates. The inherited working year is 2027, but a returned listing does not confirm a departure or package for that year. Use the spring, summer, May, or autumn route only after choosing the actual dates and transport. These destinations are alternatives that replace nights or outings; they do not all fit alongside the Tokyo → Kyoto → Tokyo 14-night plan.
+
+**Prices and ratings:** USD prices below are exactly as returned by Klook. They are snapshots, not confirmed 2027 quotes. Final prices and availability depend on dates, party size, package options, and inventory. Check pricing unit (person/group), inclusions, and cancellation terms on each linked activity. A private listing’s price is not automatically a group total. Ratings reflect the returned review counts, including small samples.
+
+## Start with these comparisons
+
+- **Fukuoka:** Itoshima for coastal photos and cafés; Nakasu cruise for a shorter city experience. A yatai meal is separate from the cruise.
+- **Nagoya:** the private city tour explicitly mentions Osu vintage shops; compare the half-day cultural walk if you prefer more independent shopping time.
+- **Nara:** the Nara-only private outing or afternoon tour could fit better than repeating several Kyoto sights on a combined bus trip.
+- **Osaka:** choose one food tour or a walking/cruise outing. Check the return journey before selecting a late evening while based in Kyoto.
+- **Other cities/islands:** choose the destination module first, then the local tour. Keep seasonal and marine options attached to suitable dates and conditions.
+
+## Destinations
+
+- [[Japan 2027 — Klook More Cities and Islands#Fukuoka|Fukuoka]]
+- [[Japan 2027 — Klook More Cities and Islands#Nagoya|Nagoya]]
+- [[Japan 2027 — Klook More Cities and Islands#Nara|Nara]]
+- [[Japan 2027 — Klook More Cities and Islands#Osaka|Osaka]]
+- [[Japan 2027 — Klook More Cities and Islands#Sapporo and Otaru|Sapporo and Otaru]]
+- [[Japan 2027 — Klook More Cities and Islands#Okinawa and Kerama|Okinawa and Kerama]]
+- [[Japan 2027 — Klook More Cities and Islands#Kamakura and Enoshima|Kamakura and Enoshima]]
+- [[Japan 2027 — Klook More Cities and Islands#Hiroshima and Miyajima|Hiroshima and Miyajima]]
+- [[Japan 2027 — Klook More Cities and Islands#Naoshima|Naoshima]]
+- [[Japan 2027 — Klook More Cities and Islands#Shodoshima|Shodoshima]]
+- [[Japan 2027 — Klook More Cities and Islands#Yakushima|Yakushima]]
+- [[Japan 2027 — Klook More Cities and Islands#Ishigaki|Ishigaki]]
+- [[Japan 2027 — Klook More Cities and Islands#Miyako Island|Miyako Island]]
+
+## Fukuoka
+
+[[Japan 2027 — Fukuoka Chapter|Open the guide chapter]]
+
+Compare the Itoshima coast/café outing with your chapter’s Dazaifu alternative; leave a separate city block for Hakata food and shopping.
+
+### [Shiraito Falls & Forest Cafe & Handmade Flower Salt Pudding & Grilled Seafood & Totoro Forest & Sakurai Futamigaura & Angel's Wings & Coconut Tree Swing Day Tour (Departing from Hakata Station, with Mandarin, English, and Cantonese speaking guide)](https://www.klook.com/en-US/activity/152315-shiraito-falls-sakurai-futamigaura-angel-wings-palm-tree-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=3f95c76e-0729-467d-9eb9-c05012ef6d58)
+
+**Displayed price:** US$ 61.05 · **Klook rating:** 4.9/5 · 1.8K+ reviews
+
+Coastal photography, a forest café, Shiraito Falls, and salt-pudding stops, departing from Hakata Station.
+
+**Check:** Confirm the selected guide language, seasonal substitutions, actual free time, and whether café drinks, pudding, and seafood are included.
+
+### [Fukuoka Nakasu River Cruise Ticket](https://www.klook.com/en-US/activity/81471-nakasu-river-cruise-ticket-in-fukuoka/?utm_source=openai&utm_medium=platform-openai&utm_term=884094e6-0e53-4843-b1e5-ae6554865dc8)
+
+**Displayed price:** US$ 11.25 · **Klook rating:** 4.6/5 · 161 reviews
+
+A Nakasu river cruise for a different view of the riverside city and food-stall area.
+
+**Check:** This is a cruise ticket, not a guided yatai meal. Check boarding location, duration, timetable, and weather policy; arrange food separately.
+
+### [Kyushu One-Day Tour: Yufuin no Mori Train & Yufuin Town & Nyoirin-ji Temple & Dazaifu & Hell Hot Springs (Departing from Fukuoka)](https://www.klook.com/en-US/activity/95611-beppu-onsen-yufuin-one-day-tour-fukuoka/?utm_source=openai&utm_medium=platform-openai&utm_term=3f95c76e-0729-467d-9eb9-c05012ef6d58)
+
+**Displayed price:** US$ 73.69 · **Klook rating:** 4.9/5 · 4.3K+ reviews
+
+A wider Kyushu day-trip option advertising Yufuin, a scenic train segment, and alternative temple/hot-spring stops.
+
+**Check:** The title bundles several possible routes. Verify which package includes the train, Dazaifu versus Nyoirin-ji, Beppu stops, admissions, and enough time in Yufuin. Not a simple Fukuoka city tour.
+
+## Nagoya
+
+[[Japan 2027 — Nagoya Chapter|Open the guide chapter]]
+
+For your interests, compare the private city tour first: it explicitly mentions Osu vintage shops. A Takayama/Shirakawa-go trip needs its own full day.
+
+### [Toyota Commemorative Museum & Nagoya Castle Full-Day Private Tour](https://www.klook.com/en-US/activity/112500-1day-private-tour-for-all-around-nagoya-hotspots-using-local-bus/?utm_source=openai&utm_medium=platform-openai&utm_term=aaeba5e0-87cc-400c-ba46-c99a4e511c82)
+
+**Displayed price:** US$ 94.75 · **Klook rating:** No rating supplied
+
+A private Nagoya tour covering the Toyota Commemorative Museum, Nagoya Castle, and Osu shopping; the summary mentions an English-speaking guide and a bus/subway day pass.
+
+**Check:** Check the actual duration, museum/castle admission, pass coverage, and time available for vintage/record shopping. The displayed price’s person/group basis is unconfirmed; no rating was supplied.
+
+### [Nagoya Castle & Hisaya-odori Park Half-Day Small Group Cultural Tour](https://www.klook.com/en-US/activity/176604-nagoya-castle-hisaya-odori-park-half-day-small-group-cultural-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=aaeba5e0-87cc-400c-ba46-c99a4e511c82)
+
+**Displayed price:** US$ 50.55 · **Klook rating:** 4.9/5 · 10 reviews
+
+A half-day small-group cultural tour advertised around Nagoya Castle and Hisaya-odori Park.
+
+**Check:** Only the title and rating were returned, with no detailed summary. Check the full itinerary, duration, group size, language, and admission inclusions.
+
+### [Hida Takayama & Shirakawa-go Gassho Village Day Trip (Departing from Nagoya, optional observatory tour included)](https://www.klook.com/en-US/activity/138507-world-heritage-hida-takayama-shirakawa-go-gassho-village-day-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=fb2fbefe-80bf-4cc5-b746-02915715c7c5)
+
+**Displayed price:** US$ 63.35 · **Klook rating:** 4.7/5 · 2.8K+ reviews
+
+A day trip from Nagoya to Takayama’s old streets and Shirakawa-go, with an optional observation-deck component.
+
+**Check:** Check transfer time, café/meal costs, viewing-deck access, and whether the selected package includes the optional observatory. This visits other towns and does not replace a Nagoya city day.
+
+## Nara
+
+[[Japan 2027 — Nara Chapter|Open the guide chapter]]
+
+Compare the Nara-only private option or afternoon coach tour with your existing self-guided Nara day; avoid repeating Kyoto sights just to reach Nara.
+
+### [Nara World Heritage PRIVATE TOUR](https://www.klook.com/en-US/activity/123473-nara-world-heritage-private-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=3c185d15-e0e7-4c7f-8214-59b4545d8c75)
+
+**Displayed price:** US$ 101.85 · **Klook rating:** 5.0/5 · 16 reviews
+
+A private Nara cultural tour focusing on the Great Buddha, temple sculpture, and deer encounters, with some customization advertised.
+
+**Check:** Confirm start/end location, language, duration, actual temple list, admissions, and person/group pricing. Check whether it starts in Nara or includes transfers; do not assume Kyoto pickup.
+
+### [Nara Afternoon Tour from Kyoto & Osaka: Todai-ji, Nara Park & Kasuga](https://www.klook.com/en-US/activity/625-nara-afternoon-tour-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=3c185d15-e0e7-4c7f-8214-59b4545d8c75)
+
+**Displayed price:** US$ 97.89 · **Klook rating:** 4.3/5 · 83 reviews
+
+An afternoon coach tour from Kyoto or Osaka, advertised with Todai-ji, Nara Park, Kasuga Taisha, and a licensed English-speaking guide.
+
+**Check:** Verify your departure city, exact return time, admissions, and whether the advertised special sanctuary visit belongs to the selected package.
+
+### [[Nara and Uji Day Trip] Byodoin Temple, The Tale of Genji Museum, Uji Natural Hot Spring Genji no Yu, Nara Park, Todai-ji Temple, Kasuga Taisha Shrine](https://www.klook.com/en-US/activity/140553-nara-uji-small-group-day-tour-from-osaka-or-kyoto/?utm_source=openai&utm_medium=platform-openai&utm_term=3c185d15-e0e7-4c7f-8214-59b4545d8c75)
+
+**Displayed price:** US$ 56.05 · **Klook rating:** 4.0/5 · 16 reviews
+
+A combined Nara/Uji day outing listing Byodo-in, the Genji museum, hot spring, and Nara sights.
+
+**Check:** Confirm exact pickup, group size, included admissions, the hot-spring option, and time in each city. The rating snapshot is 4.0 from 16 reviews. This is a broader alternative to either a Nara-only or Uji-only day.
+
+## Osaka
+
+[[Japan 2027 — Osaka Chapter|Open the guide chapter]]
+
+Pick one food tour for a relaxed Osaka evening, or the walking/cruise option if scenery is the priority. Account for your return to Kyoto or stay overnight.
+
+### [Osaka: Guided Food Tour with 12 Dishes and 2 Drinks](https://www.klook.com/en-US/activity/149852-local-bar-hopping-food-tour-in-osaka/?utm_source=openai&utm_medium=platform-openai&utm_term=07e14ba1-f9c1-4f71-b9f3-69b08d831997)
+
+**Displayed price:** US$ 78.95 · **Klook rating:** 4.9/5 · 196 reviews
+
+A guided food outing advertised with 12 dishes and two drinks, local bars, and Osaka food culture.
+
+**Check:** Check dietary substitutions, alcoholic/nonalcoholic drink options, exact inclusions, neighborhood, and start/end times.
+
+### [Shinsekai Night Food Tour with 15 Dishes & 3 Drinks](https://www.klook.com/en-US/activity/89990-osaka-city-backstreets-shinsekai-half-day-walking-tour-10-dishes-5-hidden-eateries/?utm_source=openai&utm_medium=platform-openai&utm_term=07e14ba1-f9c1-4f71-b9f3-69b08d831997)
+
+**Displayed price:** US$ 75.79 · **Klook rating:** 4.9/5 · 144 reviews
+
+A Shinsekai night food tour visiting several local eateries.
+
+**Check:** The title advertises 15 dishes and three drinks, while the summary says 13 dishes and two drinks. Confirm the selected package’s actual inclusions before choosing; these counts are inconsistent in the returned data.
+
+### [Osaka Walking Tour with Dotonbori River Cruise](https://www.klook.com/en-US/activity/213593-osaka-walking-tour-with-dotonbori-river-cruise/?utm_source=openai&utm_medium=platform-openai&utm_term=07e14ba1-f9c1-4f71-b9f3-69b08d831997)
+
+**Displayed price:** US$ 31.85 · **Klook rating:** 4.9/5 · 26 reviews
+
+A guided walk advertised with a Dotonbori river cruise, backstreets, billboards, and street-food stops.
+
+**Check:** Confirm cruise inclusion and weather contingency, walking duration, and whether food is included or purchased separately.
+
+## Sapporo and Otaru
+
+[[Japan 2027 — Sapporo Chapter|Open the guide chapter]]
+
+These require an actual Hokkaido stay and travel days. The autumn outing below belongs to a seasonal alternative, not the provisional spring route.
+
+### [Sapporo Jozankei & Head Buddha One-Day Tour with Cultural Immersion](https://www.klook.com/en-US/activity/148089-hokkaido-shrine-jyozankei-crab-market-day-trip-from-sapporo/?utm_source=openai&utm_medium=platform-openai&utm_term=e60a2d0a-ffbf-47ee-ad38-3f800902ed91)
+
+**Displayed price:** US$ 55.40 · **Klook rating:** 4.7/5 · 767 reviews
+
+A Sapporo-area cultural outing advertised around Jozankei and the Hill of the Buddha; the summary also mentions shrine, market, factory, and museum possibilities.
+
+**Check:** Confirm the exact selected route. Do not assume every location in the general summary is included. Check onsen admission, food, transport, and time actually available for bathing.
+
+### [Hokkaido, Japan: Sapporo, Cape Kamui, Otaru, and Shiroi Koibito Park One-Day Tour](https://www.klook.com/en-US/activity/135910-otaru-canal-shiroi-koibito-park-bibai-snowland-tour-from-sapporo/?utm_source=openai&utm_medium=platform-openai&utm_term=e60a2d0a-ffbf-47ee-ad38-3f800902ed91)
+
+**Displayed price:** US$ 73.69 · **Klook rating:** 4.8/5 · 301 reviews
+
+A Sapporo-departure day trip titled with Cape Kamui, Otaru, and Shiroi Koibito Park; the summary mentions the Otaru canal and shopping streets.
+
+**Check:** The URL references a snowland itinerary while the title describes a coastal itinerary. Verify season, exact route, Cape Kamui access, shopping free time, and included admissions.
+
+### [Jozankei & Yuni Garden Maple Leaves & Flower Viewing Day Trip](https://www.klook.com/en-US/activity/174200-jozankei-yuni-garden-one-day-maple-leaf-flower-viewing-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=e60a2d0a-ffbf-47ee-ad38-3f800902ed91)
+
+**Displayed price:** US$ 54.15 · **Klook rating:** 4.7/5 · 22 reviews
+
+An autumn-focused Jozankei/Yuni Garden outing describing valley, lake, dam, and foliage stops.
+
+**Check:** Seasonal research only: the listing describes autumn foliage. Verify operating dates and the exact route for your chosen year; it is not evidence of a March/April or November departure, or peak leaf color.
+
+## Okinawa and Kerama
+
+[[Japan 2027 — Okinawa Chapter|Open the guide chapter]]
+
+Use these only with a Naha/main-island stay. Kerama Tokashiki, Ishigaki, Taketomi, and Miyako are different islands with separate access plans.
+
+### [Okinawa Sightseeing Bus North and South Routes 1-Day Tour: Gyokusendo Cave, DMM Kariyushi Aquarium, Senagajima & Cape Manzamo, Churaumi Aquarium, American Village](https://www.klook.com/en-US/activity/142932-okinawa-south-north-1-day-bus-tour-churaumi-dmm-autoguiding/?utm_source=openai&utm_medium=platform-openai&utm_term=98cdbc90-03ec-4aa6-b65d-541756d3784d)
+
+**Displayed price:** US$ 52.69 · **Klook rating:** 4.8/5 · 473 reviews
+
+A Naha-departure sightseeing bus offering northern and southern route packages, with aquarium, coast, and shopping stops.
+
+**Check:** Choose north OR south: the combined title is not a promise to visit every attraction in one day. Check aquarium tickets, audio-guide language, pickup/drop-off, and actual route.
+
+### [Glass Bottom Boat Tour in Okinawa](https://www.klook.com/en-US/activity/1555-glass-bottom-boat-tour-okinawa/?utm_source=openai&utm_medium=platform-openai&utm_term=98cdbc90-03ec-4aa6-b65d-541756d3784d)
+
+**Displayed price:** US$ 13.85 · **Klook rating:** 4.4/5 · 1.0K+ reviews
+
+A glass-bottom boat experience for seeing marine life without snorkeling; the summary describes a one-hour outing.
+
+**Check:** Confirm the actual port, transfer from Naha, departure time, visibility/weather policy, and facilities. The result does not establish Naha pickup.
+
+### [【Okinawa Island Hopping】Kerama Tokashiki Snorkeling &  Sea bathing](https://www.klook.com/en-US/activity/12454-kerama-tokashiki-island-swimming-and-snorkeling-experience-in-okinawa/?utm_source=openai&utm_medium=platform-openai&utm_term=98cdbc90-03ec-4aa6-b65d-541756d3784d)
+
+**Displayed price:** US$ 59.99 · **Klook rating:** 4.3/5 · 309 reviews
+
+A Tokashiki/Aharen Beach swimming and optional snorkeling outing, with return boat transfer from Tomarin described.
+
+**Check:** The returned summary explicitly calls this summertime-only. Check seasonal dates, ferry versus fast-boat package, snorkeling and lunch inclusions, health/age conditions, equipment, and weather cancellation; do not place it in the spring route automatically.
+
+## Kamakura and Enoshima
+
+[[Japan 2027 — Best Islands|Open the guide chapter]]
+
+A full-day alternative from Tokyo combining temples, coastal views, and Enoden scenery. Choose one outing instead of adding it to a blossom-photo day.
+
+### [Kamakura Day Trip | Kamakura Great Buddha, Enoden (including train ticket), Shonan Sea View at Kamakura Kokomae Station, Enoshima Walk, Tsurugaoka Hachimangu Shrine (Departure from Tokyo)](https://www.klook.com/en-US/activity/149592-kamakura-one-day-stroll-enoden-string-of-youth-shrine-encounter-a/?utm_source=openai&utm_medium=platform-openai&utm_term=0b8ac0a3-de0c-4a3e-aad6-dd730016def2)
+
+**Displayed price:** US$ 59.60 · **Klook rating:** 4.8/5 · 1.4K+ reviews
+
+A Tokyo-departure Kamakura/Enoshima outing advertised with the Great Buddha, shrines, and an Enoden ticket.
+
+**Check:** Confirm the precise stop list, temple admissions, Enoden segment, guide language, walking/stairs, and Tokyo meeting point.
+
+### [Kamakura, Enoshima & Yokohama Day Trip from Tokyo with Enoden Train](https://www.klook.com/en-US/activity/196721-kamakura-enoshima-yokohama-day-trip-from-tokyo-with-enoden-train/?utm_source=openai&utm_medium=platform-openai&utm_term=0b8ac0a3-de0c-4a3e-aad6-dd730016def2)
+
+**Displayed price:** US$ 59.29 · **Klook rating:** 4.8/5 · 231 reviews
+
+A bus day trip advertising an Enoden ride and separate Kamakura Highlights or Kamakura/Yokohama route choices.
+
+**Check:** Select the actual route: the title does not guarantee Kamakura, Enoshima, and Yokohama all in one package. Check where free time, admissions, and transfers fit.
+
+## Hiroshima and Miyajima
+
+[[Japan 2027 — Best Islands|Open the guide chapter]]
+
+A separate western-Japan route module. Compare a Hiroshima base with an actual rail-inclusive package rather than assuming a low listing price covers long-distance trains.
+
+### [Hiroshima & Miyajima 1 Day Bus Tour With lunch](https://www.klook.com/en-US/activity/76852-hiroshima-miyajima-bus-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=be632d1f-aee6-4a24-a22c-4a6f7693c0e2)
+
+**Displayed price:** US$ 113.69 · **Klook rating:** 4.8/5 · 434 reviews
+
+A Hiroshima/Miyajima bus outing describing an English-speaking guide, a scenic ferry, okonomiyaki lunch, and island free time.
+
+**Check:** Confirm the departure city, ferry route, shrine/museum tickets, lunch package, and actual time on Miyajima. Allow enough time for photography within the tour schedule.
+
+### [Hiroshima & Miyajima with Ferry and optional bullet train](https://www.klook.com/en-US/activity/140942-day-trip-to-hiroshima-and-miyajima-with-ferry-ride/?utm_source=openai&utm_medium=platform-openai&utm_term=be632d1f-aee6-4a24-a22c-4a6f7693c0e2)
+
+**Displayed price:** US$ 84.49 · **Klook rating:** 4.8/5 · 157 reviews
+
+A Hiroshima/Miyajima outing advertising ferry travel, English–Spanish guiding, and optional return Shinkansen from other cities.
+
+**Check:** The displayed price does not confirm the rail-inclusive package. Check Hiroshima start versus Tokyo/Kyoto/Osaka origin, rail tickets, departure/return times, admissions, and whether Spanish guiding is offered on your date.
+
+## Naoshima
+
+[[Japan 2027 — Best Islands|Open the guide chapter]]
+
+Compare guided art exploration only after choosing your port, museum priorities, and island stay. The returned private options have substantial displayed prices and unclear pricing units.
+
+### [Naoshima Private Custom Tour with Local Guide](https://www.klook.com/en-US/activity/134492-naoshima-private-custom-tour-with-local-guide/?utm_source=openai&utm_medium=platform-openai&utm_term=d2c0dda3-f105-4b91-9e93-851612f9e3f4)
+
+**Displayed price:** US$ 378.95 · **Klook rating:** No rating supplied
+
+A private custom Naoshima tour with a local guide.
+
+**Check:** The generic summary also refers to Kagawa/Takamatsu, so confirm that the itinerary is actually on Naoshima. Check meeting port, ferry/transport, art admissions, duration, person/group price, and customization. No rating supplied.
+
+### [Naoshima Day Tour from Uno or Takamatsu with Cycling or Public Bus](https://www.klook.com/en-US/activity/76836-naoshima-island-cycling-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=d2c0dda3-f105-4b91-9e93-851612f9e3f4)
+
+**Displayed price:** US$ 439.55 · **Klook rating:** 5.0/5 · 2 reviews
+
+A day tour from Uno or Takamatsu advertising an English-speaking private guide, cycling or public bus, and selected art admissions.
+
+**Check:** The summary describes about seven hours, Benesse House/Art House admissions included, and Chichu excluded. Confirm all current inclusions and the dated Chichu supplement rather than relying on the summary’s fee; also verify ferries, bicycle availability, and price unit. Only two reviews underpin the 5.0 rating.
+
+## Shodoshima
+
+[[Japan 2027 — Best Islands|Open the guide chapter]]
+
+An island bus option if you select a Shodoshima module. Coordinate ferries before choosing a tour date.
+
+### [Shodoshima Island Tour Bus (Kagawa)](https://www.klook.com/en-US/activity/116307-shodoshima-island-tour-bus-tour-kagawa/?utm_source=openai&utm_medium=platform-openai&utm_term=efba37fc-8478-49eb-989a-61f5a8319c2f)
+
+**Displayed price:** US$ 61.89 · **Klook rating:** 4.9/5 · 14 reviews
+
+A sightseeing bus departing and returning to Tonosho Port, with four island stops and a smartphone audio guide advertised in English and other languages.
+
+**Check:** Check the exact four stops, bus times, ferry connection buffer, admissions, and mobile audio requirements. The returned summary does not identify every stop or establish Angel Road tide timing.
+
+## Yakushima
+
+[[Japan 2027 — Best Islands|Open the guide chapter]]
+
+Choose the actual hiking route and enough island time before booking. These options differ in origin and should not be treated as interchangeable short walks.
+
+### [Yakushima Hiking Tour](https://www.klook.com/en-US/activity/150846-yakushima-hiking-tour/?utm_source=openai&utm_medium=platform-openai&utm_term=92fc387d-595b-41ac-8bfa-ca122b756871)
+
+**Displayed price:** US$ 126.30 · **Klook rating:** 5.0/5 · 3 reviews
+
+A small-group Yakushima hiking listing advertising forest scenery, rental equipment on request, and up to six participants.
+
+**Check:** The summary mentions Taiko Rock and Jomon Cedar together without a clear route distinction. Confirm which course you are booking, start time, distance, elevation, fitness needs, equipment, transfers, and weather policy. The 5.0 rating has only three reviews.
+
+### [Kagoshima Day Tour: Hike World Heritage Yakushima by Express Jetfoil](https://www.klook.com/en-US/activity/146665-yakushima-private-tour-from-kagoshima-via-high-speed-jetfoil-toppy/?utm_source=openai&utm_medium=platform-openai&utm_term=92fc387d-595b-41ac-8bfa-ca122b756871)
+
+**Displayed price:** US$ 309.45 · **Klook rating:** 5.0/5 · 5 reviews
+
+A Kagoshima-origin option advertising a high-speed jetfoil and an English-guided Shiratani Unsuikyo forest hike.
+
+**Check:** Confirm jetfoil tickets, sailing schedule, hike duration, guide language, equipment, return buffer, and the plan if weather disrupts the boat. Only five reviews underpin the 5.0 rating.
+
+## Ishigaki
+
+[[Japan 2027 — Best Islands|Open the guide chapter]]
+
+These need an Ishigaki base; an Okinawa/Naha stay alone does not put you at the departure point. Choose a night nature walk or a sea outing according to your interests.
+
+### [Ishigaki Island: Stargazing & Jungle Night Tour (Okinawa)](https://www.klook.com/en-US/activity/120934-ishigaki-island-night-starry-sky-jungle-night-tour-okinawa/?utm_source=openai&utm_medium=platform-openai&utm_term=89005eaf-4d50-4f38-a06b-8b823c2a1604)
+
+**Displayed price:** US$ 38.69 · **Klook rating:** 4.7/5 · 232 reviews
+
+An Ishigaki jungle night outing with possible stargazing when conditions allow.
+
+**Check:** Confirm pickup zone, guide language, actual duration, walking conditions, and weather policy. A clear sky or particular wildlife sighting is not guaranteed.
+
+### [Ishigaki Island: "Phantom Island" Hamajima Landing & Boat Snorkeling (Half-Day Tour)](https://www.klook.com/en-US/activity/123808-okinawa-half-day-hamajima-boat-snorkeling/?utm_source=openai&utm_medium=platform-openai&utm_term=89005eaf-4d50-4f38-a06b-8b823c2a1604)
+
+**Displayed price:** US$ 66.35 · **Klook rating:** 4.7/5 · 167 reviews
+
+A half-day Hamajima landing and boat-snorkeling outing advertising equipment, photo data, showers, and pickup.
+
+**Check:** Confirm exact pickup area, sea/weather conditions, physical/health requirements, equipment and photo delivery. Hamajima is not Taketomi: this does not satisfy a Taketomi village excursion.
+
+## Miyako Island
+
+[[Japan 2027 — Best Islands|Open the guide chapter]]
+
+Treat this as a separate Miyako stay with flights and a local base; decide between a night walk and snorkeling.
+
+### [Miyako Island :Exploring the jungle under the stars and at night](https://www.klook.com/en-US/activity/153008-miyako-island-exploring-the-jungle-under-the-stars-and-at-night/?utm_source=openai&utm_medium=platform-openai&utm_term=204a9399-1ca0-4251-8448-7d5f0b4670e3)
+
+**Displayed price:** US$ 27.65 · **Klook rating:** 5.0/5 · 234 reviews
+
+A jungle night walk advertising English-speaking guides, possible star photos, and pickup options around Miyako and connected islands.
+
+**Check:** The summary says a cloudy outing may still proceed as a jungle walk. Confirm language, pickup eligibility, actual weather policy, duration, and walking conditions.
+
+### [Miyako Island | Outstanding transparency! Snorkeling with sea turtles & Nemo](https://www.klook.com/en-US/activity/179115-miyakojima-snorkeling-of-sea-turtles-and-nemo/?utm_source=openai&utm_medium=platform-openai&utm_term=204a9399-1ca0-4251-8448-7d5f0b4670e3)
+
+**Displayed price:** US$ 34.75 · **Klook rating:** 5.0/5 · 258 reviews
+
+Beach-entry snorkeling advertised around turtles, coral, fish, equipment, and photo delivery.
+
+**Check:** Turtle sightings are not guaranteed. Confirm guide language, health/age suitability, pickup package, and equipment charges. The summary quotes optional wetsuit/prescription-mask supplements of JPY 1,000 each; verify the selected date/package and on-site payment requirements.
+
+## Checked, but no matching island tour established
+
+- **Taketomi:** two searches returned main-island Okinawa/Kerama and Ishigaki/Hamajima activities, not a verified Taketomi village or water-buffalo-cart tour. Those are different islands, so no substitute was labeled Taketomi. Keep the self-guided ferry/village research in [[Japan 2027 — Best Islands]].
+- **Sado:** both searches returned mainland Niigata/Yuzawa activities. No matching Sado island guided option was established in this search; this is not a claim that none exists.
+- **Shodoshima:** the first search returned unrelated Itoshima products; a refined search returned the Tonosho-port island bus listed above.
+
+## Turn a choice into a reservation
+
+Choose the destination and dates first. On the linked activity page, compare the exact package, traveler count, language, start/end point, duration, included costs, and cancellation deadline. Fit one main outing into the day and protect transport and hotel check-in time. Record a purchase in [[Japan 2027 — Bookings]] with its actual total, confirmation, and cancellation deadline.
+
+No reservations, payments, flight changes, hotel changes, or dated itinerary additions were made during this research.
+
+
+END SOURCE 5
+
+
+==============================================================================
+BEGIN SOURCE 9: Japan 2027 — Clothing to Browse Online.md
+==============================================================================
+
+# 👕 Japan 2027 — Clothing to browse online
+
+[[Japan 2027 — Shopping Shortlist|← Shopping shortlist]] · [[Japan Travel Guide 2027#📏 Clothing sizes: personal shopping reference|Your saved size reference]] · [[Japan 2027 — Shops and Cafés|Shop routes]]
+
+**Checked 7 October 2026.** Your saved sizes are **L for tops** and **EU 44–46 for trousers**. The guide provisionally uses men's sizing. Compare **L/XL tops**, **76/79 cm waist-labelled trousers**, or **S/M letter-sized bottoms** using each item's chart. These are fitting candidates, not a confirmed fit. Exact chest, waist, hips, height, and preferred inseam remain to be measured.
+
+## What the online check established
+
+The official pages below exist and list candidate sizes or product families. **No selected color/size combination or Tokyo/Kyoto branch stock was confirmed.** A size button or add-to-cart label alone does not establish stock. Some pages returned incomplete dynamic listings and some direct pages could not be fetched; those are marked separately. Current listings do not establish March–April 2027 availability.
+
+## My suggested starting wardrobe
+
+Choose from **a white or neutral T-shirt, a blue/off-white Oxford shirt, a checked flannel, dark trousers, and a navy denim jacket**. These colors and combinations are my styling suggestions, not your confirmed preferences or a complete purchase plan. Start with one favorite piece; two tees plus a shirt or trousers may be a more useful basic-clothing purchase than another collectible souvenir. Try the denim jacket over the layer you intend to wear.
+
+## Products and links
+
+| Type | Suggested item / official Japan page | Sizes to compare | What was verified |
+| --- | --- | --- | --- |
+| Short-sleeve T-shirt | [Uniqlo U cotton crew-neck feature](https://www.uniqlo.com/jp/ja/contents/feature/masterpiece/product/u-crew-neck-t-shirt/) | Start with L; compare XL and the current chart | Official feature describes the men's cotton tee. Specific product/size stock could not be confirmed; the attempted direct product page was inaccessible. |
+| Long-sleeve T-shirt | [AIRism cotton crew neck](https://www.uniqlo.com/jp/ja/products/E465193-000/00?colorDisplayCode=30) | L / XL | Official page lists XS–4XL, including L/XL. Linked from the current long-sleeve category; online-only sizes are noted on the page. |
+| Everyday button-up shirt | [Oxford shirt](https://www.uniqlo.com/jp/ja/products/E450259-000/00) | L / XL | Official product page lists L/XL and regular fit. Compare shoulder width, garment width, sleeve, and length. |
+| Checked flannel shirt | [Buffalo-check flannel](https://www.uniqlo.com/jp/ja/products/E470187-000/00?colorDisplayCode=01) | L / XL | Official page opened from the current flannel category; its size list includes L/XL. Check the chosen color and size yourself. |
+| Plain flannel alternative | [Heather flannel](https://www.uniqlo.com/jp/ja/products/E486600-000/00?colorDisplayCode=58) | L / XL | Official page lists L/XL; cotton brushed flannel, regular fit. A quieter alternative to a checked shirt. |
+| Casual pants / chinos | [Slim-fit chinos](https://www.uniqlo.com/jp/ja/products/E450251-000/00) | 76 / 79; compare actual waist and thigh measurements | Official page explicitly lists both candidate waist labels; slim/tapered cut. Check inseam and thigh comfort before choosing. |
+| Smarter trousers | [2Way stretch smart pants](https://www.uniqlo.com/jp/ja/products/E491784-000/00?colorDisplayCode=09) | 76 / 79 | Official page explicitly lists both waist sizes; current category displays ¥4,990. Price is an October reference, not a 2027 quote. |
+| Relaxed trousers alternative | [Pleated relaxed wide pants](https://www.uniqlo.com/jp/ja/products/E487220-000/00?colorDisplayCode=08) | S / M, using the item's chart | Official page lists S/M. Category displayed ¥3,990 only through 8 October; do not budget from that temporary offer. |
+| Denim jacket | [UNIQLO : C denim trucker jacket](https://www.uniqlo.com/jp/ja/products/E488726-000/00) | L / XL over a T-shirt or flannel | Official page lists L/XL; cotton, shorter regular silhouette. Product text fetched without a price, so current price is unverified. |
+
+Product URLs can carry an older family code while the page lists updated item numbers. Save the current item number from the page alongside your chosen color/size; do not assume a URL code identifies every seasonal version.
+
+## Secondhand alternatives to revisit
+
+For a more distinctive denim jacket, I found these indexed retailer listings labelled **L**. Their live product pages were inaccessible through the browsing tool, so these are leads only: current stock, price, measurements, condition, and holding branch were **not verified**.
+
+- [2nd STREET: Denime denim jacket, size L](https://www.2ndstreet.jp/goods/detail/goodsId/2345371664801/shopsId/31716).
+- [TREFAC: Denime second-type denim jacket, size L](https://www.trefac.jp/store/3028006293131427/c3904700/).
+
+Do not assume either is at the Tokyo neighborhood you plan to visit. Check the listing's shop/address before making a journey. Used garments may have shrunk; their flat measurements matter more than the letter label. Use the existing [SAFARI official directory](https://e-safari.co.jp/) for your optional Koenji vintage outing, choosing an exact listing and branch before calling anything available in your size.
+
+## How to check a candidate yourself
+
+1. Open the Japan product link; use browser translation if helpful.
+2. Select the **color and size** and inspect the current stock message. サイズ means size; カラー means color.
+3. Open the size chart, サイズ表. Compare body and finished-garment measurements separately: 身幅 is flat garment width; 肩幅 is shoulder width; ウエスト is waist; 股下 is inseam.
+4. For a branch visit, use **店舗在庫状況 / 店舗の在庫を確認する** (store inventory), choose the exact store, and record the result and date. A generic nearby-store message without a selected branch is inconclusive.
+5. Recheck close to your visit; try on L/XL tops and the candidate trouser sizes where fitting is available. Check the applicable return terms before paying.
+
+## Route and budget
+
+For new basics, use one UNIQLO stop on an existing Ginza-area outing if convenient. On **7 April**, Tamiya remains the suggested Shinbashi anchor; clothing shopping is an optional extension after checking the hotel route and time to pack. Vintage shopping on **30 March** replaces the blossom buffer and remains optional.
+
+Your existing **US$150 clothing cap** is unchanged. The list offers alternatives across all requested categories; buying every row is not assumed to fit the cap. Convert actual yen totals with your rate/fees, then choose which pieces matter most before using the remaining allowance. Tamiya purchases come from the separate suggested souvenir split in [[Japan 2027 — Shopping Shortlist]].
+
+## Save a favorite — copy per item
+
+- **Item / link / current item number:** …
+- **Color / candidate size:** …
+- **Garment measurements / my comparison garment:** …
+- **Current price in yen / checked on:** …
+- **Online stock status / checked on:** not checked …
+- **Exact branch / branch stock / checked on:** not checked …
+- **Wanted / try on / bought / skipped:** …
+
+Sources are linked beside each item. Product family and size labels were checked; fit, branch stock, and future availability still require confirmation.
+
+## Donki clothing alternatives
+
+[[Japan 2027 — Shopping Shortlist#Don Quijote — snacks, small gifts, and practical buys|Donki buying ideas and visit checklist]] includes the official men’s catalog and black tapered pants. Your saved sizes remain L tops and EU 44–46 trousers. Donki’s pants list M/L/LL/3L; waist measurements and fit must be checked before choosing a size. Branch stock is unconfirmed.
+
+
+END SOURCE 9
+
+
+==============================================================================
+BEGIN SOURCE 11: Japan 2027 — Expenses.md
+==============================================================================
+
+# 💴 Japan 2027 — Expenses
+
+[[Japan 2027 — Start Here|Dashboard]] · [[Japan 2027 — Quick Capture|Capture instructions]] · [[Japan 2027 — Bookings|Reservations]]
+
+Use **Japan — Expense** in the command palette to add a payment. Enter a plain numeric amount and its original currency (JPY, USD, or CLP). Record the spending date, category, item, and payment method. Entries below are actual payments; estimates belong in the planning budget.
+
+Keep currencies separate until you record the conversion rate, date, and fees. A reservation payment already included in Bookings must be counted only once when calculating overall spending. This note does not calculate totals automatically.
+
+## Entries
+
+
+END SOURCE 11
+
+
+==============================================================================
+BEGIN SOURCE 14: Japan 2027 — Gifts for Her.md
+==============================================================================
+
+# 🎁 Japan 2027 — Gifts for her
+
+**Island gift alternatives:** [[Japan 2027 — Best Islands#Souvenirs — small keepsakes and gifts|Minsa accessories, olive beauty products, sweets, and island keepsakes]]. Use the existing shopping/gift limits; these replace other choices rather than add an allowance.
+
+[[Japan 2027 — Shopping Shortlist|← Shopping shortlist]] · [[Japan 2027 — Start Here|Dashboard]]
+
+**Her interests:** sweets, fashion, and beauty. **Your gift ceiling: US$200.** Saved 7 October 2026. Her sizes, favorite colors, scents, and dietary preferences are not yet recorded.
+
+## My suggested gift bundle
+
+One patterned accessory, one small beauty bundle, and one boxed sweet gives her something to wear/use and something to enjoy. These are personal suggestions based on her interests.
+
+| Category | Spending cap | What to browse |
+| --- | --- | --- |
+| Fashion | US$80 | An AYANOKOJI patterned kiss-lock pouch from Kyoto. Choose a pattern she would use. |
+| Beauty | US$50 | Yojiya hand cream plus blotting papers; choose her preferred scent. |
+| Sweets | US$50 | A Yoku Moku assorted cookie box; one smaller snack can fit the same cap. |
+| Wrapping / flexible reserve | US$20 | Gift wrapping or a little extra toward her favorite item. |
+| Total maximum | **US$200** | Caps are planning limits, not quoted product costs or a target to spend in full. |
+
+## Fashion — a Kyoto pouch
+
+**First choice:** [AYANOKOJI brocade flat kiss-lock pouch](https://ayanokoji.jp/c/00/144/597/162/p-6hira-kr). The checked page lists **¥3,465 including tax** for the old-hardware version. It offers several patterns; the yellow Marutakara pattern is marked sold out. Treat this exact model as an example: its design, price, and availability may change before 2027. [Official shop directory](https://ayanokoji.jp/shop-list/).
+
+I suggest a pouch because her garment measurements are unknown. Inspect the opening, lining, dimensions, and pattern in person. Her clothing size cannot be inferred from your saved L / EU 44–46 sizes. If choosing a shirt instead, get her measurements and compare the exact garment chart first.
+
+## Beauty — a small Yojiya bundle
+
+- [Mayugomori hand cream, 30 g](https://www.yojiyacosme.com/c/handcream/gd672): checked price **¥900 including tax**. The brand describes its fragrance as including white lily, lavender, and jasmine.
+- [Other Yojiya hand creams](https://www.yojiyacosme.com/c/handcream): the catalog lists Hanahonoka at **¥900** and Yuzutsuyaya at **¥950**, including tax. Choose a scent she likes rather than collecting every version.
+- [Yojiya blotting papers](https://www.yojiyacosme.com/c/skincare/aburatorigami): browse one small pack to pair with the cream. Exact pack price and branch stock have not been checked.
+
+Check ingredients against her known preferences and sensitivities, and try the scent if a tester is available. Shade-dependent makeup is easier to choose once her preferred shade is known. These are gift suggestions, not tested performance rankings.
+
+## Sweets — one boxed assortment
+
+**First choice:** [Yoku Moku Petit Cinq Délices, 5 varieties / 27 pieces](https://yokumoku.co.jp/products/1010011409100). The [official collection](https://yokumoku.co.jp/collections/cigareplain) lists **¥2,700 including tax** at this check. Choose it if she enjoys butter cookies. Check the exact box's ingredient/allergen label, best-before date, and storage instructions before buying; her dietary preferences are unknown.
+
+**Extra browsing option:** a small packaged Japanese sweet from [[Japan 2027 — Shopping Shortlist#Don Quijote — snacks, small gifts, and practical buys|Donki]]. Matcha flavor is an option if she enjoys it; it is your recorded interest, not a confirmed preference of hers. Keep extras inside the sweets cap.
+
+## Where this fits the trip
+
+- Kyoto: browse the pouch and beauty gifts during an existing central shopping break. [[Japan 2027 — Pocket 2027-04-05|5 April]] is an option if you choose a central outing; select branches and check opening hours before adding a route.
+- Tokyo: buy boxed sweets late in the trip. [[Japan 2027 — Pocket 2027-04-07|7 April]] is a possible shopping day; choose which optional shopping stops fit alongside Tamiya and packing time.
+- Save these product links before departure and recheck prices, variants, and store stock. Online listings do not establish stock in a particular branch or availability in March/April 2027.
+
+## How the US$200 fits the wider budget
+
+The **US$200 gift ceiling is confirmed**. Whether it is included in the existing **US$300 shopping/miscellaneous allowance** or additional to it remains open.
+
+| Budget treatment | Result |
+| --- | --- |
+| Gifts included in US$300 | Up to US$200 for her leaves US$100 for your other shopping/miscellaneous purchases; revise the earlier category caps before buying. |
+| Gifts additional to US$300 | Shopping/miscellaneous becomes US$500; the provisional in-Japan plan rises from US$3,850 to US$4,050, leaving US$950 of the US$5,000 envelope. Flights remain excluded. |
+
+These are scenarios; the main guide's budget has not been revised. Convert the caps using the actual payment exchange rate and fees; record every purchase once.
+
+## Before buying
+
+- [ ] Favorite colors/patterns: …
+- [ ] Preferred beauty scent and any ingredient exclusions: …
+- [ ] Sweet flavors and dietary needs: …
+- [ ] Decide which wider-budget scenario applies.
+- [ ] Check exact item, shelf price, expiry where relevant, gift wrapping, and packing space.
+- [ ] Record purchase, yen cost, converted spend, and where it came from.
+
+Prices are official website reference prices checked 7 October 2026, not locked-in trip prices. No purchase or reservation has been made.
+
+## Clothing for her — Y2K and Korean-inspired wishlist
+
+**Her additional preferences:** Y2K fashion and Korean outfits. Research checked **7 October 2026**; outfit suggestions below are my interpretation of current Japanese retailers' styling. They describe options to browse in Japan, not a nationwide Korean trend ranking or a prediction for spring 2027.
+
+### Current directions worth browsing
+
+- **Y2K / Heisei-gal:** rhinestone logos, graphic fitted tops, zip hoodies, and flared denim. [SPINNS style directory](https://www.spinns.jp/c/taste) and [September 2026 outfit ideas](https://www.spinns.jp/women_s/) show these combinations.
+- **Korean-inspired feminine styling:** cardigan-and-camisole layers, ribbons, dots, and pleated skirts. [SPINNS current collection](https://www.spinns.jp/c/taste/girly) and [WEGO Korean-inspired collection](https://wego.jp/collections/f-cts-kr-fashion-girly) are useful visual references.
+- **Streetwear crossover:** a fitted top with a loose bottom, or a statement zip hoodie over a simple outfit. [WEGO's Y2K-tagged hoodie](https://wego.jp/products/di25wn11-l0015) is a concrete example.
+
+These Japanese shops sell Korean-inspired styles; that label does not establish that every item is a Korean brand or made in Korea.
+
+### Shortlist to browse online
+
+| Candidate | Website reference price | Size / stock evidence | My suggested use |
+| --- | --- | --- | --- |
+| [WEGO / dispark rhinestone-logo faux-fur zip hoodie](https://wego.jp/products/di25wn11-l0015), DI25WN11-L0015 | **¥3,000 incl. tax online promotion**; previous displayed ¥6,929. The promotion is web-only, so check store price. | Black **F** marked low online stock on the fetched page; selected stores only. | First Y2K option if she likes statement hoodies. Compare chest, shoulder, sleeve, and length measurements. |
+| [SPINNS knit cardigan + dotted camisole set](https://www.spinns.jp/c/taste/girly), search セットアイテム/ニットカーディガン+ドットキャミソール | **¥4,389 incl. tax** on the collection page. | Exact garment measurements and color/size stock not established; individual product page could not be fetched. | First Korean-inspired option; I would browse this before committing to a pouch. |
+| [SPINNS fitted striped zip hoodie](https://www.spinns.jp/c/taste/girly), search タイトジップパーカー/ボーダー | **¥4,389 incl. tax** on the collection page. | Exact measurements and variant stock not established; individual page could not be fetched. | A simpler layering option if she prefers stripes to rhinestones. |
+| [SPINNS flared denim](https://www.spinns.jp/c/taste?page=5&sort=latest), search デニムフレアパンツ/ヒゲ | **¥5,489 incl. tax** on the checked listing. | Listing advertises two sizes; waist, rise, hip, inseam, and exact stock require checking. | Strong Y2K outfit lead once her measurements are available. |
+| [WEGO / dispark logo-and-lace wide sweatpants](https://wego.jp/products/di26as07-l0013), DI26AS07-L0013 | **¥6,929 incl. tax** sale display; previous displayed ¥8,909. | Black **F is marked out of stock online**; branch availability unconfirmed. | Keep as a style reference or a restock candidate, not a currently available pick. |
+
+Collection links remain useful if an individual model sells out. Copy the Japanese product name into the site's search. Prices and online status are a snapshot, and none of these items has confirmed March/April 2027 branch stock.
+
+### What I would buy first
+
+Choose **one cardigan-and-camisole set OR one rhinestone hoodie**, after checking her measurements and favorite colors. Flared jeans are a second option once fit is clear. Outfit idea: cardigan/camisole with her own jeans for the feminine look; rhinestone hoodie with her own flares for Y2K. These are styling suggestions, not additional required purchases.
+
+Clothing uses the existing **US$80 fashion cap within the US$200 gift ceiling**, replacing some or all of the pouch allocation. If a second garment would exceed that cap, reduce another gift category explicitly before purchase. Keep the US$20 flexible reserve available for wrapping or exchange-rate differences.
+
+### Fit and shopping checks
+
+- [ ] Her usual top / bottom size: …; height: …
+- [ ] Compare a garment she already likes: chest width, shoulder, sleeve, length; bottom waist, hip, rise, and inseam: …
+- [ ] Favorite colors and whether she likes cropped, fitted, oversized, or low-rise cuts: …
+- [ ] Check the item's own measurement chart. **F/free size describes one offered size, not universal fit.** Your saved clothing sizes belong to you.
+- [ ] Save her preferred product photos and exact item codes; confirm store stock and store price before making a detour.
+- [ ] Check gift exchange/return terms and keep tags and receipts.
+
+Browse during an existing Tokyo clothing outing; choose a branch using the retailer's directory before changing the daily route. A dedicated store stop and travel time have not been added yet.
+
+## Perfumes for her — options to smell in Japan
+
+**Checked 7 October 2026.** Her scent preference is not yet recorded. Enjoying sweets does not establish that she likes sweet perfume; Y2K/Korean clothing preferences also do not determine fragrance taste. Scent descriptions below come from the brands, not personal testing.
+
+| Perfume | Scent direction | Bottle / reference price | Availability evidence |
+| --- | --- | --- | --- |
+| [SHIRO Savon eau de parfum](https://shiro-shiro.jp/ec/pro/disp/1/12702) | Fruity and clean/soapy: citrus and blackcurrant with soft sweetness. | **40 mL**; the [official Savon catalog](https://shiro-shiro.jp/ec/Facet?category_0=11aa1100000) lists **¥4,180 incl. tax**. The freshly fetched product page did not render a numeric price, so confirm price before buying. | Product page displays **sold out / awaiting restock online**; physical branch stock unconfirmed. |
+| [AUX PARADIS Fleur eau de parfum](https://www.auxparadis.com/products/210116.html) | Floral with lemon/bergamot, neroli, and amber/musk notes. | **15 mL ¥3,300** or **30 mL ¥4,400** on the current official product page. | Catalogued with size selection; exact size/branch stock not verified. |
+| [AUX PARADIS Savon eau de parfum](https://www.auxparadis.com/products/210117.html) | Lavender-led and soft/soapy. | **15 mL ¥3,300** or **30 mL ¥4,400** on the current official product page. | Catalogued; exact size/branch stock not verified. |
+
+The two brands' perfumes named Savon are different products. These are fragrance candidates to compare; no claim of universal appeal, quality ranking, or popularity among Korean fashion fans is intended.
+
+### Preferred plan while her scent preference is unknown
+
+**My pick: two SHIRO eau de parfum minis — Savon and White Lily, 10 mL each.** This gives her a fresh/soapy scent and a floral scent to compare. This is a suggested pairing of two separately sold bottles, not a verified boxed discovery set. [Official mini product page](https://shiro-shiro.jp/ec/pro/disp/1/12737).
+
+| Mini | Brand's scent description | Why I suggest it |
+| --- | --- | --- |
+| Savon | Citrus/fruity with soft sweetness and a clean, soapy character. | One fresh option to try. |
+| White Lily | Lily and magnolia; floral. | A different direction to compare with Savon. |
+
+The [official mini feature](https://shiro-shiro.jp/ec/sp?F=7527) lists **¥1,760 including tax per bottle**: two would be **¥3,520 before any wrapping or delivery costs**, if that price still applies. The freshly fetched product page shows **sold out / awaiting restock** and does not render a numeric price. Variant and branch availability remain unconfirmed; treat this as a shopping target and recheck before the trip. The 40 mL bottle's stock status does not establish mini stock.
+
+Keep perfume and any remaining hand cream inside the existing **US$50 beauty allowance** and the **US$200 gift ceiling**, using the actual payment exchange rate. Ask a fitting branch from the [SHIRO store directory](https://shiro-shiro.jp/ec/ext/shop/index.html) whether both minis and gift wrapping are available before making a detour. Confirm carriage with the booked airline as part of flight preparation.
+
+Her preference is still unknown; these choices are my recommendation, not a guarantee she will like them. If both minis cannot be found, keep the earlier AUX PARADIS 15 mL candidates as alternatives after checking their carriage requirements. No current boxed discovery set was verified and no purchase has been made.
+
+### Browsing and bringing it home
+
+[SHIRO official store directory](https://shiro-shiro.jp/ec/ext/shop/index.html) · [AUX PARADIS official store directory](https://www.auxparadis.com/shoplist.html)
+
+Choose a branch that fits an existing shopping outing, and confirm tester and bottle availability before a detour. Try a paper tester first; if testing on skin, allow the scent to develop before deciding. Knowing one perfume she already enjoys would help narrow these choices.
+
+AUX PARADIS's product pages explicitly say the perfume is over 80% alcohol, cannot be shipped by air, and cannot be forwarded overseas. **Do not arrange overseas forwarding.** Before purchasing it to bring home yourself, confirm passenger-baggage acceptance for the exact product with the operating airline; a shipping restriction alone does not settle passenger carriage. Use [[Japan 2027 — Travel Essentials|the flight preparation checklist]] for the booked flights and connections. Keep the bottle closed, protected, and separate from clothes to contain any leak.
+
+- [ ] Her favorite existing perfume / preferred scent family: …
+- [ ] Compare tester, full bottle size, shelf price, and remaining beauty budget.
+- [ ] Confirm exact branch stock and applicable flight carriage rules before buying.
+- [ ] Record purchase and keep packaging/receipt.
+
+Recheck prices, stock, and travel requirements near the March/April 2027 trip. No perfume has been purchased or reserved.
+
+
+END SOURCE 14
+
+
+==============================================================================
+BEGIN SOURCE 36: Japan 2027 — Place Inbox.md
+==============================================================================
+
+# 📍 Japan 2027 — Place Inbox
+
+[[Japan 2027 — Start Here|Dashboard]] · [[Japan 2027 — Quick Capture|Capture instructions]] · [[Japan 2027 — Maps|Maps index]]
+
+Use **Japan — Place** to save a discovery. Include the exact branch and a source or Maps URL when available. New entries are research ideas: verify the branch, opening hours, and route before adding them to a day plan or the interactive map.
+
+## Entries
+
+
+END SOURCE 36
+
+
+==============================================================================
+BEGIN SOURCE 59: Japan 2027 — Shopping Shortlist.md
+==============================================================================
+
+# 🛍️ Japan 2027 — Shopping shortlist
+
+**Nagoya browsing option:** [[Japan 2027 — Nagoya Chapter|Osu clothing/collectibles, Sakae records, sweets, and textile gifts]]. Shares the existing shopping allowance; check updated 2027 PARCO tenants and actual stock.
+
+**Island gift alternatives:** [[Japan 2027 — Best Islands#Souvenirs — small keepsakes and gifts|Minsa accessories, olive beauty products, sweets, and island keepsakes]]. Use the existing shopping/gift limits; these replace other choices rather than add an allowance.
+
+**Kichijoji:** [[Japan 2027 — Kichijoji Shopping and Exploring|What to buy, explore, and photograph — optional half-day]]
+
+**Gifts for her:** [[Japan 2027 — Gifts for Her|Sweets, fashion, and beauty — US$200 gift plan]]
+
+**Clothing links and your sizes:** [[Japan 2027 — Clothing to Browse Online|👕 T-shirts, shirts, trousers, flannel, and denim jackets]]
+
+[[Japan 2027 — Start Here|← Dashboard]] · [[Japan 2027 — Shops and Cafés|Full shop research]] · [[Japan 2027 — Daily Pocket Cards|Daily cards]] · [[Japan 2027 — Memories|Souvenir stories]]
+
+**Added 7 October 2026.** Tamiya is your requested stop; the other priorities are suggestions based on your existing matcha, vintage, records, and stationery interests. Dates follow the provisional itinerary. Choose three meaningful purchases, with browsing allowed to end without buying.
+
+## Priority 1 — Tamiya in Shinbashi
+
+- [ ] Visit **TAMIYA PLAMODEL FACTORY TOKYO**.
+- [ ] Choose what to look for: **plastic model / Mini 4WD / RC / small accessory:** …
+- [ ] Record exact kit name, scale/chassis, price, box size, and what else is needed before deciding.
+
+**Suggested slot:** [[Japan 2027 — Pocket 2027-04-07|7 April]], as the main shopping area rather than several distant districts. Allow **60–90 minutes on site** as a planning estimate. An existing Ginza café could be an optional nearby-area extension after checking the route; return with time to pack. If you want more time to compare items, use [[Japan 2027 — Pocket 2027-03-30|30 March]] instead of that day’s photo/shopping alternative.
+
+**Verified current details:** 4-3-1 Shinbashi, Shintora Yasuda Building 1F. The official store lists weekdays **11:00–20:00**, weekends/holidays **10:00–19:00**; JR Shinbashi Karasumori exit or Ginza-line exit 8, each listed as about **5 minutes on foot**. Café hours differ: weekdays **12:00–19:00**, weekends/holidays **11:00–18:00**. Recheck for your 2027 visit. Product categories include static models, Mini 4WD, RC, tools, and construction kits. [Official store and access](https://www.tamiya-plamodelfactory.co.jp/index.html) · [Maps search](https://www.google.com/maps/search/?api=1&query=TAMIYA+PLAMODEL+FACTORY+TOKYO+4-3-1+Shinbashi)
+
+**Buying target:** choose a compact kit or souvenir only if its actual price and packing needs fit. Do not assume a complete RC setup fits the cap. The kit may need additional parts or supplies; ask what is included. If buying paints, adhesives, batteries, or tools, check the applicable airline carriage rules before purchase. Store stock, events, tax-free participation, and filming permission remain unconfirmed for your visit.
+
+## Priority 2 — One tea to bring home
+
+- [ ] **Ippodo Kyoto main store:** ask for a pure matcha suited to the way you will prepare it at home.
+- [ ] Check ingredients, package size, storage instructions, and the actual price.
+
+**Suggested slot:** a central Kyoto break, or [[Japan 2027 — Pocket 2027-04-05|5 April]] if choosing a central outing. Do not add a cross-city detour after Arashiyama just to shop. The existing Uji option on 4 April can replace this tea-shopping stop. **Tokyo backup:** Ippodo Shin-Marunouchi if it fits an existing Tokyo Station journey.
+
+The official directory confirms Kyoto main store and Shin-Marunouchi branches. [Kyoto official branch](https://www.ippodo-tea.co.jp/pages/store-kyoto?view=store-detail) · [Tokyo official backup](https://www.ippodo-tea.co.jp/pages/store-shin-marunouchi?view=store-detail) · [Kyoto Maps](https://www.google.com/maps/search/?api=1&query=Ippodo+Tea+Kyoto+Main+Store) · [Tokyo Maps](https://www.google.com/maps/search/?api=1&query=Ippodo+Shin+Marunouchi+Tokyo)
+
+Keep drinks and tastings in the food allowance; packaged tea comes from the souvenir pool. A small purchase can be enough; price and stock decide.
+
+## Priority 3 — One vintage clothing piece
+
+- [ ] Choose a garment I will wear: **type / measurements / colors:** …
+- [ ] Try it on if allowed, inspect wear and seams, and ask about returns before paying.
+
+**Pick one outing:** SAFARI in Koenji, or the existing Shimokitazawa thrift option. Use [[Japan 2027 — Pocket 2027-03-30|30 March]] only if shopping replaces the blossom buffer; keep packing time. If Tamiya moves to this date, the vintage session needs a different optional block or can be skipped.
+
+SAFARI’s official site lists vintage categories and its Koenji/Kichijoji stores. Select the branch from the directory for your style; collectible pieces can exceed the budget. [Official SAFARI directory](https://e-safari.co.jp/) · [Koenji Maps search](https://www.google.com/maps/search/?api=1&query=SAFARI+Koenji+Tokyo) · [[Japan 2027 — Shops and Cafés#☕ Shimokitazawa — the easiest vintage-and-coffee combination|Existing Shimokitazawa alternatives]]
+
+## Optional — One record or movie keepsake
+
+- [ ] Desired artist / album / film: …
+- [ ] Check condition, exact edition, and packing needs; check region/audio/subtitles for movie discs.
+
+**First route choice:** Disk Union Shimokitazawa if that is your chosen vintage outing. Its official page confirms the branch at **1-40-6 Kitazawa, Kashiwa Third Building 1F**. [Official branch](https://diskunion.net/shop/shimokitazawa) · [Maps](https://www.google.com/maps/search/?api=1&query=Disk+Union+Shimokitazawa+1-40-6+Kitazawa+Tokyo)
+
+If your chosen outing is Kichijoji, use the guide’s existing records/movie-store options there instead. A Nakano film-memorabilia outing replaces another optional half-day; it is not an extra required stop. Keep these alternatives in [[Japan 2027 — Shops and Cafés#🎶 Vinyl, movies, and vintage film finds|the music and film research]]. Used stock changes; an artist or title is not guaranteed.
+
+## Optional — A small travel-journal souvenir
+
+- [ ] **TRAVELER’S FACTORY Nakameguro:** choose a refill, customization part, or small stationery item I will use.
+
+**Suggested slot:** [[Japan 2027 — Pocket 2027-03-29|29 March]], around the existing river outing; allow **20–30 minutes** as a personal planning target and protect photo time. The official site currently lists Nakameguro **12:00–20:00, closed Tuesdays**; reconfirm near travel. [Official current notices](https://www.travelers-factory.com/) · [Maps](https://www.google.com/maps/search/?api=1&query=TRAVELERS+FACTORY+Nakameguro+Tokyo)
+
+## Don Quijote — snacks, small gifts, and practical buys
+
+- [ ] Visit **Don Quijote (Donki), Ginza Honkan**, if it fits the Shinbashi/Ginza shopping block.
+- [ ] Choose at most **two food gifts and one useful small item**, within the remaining allowance.
+
+**Suggested slot:** [[Japan 2027 — Pocket 2027-04-07|7 April]], after Tamiya only if time and luggage space allow. Allow **30–45 minutes** as a personal browsing target, plus checkout time. Choose Donki or the optional clothing/café extension rather than adding every stop. If you already choose a Shibuya outing, the existing MEGA Don Quijote Shibuya Honten option can replace this branch.
+
+**Current branch details, checked 7 October 2026:** Ginza Nine #3, 8-10 Ginza, Chuo-ku. Its official page lists **24-hour opening**, no regular holiday, and about **5 minutes on foot from Shinbashi Station**. This is station-to-store guidance, not a measured Tamiya-to-Donki walk. Recheck for 2027; tax-free desk hours may differ. [Official Ginza Honkan branch](https://www.donki.com/en/store/shop_detail.php?shop_id=92) · [Maps search](https://www.google.com/maps/search/?api=1&query=Don+Quijote+Ginza+Honkan+Tokyo) · [Existing Shibuya alternative](https://www.gotokyo.org/en/spot/1879/index.html)
+
+### What I would browse for your interests
+
+| Priority | Candidate | Why I suggest it / what to check |
+| --- | --- | --- |
+| First | [Shizuoka matcha, 30 g](https://www.donki.com/j-kakaku/product/detail.php?item=3528) | Official listing gives green tea from Shizuoka as the ingredient; a compact tea option. Compare freshness, intended use, and price with your Ippodo choice. It is an alternative tea purchase, not an extra required tin. |
+| First | [Two-color sweet-potato chips](https://www.donki.com/j-kakaku/product/detail.php?item=5180) | A different packaged snack to try or take as a small gift. Check ingredients, expiry, bag size, and whether the packaging protects it in luggage. |
+| Optional | [Bite-size milk chocolate](https://www.donki.com/j-kakaku/product/detail.php?item=4375) | An easy snack-gift candidate. Check the actual pack and portions, ingredients, and storage needs; no claim that it beats other shops on price. |
+| Optional | Matcha-flavored sweets from the shelf | Fits your matcha interest; pick a small pack to taste first. This is a browsing idea, not a verified brand/flavor in stock at Ginza. |
+| Practical | [Men’s basics catalog](https://www.donki.com/j-kakaku/product/list.php?cid=3) | Browse an everyday or layering item if needed. Your saved top size is L; compare the actual garment chart and fit. No L/XL branch stock was established. |
+| Practical | [Black tapered pants](https://www.donki.com/j-kakaku/product/detail.php?item=5027) | An additional casual-pants lead. Official sizes are M/L/LL/3L, with a listed store maximum of **¥3,299 including tax** at the checked page. Your EU 44–46 requires a waist/hip/inseam comparison; M is not confirmed to fit. |
+| Practical | [Bags and small accessories](https://www.donki.com/j-kakaku/product/list.php?cid=5) | Look for a compact item you actually need, such as a small pouch. The category exists; a particular pouch/price was not checked. |
+
+These are product-catalog leads and personal suggestions, **not confirmed Ginza stock or independent quality rankings**. Donki's JONETZ catalog says selection and price vary by store. Save the product's JAN barcode from its page to help staff check the exact item. No specific denim jacket or flannel in your size was verified at Donki; keep the existing [[Japan 2027 — Clothing to Browse Online|clothing links]] for those searches. [Official product catalog](https://www.donki.com/j-kakaku/)
+
+### A small basket within the current budget
+
+My starting suggestion is a **US$20 equivalent limit**, converted using your actual yen rate and fees. This is a spending cap, not a quoted basket price. For souvenir snacks, use the existing souvenir pool and reduce another optional purchase—for example, replace the suggested US$20 record/movie buy. Tea replaces some or all of the tea allocation; clothing uses the existing US$150 clothing cap; a practical item uses its applicable existing gifts/extras category. Record each purchase once. The total shopping/miscellaneous ceiling remains **US$300**.
+
+Snacks consumed during the trip use the meals/drinks allowance; food brought home as gifts uses the souvenir allocation. Check package ingredients and relevant return-home food requirements before choosing food gifts; use the existing [[Japan 2027 — Travel Essentials|travel essentials]] for preparation. Recheck tax-free rules for the 2027 visit before relying on any savings.
+
+### Donki visit checklist
+
+- [ ] Confirm branch, remaining shopping budget, and suitcase space.
+- [ ] Save exact product links/JAN codes for the items I want to compare.
+- [ ] Check shelf price, pack size, ingredients, and expiry; compare prices only for the same product/quantity.
+- [ ] For clothing, compare measurements and applicable fitting/return terms.
+- [ ] Record spending and one souvenir story; ask staff before filming inside.
+
+## Keep the existing shopping ceiling
+
+The guide already allocates **US$300 for shopping and miscellaneous**. These are suggested spending limits, not shop prices or promises of affordability. Convert actual yen purchases using your actual rate and fees.
+
+| Existing category | Cap | Suggested shortlist use |
+| --- | ---: | --- |
+| Clothes | US$150 | One favorite garment |
+| Souvenirs | US$80 | Suggested split: Tamiya US$40 + tea US$20 + optional record/movie US$20 |
+| Stationery and small gifts | US$40 | Journal item and any small gifts combined |
+| Laundry, wrapping, other extras | US$30 | Keep available for practical needs |
+| **Total** | **US$300** | Same total as the guide |
+
+The souvenir split is a new suggestion within the existing category, replacing other souvenir purchases. If Tamiya or tea needs more, choose which other item to skip or reduce before buying. Avoid relying on tax-free savings; participation and eligibility must be checked for the actual shop and visit.
+
+## Purchase record — copy for each item
+
+- **Wanted / browsing / purchased / skipped:** …
+- **Item and exact version:** …
+- **Shop / date:** …
+- **Price in yen / converted cost / rate and date:** …
+- **Category and remaining allowance:** …
+- **Receipt, return terms, packing:** …
+- **Why I chose it / who it is for:** …
+
+## Before leaving for a shopping stop
+
+- [ ] Pick one main area and a maximum spend; confirm the branch and current hours.
+- [ ] Check suitcase space and any item-specific transport requirements.
+- [ ] Ask staff before photographing or filming inside; use [[Japan 2027 — Photography and Filming Wishlist#Permissions and venue checks|the permission record]].
+- [ ] Save the receipt and purchase story in [[Japan 2027 — Memories]].
+
+Current sources above were checked 7 October 2026; inherited alternatives remain in the full research note. Exact 2027 hours, stock, events, and prices need a pre-travel recheck.
+
+
+END SOURCE 59
+
+
+==============================================================================
+BEGIN SOURCE 60: Japan 2027 — Shops and Cafés.md
+==============================================================================
+
+# 🛍️ Japan 2027 — Tokyo neighborhoods for shops and cafés
+
+**Kichijoji:** [[Japan 2027 — Kichijoji Shopping and Exploring|What to buy, explore, and photograph — optional half-day]]
+
+**Shopping shortlist:** [[Japan 2027 — Shopping Shortlist|🛍️ Priorities, Tamiya, and spending caps]]
+
+**Maps:** [[Japan 2027 — Maps|📍 All destination, shop, café, and transport searches]]
+
+[[Japan 2027 — Start Here|← Start Here]] · [[Japan Travel Guide 2027|Full guide]] · [[Japan 2027 — Hidden Gems|Slower discoveries]]
+
+**Checked 6 October 2026.** Tokyo is a prefecture; these are neighborhoods within it. Kichijoji is in Musashino City, while the others below are within Tokyo’s special wards. These are optional outings, with planning allowances excluding travel. Recheck shop locations, opening days, menus, and access before March–April 2027. No tax-free service is assumed from a shop’s inclusion here.
+
+| Neighborhood | Best fit | Concrete starting points | Suggested time |
+| --- | --- | --- | --- |
+| **Koenji, Suginami** | Vintage clothing and independent browsing | SAFARI branches; Pal Shopping Street | 3–4 hours |
+| **Shimokitazawa, Setagaya** | Vintage shops plus a coffee break | New York Joe Exchange; existing 2nd STREET option; LIGHT UP COFFEE | 3–4 hours |
+| **Kichijoji, Musashino** | Vintage, specialty coffee, and a park outing | SAFARI; LIGHT UP COFFEE; Inokashira Park | Half-day |
+| **Daikanyama, Shibuya** | Books, design browsing, and a relaxed café | TSUTAYA BOOKS / T-SITE; IVY PLACE | 2–3 hours |
+| **Nakameguro, Meguro** | Travel stationery and neighborhood photography | TRAVELER’S FACTORY; existing Meguro River outing | 1–2 hours for shopping, separate from photography |
+| **Kuramae, Taito** | Stationery, writing tools, and chocolate café | Kakimori; Dandelion Chocolate Factory & Café | 2–3 hours |
+
+## 👖 Koenji — my first new pick for vintage
+
+Start with a short section of **Pal Shopping Street**, then choose one or two SAFARI branches rather than touring them all. SAFARI’s official directory separates vintage clothing, Ralph Lauren/RRL, outdoor clothing, and European vintage across its Koenji stores. Choose the branch by your style. Selected or collectible vintage can cost more than ordinary secondhand clothing; compare condition and fit before buying.
+
+**Route fit:** an alternative Tokyo half-day on 30 March or 7 April. Koenji and Kichijoji lie along the JR Chuo corridor, but each merits its own browsing time. Pick one if you want a relaxed outing and check which train stops at your station on the travel date.
+
+[SAFARI official store directory](https://e-safari.co.jp/) · [Official Koenji shopping guide](https://www.gotokyo.org/book/wp-content/uploads/2026/03/AO_2603_suginamichuo_low_EN.pdf) · [Maps: Koenji Pal Shopping Street](https://www.google.com/maps/search/?api=1&query=Koenji+Pal+Shopping+Street+Tokyo)
+
+## ☕ Shimokitazawa — the easiest vintage-and-coffee combination
+
+The guide already includes Shimokitazawa. GO TOKYO identifies **New York Joe Exchange** for secondhand clothing and **Reload** for shops and cafés. Browse after lunch, then consider LIGHT UP COFFEE’s Shimokitazawa branch at **2-29-12 Daita**. The coffee shop sits on the Setagaya-Daita side, so check the walk rather than assuming it is beside your clothing store.
+
+**Route fit:** substitute for another optional shopping session. Keep one main vintage purchase in mind; do not increase the shopping budget to fit extra shops.
+
+[Official neighborhood guide](https://www.gotokyo.org/en/destinations/western-tokyo/shimokitazawa/index.html) · [LIGHT UP COFFEE branches](https://lightupcoffee.com/pages/store) · [Maps: New York Joe Shimokitazawa](https://www.google.com/maps/search/?api=1&query=New+York+Joe+Exchange+Shimokitazawa+Tokyo) · [Maps: coffee branch](https://www.google.com/maps/search/?api=1&query=LIGHT+UP+COFFEE+Shimokitazawa+2-29-12+Daita)
+
+## 🌳 Kichijoji — shops, coffee, and greenery
+
+SAFARI lists **Nanaibashi** and **Nakamichi-dori** shops for American vintage. LIGHT UP COFFEE’s Kichijoji branch is at **4-13-15 Kichijoji Honmachi**, and its official Japanese page lists a three-coffee tasting option. Combine selected shopping with a coffee stop and the existing Inokashira Park option; plot the entrances before deciding the order.
+
+**Route fit:** develop the guide’s existing Kichijoji alternative on 30 March or 7 April. Return with time to pack. Café English/Japanese pages currently differ on hours and prices, so use current local notices before visiting; no fixed 2027 price is assumed.
+
+[SAFARI branches](https://e-safari.co.jp/) · [Coffee shop and menu](https://lightupcoffee.com/pages/store) · [Official Kichijoji guide](https://www.gotokyo.org/en/destinations/western-tokyo/kichijoji/) · [Maps: coffee](https://www.google.com/maps/search/?api=1&query=LIGHT+UP+COFFEE+Kichijoji+Tokyo)
+
+## 📚 Daikanyama — books, design, and a polished café stop
+
+Browse **DAIKANYAMA TSUTAYA BOOKS / T-SITE**, then consider **IVY PLACE**, a café/bar/dining venue at the complex. This is my pick when you want attractive surroundings and books rather than a clothing hunt. Check the current menu, reservation options, and prices before choosing a meal.
+
+**Route fit:** the existing 29 March free block before Nakameguro. Drop this addition if blossom conditions make another photo location the priority.
+
+[Official neighborhood guide](https://www.gotokyo.org/en/destinations/western-tokyo/daikanyama/index.html) · [IVY PLACE official listing](https://store.tsite.jp/daikanyama/floor/shop/ivy-place/) · [Maps: T-SITE](https://www.google.com/maps/search/?api=1&query=Daikanyama+T-SITE+Tokyo)
+
+## 📓 Nakameguro — a souvenir for your travel journal
+
+**TRAVELER’S FACTORY Nakameguro**, at **3-13-10 Kamimeguro**, sells notebooks, customization parts, and related travel goods. The brand describes a second-floor space for books, customization, and coffee; check current availability before counting on seating. Its current closure day is Tuesday, so reconfirm before visiting.
+
+**Route fit:** your existing Nakameguro day on Monday 29 March. Keep the shopping stop short enough to protect the river photo block. Cherry-blossom crowds can affect the whole outing.
+
+[Official flagship information](https://www.travelers-company.com/about) · [Current store notices](https://www.travelers-factory.com/) · [Maps: flagship](https://www.google.com/maps/search/?api=1&query=TRAVELERS+FACTORY+Nakameguro+Tokyo)
+
+## ✒️ Kuramae — stationery and chocolate
+
+**Kakimori** is the writing-focused shop to consider: notebooks, pens, inks, and papers, including order-made notebooks. If customization is your priority, confirm turnaround and any booking requirement before going. **Dandelion Chocolate Factory & Café Kuramae** makes a separate café stop for chocolate drinks or sweets; check its current menu.
+
+**Route fit:** pair with an Asakusa outing only if that day has space, or replace another optional Tokyo half-day. This is a stationery-and-café choice rather than a main thrift-shopping destination.
+
+[Kakimori official shop](https://kakimori.com/en/pages/kakimori) · [Dandelion official café](https://www.dandelionchocolate-jp.com/pages/factory-cafe-kuramae) · [Maps: Kakimori](https://www.google.com/maps/search/?api=1&query=Kakimori+Kuramae+Tokyo) · [Maps: Dandelion](https://www.google.com/maps/search/?api=1&query=Dandelion+Chocolate+Factory+Cafe+Kuramae+Tokyo)
+
+## 📍 Additional Maps links for the neighborhood shortlist
+
+These provide individual search links for the other named stops. Check the result and entrance; these are not independently verified Google place pins.
+
+| Area | Individual destinations |
+| --- | --- |
+| Koenji | [SAFARI 1号店](https://www.google.com/maps/search/?api=1&query=SAFARI+1%E5%8F%B7%E5%BA%97+Koenji+Tokyo) · [SAFARI 2号店](https://www.google.com/maps/search/?api=1&query=SAFARI+2%E5%8F%B7%E5%BA%97+Koenji+Tokyo) · [SAFARI 3号店](https://www.google.com/maps/search/?api=1&query=SAFARI+3%E5%8F%B7%E5%BA%97+Koenji+Tokyo) · [SAFARI 4号店](https://www.google.com/maps/search/?api=1&query=SAFARI+4%E5%8F%B7%E5%BA%97+Koenji+Tokyo) · [SAFARI 5号店](https://www.google.com/maps/search/?api=1&query=SAFARI+5%E5%8F%B7%E5%BA%97+Koenji+Tokyo) · [SAFARI 1PLUS](https://www.google.com/maps/search/?api=1&query=SAFARI+1PLUS+Koenji+Tokyo) |
+| Kichijoji | [SAFARI Nanaibashi](https://www.google.com/maps/search/?api=1&query=SAFARI+%E3%81%AA%E3%81%AA%E3%81%84%E6%A9%8B%E5%BA%97+%E5%90%89%E7%A5%A5%E5%AF%BA) · [SAFARI Nakamichi-dori](https://www.google.com/maps/search/?api=1&query=SAFARI+%E4%B8%AD%E9%81%93%E9%80%9A%E3%82%8A%E5%BA%97+%E5%90%89%E7%A5%A5%E5%AF%BA) · [Inokashira Park](https://www.google.com/maps/search/?api=1&query=Inokashira+Park+Tokyo+Japan) |
+| Shimokitazawa | [Reload](https://www.google.com/maps/search/?api=1&query=reload+Shimokitazawa+Tokyo) · [2nd STREET](https://www.google.com/maps/search/?api=1&query=2nd+STREET+Shimokitazawa+2-30-13+Kitazawa+Tokyo) |
+| Daikanyama | [IVY PLACE](https://www.google.com/maps/search/?api=1&query=IVY+PLACE+Daikanyama+Tokyo) · [TSUTAYA BOOKS](https://www.google.com/maps/search/?api=1&query=Daikanyama+Tsutaya+Books+Tokyo) |
+| Nakameguro | [Meguro River](https://www.google.com/maps/search/?api=1&query=Meguro+River+Nakameguro+Tokyo) |
+
+## 🎶 Vinyl, movies, and vintage film finds
+
+**Checked 6 October 2026.** These recommendations focus on physical music, movies, and memorabilia. Used stock changes constantly; a shop’s category listing does not guarantee a specific artist or film. Vintage here describes the merchandise and browsing experience; modern retail interiors may differ. Reconfirm addresses and opening days for 2027. Tax-free participation has not been verified for these additions.
+
+| Area | Shop | What to browse | Route / location notes | Official source | Maps search |
+| --- | --- | --- | --- | --- | --- |
+| Shibuya | **HMV record shop Shibuya** | Used vinyl and CDs, with a focus on classic recordings from the 1960s–1990s. | 36-2 Udagawacho, Noa Shibuya 1F/2F; choose the record shop rather than HMV&BOOKS in MODI. | [Official](https://www.hmv.co.jp/store/SHU/) | [Maps](https://www.google.com/maps/search/?api=1&query=HMV+record+shop+Shibuya+Tokyo+Japan) |
+| Shimokitazawa | **Disk Union Shimokitazawa** | New and used records/CDs across genres, including rock, jazz, soul, and Japanese music. | 1-40-6 Kitazawa, Kashiwa Third Building 1F; fits the vintage-clothing outing. | [Official](https://diskunion.net/shop/shimokitazawa) | [Maps](https://www.google.com/maps/search/?api=1&query=Disk+Union+Shimokitazawa+Tokyo+Japan) |
+| Kichijoji | **COCONUTS DISK Kichijoji** | An independent used-record and CD shop for browsing across genres. | 2-22-4 Kichijoji Honmachi; combine with your Kichijoji shops and coffee. | [Official](https://coconutsdisk.com/kichijoji/map/) | [Maps](https://www.google.com/maps/search/?api=1&query=COCONUTS+DISK+Kichijoji+Tokyo+Japan) |
+| Kichijoji | **Disk Union Kichijoji + Kichijoji Movie Store** | New/used vinyl, CDs, DVDs and Blu-rays; dedicated movie and jazz sections within the store. | 1-5-1 Kichijoji Honmachi, PARCO B1F; my most practical music-and-movies combination. | [Official](https://diskunion.net/shop/kichijyoji) | [Maps](https://www.google.com/maps/search/?api=1&query=Disk+Union+Kichijoji+PARCO+1-5-1+Kichijoji+Honmachi) |
+| Shinjuku | **Disk Union Shinjuku Rock Record Store** | Especially 1960s–1970s rock vinyl, plus vintage music posters and memorabilia. | 3-34-12 Shinjuku, Shimogiku Building 5F; stock ranges from accessible buys to collectible originals. | [Official](https://diskunion.net/shop/shinjuku_rockrecord) | [Maps](https://www.google.com/maps/search/?api=1&query=Disk+Union+Shinjuku+Rock+Record+Store+Tokyo+Japan) |
+| Shinjuku | **Disk Union Cinema-kan / Book Union Shinjuku** | Soundtracks, film-music CDs, cinema books and magazines. | 3-34-1 Shinjuku, Juraku Twin B Building 2F; its current description confirms film music/books, so prioritize Kichijoji or Ikebukuro for movie discs. | [Official](https://diskunion.net/shop/shinjuku_chukokan_bookunion) | [Maps](https://www.google.com/maps/search/?api=1&query=Disk+Union+Cinema+Book+Union+3-34-1+Shinjuku+Tokyo) |
+| Ikebukuro | **Disk Union Ikebukuro** | Records, vintage music/band T-shirts, and movie DVDs/Blu-rays. | Current branch: 2-27-8 Minamiikebukuro, Dai-10 Nohagi Building 9F. Official page announces its August 2026 relocation; avoid old pins. | [Official](https://diskunion.net/shop/ikebukuro) | [Maps](https://www.google.com/maps/search/?api=1&query=Disk+Union+Ikebukuro+2-27-8+Minamiikebukuro+Tokyo) |
+| Nakano | **Mandarake Katsudo Shashin-kan, Nakano Broadway** | Japanese movie posters, film/TV scripts, and cinema books; categories include period films, science fiction, kaiju, and tokusatsu. | Ask at Mandarake for the current Katsudo Shashin-kan location. Displayed example stock was photographed in 2016 and is not an availability promise. | [Official](https://www.mandarake.co.jp/shop/nkn/katsudo-shashin-kan.html) | [Maps](https://www.google.com/maps/search/?api=1&query=Mandarake+Katsudo+Shashin-kan%2C+Nakano+Broadway+Tokyo+Japan) |
+
+### ☕ A record-listening café
+
+**RECOCO Shimokitazawa** offers a hands-on vinyl-listening café experience at **2-9-2 Kitazawa, ARISTO Shimokitazawa B1F**. It is a café stop; its site does not establish it as a used-record shop. Current rules include an entry charge plus one drink, cashless payment, no seat reservations, and a 90-minute limit when busy. Check the current menu and fees before going. Do not bring your newly purchased records in for listening: its published rules prohibit outside records.
+
+[Official café and rules](https://recoco.cafe/) · [Maps: Shimokitazawa branch](https://www.google.com/maps/search/?api=1&query=RECOCO+Shimokitazawa+Tokyo)
+
+### 🧭 Three optional outings
+
+- **Music + café + thrift:** Shimokitazawa, with Disk Union and either RECOCO or the previously listed LIGHT UP COFFEE. Allow about 3–4 hours on site as a planning estimate; select a few stops.
+- **Records + movies + park:** Kichijoji, choosing COCONUTS DISK and/or Disk Union alongside the existing park/coffee option. This is a half-day alternative for 30 March or 7 April, with time to pack afterwards.
+- **Vintage film memorabilia:** Nakano Broadway, with Katsudo Shashin-kan as the anchor. Allow 2–3 hours on site as a planning estimate. Nakano is along the Chuo corridor like Koenji and Kichijoji, but adding all three would reduce browsing time; choose the main priority.
+
+Shibuya, Shinjuku, and Ikebukuro shops can fit an outing already in that neighborhood. Recheck the exact entrances and floors, and use a current transit route. See [Mandarake’s current Nakano store guide](https://www.mandarake.co.jp/dir/nkn/index-en.html) for the broader complex.
+
+### 💿 Before buying
+
+- **Vinyl:** ask to inspect the disc and sleeve, understand the shop’s grading, and check missing inserts or an obi strip if completeness matters. Ask whether preview listening is available. Keep records supported and protected from heat or bending in luggage.
+- **Movies:** check the exact edition’s region code, audio tracks, and subtitles against your player before paying. Do not assume Japanese releases have English or Spanish subtitles, or that a collector’s edition works on your home player.
+- **Posters/scripts:** ask whether the item is original or a reproduction, inspect folds and wear, and request suitable protective packaging. Do not fold a poster simply to fit your suitcase.
+- **Budget:** music and film souvenirs share the existing US$300 shopping/miscellaneous allowance. Pick a personal spending cap before browsing; collectible originals can be expensive.
+
+## ⭐ What I would choose
+
+- **Main vintage session:** Koenji or the already-planned Shimokitazawa option.
+- **A balanced half-day:** Kichijoji, with one café and selected shops.
+- **An easy existing-route addition:** Daikanyama or TRAVELER’S FACTORY before/around Nakameguro.
+- **Stationery and gifts:** Kuramae.
+
+Keep meals and cafés within the existing food allowance and purchases within the shopping allowance. Map links are searches; verify exact branches. Ask staff before filming inside independent shops or cafés.
+
+## 🛒 Donki practical shopping stop
+
+[[Japan 2027 — Shopping Shortlist#Don Quijote — snacks, small gifts, and practical buys|Donki buying ideas and visit checklist]] — Ginza Honkan is a proposed short extension to the Shinbashi/Tamiya day. Product links, branch details, stock limits, and a basket cap are in the shortlist.
+
+
+END SOURCE 60
+
+

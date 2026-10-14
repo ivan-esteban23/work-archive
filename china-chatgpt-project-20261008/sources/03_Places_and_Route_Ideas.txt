@@ -1,0 +1,162 @@
+# China Trip — Places, Amap Links, and Route Choices
+
+Snapshot: 8 October 2026. Exported from the China Obsidian notes. Internal source references point to other uploaded files, not live links. External source and Amap URLs are retained. Research dates describe when claims were checked; this export does not refresh provider facts.
+
+
+---
+
+Original note: China — Places and Experiences Shortlist.md
+
+# China — Places and Experiences Shortlist
+
+Dashboard [source: 01_Trip_Context_and_Status.txt; note: China — Start Here] · Main route [source: 02_Current_Travel_Guide.txt; note: China Travel Guide] · Budget [source: 01_Trip_Context_and_Status.txt; note: China — Budget]
+
+**Research date: 8 October 2026.** A shortlist for the proposed Beijing → Xi’an → Shanghai route. These are candidates, not reserved activities. Chinese text below is for place searches; identify the exact entrance/branch before saving a pin. Opening hours, prices, menus, filming permissions, and future availability need a final check.
+
+## Open these places in Amap
+
+**AMap Global:** [iPhone — App Store (Chile)](https://apps.apple.com/cl/app/amap-global/id461703208) · [Android — Google Play](https://play.google.com/store/apps/details?id=com.autonavi.minimap).
+
+The same **Search in Amap** links below are intended for both phones. They use Amap’s documented mobile/web search format and request opening the installed app where supported. These are city-scoped searches, not verified pins or saved favorites. Tap a result, confirm the address/branch or visitor entrance, then save it inside Amap. [Official Amap link documentation](https://lbs.amap.com/api/uri-api/guide/search/search?type=spa), checked 8 October 2026.
+
+If the link opens a browser or does not hand off from Obsidian, open it in your phone’s browser or copy the place name into Amap. Device-specific app opening and search results have not been tested on your iPhone or Android. Keep Chinese names and essential route screenshots as a backup; saved favorites do not establish offline routing.
+
+For **Manner**, the search is deliberately broad: select the North Bund / Guoke Binjiang branch matching the listed Taiping Road/SIPG Tower location. For **Terracotta Warriors**, verify the museum visitor entrance rather than navigating to the mausoleum mound.
+
+## Beijing: art, old streets, and tea
+
+| Candidate / search text | Why I would include it | What to check | Amap link (iPhone / Android) |
+| --- | --- | --- | --- |
+| Palace Museum / 故宫博物院 | Main historic anchor; photograph architecture where allowed | Advance tickets; normally closed Mondays; camera rules and exact entrance | [Search in Amap](https://uri.amap.com/search?keyword=%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2&city=%E5%8C%97%E4%BA%AC&view=list&src=china_trip_guide&callnative=1) |
+| Mutianyu Great Wall / 慕田峪长城 | Dedicated landscape and architecture outing | Round-trip transport, weather, walking demands, separate lift/extras | [Search in Amap](https://uri.amap.com/search?keyword=%E6%85%95%E7%94%B0%E5%B3%AA%E9%95%BF%E5%9F%8E&city=%E5%8C%97%E4%BA%AC&view=list&src=china_trip_guide&callnative=1) |
+| Yangmeizhu Xiejie / 杨梅竹斜街 | Old-alley texture, books, creative browsing | Individual shops and privacy; keep it an unhurried walk | [Search in Amap](https://uri.amap.com/search?keyword=%E6%9D%A8%E6%A2%85%E7%AB%B9%E6%96%9C%E8%A1%97&city=%E5%8C%97%E4%BA%AC&view=list&src=china_trip_guide&callnative=1) |
+| 798 Art District / 798艺术区 | Contemporary art, industrial architecture, design, cafés | Gallery tickets/exhibitions and photography rules; give it a separate outing | [Search in Amap](https://uri.amap.com/search?keyword=798%E8%89%BA%E6%9C%AF%E5%8C%BA&city=%E5%8C%97%E4%BA%AC&view=list&src=china_trip_guide&callnative=1) |
+| Maliandao / 马连道 | Tea shopping and a chance to explore Chinese tea beyond the Japan matcha plan | A specific shop, tasting language/price, quantity and total purchase cost | [Search in Amap](https://uri.amap.com/search?keyword=%E9%A9%AC%E8%BF%9E%E9%81%93&city=%E5%8C%97%E4%BA%AC&view=list&src=china_trip_guide&callnative=1) |
+
+The municipal government describes Yangmeizhu Xiejie as an old hutong with cultural and commercial uses and 798 as an art/design district with creative retail and cafés. Those two are particularly good additions for your browsing and photography interests. [Beijing tourism/leisure zones, 4 September 2025](https://english.beijing.gov.cn/latest/news/202509/t20250904_4191116.html).
+
+Maliandao is listed by Beijing’s tourism portal as a tea-shopping area on Maliandao Road, Xicheng. Its article dates from 2017: use it to identify the district, not to assume historic shop counts or a particular business is still operating. [Visit Beijing — Maliandao](https://english.visitbeijing.com.cn/article/47ONpUjZFzR). I would make it optional unless tea becomes a major interest; a market visit is not automatically a hosted tasting.
+
+The Palace Museum’s own page says it normally opens Tuesday–Sunday, with national-holiday exceptions, and does **not sell same-day tickets**. Foreign online reservations require passport numbers. The listed standard admission is **CNY 60/person for 1 April–31 October** and **CNY 40/person for 1 November–31 March**, with some galleries extra. These are published tariffs checked today, not dated availability. [Official visitor page](https://intl.dpm.org.cn/visit.html?l=en).
+
+Mutianyu remains the researched Great Wall candidate from the main guide. [Official overview](https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260325_4566115.html).
+
+## Xi’an: city-wall views and a food evening
+
+| Candidate / search text | Why I would include it | What to check | Amap link (iPhone / Android) |
+| --- | --- | --- | --- |
+| Xi’an City Wall / 西安城墙 | Architecture and city views; a useful outdoor photo block | Exact entrance, admission, weather, and current cycling rules if wanted | [Search in Amap](https://uri.amap.com/search?keyword=%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%A2%99&city=%E8%A5%BF%E5%AE%89&view=list&src=china_trip_guide&callnative=1) |
+| Muslim Quarter / 回民街 | Food streets and local cultural context | Specific vendors, ingredients, portions and permission before close-up filming | [Search in Amap](https://uri.amap.com/search?keyword=%E5%9B%9E%E6%B0%91%E8%A1%97&city=%E8%A5%BF%E5%AE%89&view=list&src=china_trip_guide&callnative=1) |
+| Terracotta Warriors / 秦始皇帝陵博物院 | The main reason for this stop | Reserved slot, original passport, transport and equipment restrictions | [Search in Amap](https://uri.amap.com/search?keyword=%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%B8%9D%E9%99%B5%E5%8D%9A%E7%89%A9%E9%99%A2+%E5%85%B5%E9%A9%AC%E4%BF%91&city=%E8%A5%BF%E5%AE%89&view=list&src=china_trip_guide&callnative=1) |
+
+Xi’an’s municipal overview identifies the wall as a place to walk or cycle with city views and the Muslim Quarter as a collection of food streets. It highlights lamb soup with bread and roujiamo. Treat the quarter as a neighborhood to explore rather than assuming one tourist street contains every worthwhile meal. [Xi’an municipal landmark guide](https://en.xa.gov.cn/MediaCenter/News/1691691491099529217.html).
+
+My food priorities would be **yangrou paomo (羊肉泡馍)**, **roujiamo (肉夹馍)**, and a noodle meal. Confirm the meat/filling at the selected shop; versions vary, and a dish name does not establish dietary suitability. The bread-and-lamb-soup and meat-sandwich descriptions are supported by the municipal guide. Exact restaurants and protein quantities remain unresearched.
+
+Keep the wall visit and food exploration flexible around the reserved museum day. [Terracotta Warriors visitor instructions](https://www.bmy.com.cn/jingtai/bmyweb/ticketing.html) remain the source for ticket/ID checks; the ambiguous filming wording is still unresolved.
+
+## Shanghai: art, lane shopping, and repeated riverfront visits
+
+| Candidate / search text | Why I would include it | What to check | Amap link (iPhone / Android) |
+| --- | --- | --- | --- |
+| The Bund / 外滩 | Architecture and skyline photography under different light | Weather, access and camera/tripod rules; no guaranteed lighting show | [Search in Amap](https://uri.amap.com/search?keyword=%E5%A4%96%E6%BB%A9&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) |
+| M50 Creative Park / M50创意园 | Industrial buildings and a visual-art outing | Specific gallery access and exhibits; Putuo district/Moganshan Road search area | [Search in Amap](https://uri.amap.com/search?keyword=M50%E5%88%9B%E6%84%8F%E5%9B%AD&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) |
+| Tianzifang / 田子坊 | Lane-scale browsing, crafts, gifts, cafés | Exact shops, crowd levels and privacy around residences | [Search in Amap](https://uri.amap.com/search?keyword=%E7%94%B0%E5%AD%90%E5%9D%8A&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) |
+| Xintiandi / 新天地 | Another architecture, shopping and café option | Choose it if the businesses interest you; it need not duplicate Tianzifang | [Search in Amap](https://uri.amap.com/search?keyword=%E6%96%B0%E5%A4%A9%E5%9C%B0&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) |
+
+Shanghai’s tourism listing describes M50 as a visual-art district retaining industrial-building character. Individual galleries can have their own hours even when the wider complex is listed as open year-round. [Official M50 listing](https://www.meet-in-shanghai.net/cn/industry-tours/m50-creative-park-137682/).
+
+The official shopping guide identifies Tianzifang with crafts, boutiques and cafés, and Xintiandi with shikumen architecture, retail and dining. These are browsing areas, not verified vintage/record-shop lists. [Shanghai shopping districts](https://www.meet-in-shanghai.net/en/guide/shopping-in-shanghai-a-selection-of-the-best-neighborhoods-to-find-treasures-726529/). For the riverfront, see the [official Bund overview](https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/).
+
+### Named food and café candidates
+
+| Place | Provider-listed location | Research reason | Amap link (iPhone / Android) |
+| --- | --- | --- | --- |
+| Jia Jia Tang Bao | 127 Huanghe Road, Huangpu | Soup dumplings | [Search in Amap](https://uri.amap.com/search?keyword=%E4%BD%B3%E5%AE%B6%E6%B1%A4%E5%8C%85+%E9%BB%84%E6%B2%B3%E8%B7%AF127%E5%8F%B7&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) |
+| Da Hu Chun | 136 Sichuan Middle Road, Huangpu | Shengjian buns | [Search in Amap](https://uri.amap.com/search?keyword=%E5%A4%A7%E5%A3%B6%E6%98%A5+%E5%9B%9B%E5%B7%9D%E4%B8%AD%E8%B7%AF136%E5%8F%B7&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) |
+| O.P.S. CAFE, Taiyuan Road branch | No. 1, Lane 177 Taiyuan Road, Xuhui | Seasonal coffee drinks | [Search in Amap](https://uri.amap.com/search?keyword=O.P.S.+CAFE+%E5%A4%AA%E5%8E%9F%E8%B7%AF177%E5%BC%841%E5%8F%B7&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) |
+| Manner Coffee, North Bund / Guoke Binjiang branch | Taiping Road, 60 m south of SIPG Tower, Hongkou | Riverside coffee | [Search in Amap](https://uri.amap.com/search?keyword=MANNER+%E5%A4%AA%E5%B9%B3%E8%B7%AF&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) |
+
+All four appear in the official tourism guide dated **21 July 2026**, checked today. Locations are candidates for verification; hours, menu prices, availability and filming access were not established. [Shanghai food and coffee guide](https://www.meet-in-shanghai.net/en/guide/taste-your-way-through-shanghai-food-coffee-and-vibrant-neighborhoods-907063/). Search the exact branch, not just the chain name.
+
+## Make it personal without filling every day
+
+My suggested five priorities are: one Great Wall outing, one major historic museum, a Xi’an food evening, one art-district outing, and repeat Shanghai riverfront photography. You have not selected these yet. Tea browsing and a café block can replace shopping or another attraction if they appeal more.
+
+For photography, choose one establishing image, one detail, and a short ambient clip per outing where permitted. Old lanes offer doors, textures, and signs; art districts offer industrial forms; the wall and riverfront offer wider compositions. Those are creative suggestions, not permission to film people or inside galleries. Ask staff before using substantial equipment.
+
+Before accepting a tasting or guided experience, establish the price, language, duration, inclusions, and whether buying products is optional. For tea/gifts, record package weight and total, keep receipts, and check Chile’s current import rules before bringing food or plant products home. No import eligibility is asserted here.
+
+A relaxed day can have one fixed attraction, one nearby meal, and a flexible walk or café. Keep M50, 798, and Maliandao as separate location decisions until actual transit is checked. If the trip is solo, verify small portions/half-duck options rather than budgeting a group-sized meal as one-person dining.
+
+## Further ideas
+
+Continue with China — More Ideas and Route Choices [source: 03_Places_and_Route_Ideas.txt; note: China — More Ideas and Route Choices] for additional Beijing/Shanghai stops, Suzhou and Hangzhou, and alternative bases, with 13 more Amap searches. See China — Klook Experience Research 2026-10-08 [source: 05_Evidence_and_Experience_Research.txt; note: China — Klook Experience Research 2026-10-08] for tea, food, cooking, and water-town experience research.
+
+
+---
+
+Original note: China — More Ideas and Route Choices.md
+
+# China — More Ideas and Route Choices
+
+Dashboard [source: 01_Trip_Context_and_Status.txt; note: China — Start Here] · Original shortlist [source: 03_Places_and_Route_Ideas.txt; note: China — Places and Experiences Shortlist] · Paid experience research [source: 05_Evidence_and_Experience_Research.txt; note: China — Klook Experience Research 2026-10-08]
+
+**Researched 8 October 2026.** These are optional ideas for an undated trip. Routes below are planning judgments; no transport, hotels, or activities are booked.
+
+## My strongest additions for your interests
+
+I would first add **a Shanghai dumpling-making class**, **one Suzhou garden followed by Pingjiang Road**, and **a Wukang–Anfu neighborhood walk**. They build on your food, photography, cafés, and browsing interests without adding another hotel base. Jingshan is a useful Beijing photography candidate to compare with the existing palace day.
+
+If tea becomes a main interest, **two nights in Hangzhou** are my strongest route expansion: one lake block and one Longjing village block, with room for transfers. That recommendation is about pace and your interests; it is not a checked train itinerary. The municipal feature describes West Lake and Longjing village, including tea terraces and tea culture. [Hangzhou overview](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250515/fc5c158cf2b141dc8bbc8e7e2fb63256.html).
+
+## Places to compare
+
+The Amap links use the same city-scoped search format as your original shortlist, for both iPhone and Android. They are **searches, not checked POI pins**; confirm the entrance or shop branch. Phone handoff and current search results remain untested. Downloads and instructions [source: 03_Places_and_Route_Ideas.txt; note: China — Places and Experiences Shortlist; section: Open these places in Amap].
+
+| Idea / Chinese search | Why it might fit / next check | Amap for either phone | Evidence |
+| --- | --- | --- | --- |
+| Jingshan Park / 景山公园 | Architecture photography looking toward the Palace Museum; pair with the palace day if energy and entry hours allow. | [Search in Amap](https://uri.amap.com/search?keyword=%E6%99%AF%E5%B1%B1%E5%85%AC%E5%9B%AD&city=%E5%8C%97%E4%BA%AC&view=list&src=china_trip_guide&callnative=1) | [Source](https://english.beijing.gov.cn/foreignersinbeijing/beijingthroughforeignerslens/202401/t20240105_3526514.html) |
+| Panjiayuan market / 潘家园 | Crafts, objects, and browsing; ask about materials and provenance before buying. Current vendor and night-market schedules need checking. | [Search in Amap](https://uri.amap.com/search?keyword=%E6%BD%98%E5%AE%B6%E5%9B%AD&city=%E5%8C%97%E4%BA%AC&view=list&src=china_trip_guide&callnative=1) | [Source](https://english.beijing.gov.cn/consuminginbeijing/onedayinbeijing/sleeplessinbeijing/updatesofnighttimeconsumption/202504/t20250428_4076854.html) |
+| Wukang Road / 武康路 | An unhurried architecture and café walk; choose a small walking area rather than crossing the whole city. | [Search in Amap](https://uri.amap.com/search?keyword=%E6%AD%A6%E5%BA%B7%E8%B7%AF&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) | [Source](https://english.shanghai.gov.cn/en-FAQs-StudyinShanghai/20251124/9f1658ae899240d19c52784bddfed782.html) |
+| Anfu Road / 安福路 | Fashion, design, and café browsing; combine with Wukang Road in one neighborhood block. | [Search in Amap](https://uri.amap.com/search?keyword=%E5%AE%89%E7%A6%8F%E8%B7%AF&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) | [Source](https://english.shanghai.gov.cn/en-FAQs-StudyinShanghai/20251124/9f1658ae899240d19c52784bddfed782.html) |
+| Duozhuayu / 多抓鱼 安福路 | Bookshop browsing candidate mentioned in the official city walk. Confirm the current Anfu branch, address, and hours. | [Search in Amap](https://uri.amap.com/search?keyword=%E5%A4%9A%E6%8A%93%E9%B1%BC+%E5%AE%89%E7%A6%8F%E8%B7%AF&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) | [Source](https://english.shanghai.gov.cn/en-FAQs-StudyinShanghai/20251124/9f1658ae899240d19c52784bddfed782.html) |
+| Humble Administrator’s Garden / 拙政园 | Choose one main Suzhou garden for framed views, water, and architecture; check ticket dates and camera rules. | [Search in Amap](https://uri.amap.com/search?keyword=%E6%8B%99%E6%94%BF%E5%9B%AD&city=%E8%8B%8F%E5%B7%9E&view=list&src=china_trip_guide&callnative=1) | [Source](https://whc.unesco.org/en/list/813/) |
+| Pingjiang Road / 平江路 | Canal-side walk to pair with the garden; leave time for a meal instead of adding several far-apart attractions. | [Search in Amap](https://uri.amap.com/search?keyword=%E5%B9%B3%E6%B1%9F%E8%B7%AF&city=%E8%8B%8F%E5%B7%9E&view=list&src=china_trip_guide&callnative=1) | [Source](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250521/2cd76b748ca1433c98044118867371c5.html) |
+| West Lake / 西湖 | Lake walks and landscape photography; reserve a flexible block for good light rather than promising a sunset. | [Search in Amap](https://uri.amap.com/search?keyword=%E8%A5%BF%E6%B9%96&city=%E6%9D%AD%E5%B7%9E&view=list&src=china_trip_guide&callnative=1) | [Source](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250515/fc5c158cf2b141dc8bbc8e7e2fb63256.html) |
+| Longjing village / 龙井村 | Tea terraces, tasting, and learning about Chinese green tea. A picking workshop depends on the chosen date and package. | [Search in Amap](https://uri.amap.com/search?keyword=%E9%BE%99%E4%BA%95%E6%9D%91&city=%E6%9D%AD%E5%B7%9E&view=list&src=china_trip_guide&callnative=1) | [Source](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250515/fc5c158cf2b141dc8bbc8e7e2fb63256.html) |
+| Zhujiajiao ancient town / 朱家角古镇 | Water-town lanes and bridges as an alternative Shanghai excursion; choose this or Suzhou before filling every free day. | [Search in Amap](https://uri.amap.com/search?keyword=%E6%9C%B1%E5%AE%B6%E8%A7%92%E5%8F%A4%E9%95%87&city=%E4%B8%8A%E6%B5%B7&view=list&src=china_trip_guide&callnative=1) | [Source](https://english.shanghai.gov.cn/en-HeritageZones/20240827/66903de4b44047a5aeb1284a2148fc09.html) |
+| Jinli / 锦里 | A Chengdu food-and-street-life starting point. Kuanzhai lanes and the panda base are other research candidates for this new base. | [Search in Amap](https://uri.amap.com/search?keyword=%E9%94%A6%E9%87%8C&city=%E6%88%90%E9%83%BD&view=list&src=china_trip_guide&callnative=1) | [Source](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250421/fa4666cf783d46f48fc6edd4cf9dcf95.html) |
+| Hongyadong / 洪崖洞 | A Chongqing night-photography starting point. Liziba, the riverfront, and a hotpot meal could form a separate city chapter. | [Search in Amap](https://uri.amap.com/search?keyword=%E6%B4%AA%E5%B4%96%E6%B4%9E&city=%E9%87%8D%E5%BA%86&view=list&src=china_trip_guide&callnative=1) | [Source](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250514/0a8f03830bcc493190c6b6025e4898b5.html) |
+| Wulingyuan / 武陵源 | Sandstone pillars and ravines for a landscape-focused route; park entrances, walking demands, and transport need dedicated planning. | [Search in Amap](https://uri.amap.com/search?keyword=%E6%AD%A6%E9%99%B5%E6%BA%90&city=%E5%BC%A0%E5%AE%B6%E7%95%8C&view=list&src=china_trip_guide&callnative=1) | [Source](https://whc.unesco.org/en/list/640/) |
+
+## Excursion or new base?
+
+**Suzhou:** my first excursion candidate from Shanghai for gardens and canal photography. Choose the Humble Administrator’s Garden or research the Lingering Garden as an alternative; UNESCO lists both within the classical-gardens property. One garden, Pingjiang Road, and a meal are a more useful starting plan than buying a package covering several gardens, temples, hills, and a second water town. Compare the actual rail stations, local transfers, admission reservations, and return connection once dates are set. [UNESCO gardens](https://whc.unesco.org/en/list/813/) · [Suzhou overview](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250521/2cd76b748ca1433c98044118867371c5.html).
+
+**Zhujiajiao:** another water-town option within Shanghai, with riverside buildings and Fangsheng Bridge. Compare it with Suzhou on the scenery you want and the complete travel day. I would select one initially and keep the other optional. Boat rides and attraction tickets require separate inclusion checks; a town visit does not establish that every site or boat is included. [Shanghai heritage overview](https://english.shanghai.gov.cn/en-HeritageZones/20240827/66903de4b44047a5aeb1284a2148fc09.html).
+
+**Hangzhou:** allow an arrival/lake block, a Longjing tea block, and an onward-transfer block if staying two nights. Keep tea purchasing separate from workshop fees and ask for the quantity and full purchase price. A provider offers picking, hand-frying, and tasting, but future picking conditions, dates, and language availability remain to be checked in China — Klook Experience Research 2026-10-08 [source: 05_Evidence_and_Experience_Research.txt; note: China — Klook Experience Research 2026-10-08].
+
+**Chengdu:** a route replacement for food, lanes, and an optional panda-base visit. The municipal Sichuan feature identifies Jinli, Kuanzhai, and the Chengdu panda base. Begin with one food/neighborhood day and research the panda outing separately; admission does not guarantee close animal encounters. Specific tea houses and restaurants still need verification. [Sichuan overview](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250421/fa4666cf783d46f48fc6edd4cf9dcf95.html).
+
+**Chongqing:** a route replacement if urban night photography and hotpot matter more than Xi’an history. Hongyadong and Liziba are starting points from the official overview, not a finished walking route. Check actual viewpoints, crowd conditions, hills/stairs, river crossings, and hotel access before choosing a base. Do not assume every camera viewpoint is public or every skyline light operates nightly. [Chongqing overview](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250514/0a8f03830bcc493190c6b6025e4898b5.html).
+
+**Zhangjiajie / Wulingyuan:** the strongest landscape alternative in this round. UNESCO describes a landscape of sandstone pillars and ravines. Treat it as a dedicated city/park chapter, with weather flexibility and a checked entrance plan. Any Tianmen Mountain or glass-bridge ticket would require its own location and inclusion research; this Wulingyuan source does not verify those products. [UNESCO Wulingyuan](https://whc.unesco.org/en/list/640/).
+
+## Route choices with the same 14-night allowance
+
+| Priority | Illustrative nights | What changes |
+| --- | --- | --- |
+| Keep the history route | Beijing 5 + Xi’an 3 + Shanghai 6 = 14 | Add Shanghai activities and choose one excursion within the existing stay |
+| Add a tea chapter | Beijing 5 + Xi’an 3 + Hangzhou 2 + Shanghai 4 = 14 | Four bases and three internal transfer days; reduces Shanghai time and adds packing/transport |
+| Regional food | Beijing 4 + Chengdu 4 + Shanghai 6 = 14 | Replaces Xi’an; gives up the Terracotta Warriors |
+| Urban night photography | Beijing 4 + Chongqing 4 + Shanghai 6 = 14 | Replaces Xi’an; prioritizes river-city scenery and food |
+| Landscapes | Beijing 4 + Zhangjiajie 4 + Shanghai 6 = 14 | Replaces Xi’an; connections, weather, and park access determine feasibility |
+
+These are **14 nights / 15 local calendar days**, excluding international travel time from Chile. Route order and transfer feasibility have not been established. Chengdu, Chongqing, and Zhangjiajie are alternatives to choose among for this allowance.
+
+## What deserves another research round
+
+Verify a small list of current vintage shops, vinyl stores, and film-related shops with exact branches; this search did not establish enough store-level evidence to recommend names. Develop a food list around the selected neighborhoods and dietary preferences. After the route and month are chosen, check seasonal suitability, holidays, dated transport, admission, filming rules, and complete hotel totals.
+

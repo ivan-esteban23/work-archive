@@ -1,0 +1,70 @@
+[
+  {
+    "width": 390,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "overflow": false
+  },
+  {
+    "locale": "zh-Hans",
+    "fonts": {
+      "fonts": [
+        {
+          "familyName": "Noto Serif CJK SC",
+          "postScriptName": "NotoSerifCJKsc-Regular",
+          "isCustomFont": false,
+          "glyphCount": 10
+        }
+      ]
+    }
+  },
+  {
+    "locale": "zh-Hant",
+    "fonts": {
+      "fonts": [
+        {
+          "familyName": "Noto Serif CJK TC",
+          "postScriptName": "NotoSerifCJKtc-Regular",
+          "isCustomFont": false,
+          "glyphCount": 10
+        }
+      ]
+    }
+  },
+  {
+    "locale": "ja",
+    "fonts": {
+      "fonts": [
+        {
+          "familyName": "Noto Serif CJK JP",
+          "postScriptName": "NotoSerifCJKjp-Regular",
+          "isCustomFont": false,
+          "glyphCount": 13
+        }
+      ]
+    }
+  },
+  {
+    "locale": "ko",
+    "fonts": {
+      "fonts": [
+        {
+          "familyName": "Noto Serif CJK KR",
+          "postScriptName": "NotoSerifCJKkr-Regular",
+          "isCustomFont": false,
+          "glyphCount": 16
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "snapshot_date": "2026-10-08",
+  "sources": {
+    "China — Start Here.md": {
+      "sha256": "1573c5641bd820ab43a08ba920535f2c041149227a13e306955b56459fc17794",
+      "exported_to": "01_Trip_Context_and_Status.txt"
+    },
+    "China — Budget.md": {
+      "sha256": "8be15aa3d73b5be14e7de66ae0c0db1406e05353e1007081fbf6d753ad3bdf9e",
+      "exported_to": "01_Trip_Context_and_Status.txt"
+    },
+    "China — Bookings.md": {
+      "sha256": "fe71295d630e5356ad811f93dbfbbe60c93e14269a76a463b19de19f2fcdfc0d",
+      "exported_to": "01_Trip_Context_and_Status.txt"
+    },
+    "China — Session Recap 2026-10-08.md": {
+      "sha256": "4492d4403ab6643c5ba606b0e24de3c6cada09160cd6e6bd3b77240f65cb56c0",
+      "exported_to": "01_Trip_Context_and_Status.txt"
+    },
+    "China Travel Guide.md": {
+      "sha256": "2d07c2bdd5b65396ddfc4322609e8b0a73bb5c438708e233abf43a75e8824432",
+      "exported_to": "02_Current_Travel_Guide.txt"
+    },
+    "China — Places and Experiences Shortlist.md": {
+      "sha256": "3415fa3d513ae42745b7a4d0a53c647abed2a6b6b1f0ca0e086e47383232bf99",
+      "exported_to": "03_Places_and_Route_Ideas.txt"
+    },
+    "China — More Ideas and Route Choices.md": {
+      "sha256": "afcf4ab1c836c4954090a37f1f280a8509eb6c2c78b3ab27bffcdaa3db7f96e7",
+      "exported_to": "03_Places_and_Route_Ideas.txt"
+    },
+    "China — Preparation Before Choosing Dates.md": {
+      "sha256": "a2a375d52fb0e48669b35210f066ad00d8605fc6f8200cd4477d5cd74ee8bce3",
+      "exported_to": "04_Practical_Preparation.txt"
+    },
+    "China — Research and Sources 2026-10-08.md": {
+      "sha256": "00e163e38cfe90ba7f42a65db65f6aa9c8db0f9eea632d63e54b8d7e538f68be",
+      "exported_to": "05_Evidence_and_Experience_Research.txt"
+    },
+    "China — Klook Experience Research 2026-10-08.md": {
+      "sha256": "9070f583ce56c35cda13c7c9f1d6f3188fb1709a751591f1c17c087e8d107786",
+      "exported_to": "05_Evidence_and_Experience_Research.txt"
+    }
+  },
+  "outputs": {
+    "sources/01_Trip_Context_and_Status.txt": {
+      "sha256": "1e3d4be012f19edf699129795de04dddfe398788a07008fdc4a093644185fe0b",
+      "bytes": 13866
+    },
+    "sources/02_Current_Travel_Guide.txt": {
+      "sha256": "6c6c742f8466832f6ebdd30e51b43a09645c5c087de2fb2923edf231b8db5f7e",
+      "bytes": 11001
+    },
+    "sources/03_Places_and_Route_Ideas.txt": {
+      "sha256": "d106fd893eb0cdc0912c051d2ac8925abf673c015417780697ecddb43d89b6d4",
+      "bytes": 25787
+    },
+    "sources/04_Practical_Preparation.txt": {
+      "sha256": "8dfb69274cb58962f0f48b461adc044fdad519eae8fd32f34401513cee334687",
+      "bytes": 5351
+    },
+    "sources/05_Evidence_and_Experience_Research.txt": {
+      "sha256": "a994963f4948269f834985eb607dd42a851ef82f949afcc4cc2b8561e75fca19",
+      "bytes": 16067
+    },
+    "project-instructions.txt": {
+      "sha256": "9570a637b030ccf97bdc82367238a3f1bf52e6b947bf018413fe7a30003e4269",
+      "bytes": 5728
+    },
+    "first-message.txt": {
+      "sha256": "be5cb2ba35ce6549220a6c25ff0981f653bac8b37a09caf0ac9c11f92662ddd5",
+      "bytes": 702
+    },
+    "README.md": {
+      "sha256": "6c6f6763c9d9da39999438a1b7141ee332344e01d9aec968d8cf2c9e28a03301",
+      "bytes": 3354
+    }
+  }
+}

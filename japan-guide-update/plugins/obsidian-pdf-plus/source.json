@@ -1,0 +1,25 @@
+{
+  "repo": "RyotaUshio/obsidian-pdf-plus",
+  "release": "0.40.31",
+  "url": "https://github.com/RyotaUshio/obsidian-pdf-plus/releases/tag/0.40.31",
+  "manifest": {
+    "id": "pdf-plus",
+    "name": "PDF++",
+    "version": "0.40.31",
+    "minAppVersion": "1.5.8",
+    "description": "The most Obsidian-native PDF annotation tool ever.",
+    "author": "Ryota Ushio",
+    "authorUrl": "https://github.com/RyotaUshio",
+    "fundingUrl": {
+      "GitHub Sponsor": "https://github.com/sponsors/RyotaUshio",
+      "Buy Me a Coffee": "https://www.buymeacoffee.com/ryotaushio",
+      "Ko-fi": "https://ko-fi.com/ryotaushio"
+    },
+    "isDesktopOnly": false
+  },
+  "files": {
+    "manifest.json": "dca50165b74316cdb2b76c92084374997be7949d216b31efcecc2b82ff4a086c",
+    "main.js": "3fd395ca015ff812df8a48e75da0ec7a7ab5a6f59406d375470898b1f72aac93",
+    "styles.css": "4d944d6ea7aa581fdcd8367c9d8ab09f37c5a8c594e336547795f79f2ede4066"
+  }
+}

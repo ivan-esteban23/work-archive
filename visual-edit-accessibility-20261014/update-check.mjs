@@ -1,0 +1,11 @@
+import fs from 'node:fs';import {call,ev,until,ws} from './browser.mjs';
+console.log(await ev("(async()=>({cache:await caches.keys(),saved:favoriteKeys.size,country:countryFilter.value}))()"));
+await ev("(async()=>{const r=await navigator.serviceWorker.getRegistration();await r.update()})()");
+await until("!document.querySelector('#app-update').hidden");
+await ev("document.querySelector('[data-app-open]').click();document.querySelector('#app-update').click()");
+await until("typeof cards!=='undefined' && getComputedStyle(document.documentElement).getPropertyValue('--motion-fast').trim()==='140ms'");
+if(!await ev("favoriteKeys.size===1&&countryFilter.value==='Germany'"))throw Error('Update lost saved state');
+await call('Network.emulateNetworkConditions',{offline:true,latency:0,downloadThroughput:-1,uploadThroughput:-1});await call('Page.reload');await until("typeof cards!=='undefined'&&cards.length===58");
+if(!await ev("favoriteKeys.size===1&&countryFilter.value==='Germany'"))throw Error('Offline reload state');
+await call('Network.emulateNetworkConditions',{offline:false,latency:0,downloadThroughput:-1,uploadThroughput:-1});
+fs.writeFileSync('visual-edit-accessibility-20261014/app-results.json',JSON.stringify({updateButton:true,newVersionLoaded:true,favoriteRetained:true,filterRetained:true,offlineReload:true},null,2));console.log('Real service-worker update and offline reload passed; favorite/filter retained.');ws.close();

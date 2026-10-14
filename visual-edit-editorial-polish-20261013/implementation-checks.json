@@ -1,0 +1,561 @@
+{
+  "layouts": [
+    {
+      "theme": "light",
+      "width": 320,
+      "overflow": false,
+      "editors": 8,
+      "editorColumns": 1,
+      "noteColumns": 1,
+      "outcomesFirst": true,
+      "sourcesLast": true,
+      "stepCount": true,
+      "copySize": 16,
+      "pickPurposeSize": 14
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "overflow": false,
+      "editors": 8,
+      "editorColumns": 1,
+      "noteColumns": 1,
+      "outcomesFirst": true,
+      "sourcesLast": true,
+      "stepCount": true,
+      "copySize": 16,
+      "pickPurposeSize": 14
+    },
+    {
+      "theme": "light",
+      "width": 768,
+      "overflow": false,
+      "editors": 8,
+      "editorColumns": 2,
+      "noteColumns": 1,
+      "outcomesFirst": true,
+      "sourcesLast": true,
+      "stepCount": true,
+      "copySize": 16,
+      "pickPurposeSize": 14
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "overflow": false,
+      "editors": 8,
+      "editorColumns": 4,
+      "noteColumns": 2,
+      "outcomesFirst": true,
+      "sourcesLast": true,
+      "stepCount": true,
+      "copySize": 16,
+      "pickPurposeSize": 14
+    },
+    {
+      "theme": "dark",
+      "width": 320,
+      "overflow": false,
+      "editors": 8,
+      "editorColumns": 1,
+      "noteColumns": 1,
+      "outcomesFirst": true,
+      "sourcesLast": true,
+      "stepCount": true,
+      "copySize": 16,
+      "pickPurposeSize": 14
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "overflow": false,
+      "editors": 8,
+      "editorColumns": 1,
+      "noteColumns": 1,
+      "outcomesFirst": true,
+      "sourcesLast": true,
+      "stepCount": true,
+      "copySize": 16,
+      "pickPurposeSize": 14
+    },
+    {
+      "theme": "dark",
+      "width": 768,
+      "overflow": false,
+      "editors": 8,
+      "editorColumns": 2,
+      "noteColumns": 1,
+      "outcomesFirst": true,
+      "sourcesLast": true,
+      "stepCount": true,
+      "copySize": 16,
+      "pickPurposeSize": 14
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "overflow": false,
+      "editors": 8,
+      "editorColumns": 4,
+      "noteColumns": 2,
+      "outcomesFirst": true,
+      "sourcesLast": true,
+      "stepCount": true,
+      "copySize": 16,
+      "pickPurposeSize": 14
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "width": 320,
+      "overflow": false,
+      "purposes": [
+        "Think in connections",
+        "Observe the outfit",
+        "Read editorial styling",
+        "Add the business context",
+        "Study the portrait",
+        "Think in motion",
+        "Ground the silhouette",
+        "Build the working board"
+      ],
+      "steps": "3 steps",
+      "sources": "Sources",
+      "cards": 52
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "overflow": false,
+      "purposes": [
+        "Think in connections",
+        "Observe the outfit",
+        "Read editorial styling",
+        "Add the business context",
+        "Study the portrait",
+        "Think in motion",
+        "Ground the silhouette",
+        "Build the working board"
+      ],
+      "steps": "3 steps",
+      "sources": "Sources",
+      "cards": 52
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "overflow": false,
+      "purposes": [
+        "Think in connections",
+        "Observe the outfit",
+        "Read editorial styling",
+        "Add the business context",
+        "Study the portrait",
+        "Think in motion",
+        "Ground the silhouette",
+        "Build the working board"
+      ],
+      "steps": "3 steps",
+      "sources": "Sources",
+      "cards": 52
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "overflow": false,
+      "purposes": [
+        "Think in connections",
+        "Observe the outfit",
+        "Read editorial styling",
+        "Add the business context",
+        "Study the portrait",
+        "Think in motion",
+        "Ground the silhouette",
+        "Build the working board"
+      ],
+      "steps": "3 steps",
+      "sources": "Sources",
+      "cards": 52
+    },
+    {
+      "lang": "es",
+      "width": 320,
+      "overflow": false,
+      "purposes": [
+        "Piensa en las conexiones",
+        "Observa el outfit",
+        "Leer estilo editorial",
+        "Agregar el contexto empresarial",
+        "Estudia el retrato",
+        "Pensar en movimiento",
+        "Tierra la silueta",
+        "Construir el tablero de trabajo"
+      ],
+      "steps": "3 pasos",
+      "sources": "Fuentes",
+      "cards": 52
+    },
+    {
+      "lang": "es",
+      "width": 390,
+      "overflow": false,
+      "purposes": [
+        "Piensa en las conexiones",
+        "Observa el outfit",
+        "Leer estilo editorial",
+        "Agregar el contexto empresarial",
+        "Estudia el retrato",
+        "Pensar en movimiento",
+        "Tierra la silueta",
+        "Construir el tablero de trabajo"
+      ],
+      "steps": "3 pasos",
+      "sources": "Fuentes",
+      "cards": 52
+    },
+    {
+      "lang": "es",
+      "width": 768,
+      "overflow": false,
+      "purposes": [
+        "Piensa en las conexiones",
+        "Observa el outfit",
+        "Leer estilo editorial",
+        "Agregar el contexto empresarial",
+        "Estudia el retrato",
+        "Pensar en movimiento",
+        "Tierra la silueta",
+        "Construir el tablero de trabajo"
+      ],
+      "steps": "3 pasos",
+      "sources": "Fuentes",
+      "cards": 52
+    },
+    {
+      "lang": "es",
+      "width": 1440,
+      "overflow": false,
+      "purposes": [
+        "Piensa en las conexiones",
+        "Observa el outfit",
+        "Leer estilo editorial",
+        "Agregar el contexto empresarial",
+        "Estudia el retrato",
+        "Pensar en movimiento",
+        "Tierra la silueta",
+        "Construir el tablero de trabajo"
+      ],
+      "steps": "3 pasos",
+      "sources": "Fuentes",
+      "cards": 52
+    },
+    {
+      "lang": "zh-Hans",
+      "width": 320,
+      "overflow": false,
+      "purposes": [
+        "联系思考",
+        "观察着装",
+        "阅读编辑风格",
+        "添加业务上下文",
+        "研究肖像",
+        "运动中思考",
+        "接地剪影",
+        "构建工作板"
+      ],
+      "steps": "3 个步骤",
+      "sources": "来源",
+      "cards": 52
+    },
+    {
+      "lang": "zh-Hans",
+      "width": 390,
+      "overflow": false,
+      "purposes": [
+        "联系思考",
+        "观察着装",
+        "阅读编辑风格",
+        "添加业务上下文",
+        "研究肖像",
+        "运动中思考",
+        "接地剪影",
+        "构建工作板"
+      ],
+      "steps": "3 个步骤",
+      "sources": "来源",
+      "cards": 52
+    },
+    {
+      "lang": "zh-Hans",
+      "width": 768,
+      "overflow": false,
+      "purposes": [
+        "联系思考",
+        "观察着装",
+        "阅读编辑风格",
+        "添加业务上下文",
+        "研究肖像",
+        "运动中思考",
+        "接地剪影",
+        "构建工作板"
+      ],
+      "steps": "3 个步骤",
+      "sources": "来源",
+      "cards": 52
+    },
+    {
+      "lang": "zh-Hans",
+      "width": 1440,
+      "overflow": false,
+      "purposes": [
+        "联系思考",
+        "观察着装",
+        "阅读编辑风格",
+        "添加业务上下文",
+        "研究肖像",
+        "运动中思考",
+        "接地剪影",
+        "构建工作板"
+      ],
+      "steps": "3 个步骤",
+      "sources": "来源",
+      "cards": 52
+    },
+    {
+      "lang": "zh-Hant",
+      "width": 320,
+      "overflow": false,
+      "purposes": [
+        "聯繫思考",
+        "觀察著裝",
+        "閱讀編輯風格",
+        "新增業務上下文",
+        "研究肖像",
+        "運動中思考",
+        "接地剪影",
+        "建造工作板"
+      ],
+      "steps": "3 個步驟",
+      "sources": "來源",
+      "cards": 52
+    },
+    {
+      "lang": "zh-Hant",
+      "width": 390,
+      "overflow": false,
+      "purposes": [
+        "聯繫思考",
+        "觀察著裝",
+        "閱讀編輯風格",
+        "新增業務上下文",
+        "研究肖像",
+        "運動中思考",
+        "接地剪影",
+        "建造工作板"
+      ],
+      "steps": "3 個步驟",
+      "sources": "來源",
+      "cards": 52
+    },
+    {
+      "lang": "zh-Hant",
+      "width": 768,
+      "overflow": false,
+      "purposes": [
+        "聯繫思考",
+        "觀察著裝",
+        "閱讀編輯風格",
+        "新增業務上下文",
+        "研究肖像",
+        "運動中思考",
+        "接地剪影",
+        "建造工作板"
+      ],
+      "steps": "3 個步驟",
+      "sources": "來源",
+      "cards": 52
+    },
+    {
+      "lang": "zh-Hant",
+      "width": 1440,
+      "overflow": false,
+      "purposes": [
+        "聯繫思考",
+        "觀察著裝",
+        "閱讀編輯風格",
+        "新增業務上下文",
+        "研究肖像",
+        "運動中思考",
+        "接地剪影",
+        "建造工作板"
+      ],
+      "steps": "3 個步驟",
+      "sources": "來源",
+      "cards": 52
+    },
+    {
+      "lang": "ja",
+      "width": 320,
+      "overflow": false,
+      "purposes": [
+        "つながりで考える",
+        "服装を観察する",
+        "エディトリアルスタイリングを読む",
+        "ビジネスコンテキストを追加する",
+        "肖像画を学ぶ",
+        "動きながら考える",
+        "シルエットを接地する",
+        "作業ボードを構築する"
+      ],
+      "steps": "3 ステップ",
+      "sources": "ソース",
+      "cards": 52
+    },
+    {
+      "lang": "ja",
+      "width": 390,
+      "overflow": false,
+      "purposes": [
+        "つながりで考える",
+        "服装を観察する",
+        "エディトリアルスタイリングを読む",
+        "ビジネスコンテキストを追加する",
+        "肖像画を学ぶ",
+        "動きながら考える",
+        "シルエットを接地する",
+        "作業ボードを構築する"
+      ],
+      "steps": "3 ステップ",
+      "sources": "ソース",
+      "cards": 52
+    },
+    {
+      "lang": "ja",
+      "width": 768,
+      "overflow": false,
+      "purposes": [
+        "つながりで考える",
+        "服装を観察する",
+        "エディトリアルスタイリングを読む",
+        "ビジネスコンテキストを追加する",
+        "肖像画を学ぶ",
+        "動きながら考える",
+        "シルエットを接地する",
+        "作業ボードを構築する"
+      ],
+      "steps": "3 ステップ",
+      "sources": "ソース",
+      "cards": 52
+    },
+    {
+      "lang": "ja",
+      "width": 1440,
+      "overflow": false,
+      "purposes": [
+        "つながりで考える",
+        "服装を観察する",
+        "エディトリアルスタイリングを読む",
+        "ビジネスコンテキストを追加する",
+        "肖像画を学ぶ",
+        "動きながら考える",
+        "シルエットを接地する",
+        "作業ボードを構築する"
+      ],
+      "steps": "3 ステップ",
+      "sources": "ソース",
+      "cards": 52
+    },
+    {
+      "lang": "ko",
+      "width": 320,
+      "overflow": false,
+      "purposes": [
+        "연결하여 생각하라",
+        "의상 관찰",
+        "편집 스타일 읽기",
+        "비즈니스 컨텍스트 추가",
+        "초상화를 연구하다",
+        "Think in Motion",
+        "실루엣을 접지하다",
+        "작업판 만들기"
+      ],
+      "steps": "3단계",
+      "sources": "자료",
+      "cards": 52
+    },
+    {
+      "lang": "ko",
+      "width": 390,
+      "overflow": false,
+      "purposes": [
+        "연결하여 생각하라",
+        "의상 관찰",
+        "편집 스타일 읽기",
+        "비즈니스 컨텍스트 추가",
+        "초상화를 연구하다",
+        "Think in Motion",
+        "실루엣을 접지하다",
+        "작업판 만들기"
+      ],
+      "steps": "3단계",
+      "sources": "자료",
+      "cards": 52
+    },
+    {
+      "lang": "ko",
+      "width": 768,
+      "overflow": false,
+      "purposes": [
+        "연결하여 생각하라",
+        "의상 관찰",
+        "편집 스타일 읽기",
+        "비즈니스 컨텍스트 추가",
+        "초상화를 연구하다",
+        "Think in Motion",
+        "실루엣을 접지하다",
+        "작업판 만들기"
+      ],
+      "steps": "3단계",
+      "sources": "자료",
+      "cards": 52
+    },
+    {
+      "lang": "ko",
+      "width": 1440,
+      "overflow": false,
+      "purposes": [
+        "연결하여 생각하라",
+        "의상 관찰",
+        "편집 스타일 읽기",
+        "비즈니스 컨텍스트 추가",
+        "초상화를 연구하다",
+        "Think in Motion",
+        "실루엣을 접지하다",
+        "작업판 만들기"
+      ],
+      "steps": "3단계",
+      "sources": "자료",
+      "cards": 52
+    }
+  ],
+  "keyboard": {
+    "opened": true,
+    "focus": "SUMMARY",
+    "outline": "solid"
+  },
+  "printRestore": {
+    "opened": true,
+    "restored": true
+  },
+  "print": {
+    "bg": "rgb(255, 255, 255)",
+    "route": "block",
+    "size": "11px",
+    "sourceHeight": "0px",
+    "cards": 52
+  },
+  "filter": [
+    "Jing Daily ↗"
+  ]
+}

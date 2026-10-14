@@ -1,0 +1,26 @@
+{
+  "notes": 151,
+  "original_content_files": 171,
+  "images": 10,
+  "readable_attachment_pages": 7,
+  "historical_backups_archived_only": 3,
+  "hidden_files_excluded": 37,
+  "stats": {
+    "wiki_links": 1206,
+    "plugin_blocks": 7,
+    "attachment_pages": 7,
+    "frontmatter_notes": 45,
+    "section_links": 191,
+    "callouts": 6,
+    "wiki_embeds": 10
+  },
+  "issue_counts": {
+    "plugin-block": 7,
+    "csv-attachment": 2,
+    "frontmatter": 45,
+    "section-link": 191,
+    "app-or-local-link": 50,
+    "missing-link": 3
+  },
+  "total_html_pages": 159
+}

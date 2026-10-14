@@ -1,0 +1,52 @@
+import fs from 'node:fs/promises';
+const root='/home/ivanaguilera/Work/visual-edit-ui-improvements-20261013';
+const targets=await (await fetch('http://127.0.0.1:9238/json/list')).json();
+const ws=new WebSocket(targets.find(t=>t.type==='page').webSocketDebuggerUrl);
+await new Promise(r=>ws.addEventListener('open',r,{once:true}));let id=0;const pending=new Map();
+ws.addEventListener('message',e=>{const d=JSON.parse(e.data);if(pending.has(d.id)){pending.get(d.id)(d);pending.delete(d.id)}});
+const call=(method,params={})=>new Promise(r=>{pending.set(++id,r);ws.send(JSON.stringify({id,method,params}))});
+const ev=async expression=>{const d=await call('Runtime.evaluate',{expression,returnByValue:true,awaitPromise:true});if(d.error||d.result.exceptionDetails)throw Error(JSON.stringify(d));return d.result.result.value};
+
+await call('Page.enable');await call('Page.navigate',{url:'file://'+root+'/index.html'});await new Promise(r=>setTimeout(r,900));await ev('document.fonts.ready.then(()=>true)');
+const results={};const assert=(ok,label)=>{if(!ok)throw Error(label)};
+await call('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:false});
+await call('Input.dispatchKeyEvent',{type:'keyDown',key:'Tab',code:'Tab',windowsVirtualKeyCode:9});await call('Input.dispatchKeyEvent',{type:'keyUp',key:'Tab',code:'Tab',windowsVirtualKeyCode:9});
+results.keyboard=await ev("({skip:document.activeElement.classList.contains('skip-link'),outline:getComputedStyle(document.activeElement).outlineStyle})");assert(results.keyboard.skip,'Skip link missing from keyboard navigation');
+results.filters=await ev(`(()=>{const search=document.querySelector('#search');search.value='FASHIONSNAP';search.dispatchEvent(new Event('input'));const matched=[...document.querySelectorAll('.source')].filter(c=>!c.hidden).length;document.querySelector('#reset').click();document.querySelector('[data-filter="Archives & textiles"]').click();const archives=[...document.querySelectorAll('.source')].filter(c=>!c.hidden).length;const hash=location.hash;document.querySelector('#reset').click();const panel=document.querySelector('.filter-panel');const collapsed=!panel.open;panel.querySelector('summary').click();const opened=panel.open;return {matched,archives,hash,collapsed,opened}})()`);
+assert(results.filters.matched>0&&results.filters.archives===6&&results.filters.collapsed&&results.filters.opened,'Filter behavior failed');
+results.print=await ev(`(()=>{const details=[...document.querySelectorAll('.source-details,.research-route')];const original=details.map(d=>d.open);window.dispatchEvent(new Event('beforeprint'));const expanded=details.every(d=>d.open);window.dispatchEvent(new Event('afterprint'));return {expanded,restored:details.every((d,i)=>d.open===original[i])}})()`);assert(results.print.expanded&&results.print.restored,'Print disclosure restoration failed');
+await call('Emulation.setEmulatedMedia',{media:'print',features:[{name:'prefers-color-scheme',value:'dark'}]});
+const printStyle=await ev(`(()=>{const c=document.querySelector('.source');return {bg:getComputedStyle(document.body).backgroundColor,tools:getComputedStyle(document.querySelector('.directory-tools')).display,save:getComputedStyle(document.querySelector('.favorite-source')).display,cards:[...document.querySelectorAll('.source')].filter(c=>getComputedStyle(c).display!=='none').length}})()`);results.print.styles=printStyle;assert(printStyle.bg==='rgb(255, 255, 255)'&&printStyle.tools==='none'&&printStyle.save==='none'&&printStyle.cards===52,'Print styles failed');
+await call('Emulation.setEmulatedMedia',{media:'screen',features:[{name:'prefers-color-scheme',value:'light'}]});
+await ev(`Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async()=>{throw Error('QA clipboard unavailable')}}});document.querySelector('.copy-source').click()`);
+await new Promise(r=>setTimeout(r,100));results.copy=await ev("({open:document.querySelector('#copy-dialog').open,value:document.querySelector('#copy-value').value,focused:document.activeElement.id})");assert(results.copy.open&&results.copy.value==='https://www.are.na/'&&results.copy.focused==='copy-value','Clipboard fallback failed');await ev("document.querySelector('#copy-dialog').close();document.querySelector('#share-view').click()");await new Promise(r=>setTimeout(r,100));results.share=await ev("document.querySelector('#copy-value').value");assert(results.share.startsWith('https://visual-edit-ivan.greymelon66.chatgpt.site/'),'Share URL invalid');await ev("document.querySelector('#copy-dialog').close()");
+await ev("document.querySelector('.favorite-source').click()");results.exports=[];
+for(const lang of ['en','es','zh-Hans','zh-Hant','ja','ko']){const result=await ev(`(()=>{setLocale('${lang}',false);const md=buildFavoriteMarkdown();return {lang:document.documentElement.lang,name:md.includes('Are.na'),date:md.includes('2026-10-13'),url:md.includes('https://www.are.na/'),count:document.querySelector('#favorites-count').textContent}})()`);results.exports.push(result);assert(result.lang===lang&&result.name&&result.date&&result.url&&result.count==='1','Translated export failed');}
+await ev("setLocale('en',false)");await fs.mkdir(root+'/qa-downloads',{recursive:true});
+await call('Browser.setDownloadBehavior',{behavior:'allow',downloadPath:root+'/qa-downloads',eventsEnabled:true});await ev("document.querySelector('#export-favorites').click()");await new Promise(r=>setTimeout(r,700));const markdown=await fs.readFile(root+'/qa-downloads/The Visual Edit - My source collection.md','utf8');results.download=markdown.includes('Are.na');assert(results.download,'Markdown download failed');
+await ev("document.querySelector('.favorite-source').click();document.querySelector('#reset').click()");
+
+results.access=[];
+for(const lang of ['en','es','zh-Hans','zh-Hant','ja','ko'])for(const [value,count] of [['Open',21],['Partial',22],['Paid',2],['Not verified',7]]){
+ const result=await ev(`(()=>{setLocale('${lang}',false);accessFilter.value='${value}';accessFilter.dispatchEvent(new Event('change'));return {locale:document.documentElement.lang,value:accessFilter.value,count:cards.filter(c=>!c.hidden).length,chip:document.querySelector('[data-remove-filter="access"]').textContent,hash:location.hash}})()`);
+ assert(result.count===count&&result.value===value&&result.hash.includes('access='),'Access filter or translated value failed');results.access.push(result);
+}
+await ev("setLocale('en',false);document.querySelector('#reset').click()");
+results.chips=await ev(`(()=>{region.value='Japan';region.dispatchEvent(new Event('change'));accessFilter.value='Open';accessFilter.dispatchEvent(new Event('change'));document.querySelector('[data-filter="Fashion references"]').click();search.value='FASHIONSNAP';search.dispatchEvent(new Event('input'));const before=document.querySelectorAll('.filter-chip').length;document.querySelector('[data-remove-filter="region"]').click();const after=document.querySelectorAll('.filter-chip').length;return {before,after,region:region.value,access:accessFilter.value,query:search.value,category,focus:document.activeElement.className}})()`);assert(results.chips.before===4&&results.chips.after===3&&results.chips.region==='All'&&results.chips.access==='Open'&&results.chips.query==='FASHIONSNAP'&&results.chips.category==='Fashion references'&&results.chips.focus==='filter-chip','Independent chip removal failed');
+await ev("history.replaceState(null,'','#directory?access=Paid&region=Global');restoreView()");results.restoredAccess=await ev("({access:accessFilter.value,visible:cards.filter(c=>!c.hidden).length,region:region.value})");assert(results.restoredAccess.access==='Paid'&&results.restoredAccess.visible===2,'Shared access restoration failed');
+await ev("history.replaceState(null,'','#directory?access=invalid');restoreView()");assert(await ev("accessFilter.value==='All'"),'Invalid access value not rejected');
+await ev("document.querySelector('#reset').click()");results.layouts=[];
+for(const width of [390,768,1440])for(const theme of ['light','dark']){
+ await call('Emulation.setDeviceMetricsOverride',{width,height:844,deviceScaleFactor:1,mobile:false});await call('Emulation.setEmulatedMedia',{features:[{name:'prefers-color-scheme',value:theme},{name:'prefers-reduced-motion',value:'reduce'}]});await new Promise(r=>setTimeout(r,100));
+ const state=await ev(`(()=>{cards[12].scrollIntoView({block:'start',behavior:'instant'});const bar=document.querySelector('.search-bar').getBoundingClientRect();return {overflow:document.documentElement.scrollWidth>innerWidth,top:bar.top,height:bar.height,columns:getComputedStyle(document.querySelector('.grid')).gridTemplateColumns.split(' ').length}})()`);
+ assert(!state.overflow&&Math.abs(state.top)<1&&state.height<100,'Compact sticky search layout failed');results.layouts.push({width,theme,...state});
+ await ev("document.querySelector('#filter-toggle').click()");await new Promise(r=>setTimeout(r,80));
+ const focus=await ev("({id:document.activeElement.id,top:panel.getBoundingClientRect().top,bottom:document.querySelector('.search-bar').getBoundingClientRect().bottom,open:panel.open})");assert(focus.id==='region'&&focus.open&&focus.top>=focus.bottom-1,'Filters button failed or obscured panel');
+ const screenshot=await call('Page.captureScreenshot',{format:'png'});await fs.writeFile(root+`/filters-${width}-${theme}.png`,Buffer.from(screenshot.result.data,'base64'));
+}
+results.languageLayouts=[];
+for(const locale of ['en','es','zh-Hans','zh-Hant','ja','ko'])for(const width of [390,768,1440]){
+ await call('Emulation.setDeviceMetricsOverride',{width,height:844,deviceScaleFactor:1,mobile:false});await ev(`setLocale('${locale}',false);region.value='Japan';accessFilter.value='Not verified';search.value='photo';update()`);await new Promise(r=>setTimeout(r,60));const overflow=await ev('document.documentElement.scrollWidth>innerWidth');assert(!overflow,'Translated filter chips overflow');results.languageLayouts.push({locale,width,overflow});
+}
+await ev("setLocale('en',false);document.querySelector('#reset').click()");
+await fs.writeFile(root+'/implementation-checks.json',JSON.stringify(results,null,2));console.log(JSON.stringify({accessCases:results.access.length,layouts:results.layouts.length,languageLayouts:results.languageLayouts.length,passed:true}));ws.send(JSON.stringify({id:++id,method:'Browser.close'}));await new Promise(r=>setTimeout(r,200));ws.close();

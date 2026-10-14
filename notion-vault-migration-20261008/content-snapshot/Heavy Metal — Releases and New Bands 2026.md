@@ -1,0 +1,31 @@
+[[Heavy Metal — Start Here]] · [[Music Prompt Library]]
+
+# Heavy Metal — Releases and New Bands 2026
+
+**Checked through 8 October 2026.** A small discovery shortlist, not a comprehensive release census or quality ranking. Responsible artist pages support identity, format, date, and self-description; their promotional praise does not establish independent acclaim.
+
+## Released full-lengths
+
+| Artist | Album | Release date | Discovery category | Evidence / listening |
+| --- | --- | --- | --- | --- |
+| Chariots Overdrive | The End of Antiquity | 2026-04-03 | Debut album; traditional/epic-power influences | [Chariots Overdrive — The End of Antiquity](https://chariotsoverdrive.bandcamp.com/album/the-end-of-antiquity) |
+| Telomyras | Duskfall | 2026-05-08 | Debut full-length; traditional/progressive/extreme crossover | [Telomyras — Duskfall](https://telomyras.bandcamp.com/album/duskfall) |
+| Kerrigan | Wayfarer | 2026-03-27 | Modern traditional act; follows Bloodmoon (2023) | [Kerrigan — Wayfarer](https://kerriganheavymetal.bandcamp.com/album/wayfarer) |
+
+## Emerging bands
+
+Here emerging means **debut/early-discography**, not verified rising popularity. Chariots Overdrive and Telomyras are debut-album leads; formation years have not been established in this starter. Chariots Overdrive describes Chinese origins and a current Atlanta base, with Chinese historical/mythic themes. Telomyras is based in Seattle and has an earlier 2023 EP. Both have source pages above; experienced-member backgrounds need further research.
+
+Kerrigan is a contemporary discovery rather than a debut lead. The artist page lists an earlier full-length, Bloodmoon, in 2023. Exact career history and independent reviews remain to be developed.
+
+## Where to begin
+
+Try Chariots Overdrive for the project’s traditional/epic route, Kerrigan for another modern traditional comparison, and Telomyras for a labeled hybrid contrast. This is an editorial exploration sequence based on scope and metadata, not a claim that any is the best release or that either of us listened.
+
+## Upcoming, EPs, and reissues
+
+No verified upcoming release has been entered yet. The shortlist’s empty upcoming section does not prove there are none. No 2026 EP or reissue has been entered; keep those formats separate as research expands. A historical record newly appearing on Bandcamp is not automatically an original 2026 album.
+
+## Refresh procedure
+
+Use the actual current year and cutoff date. Reopen responsible pages, confirm full release rather than preorder/advance tracks, verify original-versus-edition dates, and add independent appraisal. Expand geography and smaller-label coverage before preparing a best-so-far ranking. No monitoring or release alerts are configured.

@@ -1,0 +1,11 @@
+{
+  "mobilePanel": true,
+  "selectedStates": true,
+  "emptyResults": true,
+  "reset": true,
+  "deepLink": true,
+  "stickyFocus": true,
+  "tabFocus": true,
+  "desktopFilters": true,
+  "landscape": true
+}

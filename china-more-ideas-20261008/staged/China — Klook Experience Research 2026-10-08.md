@@ -1,0 +1,29 @@
+# China — Klook Experience Research · 8 October 2026
+
+[[China — Start Here|Dashboard]] · [[China — More Ideas and Route Choices|Route ideas]]
+
+**Exploratory Klook searches in USD, checked 8 October 2026.** No travel date or participant quantity was selected. These displayed amounts are search results, not exact-date quotes or final booking totals. The connector did not establish the pricing unit: do not interpret any amount as per person or per group. None is booked.
+
+| Klook activity | Connector search display (USD; unit unresolved) | Potential fit |
+| --- | --- | --- |
+| [Hangzhou Longjing Tea Plantation Half-Day Interactive Tour](https://www.klook.com/en-US/activity/140299-hangzhou-longjing-village-green-tea-picking-making-tasting/?utm_source=openai&utm_medium=platform-openai&utm_term=c3b4261a-646d-45d8-935f-d7365d5c7b14) | US$ 27.29 | Hands-on Longjing tea if Hangzhou is selected |
+| [Authentic Local Food Tour in Central Shanghai](https://www.klook.com/en-US/activity/115892-authentic-local-food-tour-in-central-shanghai/?utm_source=openai&utm_medium=platform-openai&utm_term=62424915-65be-451c-bf50-7e6c03cad158) | US$ 83.29 (From) | A guided introduction to Shanghai food |
+| [Authentic Soup Dumpling Making Class - Eatwith](https://www.klook.com/en-US/activity/91861-tangbao-cooking-class-shanghai/?utm_source=openai&utm_medium=platform-openai&utm_term=c13ca3b5-bc1b-4e79-acd6-5a250cad8edf) | US$ 81.65 | Learn to make and eat xiaolongbao in Shanghai |
+| [Zhujiajiao Water Town Half-Day Tour from Shanghai](https://www.klook.com/en-US/activity/119103-half-day-tour-to-zhujiajiao-a-water-town/?utm_source=openai&utm_medium=platform-openai&utm_term=62424915-65be-451c-bf50-7e6c03cad158) | US$ 81.85 | A guided water-town outing from Shanghai |
+
+## Provider-page checks and remaining questions
+
+**[Hangzhou Longjing Tea Plantation Half-Day Interactive Tour](https://www.klook.com/en-US/activity/140299-hangzhou-longjing-village-green-tea-picking-making-tasting/?utm_source=openai&utm_medium=platform-openai&utm_term=c3b4261a-646d-45d8-935f-d7365d5c7b14):** page describes a two-hour Hangzhou meet-up with English among the guide languages, a plantation walk, picking, hand-frying, and tasting. The meeting point is Longjing Village Shili Langdang Northeast Gate; return is self-arranged. Transport, meals, accommodation, and extra fees are excluded. Costume/photos belong only to the selected shooting package. Displayed refund rule requires at least 24 hours before the activity date, destination local time. Confirm seasonal picking, the chosen language, meeting instructions, package unit, and exact dated terms before selecting it. This is not a tour departing Shanghai.
+
+**[Authentic Local Food Tour in Central Shanghai](https://www.klook.com/en-US/activity/115892-authentic-local-food-tour-in-central-shanghai/?utm_source=openai&utm_medium=platform-openai&utm_term=62424915-65be-451c-bf50-7e6c03cad158):** page lists English/Chinese/Korean and describes a central-Shanghai food walk with more than 12 local tastes, including dumplings, noodles, and tea. The page displayed **From US$ 83.25**, versus **US$ 83.29** in the connector. Exact duration, meeting address, food/drink inclusions, dietary suitability, minimum participants, and cancellation terms were not established in the accessible package details. Keep it as a candidate rather than a complete quote.
+
+**[Authentic Soup Dumpling Making Class - Eatwith](https://www.klook.com/en-US/activity/91861-tangbao-cooking-class-shanghai/?utm_source=openai&utm_medium=platform-openai&utm_term=c13ca3b5-bc1b-4e79-acd6-5a250cad8edf):** page offers Chinese/English and group/private variants in Huangpu, with an alley venue on Huaihai Middle Road. The selected package label says **2.5 hours**, while descriptive text says two hours. It describes making and eating the dumplings; clarify actual duration, final meeting address, ingredients, package capacity/minimum, and cancellation policy. Page display was **US$ 89.80**, compared with connector **US$ 81.65**. Do not assume they are equivalent package/date quotes.
+
+**[Zhujiajiao Water Town Half-Day Tour from Shanghai](https://www.klook.com/en-US/activity/119103-half-day-tour-to-zhujiajiao-a-water-town/?utm_source=openai&utm_medium=platform-openai&utm_term=62424915-65be-451c-bf50-7e6c03cad158):** page lists hotel pickup from downtown Shanghai, language variants including English, and a walk around Zhujiajiao. The headline says three hours; the itinerary shows 09:00 departure, 10:00 arrival, and 12:00 departure back to Shanghai, so the return arrival time and total duration need clarification. Page display was **US$ 81.79**, versus connector **US$ 81.85**. Exact pickup zone, boat/garden admission, meals, guide variant, pricing unit, and cancellation policy remain unresolved. Do not infer a boat ride from a water-town title.
+
+## Results left out of the shortlist
+
+A West Lake/Lingyin title (activity 154264) had a summary about Leifeng Pagoda and a Song Dynasty show without establishing Lingyin. An Xixi/Longjing title (140322) had a summary covering Xixi without establishing the tea activity. These were excluded as itinerary mismatches. A West Lake half-day tour (152776) was described as Chinese-guided, so it was not prioritized for an English-language shortlist. A multi-stop Suzhou/Zhouzhuang package would require departure and pacing checks. Another cooking activity (222032) had a connector result but its provider page could not be retrieved in this session; it is not used as a verified alternative here.
+
+Before choosing any experience, select date, travelers, language, and package; record currency, pricing unit, quantity, taxes/extras, complete total, meeting/return points, and current cancellation wording. Page displays and search amounts can differ and do not prove future availability. The booking ledger stays empty until a reservation is supplied.
+

@@ -1,0 +1,35 @@
+{
+  "buttons": 52,
+  "saved": true,
+  "stored": true,
+  "visible": 1,
+  "url": "https://www.are.na/",
+  "persisted": true,
+  "exports": [
+    {
+      "lang": "en",
+      "valid": true
+    },
+    {
+      "lang": "es",
+      "valid": true
+    },
+    {
+      "lang": "zh-Hans",
+      "valid": true
+    },
+    {
+      "lang": "zh-Hant",
+      "valid": true
+    },
+    {
+      "lang": "ja",
+      "valid": true
+    },
+    {
+      "lang": "ko",
+      "valid": true
+    }
+  ],
+  "remove": true
+}

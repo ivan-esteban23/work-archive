@@ -1,0 +1,111 @@
+# China Trip — Evidence and Paid Experience Research
+
+Snapshot: 8 October 2026. Exported from the China Obsidian notes. Internal source references point to other uploaded files, not live links. External source and Amap URLs are retained. Research dates describe when claims were checked; this export does not refresh provider facts.
+
+
+---
+
+Original note: China — Research and Sources 2026-10-08.md
+
+# China — Research and Sources · 8 October 2026
+
+Dashboard [source: 01_Trip_Context_and_Status.txt; note: China — Start Here] · Guide [source: 02_Current_Travel_Guide.txt; note: China Travel Guide]
+
+Sources below were opened and read on **8 October 2026**. Draft routes and neighborhood choices are planning judgments, not provider-confirmed itineraries. No date-specific hotel, flight, rail, or tour searches were run.
+
+| Publisher / page | Publication or update | Supports | Limitations |
+| --- | --- | --- | --- |
+| [Chinese Embassy in Chile — visa-free extension](https://cl.china-embassy.gov.cn/esp/lsfw/lsxw/202511/t20251104_11746368.htm) | 4 Nov 2025 | Chilean ordinary-passport qualifying visits, 30-day maximum, through 31 Dec 2026 Beijing time | Does not establish 2027 eligibility; recheck actual passport and date |
+| [Ministry of Commerce / State Council — practical guide](https://english.www.gov.cn/2025special/bizexpatsinchina2025) | 2025 edition | Hotel registration, mobile payments, practical transport procedures | Visa section is older than embassy extension; payment functionality not personally tested |
+| [China Railway — English FAQ](https://www.12306.cn/en/faq.html?item=2) | Not stated | Real-name tickets using foreign passports; ID for boarding | Exact route services, sale dates, and fares not checked |
+| [Beijing municipal government — major sights](https://english.beijing.gov.cn/travellinginbeijing/mustvisitsites/) | Directory; mixed dates | Palace Museum, Temple of Heaven, Summer Palace | Not a reservation calendar |
+| [Beijing municipal government — Mutianyu](https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260325_4566115.html) | URL dated 25 Mar 2026 | Huairou location, public transport connection, cable-car facilities | Current fares, transfer operations, and packages need checking |
+| [Emperor Qinshihuang’s Mausoleum Site Museum — visitor/ticket instructions](https://www.bmy.com.cn/jingtai/bmyweb/ticketing.html) | Page includes 21 Apr 2023 text; live content checked today | Displayed CNY 120 adult admission; real-name reservation; original ID | Mixed-language content; equipment restriction ambiguous; English navigation links reseller despite text naming official channels; verify purchase route |
+| [Shanghai official tourism website — Bund](https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/) | Not stated | Riverfront heritage architecture and evening exploration | Does not verify lighting schedule, businesses, or weather |
+| [State Council / Xinhua — holiday tourism](https://english.www.gov.cn/news/202609/22/content_WS6ab22197c6d00ca5f9a0d4fc.html) | 22 Sep 2026 | 2026 National Day dates and travel-demand context | Future years need their own schedules |
+| [UK FCDO — China safety and security](https://www.gov.uk/foreign-travel-advice/china/safety-and-security) | Live guidance; checked today | General internet restrictions | Used for connectivity context, not Chilean entry eligibility |
+
+## Research gaps
+
+Confirm year, season, travelers, passport, usable leave, and China budget. Then research climate by chosen city, actual holidays, flight routes and transit permissions, hotel full-stay totals, internal transport, attraction reservations, and a verified café/food/shopping shortlist. Chengdu, Chongqing, and Zhangjiajie now have preliminary place ideas in China — More Ideas and Route Choices [source: 03_Places_and_Route_Ideas.txt; note: China — More Ideas and Route Choices]; detailed access and dated activity checks remain open.
+
+No guarantee of future weather, ticket availability, business access, roaming behaviour, or Chilean-card payment success is established by this draft.
+
+## Follow-up: places and experiences
+
+Added China — Places and Experiences Shortlist [source: 03_Places_and_Route_Ideas.txt; note: China — Places and Experiences Shortlist] on 8 October 2026. The following pages were opened and read for this addition.
+
+| Source | Page date | Supports / limits |
+| --- | --- | --- |
+| [Beijing municipal leisure zones](https://english.beijing.gov.cn/latest/news/202509/t20250904_4191116.html) | 4 Sep 2025 | Yangmeizhu cultural browsing and 798 art/design/cafés; individual businesses need checking |
+| [Visit Beijing — Maliandao](https://english.visitbeijing.com.cn/article/47ONpUjZFzR) | 19 Jun 2017 | Tea-shopping district; historic counts and business access not adopted |
+| [Palace Museum visitor page](https://intl.dpm.org.cn/visit.html?l=en) | Live page, no update date shown | Monday closure exceptions, no same-day sales, passport booking, seasonal standard tariffs; exact-date access not checked |
+| [Xi’an municipal landmark guide](https://en.xa.gov.cn/MediaCenter/News/1691691491099529217.html) | Not recorded | City-wall views, food streets and dish descriptions; current fares/vendors not checked |
+| [Shanghai official M50 listing](https://www.meet-in-shanghai.net/cn/industry-tours/m50-creative-park-137682/) | No update date shown | Industrial/visual-art character; gallery hours vary |
+| [Shanghai shopping guide](https://www.meet-in-shanghai.net/en/guide/shopping-in-shanghai-a-selection-of-the-best-neighborhoods-to-find-treasures-726529/) | No exact date recorded | Tianzifang/Xintiandi browsing; no individual store guarantees |
+| [Shanghai food and coffee guide](https://www.meet-in-shanghai.net/en/guide/taste-your-way-through-shanghai-food-coffee-and-vibrant-neighborhoods-907063/) | 21 Jul 2026 | Four named food/café candidates and listed addresses; no hours, prices or current operational test |
+
+Other pages read but not relied on for new facts included Shanghai’s Shaanxi travel feature and Beijing’s February 2025 food overview. A February 2026 Beijing magazine PDF could not be retrieved; it is not used as supporting evidence. No tour provider or business was contacted. Chinese search names are navigation aids, not saved/verified map pins.
+
+## Amap links — 8 October 2026
+
+Added 16 city-scoped Amap search links beside all shortlist locations, plus iPhone/Android app-store links in the shortlist and preparation note. The user reports using both platforms.
+
+- [Amap URI search documentation](https://lbs.amap.com/api/uri-api/guide/search/search?type=spa), updated 20 August 2024, opened today: HTTPS search endpoint, keyword/city parameters, mobile/PC support, and optional mobile app handoff.
+- [AMap Global — Chile App Store](https://apps.apple.com/cl/app/amap-global/id461703208), opened today: app identity and iPhone distribution.
+- [AMap Global — Google Play](https://play.google.com/store/apps/details?id=com.autonavi.minimap), official listing opened during the Amap discussion: Android distribution.
+
+Validated every generated URL’s host, parameters, encoding, keyword, and city. These links are constructed searches, not fetched Amap POI/share IDs. A representative Bund search could not be retrieved by the web research tool. No phone/browser-to-app handoff, live search result, saved favorite, or offline feature was tested. Manner’s search requires matching the exact branch to the listed location; museum searches require choosing the visitor entrance.
+
+## Further ideas — 8 October 2026
+
+Created China — More Ideas and Route Choices [source: 03_Places_and_Route_Ideas.txt; note: China — More Ideas and Route Choices] using these opened pages. Older tourism features supply place context; no historical transport times, visa advice, or future operating schedules were adopted. Specific venues, ticket dates, and entrances still require checks.
+
+- [Jingshan source](https://english.beijing.gov.cn/foreignersinbeijing/beijingthroughforeignerslens/202401/t20240105_3526514.html): place descriptions supporting the new idea note.
+- [Market source](https://english.beijing.gov.cn/consuminginbeijing/onedayinbeijing/sleeplessinbeijing/updatesofnighttimeconsumption/202504/t20250428_4076854.html): place descriptions supporting the new idea note.
+- [Walk source](https://english.shanghai.gov.cn/en-FAQs-StudyinShanghai/20251124/9f1658ae899240d19c52784bddfed782.html): place descriptions supporting the new idea note.
+- [Suzhou source](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250521/2cd76b748ca1433c98044118867371c5.html): place descriptions supporting the new idea note.
+- [Gardens source](https://whc.unesco.org/en/list/813/): place descriptions supporting the new idea note.
+- [Hangzhou source](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250515/fc5c158cf2b141dc8bbc8e7e2fb63256.html): place descriptions supporting the new idea note.
+- [Water source](https://english.shanghai.gov.cn/en-HeritageZones/20240827/66903de4b44047a5aeb1284a2148fc09.html): place descriptions supporting the new idea note.
+- [Chengdu source](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250421/fa4666cf783d46f48fc6edd4cf9dcf95.html): place descriptions supporting the new idea note.
+- [Chongqing source](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250514/0a8f03830bcc493190c6b6025e4898b5.html): place descriptions supporting the new idea note.
+- [Nature source](https://whc.unesco.org/en/list/640/): place descriptions supporting the new idea note.
+
+Klook searches in USD and provider-page reads are documented separately in China — Klook Experience Research 2026-10-08 [source: 05_Evidence_and_Experience_Research.txt; note: China — Klook Experience Research 2026-10-08]. Search prices and page displays differed; no dates or quantities were selected. Several ambiguous titles/summaries were excluded.
+
+
+---
+
+Original note: China — Klook Experience Research 2026-10-08.md
+
+# China — Klook Experience Research · 8 October 2026
+
+Dashboard [source: 01_Trip_Context_and_Status.txt; note: China — Start Here] · Route ideas [source: 03_Places_and_Route_Ideas.txt; note: China — More Ideas and Route Choices]
+
+**Exploratory Klook searches in USD, checked 8 October 2026.** No travel date or participant quantity was selected. These displayed amounts are search results, not exact-date quotes or final booking totals. The connector did not establish the pricing unit: do not interpret any amount as per person or per group. None is booked.
+
+| Klook activity | Connector search display (USD; unit unresolved) | Potential fit |
+| --- | --- | --- |
+| [Hangzhou Longjing Tea Plantation Half-Day Interactive Tour](https://www.klook.com/en-US/activity/140299-hangzhou-longjing-village-green-tea-picking-making-tasting/?utm_source=openai&utm_medium=platform-openai&utm_term=c3b4261a-646d-45d8-935f-d7365d5c7b14) | US$ 27.29 | Hands-on Longjing tea if Hangzhou is selected |
+| [Authentic Local Food Tour in Central Shanghai](https://www.klook.com/en-US/activity/115892-authentic-local-food-tour-in-central-shanghai/?utm_source=openai&utm_medium=platform-openai&utm_term=62424915-65be-451c-bf50-7e6c03cad158) | US$ 83.29 (From) | A guided introduction to Shanghai food |
+| [Authentic Soup Dumpling Making Class - Eatwith](https://www.klook.com/en-US/activity/91861-tangbao-cooking-class-shanghai/?utm_source=openai&utm_medium=platform-openai&utm_term=c13ca3b5-bc1b-4e79-acd6-5a250cad8edf) | US$ 81.65 | Learn to make and eat xiaolongbao in Shanghai |
+| [Zhujiajiao Water Town Half-Day Tour from Shanghai](https://www.klook.com/en-US/activity/119103-half-day-tour-to-zhujiajiao-a-water-town/?utm_source=openai&utm_medium=platform-openai&utm_term=62424915-65be-451c-bf50-7e6c03cad158) | US$ 81.85 | A guided water-town outing from Shanghai |
+
+## Provider-page checks and remaining questions
+
+**[Hangzhou Longjing Tea Plantation Half-Day Interactive Tour](https://www.klook.com/en-US/activity/140299-hangzhou-longjing-village-green-tea-picking-making-tasting/?utm_source=openai&utm_medium=platform-openai&utm_term=c3b4261a-646d-45d8-935f-d7365d5c7b14):** page describes a two-hour Hangzhou meet-up with English among the guide languages, a plantation walk, picking, hand-frying, and tasting. The meeting point is Longjing Village Shili Langdang Northeast Gate; return is self-arranged. Transport, meals, accommodation, and extra fees are excluded. Costume/photos belong only to the selected shooting package. Displayed refund rule requires at least 24 hours before the activity date, destination local time. Confirm seasonal picking, the chosen language, meeting instructions, package unit, and exact dated terms before selecting it. This is not a tour departing Shanghai.
+
+**[Authentic Local Food Tour in Central Shanghai](https://www.klook.com/en-US/activity/115892-authentic-local-food-tour-in-central-shanghai/?utm_source=openai&utm_medium=platform-openai&utm_term=62424915-65be-451c-bf50-7e6c03cad158):** page lists English/Chinese/Korean and describes a central-Shanghai food walk with more than 12 local tastes, including dumplings, noodles, and tea. The page displayed **From US$ 83.25**, versus **US$ 83.29** in the connector. Exact duration, meeting address, food/drink inclusions, dietary suitability, minimum participants, and cancellation terms were not established in the accessible package details. Keep it as a candidate rather than a complete quote.
+
+**[Authentic Soup Dumpling Making Class - Eatwith](https://www.klook.com/en-US/activity/91861-tangbao-cooking-class-shanghai/?utm_source=openai&utm_medium=platform-openai&utm_term=c13ca3b5-bc1b-4e79-acd6-5a250cad8edf):** page offers Chinese/English and group/private variants in Huangpu, with an alley venue on Huaihai Middle Road. The selected package label says **2.5 hours**, while descriptive text says two hours. It describes making and eating the dumplings; clarify actual duration, final meeting address, ingredients, package capacity/minimum, and cancellation policy. Page display was **US$ 89.80**, compared with connector **US$ 81.65**. Do not assume they are equivalent package/date quotes.
+
+**[Zhujiajiao Water Town Half-Day Tour from Shanghai](https://www.klook.com/en-US/activity/119103-half-day-tour-to-zhujiajiao-a-water-town/?utm_source=openai&utm_medium=platform-openai&utm_term=62424915-65be-451c-bf50-7e6c03cad158):** page lists hotel pickup from downtown Shanghai, language variants including English, and a walk around Zhujiajiao. The headline says three hours; the itinerary shows 09:00 departure, 10:00 arrival, and 12:00 departure back to Shanghai, so the return arrival time and total duration need clarification. Page display was **US$ 81.79**, versus connector **US$ 81.85**. Exact pickup zone, boat/garden admission, meals, guide variant, pricing unit, and cancellation policy remain unresolved. Do not infer a boat ride from a water-town title.
+
+## Results left out of the shortlist
+
+A West Lake/Lingyin title (activity 154264) had a summary about Leifeng Pagoda and a Song Dynasty show without establishing Lingyin. An Xixi/Longjing title (140322) had a summary covering Xixi without establishing the tea activity. These were excluded as itinerary mismatches. A West Lake half-day tour (152776) was described as Chinese-guided, so it was not prioritized for an English-language shortlist. A multi-stop Suzhou/Zhouzhuang package would require departure and pacing checks. Another cooking activity (222032) had a connector result but its provider page could not be retrieved in this session; it is not used as a verified alternative here.
+
+Before choosing any experience, select date, travelers, language, and package; record currency, pricing unit, quantity, taxes/extras, complete total, meeting/return points, and current cancellation wording. Page displays and search amounts can differ and do not prove future availability. The booking ledger stays empty until a reservation is supplied.
+
+

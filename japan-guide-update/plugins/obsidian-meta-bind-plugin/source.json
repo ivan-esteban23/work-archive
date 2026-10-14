@@ -1,0 +1,22 @@
+{
+  "repo": "mProjectsCode/obsidian-meta-bind-plugin",
+  "release": "1.5.1",
+  "url": "https://github.com/mProjectsCode/obsidian-meta-bind-plugin/releases/tag/1.5.1",
+  "manifest": {
+    "id": "obsidian-meta-bind-plugin",
+    "name": "Meta Bind",
+    "version": "1.5.1",
+    "minAppVersion": "1.13.1",
+    "description": "Make your notes interactive with inline input fields, metadata displays, and buttons.",
+    "author": "Moritz Jung",
+    "authorUrl": "https://www.moritzjung.dev/",
+    "fundingUrl": "https://github.com/sponsors/mProjectsCode",
+    "helpUrl": "https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/",
+    "isDesktopOnly": false
+  },
+  "files": {
+    "manifest.json": "3c1dff1e36a17811851f3c7446b875cf901288b73261caea61bc0d440d3c4325",
+    "main.js": "d328bfaa4d1f48259074b28f249a9f911ea34327e7e1123d8a1f2afc3e9784b3",
+    "styles.css": "97069e183224c55428fe0b983d42435aa2cd4ac14d0f50186138b4751ad55d61"
+  }
+}

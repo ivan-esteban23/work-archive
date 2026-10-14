@@ -1,0 +1,26 @@
+import fs from 'node:fs';
+import {call,ev,until,shot,sleep,ws} from './browser.mjs';
+const assert=(v,m)=>{if(!v)throw Error(m)};
+await call('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
+await call('Page.reload',{ignoreCache:true});await until("typeof cards!=='undefined'&&cards.length===58");
+await ev("setLocale('en',false);document.querySelector('#reset').click();document.querySelector('#search').scrollIntoView();document.querySelector('#filter-toggle').click()");await sleep(200);
+assert(await ev("document.querySelector('#filter-panel').open && document.activeElement.id==='category-filter'"),'Mobile panel focus');
+await ev("document.querySelector('#category-filter').value='Art & Culture';document.querySelector('#category-filter').dispatchEvent(new Event('change'))");
+// Select a real category from the menu, independently of localized labels.
+await ev("const cf=document.querySelector('#category-filter');cf.selectedIndex=1;cf.dispatchEvent(new Event('change'))");
+assert(await ev("category!=='All'&&document.querySelector('#category-filter').classList.contains('is-active')&&!document.querySelector('#reset').disabled&&!document.querySelector('#filter-chips').hidden"),'Selected state');
+await ev("document.querySelector('#reset').click();search.value='zzzznonexistent';update()");
+assert(await ev("cards.filter(c=>!c.hidden).length===0"),'Empty results');
+await ev("document.querySelector('#reset').click()");assert(await ev("cards.filter(c=>!c.hidden).length===58&&document.querySelector('#reset').disabled"),'Reset');
+await ev("countryFilter.value='Germany';countryFilter.dispatchEvent(new Event('change'))");
+await call('Page.reload');await until("typeof cards!=='undefined'&&cards.length===58");
+assert(await ev("countryFilter.value==='Germany'&&cards.filter(c=>!c.hidden).length===2"),'Deep link restore');
+await ev("document.querySelector('#reset').click();document.querySelector('#directory').scrollIntoView();");await sleep(200);await shot('visual-edit-accessibility-20261014/mobile.png');
+await ev("cards[0].querySelector('h3 a').focus()");await sleep(150);
+assert(await ev("document.activeElement.getBoundingClientRect().top>=document.querySelector('.search-bar').getBoundingClientRect().bottom"),'Sticky focus');
+await call('Input.dispatchKeyEvent',{type:'keyDown',key:'Tab',code:'Tab',windowsVirtualKeyCode:9});await call('Input.dispatchKeyEvent',{type:'keyUp',key:'Tab',code:'Tab',windowsVirtualKeyCode:9});await sleep(150);
+assert(await ev("document.activeElement.getBoundingClientRect().top>=document.querySelector('.search-bar').getBoundingClientRect().bottom"),'Tab focus');
+await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1000,deviceScaleFactor:1,mobile:false});await ev("document.querySelector('#directory').scrollIntoView()");await sleep(150);await shot('visual-edit-accessibility-20261014/desktop.png');
+assert(await ev("getComputedStyle(document.querySelector('#filter-toggle')).display==='none'&&document.querySelector('#filter-panel').open"),'Desktop filters');
+await call('Emulation.setDeviceMetricsOverride',{width:844,height:390,deviceScaleFactor:1,mobile:false});assert(await ev("getComputedStyle(document.querySelector('.search-bar')).position==='static'"),'Landscape sticky');
+fs.writeFileSync('visual-edit-accessibility-20261014/navigation-results.json',JSON.stringify({mobilePanel:true,selectedStates:true,emptyResults:true,reset:true,deepLink:true,stickyFocus:true,tabFocus:true,desktopFilters:true,landscape:true},null,2));console.log('Navigation checks passed');ws.close();

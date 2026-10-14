@@ -1,0 +1,74 @@
+{
+  "keyboard": {
+    "skip": true,
+    "outline": "solid"
+  },
+  "filters": {
+    "matched": 1,
+    "archives": 6,
+    "hash": "#directory?category=Archives+%26+textiles",
+    "collapsed": true,
+    "opened": true
+  },
+  "print": {
+    "expanded": true,
+    "restored": true,
+    "styles": {
+      "bg": "rgb(255, 255, 255)",
+      "tools": "none",
+      "save": "none",
+      "cards": 52
+    }
+  },
+  "copy": {
+    "open": true,
+    "value": "https://www.are.na/",
+    "focused": "copy-value"
+  },
+  "share": "https://visual-edit-ivan.greymelon66.chatgpt.site/#directory",
+  "exports": [
+    {
+      "lang": "en",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    },
+    {
+      "lang": "es",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    },
+    {
+      "lang": "zh-Hans",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    },
+    {
+      "lang": "zh-Hant",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    },
+    {
+      "lang": "ja",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    },
+    {
+      "lang": "ko",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    }
+  ],
+  "download": true
+}

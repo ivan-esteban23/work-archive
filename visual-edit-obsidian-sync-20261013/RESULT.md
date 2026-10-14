@@ -1,0 +1,1 @@
+Latest published Site version 21 copied to the existing Obsidian HTML attachment. Read-back hash matches the publishing source. All 52 source cards verified. The existing dashboard link still resolves. Previous vault attachment is saved as vault-before-sync.html.

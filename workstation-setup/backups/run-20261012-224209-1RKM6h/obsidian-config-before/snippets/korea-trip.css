@@ -1,0 +1,177 @@
+/* ==========================================================================
+   korea-trip.css — scoped styling for the Korea 2026 notes
+   --------------------------------------------------------------------------
+   EVERY rule is nested under `.korea-trip`, which is applied per-note via
+   `cssclasses: [korea-trip]` frontmatter. Nothing here can reach the Japan
+   2027 notes or any other note in the vault.
+
+   Enable: Settings -> Appearance -> CSS snippets -> korea-trip
+   The vault currently has no theme set, so this relies on Obsidian's CSS
+   variables (--color-*) rather than any theme's class names.
+   ========================================================================== */
+
+/* ---------- City accent palette ----------
+   Used by .korea-city-* markers and by callout titles.                */
+
+.korea-trip {
+  --korea-seoul: #4285f4;
+  --korea-seoul-bg: #e8f0fe;
+  --korea-gyeongju: #f9ab00;
+  --korea-gyeongju-bg: #fef7e0;
+  --korea-busan: #34a853;
+  --korea-busan-bg: #e6f4ea;
+  --korea-alert: #ea4335;
+  --korea-alert-bg: #fce8e6;
+  --korea-line: var(--background-modifier-border);
+}
+
+/* ---------- Title treatment ----------
+   A left accent bar picks up the note's subject.                     */
+
+.korea-trip > h1:first-child {
+  border-left: 4px solid var(--korea-seoul);
+  padding-left: 0.5em;
+  margin-top: 0;
+  line-height: 1.25;
+}
+
+.korea-trip h2 {
+  border-bottom: 1px solid var(--korea-line);
+  padding-bottom: 0.25em;
+  margin-top: 1.8em;
+}
+
+.korea-trip h3 { color: var(--text-normal); }
+
+/* ---------- Callouts ----------
+   Colour the three callout types the trip actually leans on, so a page
+   scan tells you where the hard constraints are.                     */
+
+.korea-trip .callout[data-callout="warning"] {
+  --callout-color: var(--korea-alert);
+  --callout-icon: lucide-alert-triangle;
+}
+
+.korea-trip .callout[data-callout="danger"] {
+  --callout-color: var(--korea-alert);
+  --callout-icon: lucide-shield-alert;
+}
+
+.korea-trip .callout[data-callout="tip"] {
+  --callout-color: var(--korea-gyeongju);
+  --callout-icon: lucide-lightbulb;
+}
+
+.korea-trip .callout[data-callout="info"] {
+  --callout-color: var(--korea-seoul);
+  --callout-icon: lucide-info;
+}
+
+/* Inside a callout, keep long links from breaking the box. */
+.korea-trip .callout-content a { overflow-wrap: anywhere; }
+
+/* ---------- Tables ----------
+   Header tint + zebra, and a sticky header so long shop tables stay
+   readable when scrolled.                                          */
+
+.korea-trip table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.92em;
+}
+
+.korea-trip thead th {
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  font-weight: 600;
+  text-align: left;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.korea-trip th,
+.korea-trip td {
+  border: 1px solid var(--korea-line);
+  padding: 0.45em 0.6em;
+  vertical-align: top;
+}
+
+.korea-trip tbody tr:nth-child(even) {
+  background: var(--background-secondary-alt, transparent);
+}
+
+/* Time / cost columns read better centred and non-wrapping. */
+.korea-trip table td:nth-child(1) { white-space: nowrap; }
+
+/* ---------- Tasks ----------
+   Open boxes carry an accent so an unchecked booking is visible in a
+   wall of text.                                                     */
+
+.korea-trip input[type="checkbox"] {
+  border: 1.5px solid var(--korea-seoul);
+  border-radius: 3px;
+}
+
+.korea-trip li[data-task]:hover {
+  background: var(--background-modifier-hover);
+  border-radius: 3px;
+}
+
+/* ---------- Links and geography ----------
+   Map links get a marker so they are distinguishable in a wall of
+   external references.                                             */
+
+.korea-trip a[href*="google.com/maps"]::after {
+  content: " 📍";
+  font-size: 0.75em;
+  opacity: 0.6;
+}
+
+.korea-trip a[href*="wikidata.org"]::after {
+  content: " ↗";
+  font-size: 0.75em;
+  opacity: 0.5;
+}
+
+/* Inline tags shown by Map View should not shout. */
+.korea-trip .tag { font-size: 0.85em; }
+
+/* ---------- Pin directory ---------- */
+
+.korea-trip a[href^="geo:"] {
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px dotted var(--korea-seoul);
+}
+
+/* ---------- Flags used in the food table ---------- */
+
+.korea-trip strong:only-child { font-weight: 600; }
+
+/* ---------- Emoji sizing in headings ---------- */
+
+.korea-trip h1, .korea-trip h2, .korea-trip h3 { text-wrap: balance; }
+
+/* ---------- Mobile ----------
+   The pocket cards are meant to be read standing up, so tables become
+   horizontally scrollable rather than crushed.                      */
+
+@media (max-width: 700px) {
+  .korea-trip table { display: block; overflow-x: auto; white-space: nowrap; }
+  .korea-trip thead th { position: static; }
+  .korea-trip h1 { font-size: 1.5em; }
+  .korea-trip .callout { margin: 0.75em 0; }
+}
+
+/* ---------- Print ----------
+   Drops the chrome so a day card prints as a clean checklist.        */
+
+@media print {
+  .korea-trip > h1:first-child { border-left: none; }
+  .korea-trip .callout { break-inside: avoid; }
+  .korea-trip table { break-inside: auto; }
+  .korea-trip thead th { position: static; }
+  .korea-trip a[href*="google.com/maps"]::after,
+  .korea-trip a[href*="wikidata.org"]::after { content: ""; }
+}

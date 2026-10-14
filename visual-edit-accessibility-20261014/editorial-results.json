@@ -1,0 +1,554 @@
+[
+  {
+    "width": 320,
+    "locale": "en",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 320,
+    "locale": "es",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 320,
+    "locale": "zh-Hans",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 320,
+    "locale": "zh-Hant",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 320,
+    "locale": "ja",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 320,
+    "locale": "ko",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 390,
+    "locale": "en",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 390,
+    "locale": "es",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 390,
+    "locale": "zh-Hans",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 390,
+    "locale": "zh-Hant",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 390,
+    "locale": "ja",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 390,
+    "locale": "ko",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 768,
+    "locale": "en",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 768,
+    "locale": "es",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 768,
+    "locale": "zh-Hans",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 768,
+    "locale": "zh-Hant",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 768,
+    "locale": "ja",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 768,
+    "locale": "ko",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472,
+      21.472
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 1440,
+    "locale": "en",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 1440,
+    "locale": "es",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 1440,
+    "locale": "zh-Hans",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 1440,
+    "locale": "zh-Hant",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 1440,
+    "locale": "ja",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  },
+  {
+    "width": 1440,
+    "locale": "ko",
+    "overflow": false,
+    "namesFirst": true,
+    "picks": [
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24
+    ],
+    "routeSteps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "workflow": 5
+  }
+]

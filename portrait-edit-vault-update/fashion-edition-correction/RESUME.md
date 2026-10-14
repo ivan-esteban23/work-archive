@@ -1,0 +1,3 @@
+# Fashion edition corrections
+
+User requested consistent light backgrounds and reference images on archive pages 61–102. Removed all six dark chapter backgrounds; all pages use ivory. Added original reference thumbnails to every archive entry: 83 images across 42 pages, keeping 103-page count and editorial page mapping unchanged. Corrected raw-PDF title parsing to anchor study headings so study 01 remains Golden Hour. Pre-correction Downloads/vault PDFs and companion note backed up in backup/. Verify scripts check every archive page image count. Original PDF backup remains in Downloads/Backups.

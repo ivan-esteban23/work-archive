@@ -1,0 +1,1979 @@
+{
+  "checked": "2026-10-07",
+  "flightNew11": {
+    "quotes": [
+      {
+        "quote_id": "{bl}:202610071915*I*SCL*ICN*20261104*devf*LA|202610071915*I*ICN*SCL*20261111*devf*OZ",
+        "min_price": {
+          "amount": "1430",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 7,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 4
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 11
+          },
+          "carrier_id": "-32558"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610072047*I*SCL*ICN*20261109*skyp*LA|202610072047*I*ICN*SCL*20261115*skyp*TW",
+        "min_price": {
+          "amount": "1432",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 6,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 9
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 15
+          },
+          "carrier_id": "-31731"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610061900*I*SCL*ICN*20261102*devf*LA|202610061900*I*ICN*SCL*20261118*devf*OZ",
+        "min_price": {
+          "amount": "1435",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 16,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 2
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 18
+          },
+          "carrier_id": "-32558"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610070934*I*SCL*ICN*20261102*decl*LA|202610070934*I*ICN*SCL*20261109*decl*OZ",
+        "min_price": {
+          "amount": "1435",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 7,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 2
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 9
+          },
+          "carrier_id": "-32558"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610051626*I*SCL*ICN*20261102*decl*LA|202610051626*I*ICN*SCL*20261111*decl*OZ",
+        "min_price": {
+          "amount": "1435",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 9,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 2
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 11
+          },
+          "carrier_id": "-32558"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610030427*I*SCL*ICN*20261122*skyp*IB|202610030427*I*ICN*SCL*20261129*skyp*TW",
+        "min_price": {
+          "amount": "1447",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 7,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 22
+          },
+          "carrier_id": "-32222"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 29
+          },
+          "carrier_id": "-31731"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610070054*I*SCL*ICN*20261121*skyp*LA|202610070054*I*ICN*SCL*20261128*skyp*TW",
+        "min_price": {
+          "amount": "1454",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 7,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 21
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 28
+          },
+          "carrier_id": "-31731"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610071027*I*SCL*ICN*20261107*skyp*LA|202610071027*I*ICN*SCL*20261124*skyp*TW",
+        "min_price": {
+          "amount": "1457",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 17,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 7
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 11,
+            "day": 24
+          },
+          "carrier_id": "-31731"
+        }
+      }
+    ],
+    "carriers": [
+      {
+        "carrier_id": "-32222",
+        "name": "Iberia",
+        "iata": "IB",
+        "image_url": "https://logos.skyscnr.com/images/airlines/IB.png"
+      },
+      {
+        "carrier_id": "-32558",
+        "name": "Asiana Airlines",
+        "iata": "OZ",
+        "image_url": "https://logos.skyscnr.com/images/airlines/OZ.png"
+      },
+      {
+        "carrier_id": "-32115",
+        "name": "LATAM Airlines Group",
+        "iata": "LA",
+        "image_url": "https://logos.skyscnr.com/images/airlines/LA.png"
+      },
+      {
+        "carrier_id": "-31731",
+        "name": "Trinity Airways",
+        "iata": "TW",
+        "image_url": "https://logos.skyscnr.com/images/airlines/9R.png"
+      }
+    ],
+    "places": [
+      {
+        "entity_id": "27538638",
+        "parent_id": "29475329",
+        "name": "Seoul",
+        "iata": "SEL"
+      },
+      {
+        "entity_id": "95673659",
+        "parent_id": "27538638",
+        "name": "Incheon International",
+        "iata": "ICN"
+      },
+      {
+        "entity_id": "27546274",
+        "parent_id": "29475429",
+        "name": "Santiago",
+        "iata": "SCL"
+      },
+      {
+        "entity_id": "104120223",
+        "parent_id": "27546274",
+        "name": "Santiago Arturo Merino Benitez",
+        "iata": "SCL"
+      }
+    ],
+    "search_params": {
+      "origin": "SCL",
+      "destination": "ICN",
+      "month": 11,
+      "year": 2026,
+      "locale": "en-US",
+      "currency": "USD",
+      "market": "CL",
+      "is_return": true
+    },
+    "referral_links": {
+      "flight_day_view": [
+        {
+          "quote_id": "{bl}:202610071915*I*SCL*ICN*20261104*devf*LA|202610071915*I*ICN*SCL*20261111*devf*OZ",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-04&cabinclass=economy&inboundDate=2026-11-11&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610072047*I*SCL*ICN*20261109*skyp*LA|202610072047*I*ICN*SCL*20261115*skyp*TW",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-09&cabinclass=economy&inboundDate=2026-11-15&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610061900*I*SCL*ICN*20261102*devf*LA|202610061900*I*ICN*SCL*20261118*devf*OZ",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-02&cabinclass=economy&inboundDate=2026-11-18&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610070934*I*SCL*ICN*20261102*decl*LA|202610070934*I*ICN*SCL*20261109*decl*OZ",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-02&cabinclass=economy&inboundDate=2026-11-09&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610051626*I*SCL*ICN*20261102*decl*LA|202610051626*I*ICN*SCL*20261111*decl*OZ",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-02&cabinclass=economy&inboundDate=2026-11-11&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610030427*I*SCL*ICN*20261122*skyp*IB|202610030427*I*ICN*SCL*20261129*skyp*TW",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-22&cabinclass=economy&inboundDate=2026-11-29&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610070054*I*SCL*ICN*20261121*skyp*LA|202610070054*I*ICN*SCL*20261128*skyp*TW",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-21&cabinclass=economy&inboundDate=2026-11-28&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610071027*I*SCL*ICN*20261107*skyp*LA|202610071027*I*ICN*SCL*20261124*skyp*TW",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-07&cabinclass=economy&inboundDate=2026-11-24&locale=en-US&currency=USD&market=CL"
+        }
+      ]
+    }
+  },
+  "flightNew12": {
+    "quotes": [
+      {
+        "quote_id": "{bl}:202610051512*I*SCL*ICN*20261201*skyp*LA|202610051512*I*ICN*SCL*20261208*skyp*3U",
+        "min_price": {
+          "amount": "1432",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 7,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 1
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 8
+          },
+          "carrier_id": "-31878"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610062248*I*SCL*ICN*20261201*skyp*LA|202610062248*I*ICN*SCL*20261213*skyp*TW",
+        "min_price": {
+          "amount": "1627",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 12,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 1
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 13
+          },
+          "carrier_id": "-31731"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610062347*I*SCL*ICN*20261204*skyp*LA|202610062347*I*ICN*SCL*20261213*skyp*TW",
+        "min_price": {
+          "amount": "1678",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 9,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 4
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 13
+          },
+          "carrier_id": "-31731"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610061902*I*SCL*ICN*20261207*skyp*LA|202610061902*I*ICN*SCL*20261229*skyp*AC",
+        "min_price": {
+          "amount": "1698",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 22,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 7
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 29
+          },
+          "carrier_id": "-32695"
+        }
+      },
+      {
+        "quote_id": "{bl}:202609301723*I*SCL*ICN*20261204*skyp*AC|202609301723*I*ICN*SCL*20261212*skyp*TW",
+        "min_price": {
+          "amount": "1727",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 8,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 4
+          },
+          "carrier_id": "-32695"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 12
+          },
+          "carrier_id": "-31731"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610032250*I*SCL*ICN*20261202*skyp*AC|202610032250*I*ICN*SCL*20261215*skyp*AC",
+        "min_price": {
+          "amount": "1762",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 13,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 2
+          },
+          "carrier_id": "-32695"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 15
+          },
+          "carrier_id": "-32695"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610052105*I*SCL*ICN*20261201*devf*AC|202610052105*I*ICN*SCL*20261227*devf*AC",
+        "min_price": {
+          "amount": "1772",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 26,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 1
+          },
+          "carrier_id": "-32695"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 27
+          },
+          "carrier_id": "-32695"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610061646*I*SCL*ICN*20261203*turk*TK|202610061646*I*ICN*SCL*20261208*turk*TK",
+        "min_price": {
+          "amount": "1856",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 5,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 3
+          },
+          "carrier_id": "-31734"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2026,
+            "month": 12,
+            "day": 8
+          },
+          "carrier_id": "-31734"
+        }
+      }
+    ],
+    "carriers": [
+      {
+        "carrier_id": "-31878",
+        "name": "Sichuan Airlines",
+        "iata": "3U",
+        "image_url": "https://logos.skyscnr.com/images/airlines/3U.png"
+      },
+      {
+        "carrier_id": "-31734",
+        "name": "Turkish Airlines",
+        "iata": "TK",
+        "image_url": "https://logos.skyscnr.com/images/airlines/TK.png"
+      },
+      {
+        "carrier_id": "-32115",
+        "name": "LATAM Airlines Group",
+        "iata": "LA",
+        "image_url": "https://logos.skyscnr.com/images/airlines/LA.png"
+      },
+      {
+        "carrier_id": "-32695",
+        "name": "Air Canada",
+        "iata": "AC",
+        "image_url": "https://logos.skyscnr.com/images/airlines/AC.png"
+      },
+      {
+        "carrier_id": "-31731",
+        "name": "Trinity Airways",
+        "iata": "TW",
+        "image_url": "https://logos.skyscnr.com/images/airlines/9R.png"
+      }
+    ],
+    "places": [
+      {
+        "entity_id": "27538638",
+        "parent_id": "29475329",
+        "name": "Seoul",
+        "iata": "SEL"
+      },
+      {
+        "entity_id": "95673659",
+        "parent_id": "27538638",
+        "name": "Incheon International",
+        "iata": "ICN"
+      },
+      {
+        "entity_id": "27546274",
+        "parent_id": "29475429",
+        "name": "Santiago",
+        "iata": "SCL"
+      },
+      {
+        "entity_id": "104120223",
+        "parent_id": "27546274",
+        "name": "Santiago Arturo Merino Benitez",
+        "iata": "SCL"
+      }
+    ],
+    "search_params": {
+      "origin": "SCL",
+      "destination": "ICN",
+      "month": 12,
+      "year": 2026,
+      "locale": "en-US",
+      "currency": "USD",
+      "market": "CL",
+      "is_return": true
+    },
+    "referral_links": {
+      "flight_day_view": [
+        {
+          "quote_id": "{bl}:202610051512*I*SCL*ICN*20261201*skyp*LA|202610051512*I*ICN*SCL*20261208*skyp*3U",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-12-01&cabinclass=economy&inboundDate=2026-12-08&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610062248*I*SCL*ICN*20261201*skyp*LA|202610062248*I*ICN*SCL*20261213*skyp*TW",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-12-01&cabinclass=economy&inboundDate=2026-12-13&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610062347*I*SCL*ICN*20261204*skyp*LA|202610062347*I*ICN*SCL*20261213*skyp*TW",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-12-04&cabinclass=economy&inboundDate=2026-12-13&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610061902*I*SCL*ICN*20261207*skyp*LA|202610061902*I*ICN*SCL*20261229*skyp*AC",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-12-07&cabinclass=economy&inboundDate=2026-12-29&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202609301723*I*SCL*ICN*20261204*skyp*AC|202609301723*I*ICN*SCL*20261212*skyp*TW",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-12-04&cabinclass=economy&inboundDate=2026-12-12&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610032250*I*SCL*ICN*20261202*skyp*AC|202610032250*I*ICN*SCL*20261215*skyp*AC",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-12-02&cabinclass=economy&inboundDate=2026-12-15&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610052105*I*SCL*ICN*20261201*devf*AC|202610052105*I*ICN*SCL*20261227*devf*AC",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-12-01&cabinclass=economy&inboundDate=2026-12-27&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610061646*I*SCL*ICN*20261203*turk*TK|202610061646*I*ICN*SCL*20261208*turk*TK",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-12-03&cabinclass=economy&inboundDate=2026-12-08&locale=en-US&currency=USD&market=CL"
+        }
+      ]
+    }
+  },
+  "flightNew3": {
+    "quotes": [
+      {
+        "quote_id": "{bl}:202610040254*I*SCL*ICN*20270309*devf*LA|202610040254*I*ICN*SCL*20270324*devf*CX",
+        "min_price": {
+          "amount": "1631",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 15,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 9
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 24
+          },
+          "carrier_id": "-32456"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610061537*I*SCL*ICN*20270309*devf*LA|202610061537*I*ICN*SCL*20270323*devf*CX",
+        "min_price": {
+          "amount": "1690",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 14,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 9
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 23
+          },
+          "carrier_id": "-32456"
+        }
+      },
+      {
+        "quote_id": "{bl}:202609280434*I*SCL*ICN*20270302*airf*AF|202609280434*I*ICN*SCL*20270316*airf*AF",
+        "min_price": {
+          "amount": "1705",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 14,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 2
+          },
+          "carrier_id": "-32677"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 16
+          },
+          "carrier_id": "-32677"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610031817*I*SCL*ICN*20270301*decl*QR|202610031817*I*ICN*SCL*20270331*decl*QR",
+        "min_price": {
+          "amount": "1716",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 30,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 1
+          },
+          "carrier_id": "-31939"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 31
+          },
+          "carrier_id": "-31939"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610012141*I*SCL*ICN*20270311*qata*QR|202610012141*I*ICN*SCL*20270326*qata*QR",
+        "min_price": {
+          "amount": "1721",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 15,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 11
+          },
+          "carrier_id": "-31939"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 26
+          },
+          "carrier_id": "-31939"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610020010*I*SCL*ICN*20270301*qata*LA|202610020010*I*ICN*SCL*20270321*qata*QR",
+        "min_price": {
+          "amount": "1724",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 20,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 1
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 21
+          },
+          "carrier_id": "-31939"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610061657*I*SCL*ICN*20270301*qata*LA|202610061657*I*ICN*SCL*20270316*qata*QR",
+        "min_price": {
+          "amount": "1725",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 15,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 1
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 16
+          },
+          "carrier_id": "-31939"
+        }
+      },
+      {
+        "quote_id": "{bl}:202610051507*I*SCL*ICN*20270308*fncl*LA|202610051507*I*ICN*SCL*20270324*fncl*CX",
+        "min_price": {
+          "amount": "1729",
+          "unit": "PRICE_UNIT_WHOLE"
+        },
+        "is_direct": false,
+        "trip_duration_days": 16,
+        "outbound_leg": {
+          "origin_entity_id": "104120223",
+          "destination_entity_id": "95673659",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 8
+          },
+          "carrier_id": "-32115"
+        },
+        "inbound_leg": {
+          "origin_entity_id": "95673659",
+          "destination_entity_id": "104120223",
+          "departure_date_time": {
+            "year": 2027,
+            "month": 3,
+            "day": 24
+          },
+          "carrier_id": "-32456"
+        }
+      }
+    ],
+    "carriers": [
+      {
+        "carrier_id": "-32456",
+        "name": "Cathay Pacific",
+        "iata": "CX",
+        "image_url": "https://logos.skyscnr.com/images/airlines/CX.png"
+      },
+      {
+        "carrier_id": "-32677",
+        "name": "Air France",
+        "iata": "AF",
+        "image_url": "https://logos.skyscnr.com/images/airlines/AF.png"
+      },
+      {
+        "carrier_id": "-31939",
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "image_url": "https://logos.skyscnr.com/images/airlines/QR.png"
+      },
+      {
+        "carrier_id": "-32115",
+        "name": "LATAM Airlines Group",
+        "iata": "LA",
+        "image_url": "https://logos.skyscnr.com/images/airlines/LA.png"
+      }
+    ],
+    "places": [
+      {
+        "entity_id": "27538638",
+        "parent_id": "29475329",
+        "name": "Seoul",
+        "iata": "SEL"
+      },
+      {
+        "entity_id": "95673659",
+        "parent_id": "27538638",
+        "name": "Incheon International",
+        "iata": "ICN"
+      },
+      {
+        "entity_id": "27546274",
+        "parent_id": "29475429",
+        "name": "Santiago",
+        "iata": "SCL"
+      },
+      {
+        "entity_id": "104120223",
+        "parent_id": "27546274",
+        "name": "Santiago Arturo Merino Benitez",
+        "iata": "SCL"
+      }
+    ],
+    "search_params": {
+      "origin": "SCL",
+      "destination": "ICN",
+      "month": 3,
+      "year": 2027,
+      "locale": "en-US",
+      "currency": "USD",
+      "market": "CL",
+      "is_return": true
+    },
+    "referral_links": {
+      "flight_day_view": [
+        {
+          "quote_id": "{bl}:202610040254*I*SCL*ICN*20270309*devf*LA|202610040254*I*ICN*SCL*20270324*devf*CX",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2027-03-09&cabinclass=economy&inboundDate=2027-03-24&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610061537*I*SCL*ICN*20270309*devf*LA|202610061537*I*ICN*SCL*20270323*devf*CX",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2027-03-09&cabinclass=economy&inboundDate=2027-03-23&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202609280434*I*SCL*ICN*20270302*airf*AF|202609280434*I*ICN*SCL*20270316*airf*AF",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2027-03-02&cabinclass=economy&inboundDate=2027-03-16&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610031817*I*SCL*ICN*20270301*decl*QR|202610031817*I*ICN*SCL*20270331*decl*QR",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2027-03-01&cabinclass=economy&inboundDate=2027-03-31&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610012141*I*SCL*ICN*20270311*qata*QR|202610012141*I*ICN*SCL*20270326*qata*QR",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2027-03-11&cabinclass=economy&inboundDate=2027-03-26&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610020010*I*SCL*ICN*20270301*qata*LA|202610020010*I*ICN*SCL*20270321*qata*QR",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2027-03-01&cabinclass=economy&inboundDate=2027-03-21&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610061657*I*SCL*ICN*20270301*qata*LA|202610061657*I*ICN*SCL*20270316*qata*QR",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2027-03-01&cabinclass=economy&inboundDate=2027-03-16&locale=en-US&currency=USD&market=CL"
+        },
+        {
+          "quote_id": "{bl}:202610051507*I*SCL*ICN*20270308*fncl*LA|202610051507*I*ICN*SCL*20270324*fncl*CX",
+          "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2027-03-08&cabinclass=economy&inboundDate=2027-03-24&locale=en-US&currency=USD&market=CL"
+        }
+      ]
+    }
+  },
+  "hotelcomp0": {
+    "requestContext": {
+      "clientType": "DESKTOP",
+      "sessionId": "b4aa47db7c8f43f0ae48865f332cfacc",
+      "pageViewId": "b9e23180-4e80-48f4-98b6-91ffe3b19806",
+      "userAgent": null
+    },
+    "hotel": {
+      "id": 8118189,
+      "name": "Shilla Stay Mapo",
+      "rating": 4.5,
+      "priceRange": "$208 - $231",
+      "priceFrom": 208,
+      "currency": "USD",
+      "images": [
+        {
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ab/78/a1/caption.jpg?w={width}&h={height}&s=1",
+          "caption": null,
+          "maxWidth": 1000,
+          "maxHeight": 1500
+        }
+      ],
+      "location": {
+        "address": "83, Mapo-daero, Mapo-gu, Seoul 04156 South Korea",
+        "latitude": 37.542778,
+        "longitude": 126.94963
+      },
+      "amenities": [
+        {
+          "name": "Paid public parking on-site",
+          "category": "propertyAmenities",
+          "icon": "parking",
+          "highlighted": true,
+          "tagId": 19054
+        },
+        {
+          "name": "Free High Speed Internet (WiFi)",
+          "category": "propertyAmenities",
+          "icon": "wifi",
+          "highlighted": true,
+          "tagId": 9176
+        },
+        {
+          "name": "Fitness Center with Gym / Workout Room",
+          "category": "propertyAmenities",
+          "icon": "fitness",
+          "highlighted": true,
+          "tagId": 9188
+        },
+        {
+          "name": "Hot tub",
+          "category": "propertyAmenities",
+          "icon": "pool",
+          "highlighted": true,
+          "tagId": 9182
+        },
+        {
+          "name": "Bar / lounge",
+          "category": "propertyAmenities",
+          "icon": "food-drink",
+          "highlighted": true,
+          "tagId": 9166
+        },
+        {
+          "name": "Business Center with Internet Access",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 9187
+        },
+        {
+          "name": "Conference facilities",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 9667
+        },
+        {
+          "name": "24-hour security",
+          "category": "propertyAmenities",
+          "icon": "hotels",
+          "highlighted": true,
+          "tagId": 19063
+        }
+      ],
+      "description": "Shilla Stay Mapo Located near Gongdeok Subway Station, Shilla Stay Mapo provides easy access to airports: 50 minutes away from Incheon International Airport and 15 minutes away from Gimpo International Airport. You can travel non-stop from the airport to the hotel via the Airport Railroad. Close to four railroad and subway lines (Airport Railroad, Gyeonggui Line, Subway Lines 5 and 6) and other public transportation, Shilla Stay Mapo boasts optimal transport to various urban attractions as well as suburban areas in Gyeonggi Province, such as Ilsan and Paju. Located only a 6-minute drive away from Seoul World Cup Stadium, a venue for various international sports events and K-pop concerts such as the Big Bang Concert and Dream Concert, it is the best choice for enjoying Hallyu (Korean wave) cultural sightseeing. Shilla Stay Mapo operates a total of 383 guest rooms and facilities, including the Lobby, Meeting Room, Business Corner, Buffet Restaurant and Fitness Center. The Cafe, a buffet restaurant located on the 2nd floor, features a seating capacity of 114 and serves breakfast and lunch buffets.",
+      "propertyType": "Unknown",
+      "starRating": 4,
+      "contactInfo": null,
+      "policies": null,
+      "bestAwardForActiveYear": null,
+      "hotelStyleRankings": [
+        {
+          "styleName": "Mid-range"
+        },
+        {
+          "styleName": "Centrally Located"
+        },
+        {
+          "styleName": "Family"
+        }
+      ],
+      "absoluteUrl": "https://www.tripadvisor.com/Hotel_Review-g294197-d8118189-Reviews-Shilla_Stay_Mapo-Seoul.html?staydates=2026_10_27_2026_10_31&uguests=1_1&m=70063",
+      "fullAddress": "83, Mapo-daero, Mapo-gu, Seoul 04156 South Korea",
+      "subRatings": {
+        "cleanliness": 4.4492755,
+        "location": 4.580247,
+        "rooms": 4.1666665,
+        "service": 4.2363634,
+        "sleepQuality": 4.3055553,
+        "value": 4
+      }
+    },
+    "offers": {
+      "lowestPrice": "$208",
+      "metaOffers": [
+        {
+          "displayPrice": "$208",
+          "currencyCode": "USD",
+          "providerName": "Expedia",
+          "providerRawName": "Expedia",
+          "providerLogo": "img2/branding/hotels/expedia_logo_384164.png",
+          "isInstantBook": false,
+          "isMemberRate": false,
+          "commerceUrl": "https://www.tripadvisor.com/Commerce?p=Expedia&src=69375494&geo=8118189&from=HotelDateSearch_MCP&slot=1&matchID=1&oos=0&cnt=9&silo=5772&bucket=915437&nrank=1&crank=1&clt=D&ttype=DesktopMeta&tm=371322640&managed=false&capped=false&gosox=6JyNpYvJb_vsvM3EWkqBROG3FMaASWDxLBY1ygXJQwycj0xlSMUsSuJdcLzrFz1QMbxcxBuZWqWCSdWVGV2rwA4r6VeMclh2EVvO4doVTd0G5Ie7uqlNdlv5PNSCZ1GaeHwOmbmeOIFQd3xj561B5m4T1WoaNx5CuH2kT2O4aX9ZcW7F5wkF7NVt-pNe83sttZcuzSTaks5cYvA3Z-Uco_5K2SoT9Mwu40dSKuioYdN9yNNjN_6mRBdR5FiKH9VdtTj_UTjF64JCnRqKyg8gbSvKhscBFnVSqppHmsiYJZ2QAuP-7vA80M88XjoWjF5x&priceShown=207.76&pm=BPF&hac=AVAILABLE&mbl=MEET&mbldelta=0&rq=P&rate=207.76&taxesRate=23.09&feesRate=0.00&fees=23.09&cur=USD&adults=1&child_rm_ages=&inDay=27&outDay=31&rdex=RDEX_56dee36c462c26de3f1f36f8b1e96a72&rooms=1&inMonth=10&inYear=2026&outMonth=10&outYear=2026&auid=d205c0c7-29cd-4041-8f5a-e5ba38bebb66&def_d=false&bld=L_4,D_19,G_1,W_2,U_0,C_261027,T_7&bh=true&cs=1947fb7f623f0d29568e5bea2ece43899&ik=9ea74d1fd11a4e0ebd85bec12a5eb254&aok=8040adca3b45439d90203c823a6c2d0e&tp=MCP-ChatGPT-ClickToTA&pageLocId=8118189&m=70039",
+          "roomsRemaining": 22,
+          "merchandiseMessages": [
+            {
+              "message": "Fully refundable before Sat, Oct 24",
+              "type": "FREE_CANCELLATION"
+            }
+          ],
+          "status": "AVAILABLE"
+        },
+        {
+          "displayPrice": "$231",
+          "currencyCode": "USD",
+          "providerName": "Hotels.com",
+          "providerRawName": "Hotels.com",
+          "providerLogo": "img2/branding/hotels/HCom_2026_en.png",
+          "isInstantBook": false,
+          "isMemberRate": false,
+          "commerceUrl": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=69389520&geo=8118189&from=HotelDateSearch_MCP&slot=2&matchID=1&oos=0&cnt=9&silo=6067&bucket=901711&nrank=3&crank=2&clt=D&ttype=DesktopMeta&tm=371322640&managed=false&capped=false&gosox=4YH3WKhzA4_Rs67vAFyah1XFzVZNIJLDhhY9gMm7YzZUDEzDzdWXxYhjBUiQitStO1m1kC_ULAs3NW169YUi88Nf41w173XPu7gw0I_rJWD4miUQSaTG1Roc53uySLsfKob9bwNyETbhxSKkGRo79OtxFFM2jhutay7qHOGacTW0qQgDXOuKLjM_ZXLRNUK9RXfJEiDfhbw8-xaod5_2w2mdlvUnoOcQXQDiRkXXAIb28VuCgIfPcN0z2YFNuMEZvE3wh-NEiH7MoW7lSLuyNDwkfTVLawrSXHkEHZIGSBY&priceShown=230.84&pm=BPF&hac=AVAILABLE&mbl=LOSE&mbldelta=2300&rq=P&rate=230.84&taxesRate=23.09&feesRate=0.00&fees=23.09&cur=USD&adults=1&child_rm_ages=&inDay=27&outDay=31&rdex=RDEX_4b6dc6da5226335aef1a11bc33009687&rooms=1&inMonth=10&inYear=2026&outMonth=10&outYear=2026&auid=d205c0c7-29cd-4041-8f5a-e5ba38bebb66&def_d=false&bld=L_4,D_19,G_1,W_2,U_0,C_261027,T_7&bh=true&cs=1a4bf0b249f8d6e37d4a414b353d5401d&ik=9ea74d1fd11a4e0ebd85bec12a5eb254&aok=206ec5c13df94f9eb053dd3b02567d8c&tp=MCP-ChatGPT-ClickToTA&pageLocId=8118189&m=70039",
+          "roomsRemaining": 22,
+          "merchandiseMessages": [
+            {
+              "message": "Fully refundable before Sat, Oct 24",
+              "type": "FREE_CANCELLATION"
+            }
+          ],
+          "status": "AVAILABLE"
+        },
+        {
+          "displayPrice": "$208",
+          "currencyCode": "USD",
+          "providerName": "Booking.com",
+          "providerRawName": "Booking.com",
+          "providerLogo": "img2/branding/hotels/Booking_Com_v2_384x164_Blue.png",
+          "isInstantBook": false,
+          "isMemberRate": false,
+          "commerceUrl": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=69604834&geo=8118189&from=HotelDateSearch_MCP&slot=3&matchID=1&oos=0&cnt=9&silo=6186&bucket=902940&nrank=1&crank=3&clt=D&ttype=DesktopMeta&tm=371322640&managed=false&capped=false&gosox=TP_8V-n5a5sEeVNI8JVgNmsRBOAYtdCpqrdZiQ_S5PjMTjJAGectovZrajJ6eICH4kvhDo_LJW_TP93rczC-lPbCOoA7uGvW95x51gbjD0j09ytLHnzqoI481ez1CcZIrKbm2AzZkKt_R_2R5lvMaOyrqxuYQLbaOY0j97xTx4FPRVoqULqiwxNd1EGn_jfhWKOz42zR5Xs-jWP9P1h7I6vYvm53JXb-FbVQdwqpdQuLyr1ubw7iZDoRscu8seQPNo_pBL3m1EEC6D0KeYwwfg&priceShown=207.52&pm=BPF&hac=AVAILABLE&mbl=MEET&mbldelta=0&rq=P&rate=207.52&taxesRate=23.06&feesRate=0.00&fees=23.06&cur=USD&adults=1&child_rm_ages=&inDay=27&outDay=31&rdex=RDEX_7cf431366eeaca7a3e3da5a45f5f4a12&rooms=1&inMonth=10&inYear=2026&outMonth=10&outYear=2026&auid=d205c0c7-29cd-4041-8f5a-e5ba38bebb66&def_d=false&bld=L_4,D_19,G_1,W_2,U_0,C_261027,T_7&bh=true&cs=166acc28deb5037ecd2ca1f914b4e5913&ik=9ea74d1fd11a4e0ebd85bec12a5eb254&aok=82a7070763bb4a7ba5a400fb6df345e6&tp=MCP-ChatGPT-ClickToTA&pageLocId=8118189&m=70039",
+          "roomsRemaining": -1,
+          "merchandiseMessages": [
+            {
+              "message": "Fully refundable before Fri, Oct 23",
+              "type": "FREE_CANCELLATION"
+            },
+            {
+              "message": "No prepayment needed",
+              "type": "NO_PREPAYMENT"
+            }
+          ],
+          "status": "AVAILABLE"
+        }
+      ],
+      "priceDisclaimer": "Prices are provided by our partners, and reflect nightly room rates, including any mandatory fees. Taxes not included. Please see our partners for more details.",
+      "additionalDisclaimer": null,
+      "complete": true
+    },
+    "geoId": 8118189,
+    "travelInfo": {
+      "adults": 1,
+      "checkInDate": "2026-10-27",
+      "checkOutDate": "2026-10-31",
+      "usedDefaultDates": false,
+      "rooms": 1,
+      "childrenAges": []
+    },
+    "isRecommended": false
+  },
+  "hotelcomp1": {
+    "requestContext": {
+      "clientType": "DESKTOP",
+      "sessionId": "6f074532d2854cb1ba82ec91b411e0c6",
+      "pageViewId": "225befc5-c098-44a6-826a-68d959549ede",
+      "userAgent": null
+    },
+    "hotel": {
+      "id": 8118189,
+      "name": "Shilla Stay Mapo",
+      "rating": 4.5,
+      "priceRange": "$181 - $206",
+      "priceFrom": 181,
+      "currency": "USD",
+      "images": [
+        {
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ab/78/a1/caption.jpg?w={width}&h={height}&s=1",
+          "caption": null,
+          "maxWidth": 1000,
+          "maxHeight": 1500
+        }
+      ],
+      "location": {
+        "address": "83, Mapo-daero, Mapo-gu, Seoul 04156 South Korea",
+        "latitude": 37.542778,
+        "longitude": 126.94963
+      },
+      "amenities": [
+        {
+          "name": "Paid public parking on-site",
+          "category": "propertyAmenities",
+          "icon": "parking",
+          "highlighted": true,
+          "tagId": 19054
+        },
+        {
+          "name": "Free High Speed Internet (WiFi)",
+          "category": "propertyAmenities",
+          "icon": "wifi",
+          "highlighted": true,
+          "tagId": 9176
+        },
+        {
+          "name": "Fitness Center with Gym / Workout Room",
+          "category": "propertyAmenities",
+          "icon": "fitness",
+          "highlighted": true,
+          "tagId": 9188
+        },
+        {
+          "name": "Hot tub",
+          "category": "propertyAmenities",
+          "icon": "pool",
+          "highlighted": true,
+          "tagId": 9182
+        },
+        {
+          "name": "Bar / lounge",
+          "category": "propertyAmenities",
+          "icon": "food-drink",
+          "highlighted": true,
+          "tagId": 9166
+        },
+        {
+          "name": "Business Center with Internet Access",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 9187
+        },
+        {
+          "name": "Conference facilities",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 9667
+        },
+        {
+          "name": "24-hour security",
+          "category": "propertyAmenities",
+          "icon": "hotels",
+          "highlighted": true,
+          "tagId": 19063
+        }
+      ],
+      "description": "Shilla Stay Mapo Located near Gongdeok Subway Station, Shilla Stay Mapo provides easy access to airports: 50 minutes away from Incheon International Airport and 15 minutes away from Gimpo International Airport. You can travel non-stop from the airport to the hotel via the Airport Railroad. Close to four railroad and subway lines (Airport Railroad, Gyeonggui Line, Subway Lines 5 and 6) and other public transportation, Shilla Stay Mapo boasts optimal transport to various urban attractions as well as suburban areas in Gyeonggi Province, such as Ilsan and Paju. Located only a 6-minute drive away from Seoul World Cup Stadium, a venue for various international sports events and K-pop concerts such as the Big Bang Concert and Dream Concert, it is the best choice for enjoying Hallyu (Korean wave) cultural sightseeing. Shilla Stay Mapo operates a total of 383 guest rooms and facilities, including the Lobby, Meeting Room, Business Corner, Buffet Restaurant and Fitness Center. The Cafe, a buffet restaurant located on the 2nd floor, features a seating capacity of 114 and serves breakfast and lunch buffets.",
+      "propertyType": "Unknown",
+      "starRating": 4,
+      "contactInfo": null,
+      "policies": null,
+      "bestAwardForActiveYear": null,
+      "hotelStyleRankings": [
+        {
+          "styleName": "Mid-range"
+        },
+        {
+          "styleName": "Centrally Located"
+        },
+        {
+          "styleName": "Family"
+        }
+      ],
+      "absoluteUrl": "https://www.tripadvisor.com/Hotel_Review-g294197-d8118189-Reviews-Shilla_Stay_Mapo-Seoul.html?staydates=2026_11_03_2026_11_07&uguests=1_1&m=70063",
+      "fullAddress": "83, Mapo-daero, Mapo-gu, Seoul 04156 South Korea",
+      "subRatings": {
+        "cleanliness": 4.4492755,
+        "location": 4.580247,
+        "rooms": 4.1666665,
+        "service": 4.2363634,
+        "sleepQuality": 4.3055553,
+        "value": 4
+      }
+    },
+    "offers": {
+      "lowestPrice": "$181",
+      "metaOffers": [
+        {
+          "displayPrice": "$185",
+          "currencyCode": "USD",
+          "providerName": "Expedia",
+          "providerRawName": "Expedia",
+          "providerLogo": "img2/branding/hotels/expedia_logo_384164.png",
+          "isInstantBook": false,
+          "isMemberRate": false,
+          "commerceUrl": "https://www.tripadvisor.com/Commerce?p=Expedia&src=69375494&geo=8118189&from=HotelDateSearch_MCP&slot=1&matchID=1&oos=0&cnt=9&silo=5772&bucket=915437&nrank=2&crank=1&clt=D&ttype=DesktopMeta&tm=371322640&managed=false&capped=false&gosox=F7c9qUiARF39zm4GJ9dyseG3FMaASWDxLBY1ygXJQwxmqjoa9jj___0gozG1-Ovrbi7K276_XCaEo5sSCiYkUUWjoJW6wKmTanzKIPRle8ZEhFE2JdepMSrawnWxFSIXuFqpTdqiCghvduPTn-TwfvexvLXVO5UlQWBmWU-RYOAE2554w4TaKdhG2aWxYm-oJj9_YxjK1CYoALh9HuAInCiqmJ24Ael8Z9WPVyfEZ0eTpnYpJ9p2Wc7PdVW08xoePXrgyXUGYnWtdEnXf03D2tgZEerYeOM2sJ4LIULhr2I&priceShown=184.92&pm=BPF&hac=AVAILABLE&mbl=LOSE&mbldelta=400&rq=P&rate=184.92&taxesRate=20.10&feesRate=0.00&fees=20.10&cur=USD&adults=1&child_rm_ages=&inDay=3&outDay=7&rdex=RDEX_77e2501d227de9048b442cfd2e3e7443&rooms=1&inMonth=11&inYear=2026&outMonth=11&outYear=2026&auid=f62befae-50ae-42f7-9401-01d3a7d2be91&def_d=false&bld=L_4,D_26,G_1,W_2,U_0,C_261103,T_7&bh=true&cs=157ffe972263d399b07a377042bedf546&ik=c1b5cda26db74c79ab1bfd97b143dfdc&aok=cd6685fbb9fa4addaaf2e13cab94b0d8&tp=MCP-ChatGPT-ClickToTA&pageLocId=8118189&m=70039",
+          "roomsRemaining": 27,
+          "merchandiseMessages": [
+            {
+              "message": "Fully refundable before Sat, Oct 31",
+              "type": "FREE_CANCELLATION"
+            }
+          ],
+          "status": "AVAILABLE"
+        },
+        {
+          "displayPrice": "$181",
+          "currencyCode": "USD",
+          "providerName": "Booking.com",
+          "providerRawName": "Booking.com",
+          "providerLogo": "img2/branding/hotels/Booking_Com_v2_384x164_Blue.png",
+          "isInstantBook": false,
+          "isMemberRate": false,
+          "commerceUrl": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=69604834&geo=8118189&from=HotelDateSearch_MCP&slot=2&matchID=1&oos=0&cnt=9&silo=6186&bucket=902940&nrank=1&crank=2&clt=D&ttype=DesktopMeta&tm=371322640&managed=false&capped=false&gosox=TP_8V-n5a5sEeVNI8JVgNmsRBOAYtdCpqrdZiQ_S5PjMTjJAGectovZrajJ6eICHLvlotsEypcpQJBwiTsaYH_bCOoA7uGvW95x51gbjD0j09ytLHnzqoI481ez1CcZI6-mu2-yi5_T5LbwOs0HqbT0F8U0a0d6LFSxu6xKIeP-c_8PX7C1qm97h_iQ26I2UaZ2W9Seg5xBdAOJGRdcAhowdx3JKbxRRM-lemeXX9Jl6EJpkAooakAksB0QAt1es40dkFKbEwAU8UuR19ghVIA&priceShown=180.69&pm=BPF&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rq=P&rate=180.69&taxesRate=20.08&feesRate=0.00&fees=20.08&cur=USD&adults=1&child_rm_ages=&inDay=3&outDay=7&rdex=RDEX_7637040c50a81decd7277fd5fb3652ed&rooms=1&inMonth=11&inYear=2026&outMonth=11&outYear=2026&auid=f62befae-50ae-42f7-9401-01d3a7d2be91&def_d=false&bld=L_4,D_26,G_1,W_2,U_0,C_261103,T_7&bh=true&cs=19f5dac00b3ff535bb37b441491293b27&ik=c1b5cda26db74c79ab1bfd97b143dfdc&aok=a4c29d6580b248bc80fce405589b3f39&tp=MCP-ChatGPT-ClickToTA&pageLocId=8118189&m=70039",
+          "roomsRemaining": -1,
+          "merchandiseMessages": [
+            {
+              "message": "Fully refundable before Fri, Oct 30",
+              "type": "FREE_CANCELLATION"
+            },
+            {
+              "message": "No prepayment needed",
+              "type": "NO_PREPAYMENT"
+            }
+          ],
+          "status": "AVAILABLE"
+        },
+        {
+          "displayPrice": "$201",
+          "currencyCode": "USD",
+          "providerName": "Hotels.com",
+          "providerRawName": "Hotels.com",
+          "providerLogo": "img2/branding/hotels/HCom_2026_en.png",
+          "isInstantBook": false,
+          "isMemberRate": false,
+          "commerceUrl": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=69389520&geo=8118189&from=HotelDateSearch_MCP&slot=3&matchID=1&oos=0&cnt=9&silo=6067&bucket=901711&nrank=3&crank=3&clt=D&ttype=DesktopMeta&tm=371322640&managed=false&capped=false&gosox=MpkLXtA6fJB-1m0zjCj0JFXFzVZNIJLDhhY9gMm7YzZBylwHV1f_4HT4DhPrdXi6Jxl9FHlQ9NwYLnXlYXx5QT2piqc28I3OqRudrmFtw--UyCmRDlO84RTPB7uy1TrEe1gd-Uj7Ws_BojG05NSZPgjhxwgxmACGHHjg5Qmz47c41VRw-8LKoYvQwwAd_zPgj_5qf0hCvw1A8TUAg-VjJZ4zVJgClUzKNRXxuujU-CizcdS2E-35Ca0r3EqsDMmvWGX0Lik9CyWM3DA44zj4SO4VKPDZ7dBKGGJBbGOUrHjefwV-GUlJWIl-Y6neuPB-&priceShown=201.00&pm=BPF&hac=AVAILABLE&mbl=LOSE&mbldelta=2000&rq=P&rate=201.00&taxesRate=20.10&feesRate=0.00&fees=20.10&cur=USD&adults=1&child_rm_ages=&inDay=3&outDay=7&rdex=RDEX_611593ea1745fabccaf776287dc4d7e7&rooms=1&inMonth=11&inYear=2026&outMonth=11&outYear=2026&auid=f62befae-50ae-42f7-9401-01d3a7d2be91&def_d=false&bld=L_4,D_26,G_1,W_2,U_0,C_261103,T_7&bh=true&cs=12c95c7ede174149f5ad96e1029e69b3b&ik=c1b5cda26db74c79ab1bfd97b143dfdc&aok=87ff7c3fda1740b6981fc97632567901&tp=MCP-ChatGPT-ClickToTA&pageLocId=8118189&m=70039",
+          "roomsRemaining": 27,
+          "merchandiseMessages": [
+            {
+              "message": "Fully refundable before Sat, Oct 31",
+              "type": "FREE_CANCELLATION"
+            }
+          ],
+          "status": "AVAILABLE"
+        }
+      ],
+      "priceDisclaimer": "Prices are provided by our partners, and reflect nightly room rates, including any mandatory fees. Taxes not included. Please see our partners for more details.",
+      "additionalDisclaimer": null,
+      "complete": true
+    },
+    "geoId": 8118189,
+    "travelInfo": {
+      "adults": 1,
+      "checkInDate": "2026-11-03",
+      "checkOutDate": "2026-11-07",
+      "usedDefaultDates": false,
+      "rooms": 1,
+      "childrenAges": []
+    },
+    "isRecommended": false
+  },
+  "hotelcomp2": {
+    "requestContext": {
+      "clientType": "DESKTOP",
+      "sessionId": "6209cd5eddf545968a2c50f4896ba406",
+      "pageViewId": "42faa86f-8cfb-4bc1-ad54-c68e7fa7d986",
+      "userAgent": null
+    },
+    "hotel": {
+      "id": 18185180,
+      "name": "Nine Tree by Parnas Seoul Insadong",
+      "rating": 4.2,
+      "priceRange": "$236 - $242",
+      "priceFrom": 236,
+      "currency": "USD",
+      "images": [
+        {
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/5e/37/a4/caption.jpg?w={width}&h={height}&s=1",
+          "caption": null,
+          "maxWidth": 3070,
+          "maxHeight": 2170
+        }
+      ],
+      "location": {
+        "address": "49, Insadong-gil, Jongno-gu, Seoul 03145 South Korea",
+        "latitude": 37.57453,
+        "longitude": 126.98333
+      },
+      "amenities": [
+        {
+          "name": "Paid public parking on-site",
+          "category": "propertyAmenities",
+          "icon": "parking",
+          "highlighted": true,
+          "tagId": 19054
+        },
+        {
+          "name": "Free High Speed Internet (WiFi)",
+          "category": "propertyAmenities",
+          "icon": "wifi",
+          "highlighted": true,
+          "tagId": 9176
+        },
+        {
+          "name": "Fitness Center with Gym / Workout Room",
+          "category": "propertyAmenities",
+          "icon": "fitness",
+          "highlighted": true,
+          "tagId": 9188
+        },
+        {
+          "name": "Restaurant",
+          "category": "propertyAmenities",
+          "icon": "food-drink",
+          "highlighted": true,
+          "tagId": 9165
+        },
+        {
+          "name": "Business Center with Internet Access",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 9187
+        },
+        {
+          "name": "Meeting rooms",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 9181
+        },
+        {
+          "name": "24-hour security",
+          "category": "propertyAmenities",
+          "icon": "hotels",
+          "highlighted": true,
+          "tagId": 19063
+        },
+        {
+          "name": "Baggage storage",
+          "category": "propertyAmenities",
+          "icon": "hotels",
+          "highlighted": true,
+          "tagId": 18896
+        }
+      ],
+      "description": "NINE TREE PREMIER HOTEL INSADONG is the third branch of Nine Tree Hotel, the business brand of Parnas Hotel Co., Ltd. specialized in hotel businesses. It is located in the best spot for convenient visits to Gyeongbokgung, Insa-dong, Gwanghwamun, and Cheonggyecheon Stream, representing the beauty of Korea. Located in Insadong full of Korean tastes and relaxations in the dynamic daily life of a splendid city, Nine Tree Hotel provides good rest and Korean traditional stylishness. It includes 301 super delux first class guestrooms and 4 meeting rooms as well as the all-day dining restaurant, Loungy 9, and rooftop garden.",
+      "propertyType": "Unknown",
+      "starRating": 4,
+      "contactInfo": null,
+      "policies": null,
+      "bestAwardForActiveYear": null,
+      "hotelStyleRankings": [
+        {
+          "styleName": "Mid-range"
+        },
+        {
+          "styleName": "Centrally Located"
+        },
+        {
+          "styleName": "Family"
+        }
+      ],
+      "absoluteUrl": "https://www.tripadvisor.com/Hotel_Review-g294197-d18185180-Reviews-Nine_Tree_by_Parnas_Seoul_Insadong-Seoul.html?staydates=2026_11_03_2026_11_07&uguests=1_1&m=70063",
+      "fullAddress": "49, Insadong-gil, Jongno-gu, Seoul 03145 South Korea",
+      "subRatings": {
+        "cleanliness": 4.652174,
+        "location": 4.885714,
+        "rooms": 4.3333335,
+        "service": 4.347826,
+        "sleepQuality": 4.419355,
+        "value": 4.263158
+      }
+    },
+    "offers": {
+      "lowestPrice": "$236",
+      "metaOffers": [
+        {
+          "displayPrice": "$242",
+          "currencyCode": "USD",
+          "providerName": "Trip.com",
+          "providerRawName": "Trip.com",
+          "providerLogo": "img2/branding/hotels/trip_logo_tripadvisor.png",
+          "isInstantBook": false,
+          "isMemberRate": false,
+          "commerceUrl": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=159340233&geo=18185180&from=HotelDateSearch_MCP&slot=1&matchID=1&oos=0&cnt=9&silo=9147&bucket=914469&nrank=4&crank=4&clt=D&ttype=DesktopMeta&tm=371322641&managed=false&capped=false&gosox=2W091KzolEyYVCHRIUwvKW0ulinmc8KR9Ys7FJwwoutrqq22oMJ4nrGH3oY0iyTwh3fQmbyPjN7si86iHIYsFpyUVsCzD4GPS_AozqDNC2gFo7IqH8HyMCX1VmiHL3cEQ40xjqG1g_9Dd5WF_xRJlK4P5XBrJvqxpJzcIUJQwaioZVO0Ki9zhl7OiZvwb0EMVBz-yx_o5ZKnVf3kXuAT9Q9-7kgCI4R_ecpTW3tRCGQUPIvzuKOczOLRE1lBrGe281Bxm_lyU0qHGDzF6cdN9w&priceShown=241.84&pm=BPF&hac=AVAILABLE&mbl=LOSE&mbldelta=600&rq=P&rate=241.84&taxesRate=24.19&feesRate=0.00&fees=24.19&cur=USD&adults=1&child_rm_ages=&inDay=3&outDay=7&rdex=RDEX_7799a13329c61df1ec8a789aceb142a9&rooms=1&inMonth=11&inYear=2026&outMonth=11&outYear=2026&auid=f65bfe3f-46eb-4174-9b5c-a743f3b3ef8e&def_d=false&bld=L_4,D_26,G_1,W_2,U_0,C_261103,T_7&bh=true&cs=12bbe1a97e307f86c82d37d2b35b1fbc3&ik=cd60dd60d21c45a596a9bbd5e75c0e19&aok=050a3aeaf77e47a58ae6ff752176a52c&tp=MCP-ChatGPT-ClickToTA&pageLocId=18185180&m=70039",
+          "roomsRemaining": -1,
+          "merchandiseMessages": [
+            {
+              "message": "Fully refundable before Mon, Oct 26",
+              "type": "FREE_CANCELLATION"
+            }
+          ],
+          "status": "AVAILABLE"
+        },
+        {
+          "displayPrice": "$236",
+          "currencyCode": "USD",
+          "providerName": "Agoda.com",
+          "providerRawName": "Agoda.com",
+          "providerLogo": "img2/branding/hotels/Agoda.png",
+          "isInstantBook": false,
+          "isMemberRate": false,
+          "commerceUrl": "https://www.tripadvisor.com/Commerce?p=Agoda&src=157712854&geo=18185180&from=HotelDateSearch_MCP&slot=2&matchID=1&oos=0&cnt=9&silo=6389&bucket=907415&nrank=5&crank=5&clt=D&ttype=DesktopMeta&tm=371322641&managed=false&capped=false&gosox=9m8gnE6q2XWOuJMga3BYp_AsUqh1IhDtFkQm1CpzDmfGg9wpt_u-oGKzULiPOnVoaVj3ieo0ToDMoQWp_HEMGzuNRgyubcVXFaEQZsBXMnuJeEf2NrVB7VkAQ9zZAZmnHF9PSFJBV7nP8BzYREOtg7yu_YTOZFjGAAm1JQKIA5O1qOaTcnZ27ExFoKLAEBFIkzZjzHG5oxe1G_CmMMHh3DAJqXtoCht10rj5YGJLN1KlIlBOUTMA2a-EwGXj7UrQq20E1EoLYM_SoX1EnPKYTjU8P64yjsrgVbcT3aZUp0w&priceShown=235.85&pm=BPF&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rq=P&rate=235.85&taxesRate=23.58&feesRate=0.00&fees=23.58&cur=USD&adults=1&child_rm_ages=&inDay=3&outDay=7&rdex=RDEX_4c9bd8ae8f0549f0d4fcef772a060d4b&rooms=1&inMonth=11&inYear=2026&outMonth=11&outYear=2026&auid=f65bfe3f-46eb-4174-9b5c-a743f3b3ef8e&def_d=false&bld=L_4,D_26,G_1,W_2,U_0,C_261103,T_7&bh=true&cs=132735457731bc0892068affa11ce1a9a&ik=cd60dd60d21c45a596a9bbd5e75c0e19&aok=8f1cca01f8544758b5e6df9c5c15b475&tp=MCP-ChatGPT-ClickToTA&pageLocId=18185180&m=70039",
+          "roomsRemaining": 1,
+          "merchandiseMessages": [
+            {
+              "message": "Fully refundable before Sat, Oct 24",
+              "type": "FREE_CANCELLATION"
+            }
+          ],
+          "status": "AVAILABLE"
+        }
+      ],
+      "priceDisclaimer": "Prices are provided by our partners, and reflect nightly room rates, including any mandatory fees. Taxes not included. Please see our partners for more details.",
+      "additionalDisclaimer": null,
+      "complete": true
+    },
+    "geoId": 18185180,
+    "travelInfo": {
+      "adults": 1,
+      "checkInDate": "2026-11-03",
+      "checkOutDate": "2026-11-07",
+      "usedDefaultDates": false,
+      "rooms": 1,
+      "childrenAges": []
+    },
+    "isRecommended": false
+  },
+  "newresearch1": {
+    "requestContext": {
+      "clientType": "DESKTOP",
+      "sessionId": "68730344c64a49c784a153dba4c193fc",
+      "pageViewId": "b4ec5306-ece1-4d1b-8ede-f58c13a7c748",
+      "userAgent": null
+    },
+    "toolRequestMetadata": {
+      "locale": "en-US",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+      "subject": "v1/DhGCSK98bobr2cfgPYRl49shWnLMpJkE0kjYo68L0s49O8W3derpvK"
+    },
+    "searchParameters": {
+      "travelInfo": {
+        "adults": 1,
+        "checkInDate": "2026-11-02",
+        "checkOutDate": "2026-11-05",
+        "usedDefaultDates": false,
+        "rooms": 1,
+        "childrenAges": []
+      },
+      "searchGeoData": {
+        "geoId": 297884,
+        "name": "Busan",
+        "lat": 35.115417,
+        "lon": 129.03625
+      }
+    },
+    "staticListMessages": {
+      "priceDisclaimer": {
+        "disclaimerText": "Prices are provided by our partners, and reflect nightly room rates, including any mandatory fees. Taxes not included. Please see our partners for more details.",
+        "moreInfoLinkText": null,
+        "moreInfoLinkUrl": null
+      }
+    },
+    "hotels": [
+      {
+        "hotelId": 477913,
+        "hotelName": "Ramada Encore by Wyndham - Busan Station",
+        "geocode": {
+          "latitude": 35.114315,
+          "longitude": 129.04025
+        },
+        "metaResult": {
+          "isFullMatch": true,
+          "primaryOffers": [
+            {
+              "availabilityStatus": "AVAILABLE",
+              "displayPrice": "$82",
+              "displayTaxesAndFees": "$8",
+              "isLowestPricedOffer": false,
+              "pricingMode": "BASE_PLUS_FEES",
+              "commerceUrl": "/Commerce?p=BookingCom&src=170119932&geo=477913&from=HotelDateSearch_MCP_Map&slot=1&matchID=1&oos=0&cnt=9&silo=6186&bucket=902940&nrank=1&crank=1&clt=D&ttype=DesktopMeta&tm=371322545&managed=false&capped=false&gosox=0CuEvMoDIw8mhUeXpn_S-2sRBOAYtdCpqrdZiQ_S5Pi-OaAcjKGMnVVsFAE7UXNbpqEgBMKl0-cIDjgGqy-moQkQ1PuqsC8v7cbSMx9nqjQFBVkoCBYp4lwSJfTEMlQ6xSxFFM0A94yfs_dfTrCNca2425Nu66peUosqcb7YucZRdD7xO39lOEi96rwUHaoWrxXeAe7TLMcGPnrZAZ2iqcJk7uA0yAKLcrk--RiWLiWo7xMO-fClvpLhgNydakeUCuuuSbphnIq93qYcDIxU0A&priceShown=81.79&pm=BPF&hac=AVAILABLE&mbl=LOSE&mbldelta=300&rq=P&rate=81.79&taxesRate=8.18&feesRate=0.00&fees=8.18&cur=USD&adults=1&child_rm_ages=&inDay=2&outDay=5&rdex=RDEX_568e84a4b611aa3045bc4b7db1786b51&rooms=1&inMonth=11&inYear=2026&outMonth=11&outYear=2026&auid=4702980a-8db7-47ac-bbb0-0a3342a8d449&def_d=false&bld=L_3,D_25,G_1,W_1,U_0,C_261102,T_7&bh=true&uf=P_-1,150&cs=15cd5d0ef2f66848938fd2a368cad33bd&ik=8efb6cfc01444f8581a6a06817991764&aok=8a29a2f7098d4ae181f482a884e7b0bd&tp=Hotels_MapDetail&m=70063"
+            }
+          ]
+        },
+        "thumbnail": {
+          "caption": "Property amenity"
+        },
+        "locationV2": {
+          "isGeo": false,
+          "names": {
+            "name": "Ramada Encore by Wyndham - Busan Station"
+          },
+          "geocode": {
+            "latitude": 35.114315,
+            "longitude": 129.04025
+          },
+          "hotelStyleRankings": [
+            {
+              "styleName": "City View"
+            },
+            {
+              "styleName": "Budget"
+            },
+            {
+              "styleName": "Business"
+            }
+          ]
+        },
+        "priceInfo": {
+          "availabilityStatus": "AVAILABLE",
+          "displayPrice": "$82",
+          "displayTaxesAndFees": "$8",
+          "isLowestPricedOffer": false,
+          "pricingMode": "BASE_PLUS_FEES",
+          "linkToBook": null
+        }
+      },
+      {
+        "hotelId": 14789559,
+        "hotelName": "Asti Hotel Busan Station",
+        "geocode": {
+          "latitude": 35.115894,
+          "longitude": 129.041679
+        },
+        "metaResult": {
+          "isFullMatch": true,
+          "primaryOffers": [
+            {
+              "availabilityStatus": "AVAILABLE",
+              "displayPrice": "$116",
+              "displayTaxesAndFees": "$12",
+              "isLowestPricedOffer": false,
+              "pricingMode": "BASE_PLUS_FEES",
+              "commerceUrl": "/Commerce?p=HotelsCom2&src=130448260&geo=14789559&from=HotelDateSearch_MCP_Map&slot=1&matchID=1&oos=0&cnt=9&silo=6067&bucket=901711&nrank=1&crank=1&clt=D&ttype=DesktopMeta&tm=371322545&managed=false&capped=false&gosox=7JyhDteRa7YX0q33vz_8mlXFzVZNIJLDhhY9gMm7YzbLhsQx_km1aYPOShQdHXaiSbDoX50uMEcoi4Jg8Ztf5xW_M4AvPbBvyaRmjIGnk4CUyCmRDlO84RTPB7uy1TrEe1gd-Uj7Ws_BojG05NSZPofsL93pdlR-bog3iEfzbQd7ZXjvbTWI2YM8Qet7y4yRgsBzOCJn0tyMIGcCM6ibl8hQoJ0F1MHtpSPDkaMvtclzBT90XgkEs16_DSwVIpZb4hXdN8xSOXouNW_rajUgCiZyAQ3eDreXiKP7y1DSbJH6_yLl2IH81rUej-GFP2uQ&priceShown=115.78&pm=BPF&hac=AVAILABLE&mbl=LOSE&mbldelta=1300&rq=P&rate=115.78&taxesRate=11.58&feesRate=0.00&fees=11.58&cur=USD&adults=1&child_rm_ages=&inDay=2&outDay=5&rdex=RDEX_2b80fdf95fe6c3e1dcd279563f2af0b4&rooms=1&inMonth=11&inYear=2026&outMonth=11&outYear=2026&auid=73984d7c-05e6-4c47-b5bb-4f815bf2ee09&def_d=false&bld=L_3,D_25,G_1,W_1,U_0,C_261102,T_7&bh=true&uf=P_-1,150&cs=1d9e2716cecfd5e64f8f0b17cf7d38c20&ik=8efb6cfc01444f8581a6a06817991764&aok=e93677db3cfd4c1e9f8f14c4bf303a71&tp=Hotels_MapDetail&m=70063"
+            }
+          ]
+        },
+        "thumbnail": {
+          "caption": ""
+        },
+        "locationV2": {
+          "isGeo": false,
+          "names": {
+            "name": "Asti Hotel Busan Station"
+          },
+          "geocode": {
+            "latitude": 35.115894,
+            "longitude": 129.041679
+          },
+          "hotelStyleRankings": [
+            {
+              "styleName": "Family"
+            },
+            {
+              "styleName": "Modern"
+            },
+            {
+              "styleName": "Great View"
+            }
+          ]
+        },
+        "priceInfo": {
+          "availabilityStatus": "AVAILABLE",
+          "displayPrice": "$116",
+          "displayTaxesAndFees": "$12",
+          "isLowestPricedOffer": false,
+          "pricingMode": "BASE_PLUS_FEES",
+          "linkToBook": null
+        }
+      },
+      {
+        "hotelId": 12726666,
+        "hotelName": "Stanford Inn Busan",
+        "geocode": {
+          "latitude": 35.098111,
+          "longitude": 129.029869
+        },
+        "metaResult": {
+          "isFullMatch": true,
+          "primaryOffers": [
+            {
+              "availabilityStatus": "AVAILABLE",
+              "displayPrice": "$88",
+              "displayTaxesAndFees": "$9",
+              "isLowestPricedOffer": false,
+              "pricingMode": "BASE_PLUS_FEES",
+              "commerceUrl": "/Commerce?p=BookingCom&src=116075474&geo=12726666&from=HotelDateSearch_MCP_Map&slot=1&matchID=1&oos=0&cnt=8&silo=6186&bucket=902940&nrank=1&crank=1&clt=D&ttype=DesktopMeta&tm=371322545&managed=false&capped=false&gosox=6F6hUZfnGd06J0Jxfjezh2sRBOAYtdCpqrdZiQ_S5PhjJLnrSqJKR6tAlxFpf8e14HXnrxv8nKRJaOspSUXpjav0p6LGEHc79E2hBZJhmpiJIsZeCQsr9lSemKMxyIQ3wHEEGtU_2ms_FqtygN1wLFYFlKUWQXEyR65nKbwfUhNmgDqEAGQneAngIJzue1iYrxXeAe7TLMcGPnrZAZ2iqcJk7uA0yAKLcrk--RiWLiWo7xMO-fClvpLhgNydakeUCuuuSbphnIq93qYcDIxU0A&priceShown=88.17&pm=BPF&hac=AVAILABLE&mbl=LOSE&mbldelta=400&rq=P&rate=88.17&taxesRate=8.82&feesRate=0.00&fees=8.82&cur=USD&adults=1&child_rm_ages=&inDay=2&outDay=5&rdex=RDEX_52459f65c741d02207c4091a11c27a74&rooms=1&inMonth=11&inYear=2026&outMonth=11&outYear=2026&auid=aba5c09e-43f5-4431-8ce7-32a22f739f23&def_d=false&bld=L_3,D_25,G_1,W_1,U_0,C_261102,T_7&bh=true&uf=P_-1,150&cs=1606156ae47ff6d1c3cbbcb1eb4a3e1a6&ik=8efb6cfc01444f8581a6a06817991764&aok=b088cce154e04ff2a6f353fb3b4000a6&tp=Hotels_MapDetail&m=70063"
+            }
+          ]
+        },
+        "thumbnail": {
+          "caption": "Stanford Inn Busan"
+        },
+        "locationV2": {
+          "isGeo": false,
+          "names": {
+            "name": "Stanford Inn Busan"
+          },
+          "geocode": {
+            "latitude": 35.098111,
+            "longitude": 129.029869
+          },
+          "hotelStyleRankings": [
+            {
+              "styleName": "Family"
+            },
+            {
+              "styleName": "Great View"
+            },
+            {
+              "styleName": "Mid-range"
+            }
+          ]
+        },
+        "priceInfo": {
+          "availabilityStatus": "AVAILABLE",
+          "displayPrice": "$88",
+          "displayTaxesAndFees": "$9",
+          "isLowestPricedOffer": false,
+          "pricingMode": "BASE_PLUS_FEES",
+          "linkToBook": null
+        }
+      },
+      {
+        "hotelId": 17337868,
+        "hotelName": "La Valse Hotel",
+        "geocode": {
+          "latitude": 35.094711,
+          "longitude": 129.039108
+        },
+        "metaResult": {
+          "isFullMatch": true,
+          "primaryOffers": [
+            {
+              "availabilityStatus": "AVAILABLE",
+              "displayPrice": "$99",
+              "displayTaxesAndFees": "$10",
+              "isLowestPricedOffer": false,
+              "pricingMode": "BASE_PLUS_FEES",
+              "commerceUrl": "/Commerce?p=CtripTA&src=153208029&geo=17337868&from=HotelDateSearch_MCP_Map&slot=1&matchID=1&oos=0&cnt=8&silo=9147&bucket=914469&nrank=1&crank=1&clt=D&ttype=DesktopMeta&tm=371322545&managed=false&capped=false&gosox=P2bCVDalidqy0Agd4qQfLt2I3chTzg6S7Wa87ytbqbw9KNTtj6yqL4ZQGAR5FcxBQ1-JlG5PupGkE582X-95kq2EAV8I8l8P57LuK9T9UPbnqWia2yJRSDnxFSrrhlZJ1dlUzvoNrVwlSP6A-W9fc2XKMU1Tg00j784SBNi43KMURcJZpxmOsah7rClXRaGBmT48400CjuKxackAFjm5YAMs0H8zuI5TVUXC2fhUybD4t4W1jSXKXH1k3HIAPxFNEgI-sGeN0v-NqBSEFzBt2g&priceShown=99.33&pm=BPF&hac=AVAILABLE&mbl=LOSE&mbldelta=1200&rq=P&rate=99.33&taxesRate=10.03&feesRate=0.00&fees=10.03&cur=USD&adults=1&child_rm_ages=&inDay=2&outDay=5&rdex=RDEX_746ca6a8b2bb87af969d9d3330a6ed71&rooms=1&inMonth=11&inYear=2026&outMonth=11&outYear=2026&auid=aa48157f-5dda-4c0b-9788-035630e68fde&def_d=false&bld=L_3,D_25,G_1,W_1,U_0,C_261102,T_7&bh=true&uf=P_-1,150&cs=11dbf3f0452c1cad6d75b9dc5ad5a1d49&ik=8efb6cfc01444f8581a6a06817991764&aok=4a25c83637cd4f16b7536f7675b98d6f&tp=Hotels_MapDetail&m=70063"
+            }
+          ]
+        },
+        "thumbnail": {
+          "caption": ""
+        },
+        "locationV2": {
+          "isGeo": false,
+          "names": {
+            "name": "La Valse Hotel"
+          },
+          "geocode": {
+            "latitude": 35.094711,
+            "longitude": 129.039108
+          },
+          "hotelStyleRankings": [
+            {
+              "styleName": "Mid-range"
+            },
+            {
+              "styleName": "Ocean View"
+            },
+            {
+              "styleName": "Romantic"
+            }
+          ]
+        },
+        "priceInfo": {
+          "availabilityStatus": "AVAILABLE",
+          "displayPrice": "$99",
+          "displayTaxesAndFees": "$10",
+          "isLowestPricedOffer": false,
+          "pricingMode": "BASE_PLUS_FEES",
+          "linkToBook": null
+        }
+      }
+    ],
+    "totalCount": 4,
+    "meta": {
+      "tripadvisor/serverVersion": "V2026_0327",
+      "ui": {
+        "visibility": [
+          "app",
+          "model"
+        ],
+        "resourceUri": "ui://widgets/HotelSearchWidgetSimpleV3"
+      }
+    },
+    "baseUrl": "https://production.ai-mcp-extensibility-prd.tamg.cloud/ogMvjY4De1G7CiHanMOAgddl"
+  },
+  "fitnessresearch0": {
+    "requestContext": {
+      "clientType": "DESKTOP",
+      "sessionId": "8ddd0cccebf1429e99a0a6d9cd1342fa",
+      "pageViewId": "990d2992-7cac-4ae5-8f03-8a8d0a793cea",
+      "userAgent": null
+    },
+    "hotel": {
+      "id": 18185180,
+      "name": "Nine Tree by Parnas Seoul Insadong",
+      "rating": 4.2,
+      "priceRange": "$262 - $334",
+      "priceFrom": 262,
+      "currency": "USD",
+      "images": [
+        {
+          "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/5e/37/a4/caption.jpg?w={width}&h={height}&s=1",
+          "caption": null,
+          "maxWidth": 3070,
+          "maxHeight": 2170
+        }
+      ],
+      "location": {
+        "address": "49, Insadong-gil, Jongno-gu, Seoul 03145 South Korea",
+        "latitude": 37.57453,
+        "longitude": 126.98333
+      },
+      "amenities": [
+        {
+          "name": "Paid public parking on-site",
+          "category": "propertyAmenities",
+          "icon": "parking",
+          "highlighted": true,
+          "tagId": 19054
+        },
+        {
+          "name": "Free High Speed Internet (WiFi)",
+          "category": "propertyAmenities",
+          "icon": "wifi",
+          "highlighted": true,
+          "tagId": 9176
+        },
+        {
+          "name": "Fitness Center with Gym / Workout Room",
+          "category": "propertyAmenities",
+          "icon": "fitness",
+          "highlighted": true,
+          "tagId": 9188
+        },
+        {
+          "name": "Restaurant",
+          "category": "propertyAmenities",
+          "icon": "food-drink",
+          "highlighted": true,
+          "tagId": 9165
+        },
+        {
+          "name": "Business Center with Internet Access",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 9187
+        },
+        {
+          "name": "Meeting rooms",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 9181
+        },
+        {
+          "name": "24-hour security",
+          "category": "propertyAmenities",
+          "icon": "hotels",
+          "highlighted": true,
+          "tagId": 19063
+        },
+        {
+          "name": "Baggage storage",
+          "category": "propertyAmenities",
+          "icon": "hotels",
+          "highlighted": true,
+          "tagId": 18896
+        }
+      ],
+      "description": "NINE TREE PREMIER HOTEL INSADONG is the third branch of Nine Tree Hotel, the business brand of Parnas Hotel Co., Ltd. specialized in hotel businesses. It is located in the best spot for convenient visits to Gyeongbokgung, Insa-dong, Gwanghwamun, and Cheonggyecheon Stream, representing the beauty of Korea. Located in Insadong full of Korean tastes and relaxations in the dynamic daily life of a splendid city, Nine Tree Hotel provides good rest and Korean traditional stylishness. It includes 301 super delux first class guestrooms and 4 meeting rooms as well as the all-day dining restaurant, Loungy 9, and rooftop garden.",
+      "propertyType": "Unknown",
+      "starRating": 4,
+      "contactInfo": null,
+      "policies": null,
+      "bestAwardForActiveYear": null,
+      "hotelStyleRankings": [
+        {
+          "styleName": "Mid-range"
+        },
+        {
+          "styleName": "Centrally Located"
+        },
+        {
+          "styleName": "Family"
+        }
+      ],
+      "absoluteUrl": "https://www.tripadvisor.com/Hotel_Review-g294197-d18185180-Reviews-Nine_Tree_by_Parnas_Seoul_Insadong-Seoul.html?staydates=2026_10_27_2026_10_31&uguests=1_1&m=70063",
+      "fullAddress": "49, Insadong-gil, Jongno-gu, Seoul 03145 South Korea",
+      "subRatings": {
+        "cleanliness": 4.652174,
+        "location": 4.885714,
+        "rooms": 4.3333335,
+        "service": 4.347826,
+        "sleepQuality": 4.419355,
+        "value": 4.263158
+      }
+    },
+    "offers": {
+      "lowestPrice": "$262",
+      "metaOffers": [
+        {
+          "displayPrice": "$334",
+          "currencyCode": "USD",
+          "providerName": "Trip.com",
+          "providerRawName": "Trip.com",
+          "providerLogo": "img2/branding/hotels/trip_logo_tripadvisor.png",
+          "isInstantBook": false,
+          "isMemberRate": false,
+          "commerceUrl": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=159340233&geo=18185180&from=HotelDateSearch_MCP&slot=1&matchID=1&oos=0&cnt=9&silo=9147&bucket=914469&nrank=4&crank=4&clt=D&ttype=DesktopMeta&tm=371322585&managed=false&capped=false&gosox=2W091KzolEyYVCHRIUwvKW0ulinmc8KR9Ys7FJwwoutrqq22oMJ4nrGH3oY0iyTwMCUAoUroykd2vyoMYc2S2qsTlu4KLxGc0LBIRT3wBMN76-E_kcJERupV9-t1d60sJCd1p9PhaJxtCfa6VVIOx6owidiYDyd6_x6ZMZdWzWXThdAevlk0qENsT_vkDb2JRy11pHfzpzaNU2SIYxnmMoteDTS0UYbNH2yH6FiUSTd_vBopaUh51ObTZuN5s5iJ3kkSRGhbu3_2qSLUxukesir5bIL0q8DuNTKsr6WSv5w&priceShown=333.65&pm=BPF&hac=AVAILABLE&mbl=LOSE&mbldelta=7200&rq=P&rate=333.65&taxesRate=33.35&feesRate=0.00&fees=33.35&cur=USD&adults=1&child_rm_ages=&inDay=27&outDay=31&rdex=RDEX_dcac7fd14219a5c06ceb499c8b93d85&rooms=1&inMonth=10&inYear=2026&outMonth=10&outYear=2026&auid=cb637894-df53-4798-9d9e-4801fa2a6e7a&def_d=false&bld=L_4,D_19,G_1,W_2,U_0,C_261027,T_7&bh=true&cs=1f5bc29e365accac5b58ed348f5c699bd&ik=6a4fc65fc7364ea486d1f4b59340b89d&aok=e22814860dd04ca4ad54d825e4035882&tp=MCP-ChatGPT-ClickToTA&pageLocId=18185180&m=70039",
+          "roomsRemaining": -1,
+          "merchandiseMessages": [],
+          "status": "AVAILABLE"
+        },
+        {
+          "displayPrice": "$262",
+          "currencyCode": "USD",
+          "providerName": "Agoda.com",
+          "providerRawName": "Agoda.com",
+          "providerLogo": "img2/branding/hotels/Agoda.png",
+          "isInstantBook": false,
+          "isMemberRate": false,
+          "commerceUrl": "https://www.tripadvisor.com/Commerce?p=Agoda&src=157712854&geo=18185180&from=HotelDateSearch_MCP&slot=2&matchID=1&oos=0&cnt=9&silo=6389&bucket=907415&nrank=5&crank=5&clt=D&ttype=DesktopMeta&tm=371322585&managed=false&capped=false&gosox=8CzZQSJckxKA5kTFTPWpjkr3DKnCTRsLu0FFfFl0UKmhJDyrDaA23f4_Y338a5Tr1WplWtxkLA-4IG4arx1IWvA7kl-da94yHfzyQzJzTPqM45815RHIIxqxlsPLIa05COVuIIrMAn0tJnnnnU16pjV3TKa5598maVgysZ32JLShACe8nrftiQbOOb7d7chaxPeTdAoJGsp0L7WWFZ3ucNURw4-fV20uIrv7HOoRmGlOOMgRKa1cCbgD1sKDFE7sptL09-sPoH5XhbpZLyngYShv1GOuRMY6Xb6MUwPYkw8&priceShown=262.22&pm=BPF&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rq=P&rate=262.22&taxesRate=26.23&feesRate=0.00&fees=26.23&cur=USD&adults=1&child_rm_ages=&inDay=27&outDay=31&rdex=RDEX_3669aab59da999d9248aa6bf508ad6c&rooms=1&inMonth=10&inYear=2026&outMonth=10&outYear=2026&auid=cb637894-df53-4798-9d9e-4801fa2a6e7a&def_d=false&bld=L_4,D_19,G_1,W_2,U_0,C_261027,T_7&bh=true&cs=1a07fe8fe20b3a8d791c232e98b412f82&ik=6a4fc65fc7364ea486d1f4b59340b89d&aok=4be98f35a2fc4f538f326e406672603f&tp=MCP-ChatGPT-ClickToTA&pageLocId=18185180&m=70039",
+          "roomsRemaining": 1,
+          "merchandiseMessages": [],
+          "status": "AVAILABLE"
+        }
+      ],
+      "priceDisclaimer": "Prices are provided by our partners, and reflect nightly room rates, including any mandatory fees. Taxes not included. Please see our partners for more details.",
+      "additionalDisclaimer": null,
+      "complete": true
+    },
+    "geoId": 18185180,
+    "travelInfo": {
+      "adults": 1,
+      "checkInDate": "2026-10-27",
+      "checkOutDate": "2026-10-31",
+      "usedDefaultDates": false,
+      "rooms": 1,
+      "childrenAges": []
+    },
+    "isRecommended": false
+  }
+}

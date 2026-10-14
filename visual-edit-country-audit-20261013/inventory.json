@@ -1,0 +1,314 @@
+[
+  {
+    "id": "01",
+    "name": "Are.na",
+    "url": "https://www.are.na/",
+    "coverage": "Global"
+  },
+  {
+    "id": "02",
+    "name": "Cosmos",
+    "url": "https://www.cosmos.so/",
+    "coverage": "Global"
+  },
+  {
+    "id": "03",
+    "name": "Eagle",
+    "url": "https://en.eagle.cool/",
+    "coverage": "Global"
+  },
+  {
+    "id": "04",
+    "name": "FigJam",
+    "url": "https://www.figma.com/figjam/",
+    "coverage": "Global"
+  },
+  {
+    "id": "05",
+    "name": "Inoreader",
+    "url": "https://www.inoreader.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "06",
+    "name": "Linkwarden",
+    "url": "https://linkwarden.app/",
+    "coverage": "Global"
+  },
+  {
+    "id": "07",
+    "name": "Milanote",
+    "url": "https://milanote.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "08",
+    "name": "PureRef",
+    "url": "https://www.pureref.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "09",
+    "name": "Raindrop.io",
+    "url": "https://raindrop.io/",
+    "coverage": "Global"
+  },
+  {
+    "id": "10",
+    "name": "Shaarli",
+    "url": "https://github.com/shaarli/Shaarli",
+    "coverage": "Global"
+  },
+  {
+    "id": "11",
+    "name": "TinEye",
+    "url": "https://tineye.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "12",
+    "name": "Wayback Machine",
+    "url": "https://web.archive.org/",
+    "coverage": "Global"
+  },
+  {
+    "id": "13",
+    "name": "Dazed",
+    "url": "https://www.dazeddigital.com/fashion",
+    "coverage": "Global"
+  },
+  {
+    "id": "14",
+    "name": "Dewu / 得物",
+    "url": "https://www.dewu.com/",
+    "coverage": "China"
+  },
+  {
+    "id": "15",
+    "name": "FASHIONSNAP",
+    "url": "https://www.fashionsnap.com/streetstyle/",
+    "coverage": "Japan"
+  },
+  {
+    "id": "16",
+    "name": "Jing Daily",
+    "url": "https://jingdaily.com/",
+    "coverage": "China"
+  },
+  {
+    "id": "17",
+    "name": "MUSINSA Snap",
+    "url": "https://www.musinsa.com/snap/main/recommend",
+    "coverage": "South Korea"
+  },
+  {
+    "id": "18",
+    "name": "NOWNESS",
+    "url": "https://www.nowness.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "19",
+    "name": "nss magazine",
+    "url": "https://www.nssmag.com/en/fashion",
+    "coverage": "Global"
+  },
+  {
+    "id": "20",
+    "name": "SHOWstudio",
+    "url": "https://www.showstudio.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "21",
+    "name": "Tagwalk",
+    "url": "https://www.tag-walk.com/en/",
+    "coverage": "Global"
+  },
+  {
+    "id": "22",
+    "name": "Tokyo Fashion",
+    "url": "https://tokyofashion.com/photos/",
+    "coverage": "Japan"
+  },
+  {
+    "id": "23",
+    "name": "Vestiaire Collective",
+    "url": "https://www.vestiairecollective.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "24",
+    "name": "Vogue China",
+    "url": "https://www.vogue.com.cn/",
+    "coverage": "China"
+  },
+  {
+    "id": "25",
+    "name": "Vogue Korea",
+    "url": "https://www.vogue.co.kr/",
+    "coverage": "South Korea"
+  },
+  {
+    "id": "26",
+    "name": "Vogue Runway",
+    "url": "https://www.vogue.com/fashion-shows",
+    "coverage": "Global"
+  },
+  {
+    "id": "27",
+    "name": "Xiaohongshu / 小红书",
+    "url": "https://www.xiaohongshu.com/",
+    "coverage": "China"
+  },
+  {
+    "id": "28",
+    "name": "032c",
+    "url": "https://www.032c.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "29",
+    "name": "AnOther",
+    "url": "https://www.anothermag.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "30",
+    "name": "i-D",
+    "url": "https://i-d.co/",
+    "coverage": "Global"
+  },
+  {
+    "id": "31",
+    "name": "Printed Matter",
+    "url": "https://www.printedmatter.org/",
+    "coverage": "Global"
+  },
+  {
+    "id": "32",
+    "name": "sabukaru",
+    "url": "https://sabukaru.online/",
+    "coverage": "Japan"
+  },
+  {
+    "id": "33",
+    "name": "System Magazine",
+    "url": "https://system-magazine.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "34",
+    "name": "The Gentlewoman",
+    "url": "https://thegentlewoman.co.uk/",
+    "coverage": "Global"
+  },
+  {
+    "id": "35",
+    "name": "Vestoj",
+    "url": "https://vestoj.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "36",
+    "name": "Business of Fashion",
+    "url": "https://www.businessoffashion.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "37",
+    "name": "FashionNetwork",
+    "url": "https://ww.fashionnetwork.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "38",
+    "name": "Heuritech",
+    "url": "https://heuritech.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "39",
+    "name": "Luxe.CO / 华丽志",
+    "url": "https://luxe.co/",
+    "coverage": "China"
+  },
+  {
+    "id": "40",
+    "name": "Apartamento",
+    "url": "https://www.apartamentomagazine.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "41",
+    "name": "Behance",
+    "url": "https://www.behance.net/",
+    "coverage": "Global"
+  },
+  {
+    "id": "42",
+    "name": "Designspiration",
+    "url": "https://www.designspiration.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "43",
+    "name": "It’s Nice That",
+    "url": "https://www.itsnicethat.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "44",
+    "name": "Magazine B",
+    "url": "https://magazine-b.com/",
+    "coverage": "South Korea"
+  },
+  {
+    "id": "45",
+    "name": "Europeana Textile",
+    "url": "https://www.europeana.eu/en/collections/topic/55-textile",
+    "coverage": "Global"
+  },
+  {
+    "id": "46",
+    "name": "firstVIEW",
+    "url": "https://www.firstview.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "47",
+    "name": "FIT Fashion History Timeline",
+    "url": "https://fashionhistory.fitnyc.edu/",
+    "coverage": "Global"
+  },
+  {
+    "id": "48",
+    "name": "Kyoto Costume Institute",
+    "url": "https://www.kci.or.jp/en/archives/",
+    "coverage": "Japan"
+  },
+  {
+    "id": "49",
+    "name": "V&A Fashion",
+    "url": "https://www.vam.ac.uk/collections/fashion",
+    "coverage": "Global"
+  },
+  {
+    "id": "50",
+    "name": "Vintage Fashion Guild",
+    "url": "https://vintagefashionguild.org/",
+    "coverage": "Global"
+  },
+  {
+    "id": "51",
+    "name": "Depop",
+    "url": "https://www.depop.com/",
+    "coverage": "Global"
+  },
+  {
+    "id": "52",
+    "name": "r/femalefashionadvice",
+    "url": "https://www.reddit.com/r/femalefashionadvice/",
+    "coverage": "Global"
+  }
+]

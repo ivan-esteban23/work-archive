@@ -1,0 +1,5 @@
+# Independent labels by country · 9 October 2026
+
+Added a new native section to the live Goth Rock Notion page: 15 labels across 11 countries in three regional tables. Every row includes label base, name, Bandcamp catalog/artist directory, official website/shop, and musical discovery guidance. Bandcamp source pages support bases and official domains; live website pages opened when accessible. Four website pages could not be read (AVANT!, Danse Macabre, Fabrika, InClub); the directory explicitly records that their domains are verified from official Bandcamp links but website contents/shop availability were not verified. SwissDarkNights official page opened but has limited readable text.
+
+Verified all 30 directory destination links in saved live content, three native tables, 27 preserved album/band image blocks and eight preserved database blocks. No ratings, listening sessions, purchases or external contacts inferred. Notion only; original local export and Obsidian unchanged. backup.json is the pre-edit page; directory.md and sources.json record inserted content and supporting source destinations; final-snapshot.json is live readback.

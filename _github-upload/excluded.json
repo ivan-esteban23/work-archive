@@ -1,0 +1,28 @@
+{
+  "files": {
+    "config.json": "potential credential content; review required",
+    "bin/obsidian": "symlink requires review",
+    "workstation-setup/backups/run-20261012-223807-jHARzO/community-registry.json": "potential credential content; review required",
+    "workstation-setup/backups/run-20261012-224209-1RKM6h/community-registry.json": "potential credential content; review required",
+    "workstation-setup/backups/run-20261012-224209-1RKM6h/sshd-effective.txt": "potential credential content; review required",
+    "workstation-setup/backups/run-20261012-224209-1RKM6h/obsidian-config-before/plugins/obsidian-tasks-plugin/main.js": "potential credential content; review required",
+    "opencode-mcp-setup-20261010/backup/opencode.json.bak-20261010": "credential assignments in configuration backup",
+    "opencode-mcp-setup-20261010/backup/opencode.json.bak-20261010-pre-crw": "credential assignments in configuration backup",
+    "opencode-mcp-setup-20261010/backup/opencode.json.bak-20261010-pre-notion-removal": "credential assignments in configuration backup",
+    "opencode-mcp-setup-20261010/backup/agent-env.sh.bak-20261010-pre-notion-removal": "credential assignments in configuration backup",
+    "opencode-mcp-setup-20261010/backup/opencode.json.bak-20261010-pre-notion-reenable": "credential assignments in configuration backup"
+  },
+  "directory_patterns": [
+    ".agents",
+    ".aws",
+    ".codex",
+    ".git",
+    ".venv",
+    "__pycache__",
+    "node_modules",
+    "venv",
+    "qa-profile-*",
+    "uv-cache"
+  ],
+  "preparation_directory": "github-upload-preparation-20261014"
+}

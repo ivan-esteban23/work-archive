@@ -1,0 +1,223 @@
+{
+  "layouts": [
+    {
+      "width": 390,
+      "mode": "light",
+      "overflow": false,
+      "dialog": {
+        "x": 19,
+        "y": 168.828125,
+        "width": 337,
+        "height": 562.34375,
+        "top": 168.828125,
+        "right": 356,
+        "bottom": 731.171875,
+        "left": 19
+      },
+      "focus": "app-close",
+      "sources": 52
+    },
+    {
+      "width": 390,
+      "mode": "dark",
+      "overflow": false,
+      "dialog": {
+        "x": 19,
+        "y": 168.828125,
+        "width": 337,
+        "height": 562.34375,
+        "top": 168.828125,
+        "right": 356,
+        "bottom": 731.171875,
+        "left": 19
+      },
+      "focus": "app-close",
+      "sources": 52
+    },
+    {
+      "width": 768,
+      "mode": "light",
+      "overflow": false,
+      "dialog": {
+        "x": 116.5,
+        "y": 236.015625,
+        "width": 520,
+        "height": 427.953125,
+        "top": 236.015625,
+        "right": 636.5,
+        "bottom": 663.96875,
+        "left": 116.5
+      },
+      "focus": "app-close",
+      "sources": 52
+    },
+    {
+      "width": 768,
+      "mode": "dark",
+      "overflow": false,
+      "dialog": {
+        "x": 116.5,
+        "y": 236.015625,
+        "width": 520,
+        "height": 427.953125,
+        "top": 236.015625,
+        "right": 636.5,
+        "bottom": 663.96875,
+        "left": 116.5
+      },
+      "focus": "app-close",
+      "sources": 52
+    },
+    {
+      "width": 1440,
+      "mode": "light",
+      "overflow": false,
+      "dialog": {
+        "x": 452.5,
+        "y": 228.171875,
+        "width": 520,
+        "height": 443.640625,
+        "top": 228.171875,
+        "right": 972.5,
+        "bottom": 671.8125,
+        "left": 452.5
+      },
+      "focus": "app-close",
+      "sources": 52
+    },
+    {
+      "width": 1440,
+      "mode": "dark",
+      "overflow": false,
+      "dialog": {
+        "x": 452.5,
+        "y": 228.171875,
+        "width": 520,
+        "height": 443.640625,
+        "top": 228.171875,
+        "right": 972.5,
+        "bottom": 671.8125,
+        "left": 452.5
+      },
+      "focus": "app-close",
+      "sources": 52
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "title": "The Visual Edit app",
+      "close": "Close",
+      "offline": "Offline ready: the directory, fonts, and cover are saved on this device. External source websites need internet.",
+      "overflow": false
+    },
+    {
+      "lang": "es",
+      "title": "La app de The Visual Edit",
+      "close": "Cerrar",
+      "offline": "Disponible sin conexión: el directorio, las fuentes y la portada están guardados en este dispositivo. Los sitios externos necesitan internet.",
+      "overflow": false
+    },
+    {
+      "lang": "zh-Hans",
+      "title": "The Visual Edit 应用",
+      "close": "关闭",
+      "offline": "离线内容已就绪：目录、字体和封面已保存在此设备上。外部网站仍需联网。",
+      "overflow": false
+    },
+    {
+      "lang": "zh-Hant",
+      "title": "The Visual Edit 應用程式",
+      "close": "關閉",
+      "offline": "離線內容已就緒：目錄、字型和封面已儲存在此裝置。外部網站仍需要網路。",
+      "overflow": false
+    },
+    {
+      "lang": "ja",
+      "title": "The Visual Edit アプリ",
+      "close": "閉じる",
+      "offline": "オフライン準備完了：ディレクトリ、フォント、表紙をこの端末に保存しました。外部サイトにはインターネット接続が必要です。",
+      "overflow": false
+    },
+    {
+      "lang": "ko",
+      "title": "The Visual Edit 앱",
+      "close": "닫기",
+      "offline": "오프라인 준비 완료: 디렉터리, 글꼴, 표지가 이 기기에 저장되었습니다. 외부 웹사이트에는 인터넷이 필요합니다.",
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "offlineReady": "Offline ready: the directory, fonts, and cover are saved on this device. External source websites need internet.",
+  "manifest": {
+    "url": "http://127.0.0.1:8768/manifest.webmanifest",
+    "errors": [],
+    "data": "{\n  \"id\": \"/\",\n  \"name\": \"The Visual Edit\",\n  \"short_name\": \"Visual Edit\",\n  \"description\": \"An editorial directory for visual research and moodboarding.\",\n  \"lang\": \"en\",\n  \"start_url\": \"/\",\n  \"scope\": \"/\",\n  \"display\": \"standalone\",\n  \"background_color\": \"#f4f0e8\",\n  \"theme_color\": \"#302923\",\n  \"icons\": [\n    {\n      \"src\": \"/icons/icon-192.png\",\n      \"sizes\": \"192x192\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"/icons/icon-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"/icons/maskable-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"maskable\"\n    }\n  ],\n  \"shortcuts\": [\n    {\n      \"name\": \"Source directory\",\n      \"url\": \"/#directory\"\n    },\n    {\n      \"name\": \"Browse countries\",\n      \"url\": \"/#asia-browse\"\n    }\n  ]\n}\n",
+    "parsed": {
+      "scope": "http://127.0.0.1:8768/"
+    },
+    "manifest": {
+      "backgroundColor": "rgba(244,240,232,1)",
+      "description": "An editorial directory for visual research and moodboarding.",
+      "display": "kStandalone",
+      "icons": [
+        {
+          "url": "http://127.0.0.1:8768/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:8768/icons/icon-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:8768/icons/maskable-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "id": "http://127.0.0.1:8768/",
+      "name": "The Visual Edit",
+      "orientation": "DEFAULT",
+      "preferRelatedApplications": false,
+      "scope": "http://127.0.0.1:8768/",
+      "shortcuts": [
+        {
+          "name": "Source directory",
+          "url": "http://127.0.0.1:8768/#directory"
+        },
+        {
+          "name": "Browse countries",
+          "url": "http://127.0.0.1:8768/#asia-browse"
+        }
+      ],
+      "startUrl": "http://127.0.0.1:8768/",
+      "themeColor": "rgba(48,41,35,1)"
+    }
+  },
+  "installability": {
+    "installabilityErrors": []
+  },
+  "cache": [
+    "/manifest.webmanifest",
+    "/favicon.svg",
+    "/icons/icon-512.png",
+    "/icons/icon-192.png",
+    "/icons/maskable-512.png",
+    "/icons/apple-touch-icon.png",
+    "/index.html"
+  ],
+  "offline": {
+    "sources": 52,
+    "favorites": "[\"https://www.are.na/\"]",
+    "fonts": "loaded",
+    "images": true
+  },
+  "syntheticPrompt": "prompt invoked once; dismissal handled",
+  "update": "new edition waited, explicit update activated, favorites preserved",
+  "file": {
+    "installHidden": true,
+    "manifestAbsent": true
+  }
+}

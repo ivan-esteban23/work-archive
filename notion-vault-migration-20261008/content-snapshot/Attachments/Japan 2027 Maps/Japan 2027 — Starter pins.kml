@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Japan 2027 — 11 sourced starter pins</name><Placemark><name>Sensō-ji</name><description>Tokyo / sightseeing
+Site coordinate; verify the entrance separately.
+Google Maps: https://www.google.com/maps/search/?api=1&amp;query=Sens%C5%8D-ji+tokyo+Japan
+Coordinate record: https://www.wikidata.org/wiki/Q615183</description><Point><coordinates>139.796639,35.714556,0</coordinates></Point></Placemark><Placemark><name>Shinjuku Gyoen</name><description>Tokyo / sightseeing
+Site coordinate; verify the entrance separately.
+Google Maps: https://www.google.com/maps/search/?api=1&amp;query=Shinjuku+Gyoen+tokyo+Japan
+Coordinate record: https://www.wikidata.org/wiki/Q776863</description><Point><coordinates>139.710644,35.687169,0</coordinates></Point></Placemark><Placemark><name>Ueno Park</name><description>Tokyo / sightseeing
+Site coordinate; verify the entrance separately.
+Google Maps: https://www.google.com/maps/search/?api=1&amp;query=Ueno+Park+tokyo+Japan
+Coordinate record: https://www.wikidata.org/wiki/Q746216</description><Point><coordinates>139.771111,35.712222,0</coordinates></Point></Placemark><Placemark><name>Tokyo Station</name><description>Tokyo / transport
+Site coordinate; verify the entrance separately.
+Google Maps: https://www.google.com/maps/search/?api=1&amp;query=Tokyo+Station+tokyo+Japan
+Coordinate record: https://www.wikidata.org/wiki/Q283196</description><Point><coordinates>139.766944,35.680833,0</coordinates></Point></Placemark><Placemark><name>Shibuya Station</name><description>Tokyo / transport
+Site coordinate; verify the entrance separately.
+Google Maps: https://www.google.com/maps/search/?api=1&amp;query=Shibuya+Station+tokyo+Japan
+Coordinate record: https://www.wikidata.org/wiki/Q428811</description><Point><coordinates>139.701331,35.658514,0</coordinates></Point></Placemark><Placemark><name>Kiyomizu-dera</name><description>Kyoto / sightseeing
+Site coordinate; verify the entrance separately.
+Google Maps: https://www.google.com/maps/search/?api=1&amp;query=Kiyomizu-dera+kyoto+Japan
+Coordinate record: https://www.wikidata.org/wiki/Q221716</description><Point><coordinates>135.785003,34.994831,0</coordinates></Point></Placemark><Placemark><name>Fushimi Inari-taisha</name><description>Kyoto / sightseeing
+Site coordinate; verify the entrance separately.
+Google Maps: https://www.google.com/maps/search/?api=1&amp;query=Fushimi+Inari-taisha+kyoto+Japan
+Coordinate record: https://www.wikidata.org/wiki/Q714828</description><Point><coordinates>135.773386,34.967202,0</coordinates></Point></Placemark><Placemark><name>Yasaka Shrine</name><description>Kyoto / sightseeing
+Site coordinate; verify the entrance separately.
+Google Maps: https://www.google.com/maps/search/?api=1&amp;query=Yasaka+Shrine+kyoto+Japan
+Coordinate record: https://www.wikidata.org/wiki/Q692714</description><Point><coordinates>135.778529,35.003645,0</coordinates></Point></Placemark><Placemark><name>Nijō Castle</name><description>Kyoto / sightseeing
+Site coordinate; verify the entrance separately.
+Google Maps: https://www.google.com/maps/search/?api=1&amp;query=Nij%C5%8D+Castle+kyoto+Japan
+Coordinate record: https://www.wikidata.org/wiki/Q1013399</description><Point><coordinates>135.7475,35.014167,0</coordinates></Point></Placemark><Placemark><name>Kyoto Station</name><description>Kyoto / transport
+Site coordinate; verify the entrance separately.
+Google Maps: https://www.google.com/maps/search/?api=1&amp;query=Kyoto+Station+kyoto+Japan
+Coordinate record: https://www.wikidata.org/wiki/Q801046</description><Point><coordinates>135.758611,34.985556,0</coordinates></Point></Placemark><Placemark><name>Byōdō-in — optional Uji excursion</name><description>Uji / sightseeing
+Site coordinate; verify the entrance separately.
+Google Maps: https://www.google.com/maps/search/?api=1&amp;query=By%C5%8Dd%C5%8D-in+uji+Japan
+Coordinate record: https://www.wikidata.org/wiki/Q61094</description><Point><coordinates>135.807778,34.889444,0</coordinates></Point></Placemark></Document></kml>

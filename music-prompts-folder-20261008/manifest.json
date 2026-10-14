@@ -1,0 +1,51 @@
+[
+  {
+    "target": "/home/ivanaguilera/Documents/Obsidian Vault/Music Prompts/Music Prompt Library.md",
+    "source": "/home/ivanaguilera/Documents/Obsidian Vault/Music Prompts/Music Prompt Library.md",
+    "expected": null,
+    "staged": "0-Music Prompt Library.md",
+    "move": false
+  },
+  {
+    "target": "/home/ivanaguilera/Documents/Obsidian Vault/Music Prompts/Music Project Starter Template.md",
+    "source": "/home/ivanaguilera/Documents/Obsidian Vault/Music Prompts/Music Project Starter Template.md",
+    "expected": null,
+    "staged": "1-Music Project Starter Template.md",
+    "move": false
+  },
+  {
+    "target": "/home/ivanaguilera/Documents/Obsidian Vault/Music Prompts/Death Metal — ChatGPT Project Prompts.md",
+    "source": "/home/ivanaguilera/Documents/Obsidian Vault/Death Metal — ChatGPT Project Prompts.md",
+    "expected": "630cbd7d762663dc2e0b2efb5df36ded0b88fe737457ed5fc3df879b8867e095",
+    "staged": "2-Death Metal — ChatGPT Project Prompts.md",
+    "move": true
+  },
+  {
+    "target": "/home/ivanaguilera/Documents/Obsidian Vault/Music Prompts/Death Metal — ChatGPT Project Instructions.md",
+    "source": "/home/ivanaguilera/Documents/Obsidian Vault/Death Metal — ChatGPT Project Instructions.md",
+    "expected": "8f010559364add20ad8eca8b7a51a9c3df5305d641fba9bfa4243c2e89eceef6",
+    "staged": "3-Death Metal — ChatGPT Project Instructions.md",
+    "move": true
+  },
+  {
+    "target": "/home/ivanaguilera/Documents/Obsidian Vault/Death Metal — Start Here.md",
+    "source": "/home/ivanaguilera/Documents/Obsidian Vault/Death Metal — Start Here.md",
+    "expected": "9394dbc3a0e60b3dc67d4e69116cec2b01e760d691d5bbb9b16f201e8be4ae6a",
+    "staged": "4-Death Metal — Start Here.md",
+    "move": false
+  },
+  {
+    "target": "/home/ivanaguilera/Documents/Obsidian Vault/Death Metal — Research and Sources 2026-10-08.md",
+    "source": "/home/ivanaguilera/Documents/Obsidian Vault/Death Metal — Research and Sources 2026-10-08.md",
+    "expected": "bfc805756d94789e4ebe83e6ef9bd5d3f9bb6f184127ae00890d70d95a81810b",
+    "staged": "5-Death Metal — Research and Sources 2026-10-08.md",
+    "move": false
+  },
+  {
+    "target": "/home/ivanaguilera/Work/AGENTS.md",
+    "source": "/home/ivanaguilera/Work/AGENTS.md",
+    "expected": "5a1529d83c8e988efac91b423acc3efd4bea96a701ed1394535acffe84af88f2",
+    "staged": "6-AGENTS.md",
+    "move": false
+  }
+]

@@ -1,0 +1,67 @@
+Black Metal — Start Here [see 01_Project_Context_and_Method.txt] · Music Prompt Library [vault navigation]
+
+# Black Metal — History, Subgenres and Classics
+
+Checked 2026-10-08. The listening routes and cues below are editorial suggestions grounded in the cited sources, not claims of direct audio listening.
+
+## Historical outline
+
+**1980s roots:** Venom, Bathory, and Hellhammer helped shape the first wave. **Early 1990s Norway:** Mayhem, Darkthrone, Emperor, Burzum, Immortal, and others sharpened the sound around an interconnected underground. Murder and church burnings were part of that scene’s history, but do not explain every musical development or international artist. This outline uses [MasterClass: Black Metal Music Guide](https://www.masterclass.com/articles/black-metal-music-guide).
+
+**Beyond Norway:** Czech, Greek, Swedish, and Finnish records offer parallel listening routes. The 1990s selection below makes those contrasts visible; it is not an origin census. See [Dayal Patterson / Metal Hammer: 20 of the best black metal albums from the 1990s](https://www.loudersound.com/features/20-of-the-best-black-metal-albums-from-the-1990s).
+
+**Later expansion:** use Two Hunters (2007) as one American atmospheric entry point, not the invention of that style. Artist catalog: [Wolves in the Throne Room: Two Hunters](https://wolvesinthethroneroom.bandcamp.com/album/two-hunters). Subsequent research should develop the 2000s–2020s in separate sourced chapters.
+
+History chapters still needed: precursors and tape trading; independent labels; Norwegian events with corroborated chronology; Greece/Finland/Sweden; Central/Eastern Europe; US/Canada; Latin America including Chile; Asia and other documented scenes; digital distribution and modern crossover. Regional membership does not imply every band shares a sound or ideology.
+
+## Working style map
+
+These practical cues are a provisional synthesis, not a fixed universal taxonomy. Orientation: [Wikipedia: Black metal](https://en.wikipedia.org/wiki/Black_metal) and [MasterClass: Black Metal Music Guide](https://www.masterclass.com/articles/black-metal-music-guide). Album-specific examples and boundaries should be researched before expanding each branch.
+
+| Style / descriptor | Listening cue |
+| --- | --- |
+| Traditional / second-wave | Tremolo riffs, harsh vocals |
+| Raw | Abrasive, sparse recording |
+| Melodic | Foregrounded guitar melody |
+| Symphonic | Orchestral/keyboard layers |
+| Atmospheric | Long immersive structures |
+| Ambient black metal | Ambient textures alongside metal |
+| Folk / pagan-associated | Folk material; thematic overlap |
+| Black/doom | Doom weight and pacing |
+| Depressive / DSBM | Despair-centered expressive approach |
+| Black/death | Death-metal hybrid vocabulary |
+| War metal / bestial | Dense black/death extremity |
+| Black/thrash | Thrash-driven attack |
+| Black ’n’ roll | Rock-oriented rhythmic drive |
+| Industrial | Electronic/mechanical textures |
+| Avant-garde / dissonant | Unconventional harmony/structure |
+| Post-black / blackgaze | Post-rock/shoegaze crossover |
+
+Raw is often a production description; Hellenic is a regional label; pagan can describe themes; Viking metal and dungeon synth are neighboring categories with overlapping personnel. NSBM and RABM concern ideology, not a distinctive sonic recipe. Never infer affiliations from imagery or geography alone. Cite reliable evidence when a specific artist’s politics matter to a question.
+
+## Twelve classic entry points
+
+Original years are used; title searches may return reissues, covers, or unrelated editions. Confirm the artist and version before playing. A search link is not a verified album URI or proof of availability in your region.
+
+| Artist / album | Original year | Why include it | Evidence / listening |
+| --- | --- | --- | --- |
+| Venom — Black Metal | 1982 | First-wave naming landmark | [Venom / BMG: In Nomine Satanas anniversary flyer](https://venomslegions.com/news/ads-mags-pix/venom-40yearsinsodom-flyer-2019.pdf) · [Spotify title search](https://open.spotify.com/search/Venom%20Black%20Metal) |
+| Bathory — Under the Sign of the Black Mark | 1987 | Early Scandinavian foundation | [Apple Music: Under the Sign of the Black Mark](https://music.apple.com/us/album/under-the-sign-of-the-black-mark/290061167) · [Spotify title search](https://open.spotify.com/search/Bathory%20Under%20the%20Sign%20of%20the%20Black%20Mark) |
+| Master’s Hammer — Ritual | 1991 | Czech bridge between waves | [Dayal Patterson / Metal Hammer: 20 of the best black metal albums from the 1990s](https://www.loudersound.com/features/20-of-the-best-black-metal-albums-from-the-1990s) · [Spotify title search](https://open.spotify.com/search/Master%E2%80%99s%20Hammer%20Ritual) |
+| Darkthrone — A Blaze in the Northern Sky | 1992 | Norwegian transformation | [Peaceville: Darkthrone](https://peaceville.com/bands/darkthrone/) · [Spotify title search](https://open.spotify.com/search/Darkthrone%20A%20Blaze%20in%20the%20Northern%20Sky) |
+| Immortal — Pure Holocaust | 1993 | Fast, icy attack | [Dayal Patterson / Metal Hammer: 20 of the best black metal albums from the 1990s](https://www.loudersound.com/features/20-of-the-best-black-metal-albums-from-the-1990s) · [Spotify title search](https://open.spotify.com/search/Immortal%20Pure%20Holocaust) |
+| Emperor — In the Nightside Eclipse | 1994 | Layered orchestral ambition | [Metal Hammer: Emperor and In the Nightside Eclipse](https://www.loudersound.com/features/emperor-band-story-behind-in-the-nightside-eclipse) · [Spotify title search](https://open.spotify.com/search/Emperor%20In%20the%20Nightside%20Eclipse) |
+| Mayhem — De Mysteriis Dom Sathanas | 1994 | Distinctive vocal/drum identity | [Dayal Patterson / Metal Hammer: 20 of the best black metal albums from the 1990s](https://www.loudersound.com/features/20-of-the-best-black-metal-albums-from-the-1990s) · [Spotify title search](https://open.spotify.com/search/Mayhem%20De%20Mysteriis%20Dom%20Sathanas) |
+| Rotting Christ — Non Serviam | 1994 | Greek scene contrast | [Dayal Patterson / Metal Hammer: 20 of the best black metal albums from the 1990s](https://www.loudersound.com/features/20-of-the-best-black-metal-albums-from-the-1990s) · [Spotify title search](https://open.spotify.com/search/Rotting%20Christ%20Non%20Serviam) |
+| Ulver — Bergtatt | 1995 | Folk and clean-vocal contrast | [Dayal Patterson / Metal Hammer: 20 of the best black metal albums from the 1990s](https://www.loudersound.com/features/20-of-the-best-black-metal-albums-from-the-1990s) · [Spotify title search](https://open.spotify.com/search/Ulver%20Bergtatt) |
+| Dissection — Storm of the Light’s Bane | 1995 | Melodic black/death boundary | [Dayal Patterson / Metal Hammer: 20 of the best black metal albums from the 1990s](https://www.loudersound.com/features/20-of-the-best-black-metal-albums-from-the-1990s) · [Spotify title search](https://open.spotify.com/search/Dissection%20Storm%20of%20the%20Light%E2%80%99s%20Bane) |
+| Satyricon — Nemesis Divina | 1996 | Norwegian mid-decade contrast | [Dayal Patterson / Metal Hammer: 20 of the best black metal albums from the 1990s](https://www.loudersound.com/features/20-of-the-best-black-metal-albums-from-the-1990s) · [Spotify title search](https://open.spotify.com/search/Satyricon%20Nemesis%20Divina) |
+| Wolves in the Throne Room — Two Hunters | 2007 | Atmospheric American direction | [Wolves in the Throne Room: Two Hunters](https://wolvesinthethroneroom.bandcamp.com/album/two-hunters) · [Spotify title search](https://open.spotify.com/search/Wolves%20in%20the%20Throne%20Room%20Two%20Hunters) |
+
+## Listening routes
+
+**Chronological:** Venom → Bathory → Master’s Hammer → Darkthrone → Emperor/Mayhem → Ulver → Two Hunters. Take two or three at a time.
+
+**By sound:** compare Darkthrone/Mayhem for starkness and identity; Emperor for layering; Rotting Christ/Dissection for contrasting melodic approaches; Ulver/Two Hunters for folk and atmosphere. These groupings are navigation aids, not exclusive labels.
+
+For each album note how riffs change, whether repetition creates momentum or immersion, how vocals sit in the mix, and whether production supports the music. A classic’s historical importance and your enjoyment can differ.

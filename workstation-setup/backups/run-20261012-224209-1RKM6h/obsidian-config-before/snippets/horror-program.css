@@ -1,0 +1,106 @@
+/* Scoped to the horror program note. */
+.horror-program {
+  --horror-accent: #c35c60;
+  --horror-line: color-mix(in srgb, var(--horror-accent) 28%, transparent);
+  --file-line-width: 820px;
+}
+.horror-program .horror-kicker {
+  color: var(--horror-accent);
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .22em;
+  margin-top: 2rem;
+}
+.horror-program.markdown-preview-view h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.4rem, 6vw, 4.4rem);
+  font-weight: 400;
+  letter-spacing: -.045em;
+  line-height: 1.08;
+  margin: .65rem 0 .5rem;
+}
+.horror-program .horror-deck {
+  color: var(--text-muted);
+  font-size: 1.12rem;
+  margin-bottom: 1.7rem;
+}
+.horror-program.markdown-preview-view h2 {
+  border-top: 1px solid var(--horror-line);
+  color: var(--horror-accent);
+  font-size: 1.05rem;
+  letter-spacing: .06em;
+  padding-top: 1.4rem;
+  margin-top: 2.5rem;
+}
+.horror-program.markdown-preview-view h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.65rem;
+  font-weight: 400;
+  margin-top: 2rem;
+  margin-bottom: .4rem;
+}
+.horror-program.markdown-preview-view p { line-height: 1.75; }
+.horror-program.markdown-preview-view p code {
+  background: color-mix(in srgb, var(--horror-accent) 12%, var(--background-primary));
+  border: 1px solid var(--horror-line);
+  color: var(--horror-accent);
+  font-size: .68rem;
+  letter-spacing: .07em;
+  padding: .2em .55em;
+  border-radius: 3px;
+}
+.horror-program .callout {
+  border: 1px solid var(--horror-line);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--horror-accent) 5%, var(--background-primary));
+  --callout-color: 195, 92, 96;
+  padding: 1rem 1.2rem;
+  margin: 1.4rem 0;
+}
+.horror-program.markdown-preview-view hr {
+  border-color: var(--horror-line);
+  margin: 2.5rem 0;
+}
+@media (max-width: 600px) {
+  .horror-program .horror-kicker { letter-spacing: .12em; }
+  .horror-program.markdown-preview-view h3 { font-size: 1.4rem; }
+}
+
+/* Poster layout: complete artwork beside each entry, stacked on phones. */
+.horror-program.markdown-preview-view .image-embed {
+  float: left;
+  width: 170px;
+  max-width: 35%;
+  margin: .25rem 1.5rem 1.2rem 0;
+}
+.horror-program.markdown-preview-view .image-embed img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 5px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.22);
+}
+.horror-program.markdown-preview-view h2,
+.horror-program.markdown-preview-view h3,
+.horror-program.markdown-preview-view hr,
+.horror-program.markdown-preview-view .callout { clear: both; }
+.horror-program.markdown-preview-view h3 { padding-top: .6rem; }
+.horror-program.markdown-preview-view .callout-content { display: flow-root; }
+.horror-program.markdown-preview-view .callout .image-embed { margin-top: .5rem; }
+@media (max-width: 500px) {
+  .horror-program.markdown-preview-view .image-embed {
+    float: none;
+    max-width: 100%;
+    margin: .8rem 0 1rem;
+    width: 150px;
+  }
+}
+
+/* Additional Asian film entries. */
+.horror-program.markdown-preview-view h4 {
+  clear: both;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.3rem;
+  font-weight: 400;
+  margin: 1.8rem 0 .4rem;
+}

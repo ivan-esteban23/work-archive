@@ -1,0 +1,932 @@
+{
+  "cases": [
+    {
+      "width": 320,
+      "locale": "en",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "Find emerging photographers and artists for portrait and mood references."
+    },
+    {
+      "width": 320,
+      "locale": "es",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "Descubre fotógrafos y artistas emergentes como referencias de retratos y atmósfera."
+    },
+    {
+      "width": 320,
+      "locale": "zh-Hans",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "寻找新锐摄影师和艺术家，作为肖像与氛围参考。"
+    },
+    {
+      "width": 320,
+      "locale": "zh-Hant",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "尋找新銳攝影師和藝術家，作為肖像與氛圍參考。"
+    },
+    {
+      "width": 320,
+      "locale": "ja",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "新進の写真家やアーティストから、ポートレートや雰囲気の参考を探す。"
+    },
+    {
+      "width": 320,
+      "locale": "ko",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "신진 사진가와 예술가에게서 인물 사진과 분위기 참고 자료를 찾으세요."
+    },
+    {
+      "width": 390,
+      "locale": "en",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.14,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "Find emerging photographers and artists for portrait and mood references."
+    },
+    {
+      "width": 390,
+      "locale": "es",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.14,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "Descubre fotógrafos y artistas emergentes como referencias de retratos y atmósfera."
+    },
+    {
+      "width": 390,
+      "locale": "zh-Hans",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.14,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "寻找新锐摄影师和艺术家，作为肖像与氛围参考。"
+    },
+    {
+      "width": 390,
+      "locale": "zh-Hant",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.14,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "尋找新銳攝影師和藝術家，作為肖像與氛圍參考。"
+    },
+    {
+      "width": 390,
+      "locale": "ja",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.14,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "新進の写真家やアーティストから、ポートレートや雰囲気の参考を探す。"
+    },
+    {
+      "width": 390,
+      "locale": "ko",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 1,
+        "gridX": 16,
+        "headingX": 16,
+        "controlsX": 16
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.14,
+        "cover": 48,
+        "section": 32,
+        "title": 20
+      },
+      "newText": "신진 사진가와 예술가에게서 인물 사진과 분위기 참고 자료를 찾으세요."
+    },
+    {
+      "width": 640,
+      "locale": "en",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.64,
+        "cover": 57.6,
+        "section": 36.8,
+        "title": 20.96
+      },
+      "newText": "Find emerging photographers and artists for portrait and mood references."
+    },
+    {
+      "width": 640,
+      "locale": "es",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.64,
+        "cover": 57.6,
+        "section": 36.8,
+        "title": 20.96
+      },
+      "newText": "Descubre fotógrafos y artistas emergentes como referencias de retratos y atmósfera."
+    },
+    {
+      "width": 640,
+      "locale": "zh-Hans",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.64,
+        "cover": 51.2,
+        "section": 36.8,
+        "title": 20.96
+      },
+      "newText": "寻找新锐摄影师和艺术家，作为肖像与氛围参考。"
+    },
+    {
+      "width": 640,
+      "locale": "zh-Hant",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.64,
+        "cover": 51.2,
+        "section": 36.8,
+        "title": 20.96
+      },
+      "newText": "尋找新銳攝影師和藝術家，作為肖像與氛圍參考。"
+    },
+    {
+      "width": 640,
+      "locale": "ja",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.64,
+        "cover": 51.2,
+        "section": 36.8,
+        "title": 20.96
+      },
+      "newText": "新進の写真家やアーティストから、ポートレートや雰囲気の参考を探す。"
+    },
+    {
+      "width": 640,
+      "locale": "ko",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.64,
+        "cover": 51.2,
+        "section": 36.8,
+        "title": 20.96
+      },
+      "newText": "신진 사진가와 예술가에게서 인물 사진과 분위기 참고 자료를 찾으세요."
+    },
+    {
+      "width": 768,
+      "locale": "en",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.896,
+        "cover": 62.72,
+        "section": 39.36,
+        "title": 21.472
+      },
+      "newText": "Find emerging photographers and artists for portrait and mood references."
+    },
+    {
+      "width": 768,
+      "locale": "es",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.896,
+        "cover": 62.72,
+        "section": 39.36,
+        "title": 21.472
+      },
+      "newText": "Descubre fotógrafos y artistas emergentes como referencias de retratos y atmósfera."
+    },
+    {
+      "width": 768,
+      "locale": "zh-Hans",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.896,
+        "cover": 55.04,
+        "section": 39.36,
+        "title": 21.472
+      },
+      "newText": "寻找新锐摄影师和艺术家，作为肖像与氛围参考。"
+    },
+    {
+      "width": 768,
+      "locale": "zh-Hant",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.896,
+        "cover": 55.04,
+        "section": 39.36,
+        "title": 21.472
+      },
+      "newText": "尋找新銳攝影師和藝術家，作為肖像與氛圍參考。"
+    },
+    {
+      "width": 768,
+      "locale": "ja",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.896,
+        "cover": 55.04,
+        "section": 39.36,
+        "title": 21.472
+      },
+      "newText": "新進の写真家やアーティストから、ポートレートや雰囲気の参考を探す。"
+    },
+    {
+      "width": 768,
+      "locale": "ko",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 16.896,
+        "cover": 55.04,
+        "section": 39.36,
+        "title": 21.472
+      },
+      "newText": "신진 사진가와 예술가에게서 인물 사진과 분위기 참고 자료를 찾으세요."
+    },
+    {
+      "width": 1000,
+      "locale": "en",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.36,
+        "cover": 72,
+        "section": 44,
+        "title": 22.4
+      },
+      "newText": "Find emerging photographers and artists for portrait and mood references."
+    },
+    {
+      "width": 1000,
+      "locale": "es",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.36,
+        "cover": 72,
+        "section": 44,
+        "title": 22.4
+      },
+      "newText": "Descubre fotógrafos y artistas emergentes como referencias de retratos y atmósfera."
+    },
+    {
+      "width": 1000,
+      "locale": "zh-Hans",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.36,
+        "cover": 62,
+        "section": 44,
+        "title": 22.4
+      },
+      "newText": "寻找新锐摄影师和艺术家，作为肖像与氛围参考。"
+    },
+    {
+      "width": 1000,
+      "locale": "zh-Hant",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.36,
+        "cover": 62,
+        "section": 44,
+        "title": 22.4
+      },
+      "newText": "尋找新銳攝影師和藝術家，作為肖像與氛圍參考。"
+    },
+    {
+      "width": 1000,
+      "locale": "ja",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.36,
+        "cover": 62,
+        "section": 44,
+        "title": 22.4
+      },
+      "newText": "新進の写真家やアーティストから、ポートレートや雰囲気の参考を探す。"
+    },
+    {
+      "width": 1000,
+      "locale": "ko",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 2,
+        "gridX": 32,
+        "headingX": 32,
+        "controlsX": 32
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.36,
+        "cover": 62,
+        "section": 44,
+        "title": 22.4
+      },
+      "newText": "신진 사진가와 예술가에게서 인물 사진과 분위기 참고 자료를 찾으세요."
+    },
+    {
+      "width": 1200,
+      "locale": "en",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.76,
+        "cover": 80,
+        "section": 48,
+        "title": 23.2
+      },
+      "newText": "Find emerging photographers and artists for portrait and mood references."
+    },
+    {
+      "width": 1200,
+      "locale": "es",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.76,
+        "cover": 80,
+        "section": 48,
+        "title": 23.2
+      },
+      "newText": "Descubre fotógrafos y artistas emergentes como referencias de retratos y atmósfera."
+    },
+    {
+      "width": 1200,
+      "locale": "zh-Hans",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.76,
+        "cover": 68,
+        "section": 48,
+        "title": 23.2
+      },
+      "newText": "寻找新锐摄影师和艺术家，作为肖像与氛围参考。"
+    },
+    {
+      "width": 1200,
+      "locale": "zh-Hant",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.76,
+        "cover": 68,
+        "section": 48,
+        "title": 23.2
+      },
+      "newText": "尋找新銳攝影師和藝術家，作為肖像與氛圍參考。"
+    },
+    {
+      "width": 1200,
+      "locale": "ja",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.76,
+        "cover": 68,
+        "section": 48,
+        "title": 23.2
+      },
+      "newText": "新進の写真家やアーティストから、ポートレートや雰囲気の参考を探す。"
+    },
+    {
+      "width": 1200,
+      "locale": "ko",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 17.76,
+        "cover": 68,
+        "section": 48,
+        "title": 23.2
+      },
+      "newText": "신진 사진가와 예술가에게서 인물 사진과 분위기 참고 자료를 찾으세요."
+    },
+    {
+      "width": 1440,
+      "locale": "en",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 18,
+        "cover": 88,
+        "section": 48,
+        "title": 24
+      },
+      "newText": "Find emerging photographers and artists for portrait and mood references."
+    },
+    {
+      "width": 1440,
+      "locale": "es",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 18,
+        "cover": 88,
+        "section": 48,
+        "title": 24
+      },
+      "newText": "Descubre fotógrafos y artistas emergentes como referencias de retratos y atmósfera."
+    },
+    {
+      "width": 1440,
+      "locale": "zh-Hans",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 18,
+        "cover": 72,
+        "section": 48,
+        "title": 24
+      },
+      "newText": "寻找新锐摄影师和艺术家，作为肖像与氛围参考。"
+    },
+    {
+      "width": 1440,
+      "locale": "zh-Hant",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 18,
+        "cover": 72,
+        "section": 48,
+        "title": 24
+      },
+      "newText": "尋找新銳攝影師和藝術家，作為肖像與氛圍參考。"
+    },
+    {
+      "width": 1440,
+      "locale": "ja",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 18,
+        "cover": 72,
+        "section": 48,
+        "title": 24
+      },
+      "newText": "新進の写真家やアーティストから、ポートレートや雰囲気の参考を探す。"
+    },
+    {
+      "width": 1440,
+      "locale": "ko",
+      "total": 58,
+      "visible": 58,
+      "overflow": false,
+      "brokenImages": 0,
+      "layout": {
+        "columns": 3,
+        "gridX": 48,
+        "headingX": 48,
+        "controlsX": 48
+      },
+      "alignedActions": true,
+      "type": {
+        "body": 18,
+        "cover": 72,
+        "section": 48,
+        "title": 24
+      },
+      "newText": "신진 사진가와 예술가에게서 인물 사진과 분위기 참고 자료를 찾으세요."
+    }
+  ],
+  "search": true,
+  "countryFilter": true,
+  "favorites": true,
+  "errors": []
+}

@@ -1,0 +1,21 @@
+{
+  "repo": "Sergei-Korneev/obsidian-local-images-plus",
+  "release": "0.16.6",
+  "url": "https://github.com/Sergei-Korneev/obsidian-local-images-plus/releases/tag/0.16.6",
+  "manifest": {
+    "id": "obsidian-local-images-plus",
+    "name": "Local Images Plus",
+    "version": "0.16.6",
+    "minAppVersion": "1.0.3",
+    "description": "Local Images Plus plugin searches for all external media links in your notes, downloads and saves them locally and adjusts the links in your notes to point to the saved files.",
+    "author": "catalysm, aleksey-rezvov, Sergei Korneev",
+    "authorUrl": "https://github.com/Sergei-Korneev/obsidian-local-images-plus",
+    "fundingUrl": "https://www.buymeacoffee.com/sergeikorneev",
+    "isDesktopOnly": true
+  },
+  "files": {
+    "manifest.json": "3b0fadb202a79797735b89341b2934db0f52bf8c7afd6529dc53d890727a60fe",
+    "main.js": "d7ed0f753e3ca871111763fd37e2249d8dbb2bdc92e6e6e51a93bd45cce73fb5",
+    "styles.css": "2251198705682e26f2a5770f2e247337d88c8f1af443211e6ea89f7067bb265b"
+  }
+}

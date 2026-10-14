@@ -1,0 +1,9 @@
+Use the attached destination-search CSV as the source inventory for my China, Japan, and Korea travel research. Please display the listed places using your native map view if this chat supports it.
+
+Keep countries separate in clearly labeled views. Work in manageable batches by country and city so no entries are silently omitted. Retain optional destinations as research candidates, not confirmed itinerary stops. The CSV includes source note names; keep a count of mapped, unresolved, and pending entries.
+
+These are search queries, not verified place IDs. Resolve the exact place and branch before pinning. Flag ambiguous queries, broad areas, and coordinate conflicts rather than invent locations. Deduplicate only when two entries refer to the same place; preserve genuinely different branches. Some queries include native-language names. Use Amap searches for China navigation; do not assume coordinates from Amap and another map system are interchangeable.
+
+Existing orientation pins are inherited from the notes and are not verified entrance locations. No bookings or travel dates are confirmed by this inventory. If native maps cannot accept this list or preserve all pins, explain the limitation and give me a batch-by-batch place list with navigation links.
+
+Begin with an inventory summary, then the China locations grouped by city.

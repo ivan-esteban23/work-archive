@@ -1,0 +1,480 @@
+[
+  {
+    "name": "Cosmos",
+    "file": "cosmos.png",
+    "mime": "image/png",
+    "source_url": "https://www.cosmos.so/apple-icon.png?apple-icon.2e21fxh1087ib.png",
+    "site_url": "https://www.cosmos.so/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Are.na",
+    "file": "are-na.png",
+    "mime": "image/png",
+    "source_url": "https://www.are.na/apple-touch-icon.png",
+    "site_url": "https://www.are.na/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Raindrop.io",
+    "file": "raindrop-io.png",
+    "mime": "image/png",
+    "source_url": "https://raindrop.io/_next/static/media/icon_128.6bddf89e.png",
+    "site_url": "https://raindrop.io/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Milanote",
+    "file": "milanote.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://milanote.com/favicon.ico",
+    "site_url": "https://milanote.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "FigJam",
+    "file": "figjam.png",
+    "mime": "image/png",
+    "source_url": "https://static.figma.com/app/icon/2/touch-180.png",
+    "site_url": "https://www.figma.com/figjam/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "PureRef",
+    "file": "pureref.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://www.pureref.com/favicon.ico?v=1694716108",
+    "site_url": "https://www.pureref.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Eagle",
+    "file": "eagle.png",
+    "mime": "image/png",
+    "source_url": "https://en.eagle.cool/images/favicon.png",
+    "site_url": "https://en.eagle.cool/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Linkwarden",
+    "file": "linkwarden.png",
+    "mime": "image/png",
+    "source_url": "https://linkwarden.app/apple-touch-icon.png",
+    "site_url": "https://linkwarden.app/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Shaarli",
+    "file": "shaarli.svg",
+    "mime": "image/svg+xml",
+    "source_url": "https://raw.githubusercontent.com/shaarli/Shaarli/master/doc/md/images/doc-logo.svg",
+    "site_url": "https://github.com/shaarli/Shaarli",
+    "kind": "Official project asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "FASHIONSNAP",
+    "file": "fashionsnap.png",
+    "mime": "image/png",
+    "source_url": "https://www.fashionsnap.com/favicon/apple-touch-icon-152x152.png?v=47MNLvaPK8",
+    "site_url": "https://www.fashionsnap.com/streetstyle/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Tokyo Fashion",
+    "file": "tokyo-fashion.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://tokyofashion.com/favicon.ico",
+    "site_url": "https://tokyofashion.com/photos/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "MUSINSA Snap",
+    "file": "musinsa-snap.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://static.msscdn.net/favicon_152.ico",
+    "site_url": "https://www.musinsa.com/snap/main/recommend",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Vogue Korea",
+    "file": "vogue-korea.jpg",
+    "mime": "image/jpeg",
+    "source_url": "https://img.vogue.co.kr/vogue/common/vogue-apple-touch-favicon.jpg?v=1.3",
+    "site_url": "https://www.vogue.co.kr/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Vogue China",
+    "file": "vogue-china.jpg",
+    "mime": "image/jpeg",
+    "source_url": "https://css.selfimg.com.cn/static/vogue/share_black.jpeg",
+    "site_url": "https://www.vogue.com.cn/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Dewu / 得物",
+    "site_url": "https://www.dewu.com/",
+    "file": "dewu.png",
+    "mime": "image/png",
+    "source_url": "https://www.google.com/s2/favicons?domain=www.dewu.com&sz=128",
+    "kind": "Website icon retrieved through favicon cache",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Xiaohongshu / 小红书",
+    "file": "xiaohongshu.png",
+    "mime": "image/png",
+    "source_url": "https://picasso-static.xiaohongshu.com/fe-platform/f43dc4a8baf03678996c62d8db6ebc01a82256ff.png",
+    "site_url": "https://www.xiaohongshu.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Jing Daily",
+    "file": "jing-daily.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://jingdaily.com/favicon.ico",
+    "site_url": "https://jingdaily.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Vogue Runway",
+    "file": "vogue-runway.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://www.vogue.com/verso/static/vogue-global/assets/us/favicon.ico",
+    "site_url": "https://www.vogue.com/fashion-shows",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Tagwalk",
+    "file": "tagwalk.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://www.tag-walk.com/favicon.ico",
+    "site_url": "https://www.tag-walk.com/en/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "nss magazine",
+    "file": "nss-magazine.png",
+    "mime": "image/png",
+    "source_url": "https://www.nssmag.com/images/magazine/favicon.ico",
+    "site_url": "https://www.nssmag.com/en/fashion",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Dazed",
+    "file": "dazed.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://www.dazeddigital.com/favicon.ico",
+    "site_url": "https://www.dazeddigital.com/fashion",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "SHOWstudio",
+    "file": "showstudio.png",
+    "mime": "image/png",
+    "source_url": "https://www.showstudio.com/apple-touch-icon.png",
+    "site_url": "https://www.showstudio.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Vestiaire Collective",
+    "site_url": "https://www.vestiairecollective.com/",
+    "file": "vestiaire-collective.png",
+    "mime": "image/png",
+    "source_url": "https://www.google.com/s2/favicons?domain=www.vestiairecollective.com&sz=128",
+    "kind": "Website icon retrieved through favicon cache",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Designspiration",
+    "file": "designspiration.png",
+    "mime": "image/png",
+    "source_url": "https://s.dspncdn.com/a1/webapp/img/favicons/apple-touch-icon-144x144.png",
+    "site_url": "https://www.designspiration.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Behance",
+    "file": "behance.png",
+    "mime": "image/png",
+    "source_url": "https://www.behance.net/favicon.png",
+    "site_url": "https://www.behance.net/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "It’s Nice That",
+    "file": "it-s-nice-that.png",
+    "mime": "image/png",
+    "source_url": "https://www.itsnicethat.com/apple-touch-icon.png",
+    "site_url": "https://www.itsnicethat.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "V&A Fashion",
+    "file": "v-a-fashion.png",
+    "mime": "image/png",
+    "source_url": "https://www.vam.ac.uk/assets/favicon/apple-touch-icon-180x180-39ebb34bd076605b5b06bdfd7a3f4c22d2684141dfaba350d0c2a2680d986ff4.png",
+    "site_url": "https://www.vam.ac.uk/collections/fashion",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Europeana Textile",
+    "site_url": "https://www.europeana.eu/en/collections/topic/55-textile",
+    "file": "europeana-textile.png",
+    "mime": "image/png",
+    "source_url": "https://www.google.com/s2/favicons?domain=www.europeana.eu&sz=128",
+    "kind": "Website icon retrieved through favicon cache",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "i-D",
+    "file": "i-d.png",
+    "mime": "image/png",
+    "source_url": "https://media.i-d.co/wp-content/uploads/2024/08/favicon.png",
+    "site_url": "https://i-d.co/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "The Gentlewoman",
+    "file": "the-gentlewoman.png",
+    "mime": "image/png",
+    "source_url": "https://thegentlewoman.co.uk/css/favicons/apple-touch-icon-152x152.png",
+    "site_url": "https://thegentlewoman.co.uk/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "AnOther",
+    "file": "another.png",
+    "mime": "image/png",
+    "source_url": "https://www.anothermag.com/apple-touch-icon-precomposed.png",
+    "site_url": "https://www.anothermag.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "032c",
+    "file": "032c.png",
+    "mime": "image/png",
+    "source_url": "https://www.032c.com/cdn/shop/files/favicon.png?crop=center&height=32&v=1770763173&width=32",
+    "site_url": "https://www.032c.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "System Magazine",
+    "file": "system-magazine.png",
+    "mime": "image/png",
+    "source_url": "https://system-magazine.com/assets/images/favicon/apple-icon-180x180.png",
+    "site_url": "https://system-magazine.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Vestoj",
+    "file": "vestoj.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://vestoj.com/wp-content/themes/new-vestoj-theme/favicon.ico?v=1",
+    "site_url": "https://vestoj.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "sabukaru",
+    "file": "sabukaru.png",
+    "mime": "image/png",
+    "source_url": "https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/6955a912-143a-4ee3-92a3-25784052937a/favicon.ico?format=100w",
+    "site_url": "https://sabukaru.online/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Printed Matter",
+    "file": "printed-matter.png",
+    "mime": "image/png",
+    "source_url": "https://www.printedmatter.org/assets/favicon-46bde1e31fdd8de7013aab383dd46ca5b9ee6228dad749ad2f453724a76ebbce.png",
+    "site_url": "https://www.printedmatter.org/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Business of Fashion",
+    "file": "business-of-fashion.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://static.businessoffashion.com/favicon.ico",
+    "site_url": "https://www.businessoffashion.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "FashionNetwork",
+    "file": "fashionnetwork.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://ww.fashionnetwork.com/favicon.ico",
+    "site_url": "https://ww.fashionnetwork.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Heuritech",
+    "file": "heuritech.png",
+    "mime": "image/png",
+    "source_url": "https://heuritech.com/wp-content/uploads/2025/09/cropped-FaviconHE-180x180.png",
+    "site_url": "https://heuritech.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Luxe.CO / 华丽志",
+    "file": "luxe-co.jpg",
+    "mime": "image/jpeg",
+    "source_url": "https://image.luxe.co/wp-content/uploads/2024/05/cropped-%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240531144919.jpg?x-oss-process=image/resize,m_fill,w_360,h_360",
+    "site_url": "https://luxe.co/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "NOWNESS",
+    "file": "nowness.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://www.nowness.com/favicon.ico",
+    "site_url": "https://www.nowness.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Magazine B",
+    "file": "magazine-b.png",
+    "mime": "image/png",
+    "source_url": "https://magazine-b.com/web/baton/images/favicon/apple-touch-icon-180x180.png",
+    "site_url": "https://magazine-b.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Apartamento",
+    "file": "apartamento.png",
+    "mime": "image/png",
+    "source_url": "https://www.apartamentomagazine.com/wp-content/uploads/2024/07/cropped-logo-apartamento-1-180x180.png",
+    "site_url": "https://www.apartamentomagazine.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Kyoto Costume Institute",
+    "file": "kyoto-costume-institute.png",
+    "mime": "image/png",
+    "source_url": "https://www.kci.or.jp/apple-touch-icon.png",
+    "site_url": "https://www.kci.or.jp/en/archives/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "FIT Fashion History Timeline",
+    "file": "fit-fashion-history-timeline.png",
+    "mime": "image/png",
+    "source_url": "https://fashionhistory.fitnyc.edu/wp-content/uploads/2018/12/favicon.png",
+    "site_url": "https://fashionhistory.fitnyc.edu/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Vintage Fashion Guild",
+    "file": "vintage-fashion-guild.png",
+    "mime": "image/png",
+    "source_url": "https://vintagefashionguild.org/app/uploads/2023/10/cropped-vfg-favicon-180x180.png",
+    "site_url": "https://vintagefashionguild.org/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "firstVIEW",
+    "site_url": "https://www.firstview.com/",
+    "error": "HTTPError, HTTPError",
+    "candidates": [
+      "https://www.firstview.com/favicon.ico",
+      "https://www.firstview.com/favicon.png"
+    ],
+    "file": "firstview.gif",
+    "mime": "image/gif",
+    "source_url": "https://firstview.com/themes/default/images/logo75pc.gif",
+    "kind": "Official website logo",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "TinEye",
+    "file": "tineye.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://tineye.com/favicon.ico",
+    "site_url": "https://tineye.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Wayback Machine",
+    "file": "wayback-machine.ico",
+    "mime": "image/x-icon",
+    "source_url": "https://web-static.archive.org/_static/images/archive.ico",
+    "site_url": "https://web.archive.org/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Inoreader",
+    "file": "inoreader.png",
+    "mime": "image/png",
+    "source_url": "https://www.inoreader.com/apple-touch-icon.png?v=8",
+    "site_url": "https://www.inoreader.com/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "r/femalefashionadvice",
+    "file": "r-femalefashionadvice.png",
+    "mime": "image/png",
+    "source_url": "https://www.redditstatic.com/shreddit/assets/favicon/64x64.png",
+    "site_url": "https://www.reddit.com/r/femalefashionadvice/",
+    "kind": "Official website icon / brand asset",
+    "retrieved": "2026-10-13"
+  },
+  {
+    "name": "Depop",
+    "site_url": "https://www.depop.com/",
+    "error": "HTTPError, HTTPError, HTTPError",
+    "candidates": [
+      "https://www.depop.com/favicon.ico",
+      "https://www.depop.com/favicon.png"
+    ],
+    "file": "new-www-depop-com.png",
+    "mime": "image/png",
+    "source_url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.depop.com&size=128",
+    "kind": "Website icon retrieved through favicon cache",
+    "retrieved": "2026-10-13"
+  }
+]

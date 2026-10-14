@@ -1,0 +1,50 @@
+[
+  {
+    "file": "study-39-enhanced.png",
+    "size": [
+      1010,
+      1557
+    ],
+    "status": "AI enhanced"
+  },
+  {
+    "file": "study-40-enhanced.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "status": "AI enhanced"
+  },
+  {
+    "file": "study-41-enhanced.png",
+    "size": [
+      1025,
+      1535
+    ],
+    "status": "AI enhanced"
+  },
+  {
+    "file": "study-42-enhanced.png",
+    "size": [
+      1087,
+      1447
+    ],
+    "status": "AI enhanced"
+  },
+  {
+    "file": "study-43-enhanced.png",
+    "size": [
+      941,
+      1672
+    ],
+    "status": "AI enhanced"
+  },
+  {
+    "file": "study-44.jpg",
+    "size": [
+      1472,
+      2616
+    ],
+    "status": "Unchanged original; enhancement rejected at output moderation"
+  }
+]

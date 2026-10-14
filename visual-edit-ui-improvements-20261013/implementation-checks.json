@@ -1,0 +1,400 @@
+{
+  "keyboard": {
+    "skip": true,
+    "outline": "solid"
+  },
+  "filters": {
+    "matched": 1,
+    "archives": 6,
+    "hash": "#directory?category=Archives+%26+textiles",
+    "collapsed": true,
+    "opened": true
+  },
+  "print": {
+    "expanded": true,
+    "restored": true,
+    "styles": {
+      "bg": "rgb(255, 255, 255)",
+      "tools": "none",
+      "save": "none",
+      "cards": 52
+    }
+  },
+  "copy": {
+    "open": true,
+    "value": "https://www.are.na/",
+    "focused": "copy-value"
+  },
+  "share": "https://visual-edit-ivan.greymelon66.chatgpt.site/#directory",
+  "exports": [
+    {
+      "lang": "en",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    },
+    {
+      "lang": "es",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    },
+    {
+      "lang": "zh-Hans",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    },
+    {
+      "lang": "zh-Hant",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    },
+    {
+      "lang": "ja",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    },
+    {
+      "lang": "ko",
+      "name": true,
+      "date": true,
+      "url": true,
+      "count": "1"
+    }
+  ],
+  "download": true,
+  "access": [
+    {
+      "locale": "en",
+      "value": "Open",
+      "count": 21,
+      "chip": "Access: Open×",
+      "hash": "#directory?access=Open"
+    },
+    {
+      "locale": "en",
+      "value": "Partial",
+      "count": 22,
+      "chip": "Access: Partial×",
+      "hash": "#directory?access=Partial"
+    },
+    {
+      "locale": "en",
+      "value": "Paid",
+      "count": 2,
+      "chip": "Access: Paid×",
+      "hash": "#directory?access=Paid"
+    },
+    {
+      "locale": "en",
+      "value": "Not verified",
+      "count": 7,
+      "chip": "Access: Not verified×",
+      "hash": "#directory?access=Not+verified"
+    },
+    {
+      "locale": "es",
+      "value": "Open",
+      "count": 21,
+      "chip": "Acceso: Abierto×",
+      "hash": "#directory?access=Open"
+    },
+    {
+      "locale": "es",
+      "value": "Partial",
+      "count": 22,
+      "chip": "Acceso: Acceso parcial×",
+      "hash": "#directory?access=Partial"
+    },
+    {
+      "locale": "es",
+      "value": "Paid",
+      "count": 2,
+      "chip": "Acceso: De pago×",
+      "hash": "#directory?access=Paid"
+    },
+    {
+      "locale": "es",
+      "value": "Not verified",
+      "count": 7,
+      "chip": "Acceso: No verificado×",
+      "hash": "#directory?access=Not+verified"
+    },
+    {
+      "locale": "zh-Hans",
+      "value": "Open",
+      "count": 21,
+      "chip": "访问: 公开访问×",
+      "hash": "#directory?access=Open"
+    },
+    {
+      "locale": "zh-Hans",
+      "value": "Partial",
+      "count": 22,
+      "chip": "访问: 部分开放×",
+      "hash": "#directory?access=Partial"
+    },
+    {
+      "locale": "zh-Hans",
+      "value": "Paid",
+      "count": 2,
+      "chip": "访问: 付费×",
+      "hash": "#directory?access=Paid"
+    },
+    {
+      "locale": "zh-Hans",
+      "value": "Not verified",
+      "count": 7,
+      "chip": "访问: 未验证×",
+      "hash": "#directory?access=Not+verified"
+    },
+    {
+      "locale": "zh-Hant",
+      "value": "Open",
+      "count": 21,
+      "chip": "訪問: 公開瀏覽×",
+      "hash": "#directory?access=Open"
+    },
+    {
+      "locale": "zh-Hant",
+      "value": "Partial",
+      "count": 22,
+      "chip": "訪問: 部分開放×",
+      "hash": "#directory?access=Partial"
+    },
+    {
+      "locale": "zh-Hant",
+      "value": "Paid",
+      "count": 2,
+      "chip": "訪問: 付費×",
+      "hash": "#directory?access=Paid"
+    },
+    {
+      "locale": "zh-Hant",
+      "value": "Not verified",
+      "count": 7,
+      "chip": "訪問: 未驗證×",
+      "hash": "#directory?access=Not+verified"
+    },
+    {
+      "locale": "ja",
+      "value": "Open",
+      "count": 21,
+      "chip": "アクセス: 公開×",
+      "hash": "#directory?access=Open"
+    },
+    {
+      "locale": "ja",
+      "value": "Partial",
+      "count": 22,
+      "chip": "アクセス: 一部公開×",
+      "hash": "#directory?access=Partial"
+    },
+    {
+      "locale": "ja",
+      "value": "Paid",
+      "count": 2,
+      "chip": "アクセス: 有料×",
+      "hash": "#directory?access=Paid"
+    },
+    {
+      "locale": "ja",
+      "value": "Not verified",
+      "count": 7,
+      "chip": "アクセス: 未検証×",
+      "hash": "#directory?access=Not+verified"
+    },
+    {
+      "locale": "ko",
+      "value": "Open",
+      "count": 21,
+      "chip": "액세스: 공개×",
+      "hash": "#directory?access=Open"
+    },
+    {
+      "locale": "ko",
+      "value": "Partial",
+      "count": 22,
+      "chip": "액세스: 일부 공개×",
+      "hash": "#directory?access=Partial"
+    },
+    {
+      "locale": "ko",
+      "value": "Paid",
+      "count": 2,
+      "chip": "액세스: 유료×",
+      "hash": "#directory?access=Paid"
+    },
+    {
+      "locale": "ko",
+      "value": "Not verified",
+      "count": 7,
+      "chip": "액세스: 확인되지 않음×",
+      "hash": "#directory?access=Not+verified"
+    }
+  ],
+  "chips": {
+    "before": 4,
+    "after": 3,
+    "region": "All",
+    "access": "Open",
+    "query": "FASHIONSNAP",
+    "category": "Fashion references",
+    "focus": "filter-chip"
+  },
+  "restoredAccess": {
+    "access": "Paid",
+    "visible": 2,
+    "region": "Global"
+  },
+  "layouts": [
+    {
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "top": 0,
+      "height": 73.390625,
+      "columns": 1
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "top": 0,
+      "height": 73.390625,
+      "columns": 1
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "overflow": false,
+      "top": 0,
+      "height": 73.390625,
+      "columns": 2
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "overflow": false,
+      "top": 0,
+      "height": 73.390625,
+      "columns": 2
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "top": 0,
+      "height": 73.390625,
+      "columns": 3
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "top": 0,
+      "height": 73.390625,
+      "columns": 3
+    }
+  ],
+  "languageLayouts": [
+    {
+      "locale": "en",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "locale": "es",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "locale": "es",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "locale": "es",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "locale": "zh-Hans",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "locale": "zh-Hans",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "locale": "zh-Hans",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "locale": "zh-Hant",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "locale": "zh-Hant",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "locale": "zh-Hant",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "locale": "ja",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "locale": "ja",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "locale": "ja",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "locale": "ko",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "locale": "ko",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "locale": "ko",
+      "width": 1440,
+      "overflow": false
+    }
+  ]
+}

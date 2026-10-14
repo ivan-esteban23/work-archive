@@ -1,0 +1,22 @@
+{
+  "repo": "st3v3nmw/obsidian-spaced-repetition",
+  "release": "1.15.4",
+  "url": "https://github.com/st3v3nmw/obsidian-spaced-repetition/releases/tag/1.15.4",
+  "manifest": {
+    "id": "obsidian-spaced-repetition",
+    "name": "Spaced Repetition",
+    "version": "1.15.4",
+    "minAppVersion": "1.2.8",
+    "description": "Fight the forgetting curve by reviewing flashcards & entire notes using spaced repetition. Organize your flashcards into decks and learn only the cards you need to recall.",
+    "author": "Stephen Mwangi",
+    "authorUrl": "https://github.com/st3v3nmw",
+    "helpUrl": "https://stephenmwangi.com/obsidian-spaced-repetition/",
+    "isDesktopOnly": false,
+    "fundingUrl": "https://ko-fi.com/M4M44DEN6"
+  },
+  "files": {
+    "manifest.json": "6b4bf78256cd0ef8816fa2cf4f00248c01b18066f8e69fee969d48a3791bcd65",
+    "main.js": "e2af1a3477ad54bf063ee8787a465661cf6725d88394e9f2f15e78e0bc29993b",
+    "styles.css": "c62ae5fab547d74d8446e05aa20cb55efebbfa7cd0e0743c951dcc2b77b49abd"
+  }
+}

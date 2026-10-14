@@ -1,0 +1,1 @@
+import {ev,ws} from './browser.mjs';console.log(await ev("[...document.body.querySelectorAll('*')].filter(x=>{const r=x.getBoundingClientRect();return r.width&&r.right>innerWidth+1}).map(x=>({tag:x.tagName,id:x.id,cls:x.className,text:x.textContent.slice(0,55),right:x.getBoundingClientRect().right,width:x.getBoundingClientRect().width})).slice(0,45)"));ws.close();

@@ -1,0 +1,109 @@
+# Death Metal Project — 01_Project_Context_and_Method.txt
+
+Snapshot: 8 October 2026. Later explicit decisions supersede this snapshot. These are authored research notes, not full copies of external publications.
+
+---
+
+---
+tags: [music, death-metal]
+created: 2026-10-08
+---
+# Death Metal — Start Here
+
+A music-learning and discovery project: understand the history, explore the styles, hear the classics, follow new releases, compare albums by year, and discover emerging bands. This project is separate from travel planning.
+
+**Learn:** Death Metal — History Subgenres and Classics [source: 02_History_Subgenres_and_Classics.txt] · **Rank and record:** Death Metal — Rankings and Listening Journal [source: 01_Project_Context_and_Method.txt] · **New music:** Death Metal — Releases and New Bands 2026 [source: 03_Current_Releases_and_New_Bands.txt] · **Evidence:** Death Metal — Research and Sources 2026-10-08 [source: 04_Research_and_Evidence.txt]
+
+**ChatGPT:** Death Metal — ChatGPT Project Instructions [source: project-instructions.txt (project instructions field)] · Death Metal — ChatGPT Project Prompts [source: 05_Reusable_Project_Prompts.txt]
+
+## Start listening
+
+Begin with Death’s *Human*, then Obituary’s *Cause of Death*, Entombed’s *Left Hand Path*, and Carcass’s *Heartwork*. This is a suggested learning order, not your personal ranking. Use the classics note for verified years and listening searches. Try one whole album, then record what catches your ear: riffs, atmosphere, vocals, rhythm, melody, and production. Your taste and prior listening are not yet recorded.
+
+Alternate history with new music: after a classic, try one of the verified 2026 releases. Learning order and difficulty are editorial judgments; you can start anywhere.
+
+## What the project contains
+
+- A historical overview and a map of major styles, hybrids, and disputed tags.
+- Twelve classic album starting points and a suggested four-stage listening path.
+- A transparent ranking method, a first 1991 editorial ranking, and an annual research archive covering 1985–2026.
+- Five released 2026 full-length candidates and one announced October debut, with primary-source links.
+- A debut-band discovery shortlist, an empty personal listening journal, project instructions, and reusable prompts.
+
+The annual archive is a research programme, not a completed ranking of every year. The 2026 list is a checked starter selection, not a comprehensive release census or final year-end verdict. No listening sessions, ratings, playlist creation, Spotify saves, or automatic monitoring have been performed.
+
+## Next decisions
+
+1. Tell the project which bands/albums you already know and what you like about them.
+2. Choose chronological exploration or a tour of contrasting styles.
+3. Build one researched annual top five at a time, starting with 1991 or a year you choose.
+
+“This year” currently means **2026**, with research checked **8 October 2026**. In later chats, use the actual current year unless you request a specific one. The uploaded ChatGPT pack and this vault are separate snapshots; synchronize decisions through explicit updates.
+
+---
+
+# Death Metal — Rankings and Listening Journal
+
+Dashboard [source: 01_Project_Context_and_Method.txt] · Current releases [source: 03_Current_Releases_and_New_Bands.txt]
+
+## What “best” means here
+
+Keep three separate lists: **editorial recommendations**, **published critic/community rankings**, and **your personal favorites**. None is an objective final verdict. Personal scores stay blank until you supply listening feedback. Popularity, technical difficulty, heaviness, and historical influence are different qualities.
+
+Default annual eligibility: original studio full-lengths first released in the selected calendar year. Put EPs, demos, splits, live albums, reissues/remasters, and compilations in separate lists. Use earliest documented public release of the original album; record conflicting digital/physical dates. Allow major branches and clearly labeled hybrids, with a separate core-only view when needed. A band’s name or reputation alone does not prove an album’s style.
+
+Default editorial rubric: songwriting/riffs **35%**, identity/coherence **25%**, performance **20%**, production serving the music **20%**. Historical importance gets a separate note, not an automatic scoring bonus. Do not fabricate numeric component scores without adequate evidence; a reasoned provisional order is better. For published scores, record source, rating scale, sample size where available, and check date; do not average incompatible scales as though identical.
+
+## First annual ranking — 1991
+
+**Provisional editorial top five from a limited classic-album shortlist**, not a measured score or a consensus poll. Your feedback can produce a different personal list. The order prioritizes distinctiveness and learning value; no claim of listening in this session is made.
+
+| Rank | Album | Why this initial placement |
+| --- | --- | --- |
+| 1 | Death — *Human* | Strong starting point for the technical/progressive turn |
+| 2 | Suffocation — *Effigy of the Forgotten* | Useful contrast in brutality and rhythmic focus |
+| 3 | Carcass — *Necroticism — Descanting the Insalubrious* | A distinct grind-to-death transition |
+| 4 | Dismember — *Like an Ever Flowing Stream* | Brings the Swedish strand into the comparison |
+| 5 | Autopsy — *Mental Funeral* | Adds a slower, doom-inflected contrast |
+
+The five albums/years appear in [Kerrang’s 1990s selection](https://www.kerrang.com/the-15-greatest-death-metal-albums-of-the-90s); *Human*’s original 1991 year is also distinguished from its 2011 reissue on [Death’s label Bandcamp](https://death.bandcamp.com/album/human-deluxe-reissue). This order is our editorial shortlist, not Kerrang’s order. Before calling it a full-year survey, compare Atheist, Morbid Angel, Immolation, Pestilence, and other documented 1991 releases.
+
+## Annual archive — 1985–2026
+
+Build a top five or ten with evidence for each year, plus overlooked albums and a separate personal winner. Early years may not justify ten eligible entries; never pad a list. A current-year list is “best so far” with a cutoff date. Announced records are ineligible until the full release is confirmed.
+
+| Years | Current status | Useful task |
+| --- | --- | --- |
+| 1985–1989 | Research pending | Origins and death/thrash boundary, original-release verification |
+| 1990 | Research pending | Compare US/Swedish classics and deeper candidates |
+| 1991 | Limited starter top five above | Broaden pool, add independent reviews, then listen |
+| 1992–1999 | Research pending | Investigate each year, expanding branches |
+| 2000–2009 | Research pending | Compare established bands and emerging styles |
+| 2010–2019 | Research pending | Review revival, technical, and experimental scenes |
+| 2020–2025 | Research pending | Wider contemporary survey and retrospective evidence |
+| 2026 | Verified release starter list; no full-year ranking yet | Refresh released pool, then rank best so far |
+
+## Personal listening journal
+
+No listens or personal scores recorded yet. Use this row format after listening:
+
+| Date listened | Artist / album | Original year / edition | Full listen or sample | Favorite moments/tracks | What worked / did not | Personal score /10 | Revisit? |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+For each session, record your response to riffs, vocals, groove, melody, atmosphere, and production in plain words. An optional score should reflect enjoyment rather than pressure to agree with the canon. Leave unspecified cells blank. Do not let a disliked vocal texture erase interest in a whole branch after one album.
+
+## Annual ranking entry template
+
+```text
+Year / cutoff date:
+Scope and format eligibility:
+Candidate pool and known gaps:
+Rank / artist / album / original release date / style:
+Reason for placement:
+Primary metadata source:
+Independent review or retrospective source:
+Listening link and edition:
+Personal listening status and score (only if supplied):
+Excluded releases and why:
+Disagreements and overlooked candidates:
+```

@@ -1,0 +1,66 @@
+---
+cssclasses:
+  - korea-trip
+---
+# Korea 2026 — Start Here
+
+## Current continuation — solo and flexible
+
+**Confirmed by you on 7 October 2026: traveling alone; nothing booked; dates can change.** This supersedes the two-traveler assumptions and fixed dates below.
+
+1. [[Korea 2026 — Solo Plan|Route and date options]] — recommended 10 days / 9 nights, Seoul 4 + Gyeongju 2 + Busan 3; DMZ decision and return-ICN variant.
+2. [[Korea 2026 — Places Shortlist|Cafés, music, vintage shopping and meals]] — checked locations, closing days and solo-ordering caveats.
+3. [[Korea 2026 — Flights and Stays|Flights, hotels and trains]] — indicative flight comparisons and one-adult hotel searches; [[Korea 2026 — Budget|solo budget]].
+4. [[Korea 2026 — Departure Checklist|Departure preparation]] — documents, health, packing and practical setup.
+
+Still needed: passport nationality, departure airport, usable trip length/season, budget and diet. **27 October–5 November is a hotel-search example only.** The suggested solo on-ground envelope is $2,185 excluding international flights, not an approved ceiling or booking quote.
+
+## Previous dashboard planning context — reference only
+
+[[Korea 2026 — Start Here|Dashboard]] · [[Korea 2026 — Review and Sources 2026-10-07|Review and sources]]
+
+**Updated 7 October 2026: one traveler, flexible dates, nothing booked (confirmed by you).** The old 27 October–2 November schedule is a previous draft. Use [[Korea 2026 — Solo Plan]] for the current recommendations; trip length, departure airport, passport and dietary details remain open.
+
+The review corrected practical errors and removed unsupported precision. **Read [[Korea 2026 — Review and Sources 2026-10-07|the review and source register]] for what changed and what still needs checking.** All 25 original notes were backed up before editing.
+
+## Proposed route
+
+| Base | Check-in | Check-out | Nights |
+| --- | --- | --- | ---: |
+| Seoul | 27 Oct | 30 Oct | 3 |
+| Gyeongju | 30 Oct | 31 Oct | 1 |
+| Busan | 31 Oct | 2 Nov | 2 |
+
+Total: **six nights / seven calendar days**. These are Korean local dates. Flights and arrival/departure times remain unknown. The earlier two-traveler assumption is superseded by solo travel; the no-meat/fish-allowed preference still needs confirmation.
+
+## Next decisions
+
+- Choose dates and confirm passport nationality, origin and dietary details; traveler count is now one.
+- Resolve entry/transit requirements and choose flights.
+- Quote the six nights and both rail legs; decide whether the optional DMZ visit matters enough to book.
+- Reprice the US$2,395 original allowance before treating it as a realistic current total.
+- Verify any shop, restaurant or event before assigning it a timed slot.
+
+## Guide index
+
+- [[Korea 2026 — Autumn Foliage]]
+- [[Korea 2026 — Bookings]]
+- [[Korea 2026 — Budget]]
+- [[Korea 2026 — Cafés and Shops]]
+- [[Korea 2026 — Daily Pocket Cards]]
+- [[Korea 2026 — Food]]
+- [[Korea 2026 — Health preparation]]
+- [[Korea 2026 — Itinerary]]
+- [[Korea 2026 — Korean phrasebook]]
+- [[Korea 2026 — Map View]]
+- [[Korea 2026 — Maps]]
+- [[Korea 2026 — My Five Things]]
+- [[Korea 2026 — Photography and Filming]]
+- [[Korea 2026 — Practical Info]]
+- [[Korea 2026 — Shopping shortlist]]
+- [[Korea 2026 — Transport]]
+- [[Korea 2026 — Weather and Packing]]
+
+## Status and provenance
+
+No booking, payment, business contact, account change or ChatGPT Project upload was made by this review. The corrected local notes and [[Korea 2026 — Session Recap 2026-10-07]] are the continuation point. Weather/foliage forecasts, exact-date tickets and individual shop availability remain separate checks.

@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "scheme": "light",
+      "hover": {
+        "background": "rgb(252, 250, 245)",
+        "shadow": "rgb(220, 213, 203) 0px 0px 0px 1px inset",
+        "expected": "#FCFAF5"
+      },
+      "focus": {
+        "focusVisible": true,
+        "element": "SUMMARY",
+        "cardOutline": "2px",
+        "outline": "2px"
+      }
+    },
+    {
+      "scheme": "dark",
+      "hover": {
+        "background": "rgb(39, 38, 34)",
+        "shadow": "rgba(73, 68, 61, 0.914) 0px 0px 0px 0.915056px inset",
+        "expected": "#282622"
+      },
+      "focus": {
+        "focusVisible": true,
+        "element": "SUMMARY",
+        "cardOutline": "2px",
+        "outline": "2px"
+      }
+    }
+  ],
+  "reducedMotion": true,
+  "print": {
+    "cards": 58,
+    "details": true,
+    "actionsHidden": true
+  }
+}

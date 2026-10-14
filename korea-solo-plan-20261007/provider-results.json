@@ -1,0 +1,1397 @@
+{
+  "checked": "2026-10-07",
+  "flights": [
+    {
+      "quotes": [
+        {
+          "quote_id": "{bl}:202610060117*I*SCL*ICN*20261020*skyp*IB|202610060117*I*ICN*SCL*20261027*skyp*TW",
+          "min_price": {
+            "amount": "1817",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 7,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 20
+            },
+            "carrier_id": "-32222"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 27
+            },
+            "carrier_id": "-31731"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610032215*I*SCL*ICN*20261011*skyp*CM|202610032215*I*ICN*SCL*20261025*skyp*YP",
+          "min_price": {
+            "amount": "1819",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 14,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 11
+            },
+            "carrier_id": "-32407"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 25
+            },
+            "carrier_id": "-30750"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610040236*I*SCL*ICN*20261023*skyp*AV|202610040236*I*ICN*SCL*20261030*skyp*WS",
+          "min_price": {
+            "amount": "1860",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 7,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 23
+            },
+            "carrier_id": "-32540"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 30
+            },
+            "carrier_id": "-31679"
+          }
+        },
+        {
+          "quote_id": "{bl}:202609302045*I*SCL*ICN*20261023*skyp*LA|202609302045*I*ICN*SCL*20261031*skyp*YP",
+          "min_price": {
+            "amount": "1912",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 8,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 23
+            },
+            "carrier_id": "-32115"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 31
+            },
+            "carrier_id": "-30750"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610041932*I*SCL*ICN*20261015*skyp*CM|202610041932*I*ICN*SCL*20261022*skyp*TW",
+          "min_price": {
+            "amount": "1939",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 7,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 15
+            },
+            "carrier_id": "-32407"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 22
+            },
+            "carrier_id": "-31731"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610040114*I*SCL*ICN*20261010*skyp*JA|202610040114*I*ICN*SCL*20261030*skyp*WS",
+          "min_price": {
+            "amount": "1998",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 20,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 10
+            },
+            "carrier_id": "-31023"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 30
+            },
+            "carrier_id": "-31679"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610070056*I*SCL*ICN*20261011*skyp*CM|202610070056*I*ICN*SCL*20261031*skyp*TW",
+          "min_price": {
+            "amount": "2147",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 20,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 11
+            },
+            "carrier_id": "-32407"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 31
+            },
+            "carrier_id": "-31731"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610061709*I*SCL*ICN*20261011*skyp*LA|202610061709*I*ICN*SCL*20261018*skyp*KE",
+          "min_price": {
+            "amount": "2184",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 7,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 11
+            },
+            "carrier_id": "-32115"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 10,
+              "day": 18
+            },
+            "carrier_id": "-32128"
+          }
+        }
+      ],
+      "carriers": [
+        {
+          "carrier_id": "-32128",
+          "name": "Korean Air",
+          "iata": "KE",
+          "image_url": "https://logos.skyscnr.com/images/airlines/KE.png"
+        },
+        {
+          "carrier_id": "-30750",
+          "name": "Air Premia",
+          "iata": "YP",
+          "image_url": "https://logos.skyscnr.com/images/airlines/0_.png"
+        },
+        {
+          "carrier_id": "-32222",
+          "name": "Iberia",
+          "iata": "IB",
+          "image_url": "https://logos.skyscnr.com/images/airlines/IB.png"
+        },
+        {
+          "carrier_id": "-31023",
+          "name": "JetSmart",
+          "iata": "JA",
+          "image_url": "https://logos.skyscnr.com/images/airlines/J%24.png"
+        },
+        {
+          "carrier_id": "-32540",
+          "name": "Avianca",
+          "iata": "AV",
+          "image_url": "https://logos.skyscnr.com/images/airlines/AV.png"
+        },
+        {
+          "carrier_id": "-31679",
+          "name": "WestJet",
+          "iata": "WS",
+          "image_url": "https://logos.skyscnr.com/images/airlines/WS.png"
+        },
+        {
+          "carrier_id": "-32407",
+          "name": "Copa",
+          "iata": "CM",
+          "image_url": "https://logos.skyscnr.com/images/airlines/CM.png"
+        },
+        {
+          "carrier_id": "-32115",
+          "name": "LATAM Airlines Group",
+          "iata": "LA",
+          "image_url": "https://logos.skyscnr.com/images/airlines/LA.png"
+        },
+        {
+          "carrier_id": "-31731",
+          "name": "Trinity Airways",
+          "iata": "TW",
+          "image_url": "https://logos.skyscnr.com/images/airlines/9R.png"
+        }
+      ],
+      "places": [
+        {
+          "entity_id": "27538638",
+          "parent_id": "29475329",
+          "name": "Seoul",
+          "iata": "SEL"
+        },
+        {
+          "entity_id": "95673659",
+          "parent_id": "27538638",
+          "name": "Incheon International",
+          "iata": "ICN"
+        },
+        {
+          "entity_id": "27546274",
+          "parent_id": "29475429",
+          "name": "Santiago",
+          "iata": "SCL"
+        },
+        {
+          "entity_id": "104120223",
+          "parent_id": "27546274",
+          "name": "Santiago Arturo Merino Benitez",
+          "iata": "SCL"
+        }
+      ],
+      "search_params": {
+        "origin": "SCL",
+        "destination": "ICN",
+        "month": 10,
+        "year": 2026,
+        "locale": "en-US",
+        "currency": "USD",
+        "market": "CL",
+        "is_return": true
+      },
+      "referral_links": {
+        "flight_day_view": [
+          {
+            "quote_id": "{bl}:202610060117*I*SCL*ICN*20261020*skyp*IB|202610060117*I*ICN*SCL*20261027*skyp*TW",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-10-20&cabinclass=economy&inboundDate=2026-10-27&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610032215*I*SCL*ICN*20261011*skyp*CM|202610032215*I*ICN*SCL*20261025*skyp*YP",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-10-11&cabinclass=economy&inboundDate=2026-10-25&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610040236*I*SCL*ICN*20261023*skyp*AV|202610040236*I*ICN*SCL*20261030*skyp*WS",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-10-23&cabinclass=economy&inboundDate=2026-10-30&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202609302045*I*SCL*ICN*20261023*skyp*LA|202609302045*I*ICN*SCL*20261031*skyp*YP",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-10-23&cabinclass=economy&inboundDate=2026-10-31&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610041932*I*SCL*ICN*20261015*skyp*CM|202610041932*I*ICN*SCL*20261022*skyp*TW",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-10-15&cabinclass=economy&inboundDate=2026-10-22&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610040114*I*SCL*ICN*20261010*skyp*JA|202610040114*I*ICN*SCL*20261030*skyp*WS",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-10-10&cabinclass=economy&inboundDate=2026-10-30&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610070056*I*SCL*ICN*20261011*skyp*CM|202610070056*I*ICN*SCL*20261031*skyp*TW",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-10-11&cabinclass=economy&inboundDate=2026-10-31&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610061709*I*SCL*ICN*20261011*skyp*LA|202610061709*I*ICN*SCL*20261018*skyp*KE",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-10-11&cabinclass=economy&inboundDate=2026-10-18&locale=en-US&currency=USD&market=CL"
+          }
+        ]
+      }
+    },
+    {
+      "quotes": [
+        {
+          "quote_id": "{bl}:202610071915*I*SCL*ICN*20261104*devf*LA|202610071915*I*ICN*SCL*20261111*devf*OZ",
+          "min_price": {
+            "amount": "1430",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 7,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 4
+            },
+            "carrier_id": "-32115"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 11
+            },
+            "carrier_id": "-32558"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610072047*I*SCL*ICN*20261109*skyp*LA|202610072047*I*ICN*SCL*20261115*skyp*TW",
+          "min_price": {
+            "amount": "1432",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 6,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 9
+            },
+            "carrier_id": "-32115"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 15
+            },
+            "carrier_id": "-31731"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610061900*I*SCL*ICN*20261102*devf*LA|202610061900*I*ICN*SCL*20261118*devf*OZ",
+          "min_price": {
+            "amount": "1435",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 16,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 2
+            },
+            "carrier_id": "-32115"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 18
+            },
+            "carrier_id": "-32558"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610070934*I*SCL*ICN*20261102*decl*LA|202610070934*I*ICN*SCL*20261109*decl*OZ",
+          "min_price": {
+            "amount": "1435",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 7,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 2
+            },
+            "carrier_id": "-32115"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 9
+            },
+            "carrier_id": "-32558"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610051626*I*SCL*ICN*20261102*decl*LA|202610051626*I*ICN*SCL*20261111*decl*OZ",
+          "min_price": {
+            "amount": "1435",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 9,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 2
+            },
+            "carrier_id": "-32115"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 11
+            },
+            "carrier_id": "-32558"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610030427*I*SCL*ICN*20261122*skyp*IB|202610030427*I*ICN*SCL*20261129*skyp*TW",
+          "min_price": {
+            "amount": "1447",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 7,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 22
+            },
+            "carrier_id": "-32222"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 29
+            },
+            "carrier_id": "-31731"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610070054*I*SCL*ICN*20261121*skyp*LA|202610070054*I*ICN*SCL*20261128*skyp*TW",
+          "min_price": {
+            "amount": "1454",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 7,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 21
+            },
+            "carrier_id": "-32115"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 28
+            },
+            "carrier_id": "-31731"
+          }
+        },
+        {
+          "quote_id": "{bl}:202610071027*I*SCL*ICN*20261107*skyp*LA|202610071027*I*ICN*SCL*20261124*skyp*TW",
+          "min_price": {
+            "amount": "1457",
+            "unit": "PRICE_UNIT_WHOLE"
+          },
+          "is_direct": false,
+          "trip_duration_days": 17,
+          "outbound_leg": {
+            "origin_entity_id": "104120223",
+            "destination_entity_id": "95673659",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 7
+            },
+            "carrier_id": "-32115"
+          },
+          "inbound_leg": {
+            "origin_entity_id": "95673659",
+            "destination_entity_id": "104120223",
+            "departure_date_time": {
+              "year": 2026,
+              "month": 11,
+              "day": 24
+            },
+            "carrier_id": "-31731"
+          }
+        }
+      ],
+      "carriers": [
+        {
+          "carrier_id": "-32222",
+          "name": "Iberia",
+          "iata": "IB",
+          "image_url": "https://logos.skyscnr.com/images/airlines/IB.png"
+        },
+        {
+          "carrier_id": "-32558",
+          "name": "Asiana Airlines",
+          "iata": "OZ",
+          "image_url": "https://logos.skyscnr.com/images/airlines/OZ.png"
+        },
+        {
+          "carrier_id": "-32115",
+          "name": "LATAM Airlines Group",
+          "iata": "LA",
+          "image_url": "https://logos.skyscnr.com/images/airlines/LA.png"
+        },
+        {
+          "carrier_id": "-31731",
+          "name": "Trinity Airways",
+          "iata": "TW",
+          "image_url": "https://logos.skyscnr.com/images/airlines/9R.png"
+        }
+      ],
+      "places": [
+        {
+          "entity_id": "27538638",
+          "parent_id": "29475329",
+          "name": "Seoul",
+          "iata": "SEL"
+        },
+        {
+          "entity_id": "95673659",
+          "parent_id": "27538638",
+          "name": "Incheon International",
+          "iata": "ICN"
+        },
+        {
+          "entity_id": "27546274",
+          "parent_id": "29475429",
+          "name": "Santiago",
+          "iata": "SCL"
+        },
+        {
+          "entity_id": "104120223",
+          "parent_id": "27546274",
+          "name": "Santiago Arturo Merino Benitez",
+          "iata": "SCL"
+        }
+      ],
+      "search_params": {
+        "origin": "SCL",
+        "destination": "ICN",
+        "month": 11,
+        "year": 2026,
+        "locale": "en-US",
+        "currency": "USD",
+        "market": "CL",
+        "is_return": true
+      },
+      "referral_links": {
+        "flight_day_view": [
+          {
+            "quote_id": "{bl}:202610071915*I*SCL*ICN*20261104*devf*LA|202610071915*I*ICN*SCL*20261111*devf*OZ",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-04&cabinclass=economy&inboundDate=2026-11-11&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610072047*I*SCL*ICN*20261109*skyp*LA|202610072047*I*ICN*SCL*20261115*skyp*TW",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-09&cabinclass=economy&inboundDate=2026-11-15&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610061900*I*SCL*ICN*20261102*devf*LA|202610061900*I*ICN*SCL*20261118*devf*OZ",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-02&cabinclass=economy&inboundDate=2026-11-18&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610070934*I*SCL*ICN*20261102*decl*LA|202610070934*I*ICN*SCL*20261109*decl*OZ",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-02&cabinclass=economy&inboundDate=2026-11-09&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610051626*I*SCL*ICN*20261102*decl*LA|202610051626*I*ICN*SCL*20261111*decl*OZ",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-02&cabinclass=economy&inboundDate=2026-11-11&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610030427*I*SCL*ICN*20261122*skyp*IB|202610030427*I*ICN*SCL*20261129*skyp*TW",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-22&cabinclass=economy&inboundDate=2026-11-29&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610070054*I*SCL*ICN*20261121*skyp*LA|202610070054*I*ICN*SCL*20261128*skyp*TW",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-21&cabinclass=economy&inboundDate=2026-11-28&locale=en-US&currency=USD&market=CL"
+          },
+          {
+            "quote_id": "{bl}:202610071027*I*SCL*ICN*20261107*skyp*LA|202610071027*I*ICN*SCL*20261124*skyp*TW",
+            "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=SCL&destination=ICN&outboundDate=2026-11-07&cabinclass=economy&inboundDate=2026-11-24&locale=en-US&currency=USD&market=CL"
+          }
+        ]
+      }
+    }
+  ],
+  "hotels": [
+    {
+      "query": {
+        "travelInfo": {
+          "adults": 1,
+          "checkInDate": "2026-10-27",
+          "checkOutDate": "2026-10-31",
+          "usedDefaultDates": false,
+          "rooms": 1,
+          "childrenAges": []
+        },
+        "searchGeoData": {
+          "geoId": 294197,
+          "name": "Seoul",
+          "lat": 37.51502,
+          "lon": 127.01647
+        }
+      },
+      "disclaimer": {
+        "priceDisclaimer": {
+          "disclaimerText": "Prices are provided by our partners, and reflect nightly room rates, including any mandatory fees. Taxes not included. Please see our partners for more details.",
+          "moreInfoLinkText": null,
+          "moreInfoLinkUrl": null
+        }
+      },
+      "hotels": [
+        {
+          "name": "Yehadoye Guest House",
+          "id": 8691874,
+          "url": "https://www.tripadvisor.com/Hotel_Review-g294197-d8691874-Reviews-Yehadoye_Guest_House-Seoul.html?staydates=2026_10_27_2026_10_31&uguests=1_1&m=70063",
+          "coords": {
+            "latitude": 37.574387,
+            "longitude": 126.985043
+          },
+          "price": {
+            "availabilityStatus": "AVAILABLE",
+            "displayPrice": "$62",
+            "displayTaxesAndFees": "$7",
+            "isLowestPricedOffer": true,
+            "pricingMode": "BASE_PLUS_FEES",
+            "linkToBook": null
+          },
+          "review": {
+            "rating": 4.3,
+            "count": 3
+          }
+        },
+        {
+          "name": "Junoh Hotel",
+          "id": 14155568,
+          "url": "https://www.tripadvisor.com/Hotel_Review-g294197-d14155568-Reviews-Junoh_Hotel-Seoul.html?staydates=2026_10_27_2026_10_31&uguests=1_1&m=70063",
+          "coords": {
+            "latitude": 37.574982,
+            "longitude": 126.984222
+          },
+          "price": {
+            "availabilityStatus": "AVAILABLE",
+            "displayPrice": "$95",
+            "displayTaxesAndFees": "$18",
+            "isLowestPricedOffer": true,
+            "pricingMode": "BASE_PLUS_FEES",
+            "linkToBook": null
+          },
+          "review": {
+            "rating": 4,
+            "count": 4
+          }
+        },
+        {
+          "name": "Mini Hotel Insa",
+          "id": 1236995,
+          "url": "https://www.tripadvisor.com/Hotel_Review-g294197-d1236995-Reviews-Mini_Hotel_Insa-Seoul.html?staydates=2026_10_27_2026_10_31&uguests=1_1&m=70063",
+          "coords": {
+            "latitude": 37.575054,
+            "longitude": 126.98546
+          },
+          "price": {
+            "availabilityStatus": "AVAILABLE",
+            "displayPrice": "$59",
+            "displayTaxesAndFees": "$7",
+            "isLowestPricedOffer": true,
+            "pricingMode": "BASE_PLUS_FEES",
+            "linkToBook": null
+          },
+          "review": {
+            "rating": 4.3,
+            "count": 35
+          }
+        }
+      ]
+    },
+    {
+      "query": {
+        "travelInfo": {
+          "adults": 1,
+          "checkInDate": "2026-10-31",
+          "checkOutDate": "2026-11-02",
+          "usedDefaultDates": false,
+          "rooms": 1,
+          "childrenAges": []
+        },
+        "searchGeoData": {
+          "geoId": 297888,
+          "name": "Gyeongju",
+          "lat": 35.84246,
+          "lon": 129.21255
+        }
+      },
+      "disclaimer": {
+        "priceDisclaimer": {
+          "disclaimerText": "Prices are provided by our partners, and reflect nightly room rates, including any mandatory fees. Taxes not included. Please see our partners for more details.",
+          "moreInfoLinkText": null,
+          "moreInfoLinkUrl": null
+        }
+      },
+      "hotels": [
+        {
+          "name": "Trip to Gyeongju",
+          "id": 10513754,
+          "url": "https://www.tripadvisor.com/Hotel_Review-g297888-d10513754-Reviews-Trip_to_Gyeongju-Gyeongju_Gyeongsangbuk_do.html?staydates=2026_10_31_2026_11_02&uguests=1_1&m=70063",
+          "coords": {
+            "latitude": 35.836708,
+            "longitude": 129.20825
+          },
+          "price": {
+            "availabilityStatus": "AVAILABLE",
+            "displayPrice": "$104",
+            "displayTaxesAndFees": "$10",
+            "isLowestPricedOffer": true,
+            "pricingMode": "BASE_PLUS_FEES",
+            "linkToBook": null
+          },
+          "review": {
+            "rating": 4.9,
+            "count": 10
+          }
+        },
+        {
+          "name": "Relax House",
+          "id": 34518310,
+          "url": "https://www.tripadvisor.com/Hotel_Review-g297888-d34518310-Reviews-Relax_House-Gyeongju_Gyeongsangbuk_do.html?staydates=2026_10_31_2026_11_02&uguests=1_1&m=70063",
+          "coords": {
+            "latitude": 35.836395,
+            "longitude": 129.207855
+          },
+          "price": {
+            "availabilityStatus": "AVAILABLE",
+            "displayPrice": "$140",
+            "displayTaxesAndFees": "$16",
+            "isLowestPricedOffer": true,
+            "pricingMode": "BASE_PLUS_FEES",
+            "linkToBook": null
+          },
+          "review": {
+            "rating": 0,
+            "count": 0
+          }
+        },
+        {
+          "name": "Bee House Hostel",
+          "id": 17563778,
+          "url": "https://www.tripadvisor.com/Hotel_Review-g297888-d17563778-Reviews-Bee_House_Hostel-Gyeongju_Gyeongsangbuk_do.html?staydates=2026_10_31_2026_11_02&uguests=1_1&m=70063",
+          "coords": {
+            "latitude": 35.84073,
+            "longitude": 129.207431
+          },
+          "price": {
+            "availabilityStatus": "AVAILABLE",
+            "displayPrice": "$75",
+            "displayTaxesAndFees": "$8",
+            "isLowestPricedOffer": true,
+            "pricingMode": "BASE_PLUS_FEES",
+            "linkToBook": null
+          },
+          "review": {
+            "rating": 4.3,
+            "count": 16
+          }
+        },
+        {
+          "name": "NAMU Guest House",
+          "id": 6671974,
+          "url": "https://www.tripadvisor.com/Hotel_Review-g297888-d6671974-Reviews-NAMU_Guest_House-Gyeongju_Gyeongsangbuk_do.html?staydates=2026_10_31_2026_11_02&uguests=1_1&m=70063",
+          "coords": {
+            "latitude": 35.840076,
+            "longitude": 129.2066
+          },
+          "price": {
+            "availabilityStatus": "AVAILABLE",
+            "displayPrice": "$20",
+            "displayTaxesAndFees": "$2",
+            "isLowestPricedOffer": true,
+            "pricingMode": "BASE_PLUS_FEES",
+            "linkToBook": null
+          },
+          "review": {
+            "rating": 3.5,
+            "count": 14
+          }
+        }
+      ]
+    },
+    {
+      "query": {
+        "travelInfo": {
+          "adults": 1,
+          "checkInDate": "2026-11-02",
+          "checkOutDate": "2026-11-05",
+          "usedDefaultDates": false,
+          "rooms": 1,
+          "childrenAges": []
+        },
+        "searchGeoData": {
+          "geoId": 297884,
+          "name": "Busan",
+          "lat": 35.115417,
+          "lon": 129.03625
+        }
+      },
+      "disclaimer": {
+        "priceDisclaimer": {
+          "disclaimerText": "Prices are provided by our partners, and reflect nightly room rates, including any mandatory fees. Taxes not included. Please see our partners for more details.",
+          "moreInfoLinkText": null,
+          "moreInfoLinkUrl": null
+        }
+      },
+      "hotels": [
+        {
+          "name": "Hotel Aqua Palace",
+          "id": 1162841,
+          "url": "https://www.tripadvisor.com/Hotel_Review-g297884-d1162841-Reviews-Hotel_Aqua_Palace-Busan.html?staydates=2026_11_02_2026_11_05&uguests=1_1&m=70063",
+          "coords": {
+            "latitude": 35.153967,
+            "longitude": 129.119005
+          },
+          "price": {
+            "availabilityStatus": "AVAILABLE",
+            "displayPrice": "$63",
+            "displayTaxesAndFees": "$7",
+            "isLowestPricedOffer": true,
+            "pricingMode": "BASE_PLUS_FEES",
+            "linkToBook": null
+          },
+          "review": {
+            "rating": 4.7,
+            "count": 452
+          }
+        },
+        {
+          "name": "Lotte Hotel Busan",
+          "id": 306067,
+          "url": "https://www.tripadvisor.com/Hotel_Review-g297884-d306067-Reviews-Lotte_Hotel_Busan-Busan.html?staydates=2026_11_02_2026_11_05&uguests=1_1&m=70063",
+          "coords": {
+            "latitude": 35.156872,
+            "longitude": 129.055572
+          },
+          "price": {
+            "availabilityStatus": "AVAILABLE",
+            "displayPrice": "$284",
+            "displayTaxesAndFees": "$60",
+            "isLowestPricedOffer": false,
+            "pricingMode": "BASE_PLUS_FEES",
+            "linkToBook": null
+          },
+          "review": {
+            "rating": 4.8,
+            "count": 2654
+          }
+        },
+        {
+          "name": "Asti Hotel Busan Station",
+          "id": 14789559,
+          "url": "https://www.tripadvisor.com/Hotel_Review-g297884-d14789559-Reviews-Asti_Hotel_Busan_Station-Busan.html?staydates=2026_11_02_2026_11_05&uguests=1_1&m=70063",
+          "coords": {
+            "latitude": 35.115894,
+            "longitude": 129.041679
+          },
+          "price": {
+            "availabilityStatus": "AVAILABLE",
+            "displayPrice": "$115",
+            "displayTaxesAndFees": "$12",
+            "isLowestPricedOffer": false,
+            "pricingMode": "BASE_PLUS_FEES",
+            "linkToBook": null
+          },
+          "review": {
+            "rating": 4.6,
+            "count": 417
+          }
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "name": "Mini Hotel Insa",
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294197-d1236995-Reviews-Mini_Hotel_Insa-Seoul.html?staydates=2026_10_27_2026_10_31&uguests=1_1&m=70063",
+      "address": {
+        "address": "26, Insadong 14-gil, Jongno-gu, Seoul 03146 South Korea",
+        "latitude": 37.575054,
+        "longitude": 126.98546
+      },
+      "amenities": [
+        {
+          "name": "Street parking",
+          "category": "propertyAmenities",
+          "icon": "parking",
+          "highlighted": true,
+          "tagId": 19092
+        },
+        {
+          "name": "Free High Speed Internet (WiFi)",
+          "category": "propertyAmenities",
+          "icon": "wifi",
+          "highlighted": true,
+          "tagId": 9176
+        },
+        {
+          "name": "Free breakfast",
+          "category": "propertyAmenities",
+          "icon": "food-drink",
+          "highlighted": true,
+          "tagId": 9179
+        },
+        {
+          "name": "Airport transportation",
+          "category": "propertyAmenities",
+          "icon": "taxi",
+          "highlighted": true,
+          "tagId": 9170
+        },
+        {
+          "name": "Baggage storage",
+          "category": "propertyAmenities",
+          "icon": "hotels",
+          "highlighted": true,
+          "tagId": 18896
+        },
+        {
+          "name": "Concierge",
+          "category": "propertyAmenities",
+          "icon": "hotels",
+          "highlighted": true,
+          "tagId": 9656
+        },
+        {
+          "name": "24-hour front desk",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 18977
+        },
+        {
+          "name": "Laundry service",
+          "category": "propertyAmenities",
+          "icon": "dry-cleaning",
+          "highlighted": true,
+          "tagId": 9623
+        }
+      ],
+      "offers": [
+        {
+          "price": "$59",
+          "provider": "Booking.com",
+          "messages": [
+            {
+              "message": "Fully refundable before Sat, Oct 24",
+              "type": "FREE_CANCELLATION"
+            }
+          ]
+        }
+      ],
+      "disclaimer": "Prices are provided by our partners, and reflect nightly room rates, including any mandatory fees. Taxes not included. Please see our partners for more details."
+    },
+    {
+      "name": "Trip to Gyeongju",
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297888-d10513754-Reviews-Trip_to_Gyeongju-Gyeongju_Gyeongsangbuk_do.html?staydates=2026_10_31_2026_11_02&uguests=1_1&m=70063",
+      "address": {
+        "address": "47-1, Sajeong-ro, Gyeongju, Gyeongsangbuk-do 38167 South Korea",
+        "latitude": 35.836708,
+        "longitude": 129.20825
+      },
+      "amenities": [
+        {
+          "name": "Free parking",
+          "category": "propertyAmenities",
+          "icon": "parking",
+          "highlighted": true,
+          "tagId": 9163
+        },
+        {
+          "name": "Free High Speed Internet (WiFi)",
+          "category": "propertyAmenities",
+          "icon": "wifi",
+          "highlighted": true,
+          "tagId": 9176
+        },
+        {
+          "name": "Children Activities (Kid / Family Friendly)",
+          "category": "propertyAmenities",
+          "icon": "family",
+          "highlighted": true,
+          "tagId": 9155
+        },
+        {
+          "name": "Pets Allowed ( Dog / Pet Friendly )",
+          "category": "propertyAmenities",
+          "icon": "pet-friendly",
+          "highlighted": true,
+          "tagId": 9167
+        },
+        {
+          "name": "24-hour security",
+          "category": "propertyAmenities",
+          "icon": "hotels",
+          "highlighted": true,
+          "tagId": 19063
+        },
+        {
+          "name": "Baggage storage",
+          "category": "propertyAmenities",
+          "icon": "hotels",
+          "highlighted": true,
+          "tagId": 18896
+        },
+        {
+          "name": "24-hour check-in",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 18924
+        },
+        {
+          "name": "24-hour front desk",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 18977
+        }
+      ],
+      "offers": [
+        {
+          "price": "$104",
+          "provider": "Booking.com",
+          "messages": [
+            {
+              "message": "Fully refundable before Tue, Oct 27",
+              "type": "FREE_CANCELLATION"
+            }
+          ]
+        },
+        {
+          "price": "$105",
+          "provider": "Agoda.com",
+          "messages": [
+            {
+              "message": "Fully refundable before Wed, Oct 28",
+              "type": "FREE_CANCELLATION"
+            }
+          ]
+        }
+      ],
+      "disclaimer": "Prices are provided by our partners, and reflect nightly room rates, including any mandatory fees. Taxes not included. Please see our partners for more details."
+    },
+    {
+      "name": "Asti Hotel Busan Station",
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297884-d14789559-Reviews-Asti_Hotel_Busan_Station-Busan.html?staydates=2026_11_02_2026_11_05&uguests=1_1&m=70063",
+      "address": {
+        "address": "7-8, Jungang-daero 214beon-gil, Dong-gu, Busan 48733 South Korea",
+        "latitude": 35.115894,
+        "longitude": 129.04167
+      },
+      "amenities": [
+        {
+          "name": "Free parking",
+          "category": "propertyAmenities",
+          "icon": "parking",
+          "highlighted": true,
+          "tagId": 9163
+        },
+        {
+          "name": "Free High Speed Internet (WiFi)",
+          "category": "propertyAmenities",
+          "icon": "wifi",
+          "highlighted": true,
+          "tagId": 9176
+        },
+        {
+          "name": "Fitness Center with Gym / Workout Room",
+          "category": "propertyAmenities",
+          "icon": "fitness",
+          "highlighted": true,
+          "tagId": 9188
+        },
+        {
+          "name": "Bar / lounge",
+          "category": "propertyAmenities",
+          "icon": "food-drink",
+          "highlighted": true,
+          "tagId": 9166
+        },
+        {
+          "name": "Highchairs available",
+          "category": "propertyAmenities",
+          "icon": "family",
+          "highlighted": true,
+          "tagId": 18990
+        },
+        {
+          "name": "Strollers",
+          "category": "propertyAmenities",
+          "icon": "family",
+          "highlighted": true,
+          "tagId": 19093
+        },
+        {
+          "name": "Car hire",
+          "category": "propertyAmenities",
+          "icon": "taxi",
+          "highlighted": true,
+          "tagId": 18921
+        },
+        {
+          "name": "Business Center with Internet Access",
+          "category": "propertyAmenities",
+          "icon": "suitcase-fill",
+          "highlighted": true,
+          "tagId": 9187
+        }
+      ],
+      "offers": [
+        {
+          "price": "$116",
+          "provider": "Hotels.com",
+          "messages": [
+            {
+              "message": "Fully refundable before Fri, Oct 30",
+              "type": "FREE_CANCELLATION"
+            },
+            {
+              "message": "No prepayment needed",
+              "type": "NO_PREPAYMENT"
+            }
+          ]
+        },
+        {
+          "price": "$111",
+          "provider": "Expedia",
+          "messages": [
+            {
+              "message": "Fully refundable before Fri, Oct 30",
+              "type": "FREE_CANCELLATION"
+            }
+          ]
+        },
+        {
+          "price": "$103",
+          "provider": "Agoda.com",
+          "messages": [
+            {
+              "message": "Fully refundable before Fri, Oct 30",
+              "type": "FREE_CANCELLATION"
+            }
+          ]
+        }
+      ],
+      "disclaimer": "Prices are provided by our partners, and reflect nightly room rates, including any mandatory fees. Taxes not included. Please see our partners for more details."
+    }
+  ],
+  "klook": [
+    {
+      "title": "DMZ Tour; NK Defector Meet up & Suspension Bridge  (optional)",
+      "location": "37.89250699999999,126.7430197",
+      "address": null,
+      "distance": null,
+      "review": {
+        "star": "4.9",
+        "max_star": "5",
+        "text": null,
+        "count": "46.4K+ reviews",
+        "booked": "300K+ booked",
+        "number": null,
+        "dot": " • ",
+        "new_style": false
+      },
+      "price": {
+        "selling_price": "US$ 50.75",
+        "selling_price_format": "{selling_price}"
+      },
+      "vertical_id": 216,
+      "vertical_type": 100,
+      "sub_title": "Day trips · Paju",
+      "act_summary": "- Learn more about the history of the Korean War and the Cold War on this educational guided DMZ tour\n- Places such as Imjingak Park, the Third Infiltration Tunnel, and the DMZ Exhibition Hall will be visited\n- Have a bird’s-eye view of North Korea through the binoculars located on top of the observatory towers\n- Nationals from countries restricted from the JSA (Panmunjom) may still join this tour due to its other interesting stops",
+      "act_detail": null,
+      "category_name": "Day trips",
+      "instant": true,
+      "city_name": "Paju",
+      "cover_url": "https://res.klook.com/image/upload/activities/if7udg4rzxzkvfitn0v8.jpg",
+      "track_info": {
+        "extra": {
+          "sub_category_id": "2",
+          "product_id": "216",
+          "request_id": "2dbe57a1-486d-4132-99fa-375977a31df2"
+        },
+        "object_id": "100_216"
+      },
+      "cta_text": "Book on Klook",
+      "deep_link": "https://www.klook.com/en-US/activity/216-dmz-tour-gyeonggi-do/?utm_source=openai&utm_medium=platform-openai&utm_term=2dbe57a1-486d-4132-99fa-375977a31df2",
+      "feature_reviews": null,
+      "hotel_info": null
+    },
+    {
+      "title": "DMZ Insider Tour: NK Defector Q&A, 3rd Tunnel & Bridge options",
+      "location": "37.89018069999999,126.7431652",
+      "address": null,
+      "distance": null,
+      "review": {
+        "star": "5.0",
+        "max_star": "5",
+        "text": null,
+        "count": "12.1K+ reviews",
+        "booked": "70K+ booked",
+        "number": null,
+        "dot": " • ",
+        "new_style": false
+      },
+      "price": {
+        "selling_price": "US$ 52.75",
+        "selling_price_format": "{selling_price}"
+      },
+      "vertical_id": 77005,
+      "vertical_type": 100,
+      "sub_title": "Day trips · Paju",
+      "act_summary": "**Meet a North Korean defector in our immersive North Korea Experience Center**. Hear firsthand stories of daily life, escape, and resettlement, followed by a live Q&A. An immersive space designed to give visitors a deeper understanding of life across the border.\n\n**Explore Korea’s DMZ** Step inside** the 3rd Invasion Tunnel**, a hidden passage once built by North Korea for a surprise attack. Then visit **Dora Observatory**, where you can look across the border into North Korean territory.\n\nEnhance your tour with optional add-ons at booking: **Visit the Red Suspension Bridge** at **Lake Majang** or **Mt. Gamaksan**, both connected to Korean War history and now offering breathtaking panoramic views.\n\n**Free hotel pick-up is included for groups of 10 or more**",
+      "act_detail": null,
+      "category_name": "Day trips",
+      "instant": true,
+      "city_name": "Paju",
+      "cover_url": "https://res.klook.com/image/upload/activities/cqynrcetjynsr2ielxh3.jpg",
+      "track_info": {
+        "extra": {
+          "sub_category_id": "2",
+          "product_id": "77005",
+          "request_id": "2dbe57a1-486d-4132-99fa-375977a31df2"
+        },
+        "object_id": "100_77005"
+      },
+      "cta_text": "Book on Klook",
+      "deep_link": "https://www.klook.com/en-US/activity/77005-dmz-3rd-invasion-tunnel-suspension-bridge-one-day-tour-from-seoul/?utm_source=openai&utm_medium=platform-openai&utm_term=2dbe57a1-486d-4132-99fa-375977a31df2",
+      "feature_reviews": null,
+      "hotel_info": null
+    },
+    {
+      "title": "DMZ Tour: Red Suspension Bridge & Observatory from Seoul",
+      "location": "38.266448247325236,127.1478079674472",
+      "address": null,
+      "distance": null,
+      "review": {
+        "star": "5.0",
+        "max_star": "5",
+        "text": null,
+        "count": "2.5K+ reviews",
+        "booked": "9K+ booked",
+        "number": null,
+        "dot": " • ",
+        "new_style": false
+      },
+      "price": {
+        "selling_price": "US$ 45.00",
+        "selling_price_format": "{selling_price}"
+      },
+      "vertical_id": 29601,
+      "vertical_type": 100,
+      "sub_title": "Day trips · Cheorwon",
+      "act_summary": "“👣 Walk through the 3rd Tunnel of Aggression, North Korea’s secret invasion route.”\n\n“📸 Panoramic glimpse of North Korea via Dora Observatory binoculars.”\n\n“🌉 Walking across the Red Suspension Bridge, built in commemoration of the fierce battlefield for Battle of Gloster Hill”\n\n“🎓 Learn from a licensed, expert guide about Cold War impacts.”\n\n“🛡️ Travel in a secure, locally certified group tour with zero shopping stops.”",
+      "act_detail": null,
+      "category_name": "Day trips",
+      "instant": true,
+      "city_name": "Cheorwon",
+      "cover_url": "https://res.klook.com/image/upload/activities/jsb8uadr1umfkxucnbgq.jpg",
+      "track_info": {
+        "extra": {
+          "sub_category_id": "2",
+          "product_id": "29601",
+          "request_id": "2dbe57a1-486d-4132-99fa-375977a31df2"
+        },
+        "object_id": "100_29601"
+      },
+      "cta_text": "Book on Klook",
+      "deep_link": "https://www.klook.com/en-US/activity/29601-dmz-tour-seoul/?utm_source=openai&utm_medium=platform-openai&utm_term=2dbe57a1-486d-4132-99fa-375977a31df2",
+      "feature_reviews": null,
+      "hotel_info": null
+    }
+  ]
+}

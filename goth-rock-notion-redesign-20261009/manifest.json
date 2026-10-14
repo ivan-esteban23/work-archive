@@ -1,0 +1,487 @@
+{
+  "main": "https://app.notion.com/p/3f4e10956af481718f92cc70d06d02d8?pvs=204",
+  "archive": {
+    "id": "3f4e1095-6af4-8195-9551-fa712f5cabc7",
+    "url": "https://app.notion.com/p/3f4e10956af481959551fa712f5cabc7?pvs=204",
+    "properties": {
+      "title": "Original research & preference archive — 9 October 2026"
+    }
+  },
+  "databases": {
+    "albums": {
+      "url": "https://app.notion.com/p/e0a77e49c7aa4e99b1a2bfdffc4e2358",
+      "ds": "dba7ad92-df45-4403-8caa-97e61a04e491"
+    },
+    "scenes": {
+      "url": "https://app.notion.com/p/ea6d82468f5542c1bf7f82b4b8d8fc57",
+      "ds": "2b8010e3-1a71-44a8-9b41-4845f97edd8f"
+    },
+    "history": {
+      "url": "https://app.notion.com/p/8e36e3a0f0584650b58f42b3fafbf76d",
+      "ds": "ba628b08-160d-4a58-8176-72c4ad26df62"
+    },
+    "journal": {
+      "url": "https://app.notion.com/p/c5f7aee21bb44dafb72c3383e6100cfc",
+      "ds": "ab0f13a4-97c5-4997-be8b-1bb36f8a8598"
+    }
+  },
+  "inline": [
+    {
+      "url": "https://app.notion.com/p/3f4e10956af4815c97bbf87eaa2c7c9a",
+      "ds": "dba7ad92-df45-4403-8caa-97e61a04e491"
+    },
+    {
+      "url": "https://app.notion.com/p/3f4e10956af481e1abaeda54da1fedc5",
+      "ds": "2b8010e3-1a71-44a8-9b41-4845f97edd8f"
+    },
+    {
+      "url": "https://app.notion.com/p/3f4e10956af481cd9b50f214123cca19",
+      "ds": "ba628b08-160d-4a58-8176-72c4ad26df62"
+    },
+    {
+      "url": "https://app.notion.com/p/3f4e10956af48125a79ae83612c4bd2e",
+      "ds": "ab0f13a4-97c5-4997-be8b-1bb36f8a8598"
+    }
+  ],
+  "albumPages": [
+    {
+      "id": "3f4e1095-6af4-81c1-bccb-e718e480c6b8",
+      "url": "https://app.notion.com/p/3f4e10956af481c1bccbe718e480c6b8?pvs=204",
+      "properties": {
+        "Album": "Sleep in Safety",
+        "Artist": "45 Grave",
+        "Original year": 1983,
+        "Style": [
+          "Deathrock"
+        ],
+        "Shelf": "Next listens",
+        "Listening status": "Unknown",
+        "Edition": "Expanded Apple Music edition; original album year 1983. Keep bonus material identifiable.",
+        "Entry track": "Evil",
+        "Listen": "https://music.apple.com/us/album/sleep-in-safety/162551605",
+        "Order": 1
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-8157-b17c-e41baa62a140",
+      "url": "https://app.notion.com/p/3f4e10956af48157b17ce41baa62a140?pvs=204",
+      "properties": {
+        "Album": "The Vision and the Voice",
+        "Artist": "Kommunity FK",
+        "Original year": 1983,
+        "Style": [
+          "Deathrock",
+          "Post-punk"
+        ],
+        "Shelf": "Next listens",
+        "Listening status": "Unknown",
+        "Edition": "Original vinyl: Independent Project, 1983. Pictured catalog: official 2006 CD reissue with bonus live material.",
+        "Entry track": "Choose an original-album track from the confirmed edition",
+        "Listen": "https://kommunityfk.bandcamp.com/album/vision-and-the-voice",
+        "Order": 2
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81aa-a1b1-f1b03237e10c",
+      "url": "https://app.notion.com/p/3f4e10956af481aaa1b1f1b03237e10c?pvs=204",
+      "properties": {
+        "Album": "The Astonished Eyes of Evening",
+        "Artist": "Cinema Strange",
+        "Original year": 2002,
+        "Style": [
+          "Deathrock"
+        ],
+        "Shelf": "Next listens",
+        "Listening status": "Unknown",
+        "Edition": "2002 original year; linked member catalog identifies the second Trisol CD. Exact original day remains unverified.",
+        "Entry track": "Dead Eyes Open",
+        "Listen": "https://lucaslanthier.bandcamp.com/album/album-the-astonished-eyes-of-evening",
+        "Order": 3
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81d2-9c75-e22feb50b6ae",
+      "url": "https://app.notion.com/p/3f4e10956af481d29c75e22feb50b6ae?pvs=204",
+      "properties": {
+        "Album": "Pornography",
+        "Artist": "The Cure",
+        "Original year": 1982,
+        "Style": [
+          "Gothic rock",
+          "Post-punk"
+        ],
+        "Shelf": "Stated favorite",
+        "Listening status": "Unknown",
+        "Edition": "Original eight-track sequence first; 2005 deluxe material separately. Preserve the earlier official-page conflict between May 3 and May 4.",
+        "Entry track": "One Hundred Years",
+        "Listen": "https://www.thecure.com/release/pornography/",
+        "Order": 4
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81d3-8d75-e7613eef52b3",
+      "url": "https://app.notion.com/p/3f4e10956af481d38d75e7613eef52b3?pvs=204",
+      "properties": {
+        "Album": "Disintegration",
+        "Artist": "The Cure",
+        "Original year": 1989,
+        "Style": [
+          "Gothic rock"
+        ],
+        "Shelf": "Stated favorite",
+        "Listening status": "Unknown",
+        "Edition": "1989 original year; 2010 deluxe release separately. Record your chosen format/edition; the official page provides a twelve-track sequence.",
+        "Entry track": "Plainsong",
+        "Listen": "https://www.thecure.com/release/disintegration/",
+        "Order": 5
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81e4-9a02-d4dfb991c6c0",
+      "url": "https://app.notion.com/p/3f4e10956af481e49a02d4dfb991c6c0?pvs=204",
+      "properties": {
+        "Album": "Only Theatre of Pain",
+        "Artist": "Christian Death",
+        "Original year": 1982,
+        "Style": [
+          "Deathrock"
+        ],
+        "Shelf": "Historical reference",
+        "Listening status": "Unknown",
+        "Edition": "Frontier original-version listing; tracks 1–10 are the album, followed by Deathwish EP material. Distinct from the 2011 remaster.",
+        "Entry track": "Cavity — First Communion",
+        "Listen": "https://frontierrecords-christiandeath.bandcamp.com/album/only-theatre-of-pain-original",
+        "Order": 6
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81c4-bbe6-e885c8716ee0",
+      "url": "https://app.notion.com/p/3f4e10956af481c4bbe6e885c8716ee0?pvs=204",
+      "properties": {
+        "Album": "In the Flat Field",
+        "Artist": "Bauhaus",
+        "Original year": 1980,
+        "Style": [
+          "Gothic rock",
+          "Post-punk"
+        ],
+        "Shelf": "Historical reference",
+        "Listening status": "Unknown",
+        "Edition": "1980 debut; linked label catalog and pictured catalog sleeve. Exact-day conflicts noted in the original research remain open.",
+        "Entry track": "Double Dare",
+        "Listen": "https://beggarsbanquetrecords.com/bauhaus-in-the-flat-field/",
+        "Order": 7
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-8168-9050-d5d92e104de2",
+      "url": "https://app.notion.com/p/3f4e10956af481689050d5d92e104de2?pvs=204",
+      "properties": {
+        "Album": "Cold",
+        "Artist": "Lycia",
+        "Original year": 1996,
+        "Style": [
+          "Darkwave",
+          "Ethereal / atmospheric"
+        ],
+        "Shelf": "Atmospheric detour",
+        "Listening status": "Unknown",
+        "Edition": "1996 original year; artist page offers remastered audio. Record the version used in your journal.",
+        "Entry track": "Frozen",
+        "Listen": "https://lycia.bandcamp.com/album/cold",
+        "Order": 8
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-8122-9c05-cd5f787f2a09",
+      "url": "https://app.notion.com/p/3f4e10956af481229c05cd5f787f2a09?pvs=204",
+      "properties": {
+        "Album": "Talk About the Weather",
+        "Artist": "Red Lorry Yellow Lorry",
+        "Original year": 1985,
+        "Style": [
+          "Post-punk",
+          "Gothic rock"
+        ],
+        "Shelf": "Historical reference",
+        "Listening status": "Unknown",
+        "Edition": "Expanded platform edition; original year 1985. Artist rejects the goth tag according to the artist/label biography.",
+        "Entry track": "Talk About the Weather",
+        "Listen": "https://music.apple.com/us/album/talk-about-the-weather/277761688",
+        "Order": 9
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81da-8d89-d3f8a86feb34",
+      "url": "https://app.notion.com/p/3f4e10956af481da8d89d3f8a86feb34?pvs=204",
+      "properties": {
+        "Album": "Selected Scenes from the End of the World",
+        "Artist": "London After Midnight",
+        "Original year": 1991,
+        "Style": [
+          "Gothic rock",
+          "Darkwave"
+        ],
+        "Shelf": "Historical reference",
+        "Listening status": "Unknown",
+        "Edition": "Artist-supplied original year 1991; linked 9119 remix/remaster released in 2019, with bonus recordings.",
+        "Entry track": "Spider and the Fly",
+        "Listen": "https://lamofficial.bandcamp.com/album/selected-scenes-from-the-end-of-the-world-9119",
+        "Order": 10
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-8133-981c-c17ebc0ef554",
+      "url": "https://app.notion.com/p/3f4e10956af48133981cc17ebc0ef554?pvs=204",
+      "properties": {
+        "Album": "First and Last and Always",
+        "Artist": "The Sisters of Mercy",
+        "Original year": 1985,
+        "Style": [
+          "Gothic rock"
+        ],
+        "Shelf": "Historical reference",
+        "Listening status": "Unknown",
+        "Edition": "Original year 1985; exact edition not selected. Your “first two records” remains unresolved and this is not automatically marked as a favorite.",
+        "Entry track": "Marian",
+        "Listen": "https://www.guitarworld.com/artists/guitarists/the-making-of-the-sisters-of-mercy-first-and-last-and-always",
+        "Order": 11
+      }
+    }
+  ],
+  "scenePages": [
+    {
+      "id": "3f4e1095-6af4-8180-afa6-e6d84e74f592",
+      "url": "https://app.notion.com/p/3f4e10956af48180afa6e6d84e74f592?pvs=204",
+      "properties": {
+        "Scene": "Los Angeles — deathrock roots",
+        "Region": "North America",
+        "Focus": "Punk attack, theatricality, and different early recording approaches",
+        "Evidence": "Source-backed overview",
+        "Source": "https://www.laweekly.com/the-la-deathrock-starter-guide/"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81ea-a261-f6006bba37ca",
+      "url": "https://app.notion.com/p/3f4e10956af481eaa261f6006bba37ca?pvs=204",
+      "properties": {
+        "Scene": "London — Batcave connections",
+        "Region": "Europe",
+        "Focus": "Club culture, theatrical performance, and a varied listening community",
+        "Evidence": "Source-backed overview",
+        "Source": "https://post-punk.com/young-limbs-rise-again-the-story-of-the-batcave-nightclub-1982-1985-compilation-and-book-zeroes-in-on-goths-formative-lair-the-batcave/"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-8102-aa60-f07da4e57224",
+      "url": "https://app.notion.com/p/3f4e10956af48102aa60f07da4e57224?pvs=204",
+      "properties": {
+        "Scene": "Germany — international revival networks",
+        "Region": "Europe",
+        "Focus": "Festivals and cross-border circulation",
+        "Evidence": "Research lead",
+        "Source": "https://www.laweekly.com/the-la-deathrock-starter-guide/"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81a0-a673-cade8f508f5b",
+      "url": "https://app.notion.com/p/3f4e10956af481a0a673cade8f508f5b?pvs=204",
+      "properties": {
+        "Scene": "Chile — Puerto Montt and wider research",
+        "Region": "Latin America",
+        "Focus": "A local lead connected to your dark, weighty preferences",
+        "Evidence": "Research lead",
+        "Source": "https://post-punk.com/chilean-gothic-rockers-a-traves-del-manto-unveil-their-macabre-video-for-xmal-funeral/"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-817d-9c66-d859208958ff",
+      "url": "https://app.notion.com/p/3f4e10956af4817d9c66d859208958ff?pvs=204",
+      "properties": {
+        "Scene": "Arizona — an atmospheric detour",
+        "Region": "North America",
+        "Focus": "Recording texture and a related darkwave path",
+        "Evidence": "Source-backed overview",
+        "Source": "https://lycia.bandcamp.com/album/cold"
+      }
+    }
+  ],
+  "timelinePages": [
+    {
+      "id": "3f4e1095-6af4-8155-a0e9-ee4c4beae57e",
+      "url": "https://app.notion.com/p/3f4e10956af48155a0e9ee4c4beae57e?pvs=204",
+      "properties": {
+        "Milestone": "Bauhaus — In the Flat Field",
+        "Year": 1980,
+        "date:Window start:start": "1980-01-01",
+        "date:Window start:is_datetime": 0,
+        "date:Window end:start": "1980-12-31",
+        "date:Window end:is_datetime": 0,
+        "Date precision": "Year span",
+        "Kind": "Recording",
+        "Scene": "UK recording reference",
+        "Source": "https://beggarsbanquetrecords.com/bauhaus-in-the-flat-field/"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81f6-a2a4-e349fd050af2",
+      "url": "https://app.notion.com/p/3f4e10956af481f6a2a4e349fd050af2?pvs=204",
+      "properties": {
+        "Milestone": "Christian Death — Only Theatre of Pain",
+        "Year": 1982,
+        "date:Window start:start": "1982-01-01",
+        "date:Window start:is_datetime": 0,
+        "date:Window end:start": "1982-12-31",
+        "date:Window end:is_datetime": 0,
+        "Date precision": "Year span",
+        "Kind": "Recording",
+        "Scene": "Los Angeles",
+        "Source": "https://frontierrecords-christiandeath.bandcamp.com/album/only-theatre-of-pain-original"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-8128-a2cd-c7547810c774",
+      "url": "https://app.notion.com/p/3f4e10956af48128a2cdc7547810c774?pvs=204",
+      "properties": {
+        "Milestone": "The Cure — Pornography",
+        "Year": 1982,
+        "date:Window start:start": "1982-01-01",
+        "date:Window start:is_datetime": 0,
+        "date:Window end:start": "1982-12-31",
+        "date:Window end:is_datetime": 0,
+        "Date precision": "Year span",
+        "Kind": "Recording",
+        "Scene": "UK recording reference",
+        "Source": "https://www.thecure.com/release/pornography/"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81de-8eef-e78f1dcc9020",
+      "url": "https://app.notion.com/p/3f4e10956af481de8eefe78f1dcc9020?pvs=204",
+      "properties": {
+        "Milestone": "Batcave — documented retrospective period",
+        "Year": 1982,
+        "date:Window start:start": "1982-01-01",
+        "date:Window start:is_datetime": 0,
+        "date:Window end:start": "1985-12-31",
+        "date:Window end:is_datetime": 0,
+        "Date precision": "Documented period",
+        "Kind": "Club / scene",
+        "Scene": "London",
+        "Source": "https://post-punk.com/young-limbs-rise-again-the-story-of-the-batcave-nightclub-1982-1985-compilation-and-book-zeroes-in-on-goths-formative-lair-the-batcave/"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-8181-862f-c442a773823e",
+      "url": "https://app.notion.com/p/3f4e10956af48181862fc442a773823e?pvs=204",
+      "properties": {
+        "Milestone": "45 Grave — Sleep in Safety",
+        "Year": 1983,
+        "date:Window start:start": "1983-01-01",
+        "date:Window start:is_datetime": 0,
+        "date:Window end:start": "1983-12-31",
+        "date:Window end:is_datetime": 0,
+        "Date precision": "Year span",
+        "Kind": "Recording",
+        "Scene": "Los Angeles",
+        "Source": "https://music.apple.com/us/album/sleep-in-safety/162551605"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-8188-82e8-d4fb4d3d87a4",
+      "url": "https://app.notion.com/p/3f4e10956af4818882e8d4fb4d3d87a4?pvs=204",
+      "properties": {
+        "Milestone": "Kommunity FK — The Vision and the Voice",
+        "Year": 1983,
+        "date:Window start:start": "1983-01-01",
+        "date:Window start:is_datetime": 0,
+        "date:Window end:start": "1983-12-31",
+        "date:Window end:is_datetime": 0,
+        "Date precision": "Year span",
+        "Kind": "Recording",
+        "Scene": "Los Angeles",
+        "Source": "https://kommunityfk.wixsite.com/kommunityfk/discography"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81ad-9122-c7cf13ab8d4e",
+      "url": "https://app.notion.com/p/3f4e10956af481ad9122c7cf13ab8d4e?pvs=204",
+      "properties": {
+        "Milestone": "The Sisters of Mercy — First and Last and Always",
+        "Year": 1985,
+        "date:Window start:start": "1985-01-01",
+        "date:Window start:is_datetime": 0,
+        "date:Window end:start": "1985-12-31",
+        "date:Window end:is_datetime": 0,
+        "Date precision": "Year span",
+        "Kind": "Recording",
+        "Scene": "UK recording reference",
+        "Source": "https://www.guitarworld.com/artists/guitarists/the-making-of-the-sisters-of-mercy-first-and-last-and-always"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-81f1-b157-c882fdebe6cd",
+      "url": "https://app.notion.com/p/3f4e10956af481f1b157c882fdebe6cd?pvs=204",
+      "properties": {
+        "Milestone": "The Cure — Disintegration",
+        "Year": 1989,
+        "date:Window start:start": "1989-01-01",
+        "date:Window start:is_datetime": 0,
+        "date:Window end:start": "1989-12-31",
+        "date:Window end:is_datetime": 0,
+        "Date precision": "Year span",
+        "Kind": "Recording",
+        "Scene": "UK recording reference",
+        "Source": "https://www.thecure.com/release/disintegration/"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-8125-8ec9-fd7376e9a517",
+      "url": "https://app.notion.com/p/3f4e10956af481258ec9fd7376e9a517?pvs=204",
+      "properties": {
+        "Milestone": "Lycia — Cold",
+        "Year": 1996,
+        "date:Window start:start": "1996-01-01",
+        "date:Window start:is_datetime": 0,
+        "date:Window end:start": "1996-12-31",
+        "date:Window end:is_datetime": 0,
+        "Date precision": "Year span",
+        "Kind": "Recording",
+        "Scene": "Arizona / related exploration",
+        "Source": "https://lycia.bandcamp.com/album/cold"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-8193-861b-ff9207deb698",
+      "url": "https://app.notion.com/p/3f4e10956af48193861bff9207deb698?pvs=204",
+      "properties": {
+        "Milestone": "Cinema Strange — The Astonished Eyes of Evening",
+        "Year": 2002,
+        "date:Window start:start": "2002-01-01",
+        "date:Window start:is_datetime": 0,
+        "date:Window end:start": "2002-12-31",
+        "date:Window end:is_datetime": 0,
+        "Date precision": "Year span",
+        "Kind": "Recording",
+        "Scene": "Later theatrical deathrock",
+        "Source": "https://lucaslanthier.bandcamp.com/album/album-the-astonished-eyes-of-evening"
+      }
+    },
+    {
+      "id": "3f4e1095-6af4-816b-bd90-f17e92fafdb8",
+      "url": "https://app.notion.com/p/3f4e10956af4816bbd90f17e92fafdb8?pvs=204",
+      "properties": {
+        "Milestone": "Puerto Montt — a documented Chilean discovery lead",
+        "Year": 2024,
+        "date:Window start:start": "2024-01-01",
+        "date:Window start:is_datetime": 0,
+        "date:Window end:start": "2024-12-31",
+        "date:Window end:is_datetime": 0,
+        "Date precision": "Year span",
+        "Kind": "Regional lead",
+        "Scene": "Chile",
+        "Source": "https://post-punk.com/chilean-gothic-rockers-a-traves-del-manto-unveil-their-macabre-video-for-xmal-funeral/"
+      }
+    }
+  ]
+}

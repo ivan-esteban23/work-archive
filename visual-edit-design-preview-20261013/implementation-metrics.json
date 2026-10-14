@@ -1,0 +1,20 @@
+{
+  "before": {
+    "file_bytes": 1838025,
+    "stylesheet_bytes": 349863,
+    "style_rules": 479,
+    "duplicated_selectors_all_contexts": 121,
+    "duplicated_selectors_same_context": 101,
+    "media_blocks": 43,
+    "print_blocks": 14
+  },
+  "after": {
+    "file_bytes": 1823218,
+    "stylesheet_bytes": 334936,
+    "style_rules": 182,
+    "duplicated_selectors_all_contexts": 48,
+    "duplicated_selectors_same_context": 0,
+    "media_blocks": 5,
+    "print_blocks": 1
+  }
+}

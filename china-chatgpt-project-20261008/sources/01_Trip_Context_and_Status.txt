@@ -1,0 +1,166 @@
+# China Trip — Context, Decisions, Budget, and Reservations
+
+Snapshot: 8 October 2026. Exported from the China Obsidian notes. Internal source references point to other uploaded files, not live links. External source and Amap URLs are retained. Research dates describe when claims were checked; this export does not refresh provider facts.
+
+## Quick orientation for a new project chat
+
+This is a separate China trip. The user wants continuing research and planning, with useful location links. They use both iPhone and Android and plan to test Amap later; phone opening and live place matches remain untested. Interests drawn from other guides include photography/filming, food, cafés, tea, vintage clothing, vinyl, hobby browsing, and meaningful gifts; confirm priorities as needed.
+
+Beijing 5 + Xi’an 3 + Shanghai 6 is a proposed 14-night / 15-local-day route. No year, travel dates, length, traveler/room count, budget, or final route has been selected. Chilean nationality and San Fernando/SCL origin are provisional carryover context; confirm the actual passport before applying entry/transit rules. There are no confirmed China bookings in this snapshot. Korea/Japan budgets are not China budgets.
+
+Latest research added Hangzhou/Longjing tea, Suzhou gardens/canals, Shanghai cooking and neighborhood walks, and Chengdu/Chongqing/Zhangjiajie alternatives. There are 29 city-scoped Amap searches across the two location notes. None establishes a verified POI pin or tested handset handoff. Four Klook products are exploratory; pricing units and dated totals are unresolved.
+
+Read the source notes below for details. Recommendations do not constitute the user’s choices. Later explicit user decisions or actual confirmations supersede this snapshot.
+
+
+---
+
+Original note: China — Start Here.md
+
+# China — Start Here
+
+> [!info] New research project · 8 October 2026
+> Year, season, dates, trip length, traveler count, rooms, and budget are open. Nothing booked. This is a separate China trip, not an extension of Japan or Korea.
+
+**Main guide:** China Travel Guide [source: 02_Current_Travel_Guide.txt; note: China Travel Guide] · **Preparation:** China — Preparation Before Choosing Dates [source: 04_Practical_Preparation.txt; note: China — Preparation Before Choosing Dates] · **Budget:** China — Budget [source: 01_Trip_Context_and_Status.txt; note: China — Budget] · **Reservations:** China — Bookings [source: 01_Trip_Context_and_Status.txt; note: China — Bookings] · **Evidence:** China — Research and Sources 2026-10-08 [source: 05_Evidence_and_Experience_Research.txt; note: China — Research and Sources 2026-10-08] · **Latest recap:** China — Session Recap 2026-10-08 [source: 01_Trip_Context_and_Status.txt; note: China — Session Recap 2026-10-08]
+
+**Places and experiences:** Art districts, tea, food and cafés — 16 Amap location searches [source: 03_Places_and_Route_Ideas.txt; note: China — Places and Experiences Shortlist] · Amap downloads for iPhone and Android [source: 03_Places_and_Route_Ideas.txt; note: China — Places and Experiences Shortlist; section: Open these places in Amap]
+
+**More ideas:** Tea, gardens, cooking, and route choices [source: 03_Places_and_Route_Ideas.txt; note: China — More Ideas and Route Choices] · Four paid experience candidates and exploratory prices [source: 05_Evidence_and_Experience_Research.txt; note: China — Klook Experience Research 2026-10-08]
+
+## First route to compare
+
+**Beijing 5 nights → Xi’an 3 nights → Shanghai 6 nights = 14 nights / 15 local calendar days.** This is a suggested starting scenario, not a selected itinerary. International travel from Chile adds travel time outside those 15 days.
+
+Start with imperial Beijing and a Great Wall outing, continue to the Terracotta Warriors and Xi’an food, then slow down for Shanghai photography, cafés, and browsing. Protect ordinary neighborhood time alongside the big sights.
+
+| Direction | Route sketch | Main tradeoff |
+| --- | --- | --- |
+| History, cities, and photography | Beijing 5 + Xi’an 3 + Shanghai 6 | My starting recommendation; two internal transfer days |
+| Food and a slower middle chapter | Beijing 4 + Chengdu 4 + Shanghai 6 | Replaces Xi’an; Chengdu places and transport need research |
+| Landscapes as the main priority | Beijing 4 + Zhangjiajie 4 + Shanghai 6 | Candidate for further research; weather, park access, and connections determine feasibility |
+| Shorter first visit | Beijing 5 + Shanghai 5 | 10 nights, fewer transfers; no Xi’an |
+
+All night counts are examples. Route direction should follow the best complete flight itinerary, not force a costly return to the first city.
+
+## Personal context to confirm
+
+Your Korea notes record Chilean nationality, San Fernando/SCL origin, solo travel, an unrestricted diet, and a preference for high-protein meals. Nationality and origin are provisional carryover for China; solo travel and Korea’s US$2,500 budget are **not confirmed China choices**. Photography, filming, food, cafés, and shopping are suggested interests based on your other guides.
+
+## Next decisions
+
+- [ ] Choose the trip’s direction: balanced, urban, or landscapes.
+- [ ] Record year/month or two comparison windows, usable leave, travelers, and rooms.
+- [ ] Set a China budget and state whether international airfare is included.
+- [ ] Confirm the passport to use and any transit authorizations.
+- [ ] Develop the selected cities, then compare equivalent flight/hotel scenarios.
+
+For an ordinary Chilean passport, the embassy’s current notice covers qualifying tourism stays of up to 30 days through **31 December 2026, Beijing time**. It does not establish a later travel year’s eligibility. [Embassy notice](https://cl.china-embassy.gov.cn/esp/lsfw/lsxw/202511/t20251104_11746368.htm), checked 8 October 2026.
+
+
+---
+
+Original note: China — Budget.md
+
+# China — Budget
+
+Dashboard [source: 01_Trip_Context_and_Status.txt; note: China — Start Here] · Actual reservations [source: 01_Trip_Context_and_Status.txt; note: China — Bookings]
+
+**Status: no China spending ceiling selected; no quotes or bookings recorded.** Korea’s US$2,500 and Japan’s US$5,000 belong to their own projects.
+
+## Set the scope
+
+| Input | Current status |
+| --- | --- |
+| Travelers / rooms | Open; single-adult room is only a possible comparison scenario |
+| Duration | Example: 14 hotel nights / 15 China local days |
+| China spending ceiling | To choose; specify per-person or total-party |
+| International flights | Decide whether included in the ceiling |
+| Currency | Preserve provider CNY amounts; choose CLP or USD for the summary |
+| Reserve | Choose before allocating optional shopping |
+
+## Build the estimate
+
+| Category | Calculation to record |
+| --- | --- |
+| Hotels | Sum full-stay totals for each base, including taxes and fees |
+| Food and cafés | Personal daily allowance × local trip days × travelers |
+| Intercity transport | Each actual rail/flight fare plus baggage and city transfers |
+| Local transport | Airport/station transfers plus metro/taxis |
+| Attractions and tours | Ticket or package amount × applicable travelers, including chosen extras |
+| Connectivity / insurance / entry | Actual provider totals and applicable visa costs |
+| Shopping / gifts | Personal cap; keep separate from reserve |
+| Reserve | Unallocated contingency |
+| International travel if included | Complete flights plus San Fernando–SCL ground travel |
+
+**Total = all included categories + reserve.** Record exchange-rate date, conversion source, and card fees. A hotel room price is not automatically a per-person amount; a tour’s “from” price is not automatically a group total.
+
+A current reference point is the museum’s displayed Terracotta Warriors adult admission, **CNY 120 per person**, checked 8 October 2026. It is not a complete excursion cost: transport, a guide, and separately charged extras require additional amounts. [Museum visitor instructions](https://www.bmy.com.cn/jingtai/bmyweb/ticketing.html).
+
+For the next comparison, quote the same night count, travelers, room count, cancellation flexibility, and meal basis across routes. Record search date, travel dates, supplier, pricing unit, inclusions, and final taxes before calling a price a match.
+
+
+---
+
+Original note: China — Bookings.md
+
+# China — Bookings
+
+Dashboard [source: 01_Trip_Context_and_Status.txt; note: China — Start Here] · Budget [source: 01_Trip_Context_and_Status.txt; note: China — Budget]
+
+**No confirmed China reservations recorded as of 8 October 2026.** Keep route ideas and provider searches in the guide/research notes. Add entries here only after an actual choice or confirmation.
+
+## Reservation record
+
+For each confirmed reservation, record supplier, confirmation reference, travelers, rooms or ticket quantity, local dates/times, station/airport or Chinese address, currency, total including taxes, paid amount, outstanding balance, cancellation deadline with time zone, and confirmation-file location.
+
+Paid amounts are part of the total reservation cost. Do not add them to the total a second time. No reminders have been created.
+
+
+---
+
+Original note: China — Session Recap 2026-10-08.md
+
+# China — Session Recap · 8 October 2026
+
+Dashboard [source: 01_Trip_Context_and_Status.txt; note: China — Start Here] · Evidence [source: 05_Evidence_and_Experience_Research.txt; note: China — Research and Sources 2026-10-08]
+
+## Request and scope
+
+Started a separate China travel project following the user’s request. Read the live Japan/Korea dashboards and latest recaps to match their flexible planning approach. China has no selected year, dates, travelers, rooms, or budget. The Korea profile supplies provisional Chilean/SCL context; trip-specific choices were not copied as confirmed.
+
+## Completed
+
+Created an undated dashboard, main guide, preparation note, budget worksheet, empty booking ledger, and source register. The initial comparison is Beijing 5 + Xi’an 3 + Shanghai 6 = 14 nights / 15 local calendar days, including two internal transfer days. Alternatives replace Xi’an with Chengdu, explore a Zhangjiajie direction, or shorten to two cities.
+
+Opened official embassy, government, railway, museum, and tourism pages, plus FCDO connectivity guidance. The current Chilean ordinary-passport waiver is documented only through 31 December 2026. Noted stale visa text in the broader practical guide and ambiguity in the museum’s equipment wording and purchase navigation.
+
+Staged notes and build script: (local preparation workspace; not part of these uploads). Existing Japan/Korea notes and Obsidian settings were not edited.
+
+## Continue with
+
+1. Get the user’s preferred trip direction, year/month or comparison windows, trip length, traveler count, passport, and budget scope.
+2. Research selected cities and season; replace generic areas with verified cafés, shops, meals, and useful Chinese addresses.
+3. Compare equivalent international flights, transit rules, hotel full-stay totals, and actual intercity connections.
+4. Resolve selected attractions’ booking and filming rules; prepare the detailed itinerary after the route is chosen.
+
+No bookings, payments, provider messages, app sign-ins, offline downloads, calendar reminders, or Obsidian in-app feature tests were performed.
+
+## Follow-up additions — same day
+
+Following “anything else to add,” created China — Places and Experiences Shortlist [source: 03_Places_and_Route_Ideas.txt; note: China — Places and Experiences Shortlist] with art districts, old lanes, tea-shopping context, city-wall/riverfront photo ideas, Chinese search names, and four Shanghai food/café candidates. Linked it from the dashboard and full guide. Added Palace Museum Monday/same-day ticket constraints to the guide and preparation note and extended the source register. Dates, budget, travelers, and route remain open.
+
+Backups and staged files for the follow-up: (local preparation workspace; not part of these uploads). Businesses’ hours/prices, actual map pins, gallery access, and future attraction availability remain unverified. No bookings or app setup occurred.
+
+## Amap navigation links — same day
+
+User asked to add Amap links for the trip’s locations and supports both iPhone and Android. Added 16 Amap search links directly to the shortlist tables, plus official download links and navigation instructions. Linked this section from Start Here and preparation. Used the documented HTTPS URI format with city/keyword scope and optional app handoff. Search links require checking the branch/entrance; they are not verified POI pins.
+
+Backups and staged updates: (local preparation workspace; not part of these uploads). Both-platform handset opening, live POI matches, favorites and offline navigation remain untested.
+
+## Further ideas — same day
+
+User will test Amap later and requested more trip research. Added China — More Ideas and Route Choices [source: 03_Places_and_Route_Ideas.txt; note: China — More Ideas and Route Choices] with 13 new city-scoped Amap searches and flexible 14-night comparisons, including a two-night Hangzhou tea chapter. Added China — Klook Experience Research 2026-10-08 [source: 05_Evidence_and_Experience_Research.txt; note: China — Klook Experience Research 2026-10-08] with four candidates, displayed USD search amounts, provider checks, price discrepancies, and unresolved package terms. Linked both from dashboard, guide, shortlist, and evidence note.
+
+Backups and staged files: (local preparation workspace; not part of these uploads). Next: choose priorities/month, verify current shops and selected experience packages, then compare dated transport and hotel totals. Dates, travelers, budget, and route remain open; no bookings or phone tests performed.
+

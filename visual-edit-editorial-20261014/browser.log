@@ -1,0 +1,17 @@
+
+DevTools listening on ws://127.0.0.1:9239/devtools/browser/22b04c32-8199-4f27-81d9-852244241048
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+[32923:32929:1014/121535.335615:ERROR:base/nix/mime_util_xdg.cc:139] Invalid mime.cache file does not contain null prior to ALIAS_LIST_OFFSET=44
+[32923:32929:1014/121535.335873:ERROR:base/nix/mime_util_xdg.cc:139] Invalid mime.cache file does not contain null prior to ALIAS_LIST_OFFSET=44
+[32862:32884:1014/121540.569900:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[32862:32884:1014/121608.297658:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[32862:32884:1014/121704.758775:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+[33310:33310:1014/121834.721280:ERROR:services/on_device_model/ml/gpu_blocklist.cc:120] Unable to get gpu adapter
+[32862:32862:1014/121834.721844:ERROR:services/on_device_model/public/cpp/service_client.cc:37] Unexpected on_device_model service disconnect; reason: 1, description: Error loading backend.
+[32862:32884:1014/121901.399469:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[32862:32884:1014/122150.913791:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[32862:32884:1014/122923.331538:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[32862:32884:1014/124556.837810:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2
+[32862:32884:1014/125417.022958:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2
+[32862:32862:1014/125417.124845:ERROR:content/common/zygote/zygote_communication_linux.cc:291] Failed to send GetTerminationStatus message to zygote

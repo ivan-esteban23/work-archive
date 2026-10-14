@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Omnisearch",
+    "id": "omnisearch",
+    "version": "1.31.0",
+    "minimum": "1.13.3",
+    "distribution": "1.31.0"
+  },
+  {
+    "name": "QuickAdd",
+    "id": "quickadd",
+    "version": "2.31.0",
+    "minimum": "1.13.0",
+    "distribution": "2.31.0"
+  },
+  {
+    "name": "Spaced Repetition",
+    "id": "obsidian-spaced-repetition",
+    "version": "1.15.4",
+    "minimum": "1.2.8",
+    "distribution": "1.15.4"
+  },
+  {
+    "name": "PDF++",
+    "id": "pdf-plus",
+    "version": "0.40.31",
+    "minimum": "1.5.8",
+    "distribution": "0.40.31"
+  },
+  {
+    "name": "Tracker",
+    "id": "obsidian-tracker",
+    "version": "1.19.0",
+    "minimum": "0.9.12",
+    "distribution": "1.19.0"
+  },
+  {
+    "name": "Meta Bind",
+    "id": "obsidian-meta-bind-plugin",
+    "version": "1.5.1",
+    "minimum": "1.13.1",
+    "distribution": "1.5.1"
+  },
+  {
+    "name": "Local Images Plus",
+    "id": "obsidian-local-images-plus",
+    "version": "0.16.6",
+    "minimum": "1.0.3",
+    "distribution": "0.16.6"
+  }
+]

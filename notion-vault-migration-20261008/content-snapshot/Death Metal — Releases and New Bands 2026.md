@@ -1,0 +1,37 @@
+# Death Metal — Releases and New Bands 2026
+
+[[Death Metal — Start Here|Dashboard]] · [[Death Metal — Rankings and Listening Journal|Ranking method]] · [[Death Metal — Research and Sources 2026-10-08|Sources]]
+
+**Checked 8 October 2026.** Primary artist/label Bandcamp pages supply the following titles and dates. This is a starter selection with a limited search footprint, not an exhaustive list or proof these are the year's best. No albums were played or rated in this session. Style labels are working descriptions based on artist/label context.
+
+## Released full-length candidates
+
+Sorted by release date, not quality. Click the title for the artist/label page and available listening options; playback itself was not tested.
+
+| Artist / album | Release date | Working style | Why it belongs / limits |
+| --- | --- | --- | --- |
+| [Exhumed — *Red Asphalt*](https://exhumed.bandcamp.com/album/red-asphalt) | 2026-02-20 | Deathgrind / gore-metal branch | Established band; new album does not mean new band. |
+| [Harrowed — *The Eternal Hunger*](https://harroweddeathmetal.bandcamp.com/album/the-eternal-hunger) | 2026-02-27 | Swedish death metal / punk edge | Artist page identifies a debut album; formation year not established here. |
+| [Temple of Void — *The Crawl*](https://templeofvoid.bandcamp.com/album/the-crawl) | 2026-03-06 | Death metal with death-doom roots | Band describes broadening beyond its earlier death-doom identity. |
+| [Immolation — *Descent*](https://immolation.bandcamp.com/album/descent) | 2026-04-10 | Death metal | Established-band entry; do not classify as emerging. |
+| [Inscribed — *Upon the Twisted Throne*](https://inscribedofficial.bandcamp.com/album/upon-the-twisted-throne) | 2026-06-19 | Progressive / technical death-thrash | Artist page identifies debut full-length and formation in 2021. |
+
+## Announced — not yet released at this cutoff
+
+**[Casket Dweller — *River of Slumber*](https://nuclearwinterrecords.bandcamp.com/album/river-of-slumber): 22 October 2026.** The label identifies a Greek band formed in 2022 and its debut full-length, with traditional death-metal influences. As of this check, the page offers a preorder and one advance track. Keep it on the watchlist, not in a ranked released-album list. Recheck the actual full release and any date change after the announced date.
+
+## New bands to investigate
+
+These are discovery priorities, not a quality ranking or prediction of success. A debut album does not establish that the musicians or band formed this year.
+
+1. **Inscribed:** formation year 2021 and a released 2026 debut are documented. A useful first comparison if you enjoy technical/progressive death-thrash.
+2. **Harrowed:** a documented 2026 album debut and Swedish/punk tags make this a contrasting lead. Do not infer formation date from the album date.
+3. **Casket Dweller:** formed in 2022; debut announced for later in October. Judge only the available preview for now and hold full-album judgment.
+
+Sources are the linked artist/label pages above. Promotional claims are not independent review consensus. Exhumed, Temple of Void, and Immolation belong to the established-band release pool, not this debut shortlist.
+
+## Refresh method
+
+When running a new-release search, check the actual current date and year. Confirm original release date and format from artist/label pages, then seek independent reviews. Cover independent labels, regional scenes, Bandcamp debuts, and varied branches, rather than assuming the biggest labels represent everything. Keep released, announced, delayed, EP/demo, and reissue entries distinct. Note what changed since the last check.
+
+No automatic release alerts or scheduled monitoring have been configured. Use the current-release prompt to refresh this note when wanted. A 2026 remaster of an older album belongs in a reissue list rather than this year's original-studio-album competition.

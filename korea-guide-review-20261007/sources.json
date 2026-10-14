@@ -1,0 +1,186 @@
+{
+  "pus": {
+    "title": "Gimhae Airport rail connections",
+    "url": "https://www.airport.co.kr/gimhaeeng/cms/frCon/index.do?CONTENTS_NO=3&MENU_ID=110",
+    "publisher": "Korea Airports Corporation",
+    "date_context": "Undated live airport page",
+    "supports": "Line 2 transfer at Sasang; not door-to-door journey time.",
+    "checked": "2026-10-07"
+  },
+  "noodles": {
+    "title": "Milmyeon menu on Busan city service",
+    "url": "https://menu.busan.go.kr/shop/info/CD_SHP_001154",
+    "publisher": "Busan Metropolitan City multilingual-menu service",
+    "date_context": "Undated live menu",
+    "supports": "Milmyeon as wheat noodles; no certification of dietary suitability or future pricing.",
+    "checked": "2026-10-07"
+  },
+  "entry": {
+    "title": "K-ETA official application guide",
+    "url": "https://www.k-eta.go.kr/portal/guide/viewetaapplication.do",
+    "publisher": "Ministry of Justice",
+    "date_context": "Undated live page",
+    "supports": "Eligibility, advance approval, fee and processing; individual nationality still needs checking.",
+    "checked": "2026-10-07"
+  },
+  "arrival": {
+    "title": "Official e-Arrival Card guide",
+    "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E",
+    "publisher": "Ministry of Justice",
+    "date_context": "Undated live page",
+    "supports": "Free declaration, submission window and required information.",
+    "checked": "2026-10-07"
+  },
+  "exempt": {
+    "title": "Arrival-card exemption navigator",
+    "url": "https://www.e-arrivalcard.go.kr/portal/guide/navigator.do?locale=E",
+    "publisher": "Ministry of Justice",
+    "date_context": "Undated live page",
+    "supports": "Valid K-ETA holders are exempt from arrival declarations; this does not establish K-ETA eligibility.",
+    "checked": "2026-10-07"
+  },
+  "emergency": {
+    "title": "Seoul visitor safety",
+    "url": "https://english.visitseoul.net/essential-Info-article/Safety/ENN012370",
+    "publisher": "Seoul Tourism Organization",
+    "date_context": "Older standing guidance",
+    "supports": "119 ambulance/fire; 112 police. Other old information on this page was not adopted.",
+    "checked": "2026-10-07"
+  },
+  "metro": {
+    "title": "Seoul subway fares",
+    "url": "https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/",
+    "publisher": "Seoul Metropolitan Government",
+    "date_context": "Fare effective 2025-06-28",
+    "supports": "Adult base fares and distance additions; not a quote for every route.",
+    "checked": "2026-10-07"
+  },
+  "arex": {
+    "title": "Airport rail to Seoul",
+    "url": "https://english.seoul.go.kr/service/entry/getting-to-seoul-from-incheon-airport/",
+    "publisher": "Seoul Metropolitan Government",
+    "date_context": "Undated live page",
+    "supports": "Express one-way fare and terminal-specific scheduled journey times.",
+    "checked": "2026-10-07"
+  },
+  "guard": {
+    "title": "Gyeongbokgung guard ceremonies",
+    "url": "https://www.kh.or.kr/cms/content/view/824",
+    "publisher": "Korea Heritage Agency",
+    "date_context": "Undated live page",
+    "supports": "Changing ceremony is distinct from gate-guard performance; schedule subject to cancellation.",
+    "checked": "2026-10-07"
+  },
+  "park": {
+    "title": "Gyeongui Line Forest Park",
+    "url": "https://english.seoul.go.kr/gyeongui-line-forest-park/",
+    "publisher": "Seoul Metropolitan Government",
+    "date_context": "2022 article",
+    "supports": "Mapo linear park geography; not current business hours.",
+    "checked": "2026-10-07"
+  },
+  "seoullo": {
+    "title": "Seoullo 7017",
+    "url": "https://english.visitseoul.net/tours/Must-See-Spots-at-Seoullo-7017/ENN022620",
+    "publisher": "Seoul Tourism Organization",
+    "date_context": "Older standing destination article",
+    "supports": "Elevated park near Seoul Station; not Gyeongui Forest Park.",
+    "checked": "2026-10-07"
+  },
+  "cable": {
+    "title": "Songdo Marine Cable Car",
+    "url": "https://visitbusanpass.com/attractions/_detail?id=GO0000000267",
+    "publisher": "Visit Busan Pass",
+    "date_context": "Undated live listing",
+    "supports": "Songdo–Amnam route; no exact-date operating guarantee.",
+    "checked": "2026-10-07"
+  },
+  "biennale": {
+    "title": "Busan Biennale 2026 city announcement",
+    "url": "https://www.busan.go.kr/eng/bsnews01/1752281",
+    "publisher": "Busan Metropolitan City",
+    "date_context": "2026-09-02",
+    "supports": "2026 dates, three venues, opening schedule and differing admission charges.",
+    "checked": "2026-10-07"
+  },
+  "bread": {
+    "title": "Gyeongju Hwangnam bread",
+    "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=179934",
+    "publisher": "Korea Tourism Organization",
+    "date_context": "Older food reference",
+    "supports": "Red-bean-filled pastry with egg in the dough; not butter bread.",
+    "checked": "2026-10-07"
+  },
+  "tax": {
+    "title": "Comprehensive tax-refund guide",
+    "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=489&vcontsId=248765",
+    "publisher": "Korea Tourism Organization",
+    "date_context": "Live guide; publication metadata indicates 2025",
+    "supports": "Qualifying purchases and distinction between immediate and departure refunds.",
+    "checked": "2026-10-07"
+  },
+  "health": {
+    "title": "South Korea traveler health",
+    "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/south-korea",
+    "publisher": "US CDC",
+    "date_context": "Live destination guidance",
+    "supports": "Routine and itinerary-specific prevention; clinician must assess individual needs.",
+    "checked": "2026-10-07"
+  },
+  "medicine": {
+    "title": "Controlled medicines brought into Korea",
+    "url": "https://www.mfds.go.kr/brd/m_74/view.do?seq=43906",
+    "publisher": "Ministry of Food and Drug Safety",
+    "date_context": "Standing notice, originally 2020",
+    "supports": "Advance permit requirement for controlled substances; use current application procedure.",
+    "checked": "2026-10-07"
+  },
+  "drone": {
+    "title": "Drone usage regulations",
+    "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1593140",
+    "publisher": "Korea Tourism Organization",
+    "date_context": "2026-09-04",
+    "supports": "Preflight checks and Drone One-Stop referral; not individual flight authorization.",
+    "checked": "2026-10-07"
+  },
+  "boan": {
+    "title": "BOAN 1942 visitor listing",
+    "url": "https://english.visitseoul.net/area/boan-1942/ENPk1cyet",
+    "publisher": "Seoul Tourism Organization",
+    "date_context": "Updated 2026-07-22",
+    "supports": "Bookshop/café complex in Tongui-dong; address and listed opening hours.",
+    "checked": "2026-10-07"
+  },
+  "waveon": {
+    "title": "Waveon official location",
+    "url": "https://m.waveoncoffee.com/layout/info.html",
+    "publisher": "Waveon Coffee",
+    "date_context": "Undated live business page",
+    "supports": "Gijang address; not a Gwangalli café or verified date-specific booking.",
+    "checked": "2026-10-07"
+  },
+  "cash": {
+    "title": "Korean banknotes",
+    "url": "https://www.bok.or.kr/eng/main/contents.do?menuNo=400112",
+    "publisher": "Bank of Korea",
+    "date_context": "Undated currency reference",
+    "supports": "Current banknote denominations.",
+    "checked": "2026-10-07"
+  },
+  "weather": {
+    "title": "KMA short-range forecasts",
+    "url": "https://www.weather.go.kr/neng/forecast/short-term.do",
+    "publisher": "Korea Meteorological Administration",
+    "date_context": "Dynamic forecast page",
+    "supports": "Where to check near-departure weather; no forecast for 27 October–2 November was verified.",
+    "checked": "2026-10-07"
+  },
+  "tunnel": {
+    "title": "The Third Tunnel",
+    "url": "https://ggtour.or.kr/en/?p=11&reqIdx=202311091631104968&viewMode=view",
+    "publisher": "Gyeonggi Tourism Organization",
+    "date_context": "Undated destination listing",
+    "supports": "Discovered in 1978; does not confirm a particular tour departure.",
+    "checked": "2026-10-07"
+  }
+}

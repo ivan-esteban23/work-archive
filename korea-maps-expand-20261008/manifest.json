@@ -1,0 +1,34 @@
+[
+  {
+    "relative": "Korea 2026 — Maps.md",
+    "expected": "12a0e8dff599c274ce43e07af7cd65d48387e76b6baecb7f128f97d9153274e2"
+  },
+  {
+    "relative": "Korea 2026 — Map View.md",
+    "expected": "74fa211744788c33ca52ba161c4b33197341038d24685ce3be7c180d9bbdd60b"
+  },
+  {
+    "relative": "Attachments/Asia Trip Maps/All destination searches.json",
+    "expected": "0fff21c8c56378e7c91732ba781c06272a41d397512067a0f5011aff560abd42"
+  },
+  {
+    "relative": "Attachments/Asia Trip Maps/Existing orientation pins.json",
+    "expected": "602d4f3341d19b895f990f9c85b89b79b4776646df7fb711eb1a9a1371172a99"
+  },
+  {
+    "relative": "Attachments/Asia Trip Maps/All destination searches.csv",
+    "expected": "0d1ffb083b7120fc19d58200962637b36d679a2c5050a1ada07268658d287445"
+  },
+  {
+    "relative": "Asia Trips — Combined Map and Destination Inventory.md",
+    "expected": "b2be7d6120e038413ab2502feb962e962307e5aa119ff0abc82748c336cb6c22"
+  },
+  {
+    "relative": "Korea 2026 — Start Here.md",
+    "expected": "89697e8260927e7e4e2a7636f8eeda6a5f181ecf69e322a71b15813007982c2a"
+  },
+  {
+    "relative": "Korea 2026 — Session Recap 2026-10-08.md",
+    "expected": "4ec43066fe0754b8bfdb4df73c289583e70fa9c38025ff53f332a91ee4b9fe77"
+  }
+]

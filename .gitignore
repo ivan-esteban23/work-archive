@@ -1,0 +1,9 @@
+.env
+.env.*
+**/qa-profile-*/
+**/node_modules/
+**/__pycache__/
+**/.venv/
+**/.aws/
+**/.codex/
+**/.agents/

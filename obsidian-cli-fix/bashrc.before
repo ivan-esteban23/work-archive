@@ -1,0 +1,33 @@
+# Omarchy environment (OMARCHY_PATH + PATH), needed even for non-interactive shells
+[[ -r /usr/share/omarchy/default/bash/env-bootstrap ]] && source /usr/share/omarchy/default/bash/env-bootstrap
+
+# If not running interactively, don't do anything else (leave this above the rc source)
+[[ $- != *i* ]] && return
+
+# All the default Omarchy aliases and functions
+# (don't mess with these directly, just overwrite them here!)
+source "$OMARCHY_PATH/default/bash/rc"
+
+# Add your own exports, aliases, and functions here.
+#
+# Make an alias for invoking commands you use constantly
+# alias p='python'
+
+# QODER_DISPATCHER_PATH v1
+_qoder_dispatcher_entry="$HOME/.qoder/entry"
+_qoder_dispatcher_rest=${PATH-}
+_qoder_dispatcher_tail=
+while :; do
+  case $_qoder_dispatcher_rest in
+    *:*) _qoder_dispatcher_part=${_qoder_dispatcher_rest%%:*}; _qoder_dispatcher_rest=${_qoder_dispatcher_rest#*:}; _qoder_dispatcher_more=1 ;;
+    *) _qoder_dispatcher_part=$_qoder_dispatcher_rest; _qoder_dispatcher_more= ;;
+  esac
+  if [ "$_qoder_dispatcher_part" != "$_qoder_dispatcher_entry" ]; then
+    _qoder_dispatcher_tail="${_qoder_dispatcher_tail}:${_qoder_dispatcher_part}"
+  fi
+  [ -n "$_qoder_dispatcher_more" ] || break
+done
+PATH="${_qoder_dispatcher_entry}${_qoder_dispatcher_tail}"
+export PATH
+unset _qoder_dispatcher_entry _qoder_dispatcher_rest _qoder_dispatcher_tail _qoder_dispatcher_part _qoder_dispatcher_more
+# END QODER_DISPATCHER_PATH v1

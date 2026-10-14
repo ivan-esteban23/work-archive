@@ -1,0 +1,17 @@
+127.0.0.1 - - [14/Oct/2026 12:15:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:15:34] "GET /manifest.webmanifest HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:15:35] "GET /sw.js HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:15:35] "GET /manifest.webmanifest HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:15:35] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:15:35] "GET /favicon.svg HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:15:35] "GET /icons/icon-512.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:15:35] "GET /icons/icon-192.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:15:35] "GET /icons/maskable-512.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:15:35] "GET /icons/apple-touch-icon.png HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:16:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:16:39] "GET /manifest.webmanifest HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:17:01] "GET /sw.js HTTP/1.1" 304 -
+127.0.0.1 - - [14/Oct/2026 12:18:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:18:44] "GET /manifest.webmanifest HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:24:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [14/Oct/2026 12:24:10] "GET /manifest.webmanifest HTTP/1.1" 200 -

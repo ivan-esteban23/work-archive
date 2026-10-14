@@ -1,0 +1,1 @@
+Create the ChatGPT project yourself. Upload the five numbered .txt files as Sources; paste Project Instructions.txt in instructions; send First Message.txt. Reusable Prompts.txt is optional reference. Snapshot: 8 October 2026. No automatic Obsidian synchronization.

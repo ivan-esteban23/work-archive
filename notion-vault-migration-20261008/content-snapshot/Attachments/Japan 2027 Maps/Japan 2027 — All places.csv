@@ -1,0 +1,187 @@
+﻿Name,Place query,Google Maps URL,Status
+Tokyo Station,Tokyo Station Japan,https://www.google.com/maps/search/?api=1&query=Tokyo+Station+Japan,Search query; confirm exact branch and entrance
+Shinagawa Station,Shinagawa Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Shinagawa+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kyoto Station,Kyoto Station Japan,https://www.google.com/maps/search/?api=1&query=Kyoto+Station+Japan,Search query; confirm exact branch and entrance
+Shinjuku Station,Shinjuku Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Shinjuku+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Shibuya Station,Shibuya Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Shibuya+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Ueno Station,Ueno Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Ueno+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Asakusa Station,Asakusa Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Asakusa+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Ginza Station,Ginza Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Ginza+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Higashi-ginza Station,Higashi Ginza Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Higashi+Ginza+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Shintomicho Station,Shintomicho Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Shintomicho+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Shimokitazawa Station,Shimokitazawa Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Shimokitazawa+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Setagaya-Daita Station,Setagaya Daita Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Setagaya+Daita+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kichijoji Station,Kichijoji Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Kichijoji+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Koenji Station,Koenji Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Koenji+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Nakano Station,Nakano Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Nakano+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Daikanyama Station,Daikanyama Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Daikanyama+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Ebisu Station,Ebisu Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Ebisu+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Nakameguro Station,Nakameguro Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Nakameguro+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kuramae Station,Kuramae Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Kuramae+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Iidabashi Station,Iidabashi Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Iidabashi+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kiyosumi-Shirakawa Station,Kiyosumi Shirakawa Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Kiyosumi+Shirakawa+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Shibamata Station,Shibamata Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Shibamata+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Chofu Station,Chofu Station Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Chofu+Station+Tokyo+Japan,Search query; confirm exact branch and entrance
+Tsutsujigaoka Station,Tsutsujigaoka Station Chofu Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Tsutsujigaoka+Station+Chofu+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kyoto Shiyakusho-mae Station,Kyoto Shiyakusho mae Station Japan,https://www.google.com/maps/search/?api=1&query=Kyoto+Shiyakusho+mae+Station+Japan,Search query; confirm exact branch and entrance
+Karasuma Oike Station,Karasuma Oike Station Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Karasuma+Oike+Station+Kyoto+Japan,Search query; confirm exact branch and entrance
+Kyoto-Kawaramachi Station,Kyoto Kawaramachi Station Japan,https://www.google.com/maps/search/?api=1&query=Kyoto+Kawaramachi+Station+Japan,Search query; confirm exact branch and entrance
+Gion-Shijo Station,Gion Shijo Station Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Gion+Shijo+Station+Kyoto+Japan,Search query; confirm exact branch and entrance
+JR Saga-Arashiyama Station,Saga Arashiyama Station Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Saga+Arashiyama+Station+Kyoto+Japan,Search query; confirm exact branch and entrance
+Demachiyanagi Station,Demachiyanagi Station Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Demachiyanagi+Station+Kyoto+Japan,Search query; confirm exact branch and entrance
+Tokyo,Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Tokyo+Japan,Search query; confirm exact branch and entrance
+Kyoto,Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Kyoto+Japan,Search query; confirm exact branch and entrance
+Nara,Nara Japan,https://www.google.com/maps/search/?api=1&query=Nara+Japan,Search query; confirm exact branch and entrance
+Osaka,Osaka Japan,https://www.google.com/maps/search/?api=1&query=Osaka+Japan,Search query; confirm exact branch and entrance
+Ginza,Ginza Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Ginza+Tokyo+Japan,Search query; confirm exact branch and entrance
+Shibuya,Shibuya Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Shibuya+Tokyo+Japan,Search query; confirm exact branch and entrance
+Shinjuku,Shinjuku Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Shinjuku+Tokyo+Japan,Search query; confirm exact branch and entrance
+Asakusa,Asakusa Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Asakusa+Tokyo+Japan,Search query; confirm exact branch and entrance
+Ueno,Ueno Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Ueno+Tokyo+Japan,Search query; confirm exact branch and entrance
+Akihabara,Akihabara Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Akihabara+Tokyo+Japan,Search query; confirm exact branch and entrance
+Ikebukuro,Ikebukuro Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Ikebukuro+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kamakura,Kamakura Kanagawa Japan,https://www.google.com/maps/search/?api=1&query=Kamakura+Kanagawa+Japan,Search query; confirm exact branch and entrance
+Koenji,Koenji Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Koenji+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kichijoji,Kichijoji Musashino Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Kichijoji+Musashino+Tokyo+Japan,Search query; confirm exact branch and entrance
+Daikanyama,Daikanyama Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Daikanyama+Tokyo+Japan,Search query; confirm exact branch and entrance
+Nakameguro,Nakameguro Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Nakameguro+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kuramae,Kuramae Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Kuramae+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kiyosumi-Shirakawa,Kiyosumi Shirakawa Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Kiyosumi+Shirakawa+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kagurazaka,Kagurazaka Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Kagurazaka+Tokyo+Japan,Search query; confirm exact branch and entrance
+Shibamata,Shibamata Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Shibamata+Tokyo+Japan,Search query; confirm exact branch and entrance
+Gion,Gion Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Gion+Kyoto+Japan,Search query; confirm exact branch and entrance
+Ebisu,Ebisu Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Ebisu+Tokyo+Japan,Search query; confirm exact branch and entrance
+Saigoyama Park,Saigoyama Park Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Saigoyama+Park+Tokyo+Japan,Search query; confirm exact branch and entrance
+Haneda Airport Tokyo Japan,Haneda Airport Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Haneda+Airport+Tokyo+Japan,Search query; confirm exact branch and entrance
+Narita International Airport Japan,Narita International Airport Japan,https://www.google.com/maps/search/?api=1&query=Narita+International+Airport+Japan,Search query; confirm exact branch and entrance
+Kansai International Airport Osaka Japan,Kansai International Airport Osaka Japan,https://www.google.com/maps/search/?api=1&query=Kansai+International+Airport+Osaka+Japan,Search query; confirm exact branch and entrance
+Arturo Merino Benitez International Airport Santiago Chile,Arturo Merino Benitez International Airport Santiago Chile,https://www.google.com/maps/search/?api=1&query=Arturo+Merino+Benitez+International+Airport+Santiago+Chile,Search query; confirm exact branch and entrance
+Chidorigafuchi Green Way Tokyo Japan,Chidorigafuchi Green Way Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Chidorigafuchi%20Green%20Way%20Tokyo%20Japan,Search query; confirm exact branch and entrance
+Shinjuku Gyoen National Garden Tokyo Japan,Shinjuku Gyoen National Garden Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Shinjuku%20Gyoen%20National%20Garden%20Tokyo%20Japan,Search query; confirm exact branch and entrance
+Meguro River Nakameguro Tokyo Japan,Meguro River Nakameguro Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Meguro%20River%20Nakameguro%20Tokyo%20Japan,Search query; confirm exact branch and entrance
+Ueno Park Tokyo Japan,Ueno Park Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Ueno%20Park%20Tokyo%20Japan,Search query; confirm exact branch and entrance
+Sensoji Temple Asakusa Tokyo Japan,Sensoji Temple Asakusa Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Sensoji%20Temple%20Asakusa%20Tokyo%20Japan,Search query; confirm exact branch and entrance
+Philosophers Path Kyoto Japan,Philosophers Path Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Philosophers%20Path%20Kyoto%20Japan,Search query; confirm exact branch and entrance
+Kiyomizu dera Kyoto Japan,Kiyomizu dera Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Kiyomizu%20dera%20Kyoto%20Japan,Search query; confirm exact branch and entrance
+Yasaka Shrine Kyoto Japan,Yasaka Shrine Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Yasaka%20Shrine%20Kyoto%20Japan,Search query; confirm exact branch and entrance
+Fushimi Inari Taisha Kyoto Japan,Fushimi Inari Taisha Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Fushimi%20Inari%20Taisha%20Kyoto%20Japan,Search query; confirm exact branch and entrance
+Arashiyama Bamboo Grove Kyoto Japan,Arashiyama Bamboo Grove Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Arashiyama%20Bamboo%20Grove%20Kyoto%20Japan,Search query; confirm exact branch and entrance
+Nijo Castle Kyoto Japan,Nijo Castle Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Nijo%20Castle%20Kyoto%20Japan,Search query; confirm exact branch and entrance
+Nara Park Nara Japan,Nara Park Nara Japan,https://www.google.com/maps/search/?api=1&query=Nara%20Park%20Nara%20Japan,Search query; confirm exact branch and entrance
+Todaiji Temple Nara Japan,Todaiji Temple Nara Japan,https://www.google.com/maps/search/?api=1&query=Todaiji%20Temple%20Nara%20Japan,Search query; confirm exact branch and entrance
+Dotonbori Osaka Japan,Dotonbori Osaka Japan,https://www.google.com/maps/search/?api=1&query=Dotonbori%20Osaka%20Japan,Search query; confirm exact branch and entrance
+Osaka Castle Park Osaka Japan,Osaka Castle Park Osaka Japan,https://www.google.com/maps/search/?api=1&query=Osaka%20Castle%20Park%20Osaka%20Japan,Search query; confirm exact branch and entrance
+Hidakaya Tokyo Japan,Hidakaya Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Hidakaya+Tokyo+Japan,Search query; confirm exact branch and entrance
+Hidakaya Kyoto Japan,Hidakaya Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Hidakaya+Kyoto+Japan,Search query; confirm exact branch and entrance
+Ippudo Tokyo Japan,Ippudo Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Ippudo+Tokyo+Japan,Search query; confirm exact branch and entrance
+Ippudo Kyoto Japan,Ippudo Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Ippudo+Kyoto+Japan,Search query; confirm exact branch and entrance
+Tenkaippin Tokyo Japan,Tenkaippin Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Tenkaippin+Tokyo+Japan,Search query; confirm exact branch and entrance
+Tenkaippin Kyoto Japan,Tenkaippin Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Tenkaippin+Kyoto+Japan,Search query; confirm exact branch and entrance
+Ichiran Tokyo Japan,Ichiran Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Ichiran+Tokyo+Japan,Search query; confirm exact branch and entrance
+Ichiran Kyoto Japan,Ichiran Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Ichiran+Kyoto+Japan,Search query; confirm exact branch and entrance
+Sushiro Tokyo Japan,Sushiro Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Sushiro+Tokyo+Japan,Search query; confirm exact branch and entrance
+Sushiro Kyoto Japan,Sushiro Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Sushiro+Kyoto+Japan,Search query; confirm exact branch and entrance
+Kura Sushi Tokyo Japan,Kura Sushi Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Kura+Sushi+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kura Sushi Kyoto Japan,Kura Sushi Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Kura+Sushi+Kyoto+Japan,Search query; confirm exact branch and entrance
+Doutor Coffee Tokyo Japan,Doutor Coffee Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Doutor+Coffee+Tokyo+Japan,Search query; confirm exact branch and entrance
+Doutor Coffee Kyoto Japan,Doutor Coffee Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Doutor+Coffee+Kyoto+Japan,Search query; confirm exact branch and entrance
+Starbucks Ginza Matsuya dori 3-7-14 Tokyo,Starbucks Ginza Matsuya dori 3-7-14 Tokyo,https://www.google.com/maps/search/?api=1&query=Starbucks%20Ginza%20Matsuya%20dori%203-7-14%20Tokyo,Search query; confirm exact branch and entrance
+Sanjikken Ginza 3-8-12 Tokyo,Sanjikken Ginza 3-8-12 Tokyo,https://www.google.com/maps/search/?api=1&query=Sanjikken%20Ginza%203-8-12%20Tokyo,Search query; confirm exact branch and entrance
+Ginza West 7-3-6 Tokyo,Ginza West 7-3-6 Tokyo,https://www.google.com/maps/search/?api=1&query=Ginza%20West%207-3-6%20Tokyo,Search query; confirm exact branch and entrance
+Nakamura Tokichi Ginza GINZA SIX Tokyo,Nakamura Tokichi Ginza GINZA SIX Tokyo,https://www.google.com/maps/search/?api=1&query=Nakamura%20Tokichi%20Ginza%20GINZA%20SIX%20Tokyo,Search query; confirm exact branch and entrance
+Bongen Coffee 2-16-3 Ginza Tokyo,Bongen Coffee 2-16-3 Ginza Tokyo,https://www.google.com/maps/search/?api=1&query=Bongen%20Coffee%202-16-3%20Ginza%20Tokyo,Search query; confirm exact branch and entrance
+UNIQLO Ginza 6-9-5 Tokyo,UNIQLO Ginza 6-9-5 Tokyo,https://www.google.com/maps/search/?api=1&query=UNIQLO%20Ginza%206-9-5%20Tokyo,Search query; confirm exact branch and entrance
+Ginza Itoya Tokyo,Ginza Itoya Tokyo,https://www.google.com/maps/search/?api=1&query=Ginza%20Itoya%20Tokyo,Search query; confirm exact branch and entrance
+Nakamise shopping street Asakusa Tokyo,Nakamise shopping street Asakusa Tokyo,https://www.google.com/maps/search/?api=1&query=Nakamise%20shopping%20street%20Asakusa%20Tokyo,Search query; confirm exact branch and entrance
+Shimokitazawa Station Tokyo,Shimokitazawa Station Tokyo,https://www.google.com/maps/search/?api=1&query=Shimokitazawa%20Station%20Tokyo,Search query; confirm exact branch and entrance
+Shijo Kawaramachi Kyoto,Shijo Kawaramachi Kyoto,https://www.google.com/maps/search/?api=1&query=Shijo%20Kawaramachi%20Kyoto,Search query; confirm exact branch and entrance
+Musubi furoshiki Kyoto,Musubi furoshiki Kyoto,https://www.google.com/maps/search/?api=1&query=Musubi%20furoshiki%20Kyoto,Search query; confirm exact branch and entrance
+MUJI Ginza Tokyo,MUJI Ginza Tokyo,https://www.google.com/maps/search/?api=1&query=MUJI+Ginza+Tokyo,Search query; confirm exact branch and entrance
+GU Ginza 5-7-7 Tokyo,GU Ginza 5-7-7 Tokyo,https://www.google.com/maps/search/?api=1&query=GU+Ginza+5-7-7+Tokyo,Search query; confirm exact branch and entrance
+Ginza Loft 2-4-6 Tokyo,Ginza Loft 2-4-6 Tokyo,https://www.google.com/maps/search/?api=1&query=Ginza+Loft+2-4-6+Tokyo,Search query; confirm exact branch and entrance
+Don Quijote Ginza Honkan Tokyo,Don Quijote Ginza Honkan Tokyo,https://www.google.com/maps/search/?api=1&query=Don+Quijote+Ginza+Honkan+Tokyo,Search query; confirm exact branch and entrance
+Hands Kyoto Japan,Hands Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Hands+Kyoto+Japan,Search query; confirm exact branch and entrance
+JR Kyoto Isetan Japan,JR Kyoto Isetan Japan,https://www.google.com/maps/search/?api=1&query=JR+Kyoto+Isetan+Japan,Search query; confirm exact branch and entrance
+Isetan Shinjuku Japan,Isetan Shinjuku Japan,https://www.google.com/maps/search/?api=1&query=Isetan+Shinjuku+Japan,Search query; confirm exact branch and entrance
+BOOKOFF PLUS Shinjuku-eki Nishi-guchi Japan,BOOKOFF PLUS Shinjuku-eki Nishi-guchi Japan,https://www.google.com/maps/search/?api=1&query=BOOKOFF+PLUS+Shinjuku-eki+Nishi-guchi+Japan,Search query; confirm exact branch and entrance
+Shibuya Loft Japan,Shibuya Loft Japan,https://www.google.com/maps/search/?api=1&query=Shibuya+Loft+Japan,Search query; confirm exact branch and entrance
+MEGA Don Quijote Shibuya Honten Japan,MEGA Don Quijote Shibuya Honten Japan,https://www.google.com/maps/search/?api=1&query=MEGA+Don+Quijote+Shibuya+Honten+Japan,Search query; confirm exact branch and entrance
+BIC CAMERA AKIBA Japan,BIC CAMERA AKIBA Japan,https://www.google.com/maps/search/?api=1&query=BIC+CAMERA+AKIBA+Japan,Search query; confirm exact branch and entrance
+BOOKOFF Akihabara Eki-mae Japan,BOOKOFF Akihabara Eki-mae Japan,https://www.google.com/maps/search/?api=1&query=BOOKOFF+Akihabara+Eki-mae+Japan,Search query; confirm exact branch and entrance
+BOOKOFF Ikebukuro Sunshine 60-dori Japan,BOOKOFF Ikebukuro Sunshine 60-dori Japan,https://www.google.com/maps/search/?api=1&query=BOOKOFF+Ikebukuro+Sunshine+60-dori+Japan,Search query; confirm exact branch and entrance
+CAPCOM STORE IKEBUKURO at Ikebukuro PARCO Japan,CAPCOM STORE IKEBUKURO at Ikebukuro PARCO Japan,https://www.google.com/maps/search/?api=1&query=CAPCOM+STORE+IKEBUKURO+at+Ikebukuro+PARCO+Japan,Search query; confirm exact branch and entrance
+BOOKOFF Kamakura Tehiro Japan,BOOKOFF Kamakura Tehiro Japan,https://www.google.com/maps/search/?api=1&query=BOOKOFF+Kamakura+Tehiro+Japan,Search query; confirm exact branch and entrance
+Onitsuka Tiger Ikebukuro PARCO,Onitsuka Tiger Ikebukuro PARCO,https://www.google.com/maps/search/?api=1&query=Onitsuka+Tiger+Ikebukuro+PARCO,Search query; confirm exact branch and entrance
+POP MART Ikebukuro PARCO,POP MART Ikebukuro PARCO,https://www.google.com/maps/search/?api=1&query=POP+MART+Ikebukuro+PARCO,Search query; confirm exact branch and entrance
+EVANGELION STORE TOKYO-01 Ikebukuro PARCO,EVANGELION STORE TOKYO-01 Ikebukuro PARCO,https://www.google.com/maps/search/?api=1&query=EVANGELION+STORE+TOKYO-01+Ikebukuro+PARCO,Search query; confirm exact branch and entrance
+Kimamaya 3-8-11 Hase Kamakura,Kimamaya 3-8-11 Hase Kamakura,https://www.google.com/maps/search/?api=1&query=Kimamaya+3-8-11+Hase+Kamakura,Search query; confirm exact branch and entrance
+Ippodo Tea Kyoto Main Store,Ippodo Tea Kyoto Main Store,https://www.google.com/maps/search/?api=1&query=Ippodo+Tea+Kyoto+Main+Store,Search query; confirm exact branch and entrance
+Marukyu Koyamaen Motoan Kyoto,Marukyu Koyamaen Motoan Kyoto,https://www.google.com/maps/search/?api=1&query=Marukyu+Koyamaen+Motoan+Kyoto,Search query; confirm exact branch and entrance
+Ippodo Shin Marunouchi,Ippodo Shin Marunouchi,https://www.google.com/maps/search/?api=1&query=Ippodo+Shin+Marunouchi,Search query; confirm exact branch and entrance
+2nd Street 2-30-13 Kitazawa,2nd Street 2-30-13 Kitazawa,https://www.google.com/maps/search/?api=1&query=2nd+Street+2-30-13+Kitazawa,Search query; confirm exact branch and entrance
+2nd Street Shijo Kawaramachi Kyoto,2nd Street Shijo Kawaramachi Kyoto,https://www.google.com/maps/search/?api=1&query=2nd+Street+Shijo+Kawaramachi+Kyoto,Search query; confirm exact branch and entrance
+RAGTAG Kyoto 379-2,RAGTAG Kyoto 379-2,https://www.google.com/maps/search/?api=1&query=RAGTAG+Kyoto+379-2,Search query; confirm exact branch and entrance
+Yanaka Ginza Tokyo Japan,Yanaka Ginza Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Yanaka+Ginza+Tokyo+Japan,Search query; confirm exact branch and entrance
+Nezu Tokyo Japan,Nezu Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Nezu+Tokyo+Japan,Search query; confirm exact branch and entrance
+Ohara Kyoto Japan,Ohara Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Ohara+Kyoto+Japan,Search query; confirm exact branch and entrance
+Ghibli Museum Mitaka Tokyo Japan,Ghibli Museum Mitaka Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Ghibli+Museum+Mitaka+Tokyo+Japan,Search query; confirm exact branch and entrance
+Universal Studios Japan Osaka,Universal Studios Japan Osaka,https://www.google.com/maps/search/?api=1&query=Universal+Studios+Japan+Osaka,Search query; confirm exact branch and entrance
+SUPER NINTENDO WORLD Universal Studios Japan Osaka,SUPER NINTENDO WORLD Universal Studios Japan Osaka,https://www.google.com/maps/search/?api=1&query=SUPER+NINTENDO+WORLD+Universal+Studios+Japan+Osaka,Search query; confirm exact branch and entrance
+Byodoin Uji Japan,Byodoin Uji Japan,https://www.google.com/maps/search/?api=1&query=Byodoin+Uji+Japan,Search query; confirm exact branch and entrance
+Sabo TOKA Byodoin Uji Kyoto Japan,Sabo TOKA Byodoin Uji Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Sabo+TOKA+Byodoin+Uji+Kyoto+Japan,Search query; confirm exact branch and entrance
+Uji River Uji Kyoto Japan,Uji River Uji Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Uji+River+Uji+Kyoto+Japan,Search query; confirm exact branch and entrance
+Daikanyama T Site Tokyo Japan,Daikanyama T Site Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Daikanyama+T+Site+Tokyo+Japan,Search query; confirm exact branch and entrance
+Inokashira Park Tokyo Japan,Inokashira Park Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Inokashira+Park+Tokyo+Japan,Search query; confirm exact branch and entrance
+Sumida Park Tokyo Japan,Sumida Park Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Sumida+Park+Tokyo+Japan,Search query; confirm exact branch and entrance
+Kyoto Botanical Gardens Japan,Kyoto Botanical Gardens Japan,https://www.google.com/maps/search/?api=1&query=Kyoto+Botanical+Gardens+Japan,Search query; confirm exact branch and entrance
+Tokyo Metropolitan Government Building Japan,Tokyo Metropolitan Government Building Japan,https://www.google.com/maps/search/?api=1&query=Tokyo+Metropolitan+Government+Building+Japan,Search query; confirm exact branch and entrance
+Kiyosumi Gardens Tokyo Japan,Kiyosumi Gardens Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Kiyosumi%20Gardens%20Tokyo%20Japan,Search query; confirm exact branch and entrance
+Fukagawa Edo Museum Tokyo Japan,Fukagawa Edo Museum Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Fukagawa%20Edo%20Museum%20Tokyo%20Japan,Search query; confirm exact branch and entrance
+Hyogo Yokocho Kagurazaka Tokyo,Hyogo Yokocho Kagurazaka Tokyo,https://www.google.com/maps/search/?api=1&query=Hyogo+Yokocho+Kagurazaka+Tokyo,Search query; confirm exact branch and entrance
+Zenkokuji Temple Kagurazaka Tokyo,Zenkokuji Temple Kagurazaka Tokyo,https://www.google.com/maps/search/?api=1&query=Zenkokuji+Temple+Kagurazaka+Tokyo,Search query; confirm exact branch and entrance
+Akagi Shrine Kagurazaka Tokyo,Akagi Shrine Kagurazaka Tokyo,https://www.google.com/maps/search/?api=1&query=Akagi+Shrine+Kagurazaka+Tokyo,Search query; confirm exact branch and entrance
+Kakurenbo Yokocho Kagurazaka Tokyo Japan,Kakurenbo Yokocho Kagurazaka Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Kakurenbo%20Yokocho%20Kagurazaka%20Tokyo%20Japan,Search query; confirm exact branch and entrance
+Shoseien Garden Kyoto Japan,Shoseien Garden Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Shoseien%20Garden%20Kyoto%20Japan,Search query; confirm exact branch and entrance
+Saga Toriimoto Preserved Street Kyoto Japan,Saga Toriimoto Preserved Street Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Saga+Toriimoto+Preserved+Street+Kyoto+Japan,Search query; confirm exact branch and entrance
+Adashino Nenbutsuji Kyoto Japan,Adashino Nenbutsuji Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Adashino+Nenbutsuji+Kyoto+Japan,Search query; confirm exact branch and entrance
+Otagi Nenbutsuji Kyoto Japan,Otagi Nenbutsuji Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Otagi%20Nenbutsuji%20Kyoto%20Japan,Search query; confirm exact branch and entrance
+Murin an Kyoto Japan,Murin an Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Murin%20an%20Kyoto%20Japan,Search query; confirm exact branch and entrance
+Shibamata Taishakuten Tokyo Japan,Shibamata Taishakuten Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Shibamata+Taishakuten+Tokyo+Japan,Search query; confirm exact branch and entrance
+Yamamoto tei Shibamata Tokyo Japan,Yamamoto tei Shibamata Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Yamamoto+tei+Shibamata+Tokyo+Japan,Search query; confirm exact branch and entrance
+Jindaiji Temple Chofu Tokyo Japan,Jindaiji Temple Chofu Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Jindaiji+Temple+Chofu+Tokyo+Japan,Search query; confirm exact branch and entrance
+Ginkakuji Kyoto Japan,Ginkakuji Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Ginkakuji+Kyoto+Japan,Search query; confirm exact branch and entrance
+Honen in Temple Kyoto Japan,Honen in Temple Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Honen+in+Temple+Kyoto+Japan,Search query; confirm exact branch and entrance
+Tadasu no Mori Shimogamo Kyoto Japan,Tadasu no Mori Shimogamo Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Tadasu+no+Mori+Shimogamo+Kyoto+Japan,Search query; confirm exact branch and entrance
+Shimogamo Shrine Kyoto Japan,Shimogamo Shrine Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Shimogamo+Shrine+Kyoto+Japan,Search query; confirm exact branch and entrance
+Kamogawa Delta Demachiyanagi Kyoto Japan,Kamogawa Delta Demachiyanagi Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Kamogawa+Delta+Demachiyanagi+Kyoto+Japan,Search query; confirm exact branch and entrance
+Hosen in Ohara Kyoto Japan,Hosen in Ohara Kyoto Japan,https://www.google.com/maps/search/?api=1&query=Hosen+in+Ohara+Kyoto+Japan,Search query; confirm exact branch and entrance
+Koenji Pal Shopping Street Tokyo,Koenji Pal Shopping Street Tokyo,https://www.google.com/maps/search/?api=1&query=Koenji+Pal+Shopping+Street+Tokyo,Search query; confirm exact branch and entrance
+New York Joe Exchange Shimokitazawa Tokyo,New York Joe Exchange Shimokitazawa Tokyo,https://www.google.com/maps/search/?api=1&query=New+York+Joe+Exchange+Shimokitazawa+Tokyo,Search query; confirm exact branch and entrance
+LIGHT UP COFFEE Shimokitazawa 2-29-12 Daita,LIGHT UP COFFEE Shimokitazawa 2-29-12 Daita,https://www.google.com/maps/search/?api=1&query=LIGHT+UP+COFFEE+Shimokitazawa+2-29-12+Daita,Search query; confirm exact branch and entrance
+LIGHT UP COFFEE Kichijoji Tokyo,LIGHT UP COFFEE Kichijoji Tokyo,https://www.google.com/maps/search/?api=1&query=LIGHT+UP+COFFEE+Kichijoji+Tokyo,Search query; confirm exact branch and entrance
+Daikanyama T-SITE Tokyo,Daikanyama T-SITE Tokyo,https://www.google.com/maps/search/?api=1&query=Daikanyama+T-SITE+Tokyo,Search query; confirm exact branch and entrance
+TRAVELERS FACTORY Nakameguro Tokyo,TRAVELERS FACTORY Nakameguro Tokyo,https://www.google.com/maps/search/?api=1&query=TRAVELERS+FACTORY+Nakameguro+Tokyo,Search query; confirm exact branch and entrance
+Kakimori Kuramae Tokyo,Kakimori Kuramae Tokyo,https://www.google.com/maps/search/?api=1&query=Kakimori+Kuramae+Tokyo,Search query; confirm exact branch and entrance
+Dandelion Chocolate Factory Cafe Kuramae Tokyo,Dandelion Chocolate Factory Cafe Kuramae Tokyo,https://www.google.com/maps/search/?api=1&query=Dandelion+Chocolate+Factory+Cafe+Kuramae+Tokyo,Search query; confirm exact branch and entrance
+SAFARI 1号店 Koenji Tokyo,SAFARI 1号店 Koenji Tokyo,https://www.google.com/maps/search/?api=1&query=SAFARI+1%E5%8F%B7%E5%BA%97+Koenji+Tokyo,Search query; confirm exact branch and entrance
+SAFARI 2号店 Koenji Tokyo,SAFARI 2号店 Koenji Tokyo,https://www.google.com/maps/search/?api=1&query=SAFARI+2%E5%8F%B7%E5%BA%97+Koenji+Tokyo,Search query; confirm exact branch and entrance
+SAFARI 3号店 Koenji Tokyo,SAFARI 3号店 Koenji Tokyo,https://www.google.com/maps/search/?api=1&query=SAFARI+3%E5%8F%B7%E5%BA%97+Koenji+Tokyo,Search query; confirm exact branch and entrance
+SAFARI 4号店 Koenji Tokyo,SAFARI 4号店 Koenji Tokyo,https://www.google.com/maps/search/?api=1&query=SAFARI+4%E5%8F%B7%E5%BA%97+Koenji+Tokyo,Search query; confirm exact branch and entrance
+SAFARI 5号店 Koenji Tokyo,SAFARI 5号店 Koenji Tokyo,https://www.google.com/maps/search/?api=1&query=SAFARI+5%E5%8F%B7%E5%BA%97+Koenji+Tokyo,Search query; confirm exact branch and entrance
+SAFARI 1PLUS Koenji Tokyo,SAFARI 1PLUS Koenji Tokyo,https://www.google.com/maps/search/?api=1&query=SAFARI+1PLUS+Koenji+Tokyo,Search query; confirm exact branch and entrance
+SAFARI なない橋店 吉祥寺,SAFARI なない橋店 吉祥寺,https://www.google.com/maps/search/?api=1&query=SAFARI+%E3%81%AA%E3%81%AA%E3%81%84%E6%A9%8B%E5%BA%97+%E5%90%89%E7%A5%A5%E5%AF%BA,Search query; confirm exact branch and entrance
+SAFARI 中道通り店 吉祥寺,SAFARI 中道通り店 吉祥寺,https://www.google.com/maps/search/?api=1&query=SAFARI+%E4%B8%AD%E9%81%93%E9%80%9A%E3%82%8A%E5%BA%97+%E5%90%89%E7%A5%A5%E5%AF%BA,Search query; confirm exact branch and entrance
+reload Shimokitazawa Tokyo,reload Shimokitazawa Tokyo,https://www.google.com/maps/search/?api=1&query=reload+Shimokitazawa+Tokyo,Search query; confirm exact branch and entrance
+2nd STREET Shimokitazawa 2-30-13 Kitazawa Tokyo,2nd STREET Shimokitazawa 2-30-13 Kitazawa Tokyo,https://www.google.com/maps/search/?api=1&query=2nd+STREET+Shimokitazawa+2-30-13+Kitazawa+Tokyo,Search query; confirm exact branch and entrance
+IVY PLACE Daikanyama Tokyo,IVY PLACE Daikanyama Tokyo,https://www.google.com/maps/search/?api=1&query=IVY+PLACE+Daikanyama+Tokyo,Search query; confirm exact branch and entrance
+Daikanyama Tsutaya Books Tokyo,Daikanyama Tsutaya Books Tokyo,https://www.google.com/maps/search/?api=1&query=Daikanyama+Tsutaya+Books+Tokyo,Search query; confirm exact branch and entrance
+Meguro River Nakameguro Tokyo,Meguro River Nakameguro Tokyo,https://www.google.com/maps/search/?api=1&query=Meguro+River+Nakameguro+Tokyo,Search query; confirm exact branch and entrance
+HMV record shop Shibuya Tokyo Japan,HMV record shop Shibuya Tokyo Japan,https://www.google.com/maps/search/?api=1&query=HMV+record+shop+Shibuya+Tokyo+Japan,Search query; confirm exact branch and entrance
+Disk Union Shimokitazawa Tokyo Japan,Disk Union Shimokitazawa Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Disk+Union+Shimokitazawa+Tokyo+Japan,Search query; confirm exact branch and entrance
+COCONUTS DISK Kichijoji Tokyo Japan,COCONUTS DISK Kichijoji Tokyo Japan,https://www.google.com/maps/search/?api=1&query=COCONUTS+DISK+Kichijoji+Tokyo+Japan,Search query; confirm exact branch and entrance
+Disk Union Kichijoji PARCO 1-5-1 Kichijoji Honmachi,Disk Union Kichijoji PARCO 1-5-1 Kichijoji Honmachi,https://www.google.com/maps/search/?api=1&query=Disk+Union+Kichijoji+PARCO+1-5-1+Kichijoji+Honmachi,Search query; confirm exact branch and entrance
+Disk Union Shinjuku Rock Record Store Tokyo Japan,Disk Union Shinjuku Rock Record Store Tokyo Japan,https://www.google.com/maps/search/?api=1&query=Disk+Union+Shinjuku+Rock+Record+Store+Tokyo+Japan,Search query; confirm exact branch and entrance
+Disk Union Cinema Book Union 3-34-1 Shinjuku Tokyo,Disk Union Cinema Book Union 3-34-1 Shinjuku Tokyo,https://www.google.com/maps/search/?api=1&query=Disk+Union+Cinema+Book+Union+3-34-1+Shinjuku+Tokyo,Search query; confirm exact branch and entrance
+Disk Union Ikebukuro 2-27-8 Minamiikebukuro Tokyo,Disk Union Ikebukuro 2-27-8 Minamiikebukuro Tokyo,https://www.google.com/maps/search/?api=1&query=Disk+Union+Ikebukuro+2-27-8+Minamiikebukuro+Tokyo,Search query; confirm exact branch and entrance
+"Mandarake Katsudo Shashin-kan, Nakano Broadway Tokyo Japan","Mandarake Katsudo Shashin-kan, Nakano Broadway Tokyo Japan",https://www.google.com/maps/search/?api=1&query=Mandarake+Katsudo+Shashin-kan%2C+Nakano+Broadway+Tokyo+Japan,Search query; confirm exact branch and entrance
+RECOCO Shimokitazawa Tokyo,RECOCO Shimokitazawa Tokyo,https://www.google.com/maps/search/?api=1&query=RECOCO+Shimokitazawa+Tokyo,Search query; confirm exact branch and entrance

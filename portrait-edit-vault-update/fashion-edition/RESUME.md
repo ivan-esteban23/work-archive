@@ -1,0 +1,3 @@
+# The Portrait Edit — Fashion Edition
+
+Approved redesign completed 2026-10-11. Original PDF copied to Downloads/Backups and hash verified before work. Redesigned PDF: The Portrait Edit — Issue 01 — The Fashion Issue.pdf, 103 pages, 83 studies, 17 thematic chapters. Classic serif cover, ivory/ink palette, cinematic chapter openings, paired photography pages, separate 42-page prompt archive and credits. Enhanced selections retained, original fallbacks for 18 and 44. New Obsidian note and edition-specific CSV preserve original assets and original PDF. Old note name becomes a redirect to preserve backlinks. Live note and original CSV backed up under backup/. Page-count and title checks passed; cover and sample interior visually inspected.

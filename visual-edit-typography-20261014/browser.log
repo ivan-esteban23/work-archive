@@ -1,0 +1,13 @@
+
+DevTools listening on ws://127.0.0.1:9239/devtools/browser/cb96f2db-10e4-45d3-af82-be17d621cfd2
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+[8752:8759:1014/090814.422347:ERROR:base/nix/mime_util_xdg.cc:139] Invalid mime.cache file does not contain null prior to ALIAS_LIST_OFFSET=44
+[8752:8759:1014/090814.422550:ERROR:base/nix/mime_util_xdg.cc:139] Invalid mime.cache file does not contain null prior to ALIAS_LIST_OFFSET=44
+[8683:8704:1014/090827.991085:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[8683:8704:1014/090858.369372:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[8683:8704:1014/090944.784013:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+[9259:9259:1014/091114.216608:ERROR:services/on_device_model/ml/gpu_blocklist.cc:120] Unable to get gpu adapter
+[8683:8683:1014/091114.217651:ERROR:services/on_device_model/public/cpp/service_client.cc:37] Unexpected on_device_model service disconnect; reason: 1, description: Error loading backend.
+[8683:8704:1014/091136.398347:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[8683:8704:1014/091403.227878:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2

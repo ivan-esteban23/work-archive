@@ -1,0 +1,461 @@
+[
+  {
+    "country": "Japan",
+    "name": "Sensō-ji",
+    "latitude": 35.714556,
+    "longitude": 139.796639,
+    "tags": "tag:japan2027 tag:tokyo tag:sightseeing",
+    "source_note": "Japan 2027 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Japan",
+    "name": "Shinjuku Gyoen",
+    "latitude": 35.687169,
+    "longitude": 139.710644,
+    "tags": "tag:japan2027 tag:tokyo tag:sightseeing",
+    "source_note": "Japan 2027 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Japan",
+    "name": "Ueno Park",
+    "latitude": 35.712222,
+    "longitude": 139.771111,
+    "tags": "tag:japan2027 tag:tokyo tag:sightseeing",
+    "source_note": "Japan 2027 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Japan",
+    "name": "Tokyo Station",
+    "latitude": 35.680833,
+    "longitude": 139.766944,
+    "tags": "tag:japan2027 tag:tokyo tag:transport",
+    "source_note": "Japan 2027 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Japan",
+    "name": "Shibuya Station",
+    "latitude": 35.658514,
+    "longitude": 139.701331,
+    "tags": "tag:japan2027 tag:tokyo tag:transport",
+    "source_note": "Japan 2027 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Japan",
+    "name": "Kiyomizu-dera",
+    "latitude": 34.994831,
+    "longitude": 135.785003,
+    "tags": "tag:japan2027 tag:kyoto tag:sightseeing",
+    "source_note": "Japan 2027 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Japan",
+    "name": "Fushimi Inari-taisha",
+    "latitude": 34.967202,
+    "longitude": 135.773386,
+    "tags": "tag:japan2027 tag:kyoto tag:sightseeing",
+    "source_note": "Japan 2027 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Japan",
+    "name": "Yasaka Shrine",
+    "latitude": 35.003645,
+    "longitude": 135.778529,
+    "tags": "tag:japan2027 tag:kyoto tag:sightseeing",
+    "source_note": "Japan 2027 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Japan",
+    "name": "Nijō Castle",
+    "latitude": 35.014167,
+    "longitude": 135.7475,
+    "tags": "tag:japan2027 tag:kyoto tag:sightseeing",
+    "source_note": "Japan 2027 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Japan",
+    "name": "Kyoto Station",
+    "latitude": 34.985556,
+    "longitude": 135.758611,
+    "tags": "tag:japan2027 tag:kyoto tag:transport",
+    "source_note": "Japan 2027 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Japan",
+    "name": "Byōdō-in — optional Uji excursion",
+    "latitude": 34.889444,
+    "longitude": 135.807778,
+    "tags": "tag:japan2027 tag:uji tag:sightseeing",
+    "source_note": "Japan 2027 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Gyeongbokgung Palace",
+    "latitude": 37.579884,
+    "longitude": 126.9768,
+    "tags": "tag:korea2026 tag:seoul tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Deoksugung Palace",
+    "latitude": 37.566111,
+    "longitude": 126.975,
+    "tags": "tag:korea2026 tag:seoul tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Changdeokgung Palace",
+    "latitude": 37.579444,
+    "longitude": 126.991667,
+    "tags": "tag:korea2026 tag:seoul tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Bukchon Hanok Village",
+    "latitude": 37.583056,
+    "longitude": 126.983611,
+    "tags": "tag:korea2026 tag:seoul tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Ikseon-dong",
+    "latitude": 37.574279,
+    "longitude": 126.989835,
+    "tags": "tag:korea2026 tag:seoul tag:neighborhood",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Gwangjang Market",
+    "latitude": 37.57,
+    "longitude": 126.999,
+    "tags": "tag:korea2026 tag:seoul tag:food",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Insadong",
+    "latitude": 37.573,
+    "longitude": 126.986,
+    "tags": "tag:korea2026 tag:seoul tag:neighborhood",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Seoul Forest",
+    "latitude": 37.544625,
+    "longitude": 127.039844,
+    "tags": "tag:korea2026 tag:seoul tag:nature",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "N Seoul Tower",
+    "latitude": 37.551216,
+    "longitude": 126.988276,
+    "tags": "tag:korea2026 tag:seoul tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Inwangsan",
+    "latitude": 37.584722,
+    "longitude": 126.958611,
+    "tags": "tag:korea2026 tag:seoul tag:nature",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Hongik University campus — not the subway station",
+    "latitude": 37.550556,
+    "longitude": 126.925833,
+    "tags": "tag:korea2026 tag:seoul tag:shopping",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Euljiro",
+    "latitude": 37.56606,
+    "longitude": 126.980778,
+    "tags": "tag:korea2026 tag:seoul tag:neighborhood",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Bulguksa",
+    "latitude": 35.79,
+    "longitude": 129.332222,
+    "tags": "tag:korea2026 tag:gyeongju tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Seokguram Grotto",
+    "latitude": 35.795,
+    "longitude": 129.349167,
+    "tags": "tag:korea2026 tag:gyeongju tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Daereungwon Ancient Tombs",
+    "latitude": 35.838048,
+    "longitude": 129.212135,
+    "tags": "tag:korea2026 tag:gyeongju tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Hwangnidan-gil",
+    "latitude": 35.8375,
+    "longitude": 129.2097,
+    "tags": "tag:korea2026 tag:gyeongju tag:neighborhood",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Cheomseongdae",
+    "latitude": 35.834722,
+    "longitude": 129.219,
+    "tags": "tag:korea2026 tag:gyeongju tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Wolji Pond",
+    "latitude": 35.834619,
+    "longitude": 129.227114,
+    "tags": "tag:korea2026 tag:gyeongju tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Woljeongyo Bridge",
+    "latitude": 35.829257,
+    "longitude": 129.218137,
+    "tags": "tag:korea2026 tag:gyeongju tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Gyeongju Station",
+    "latitude": 35.798333,
+    "longitude": 129.138889,
+    "tags": "tag:korea2026 tag:gyeongju tag:transport",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Jagalchi Market",
+    "latitude": 35.0974,
+    "longitude": 129.027,
+    "tags": "tag:korea2026 tag:busan tag:food",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Gamcheon Culture Village",
+    "latitude": 35.0975,
+    "longitude": 129.009167,
+    "tags": "tag:korea2026 tag:busan tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Yongdusan Park",
+    "latitude": 35.100556,
+    "longitude": 129.032778,
+    "tags": "tag:korea2026 tag:busan tag:nature",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Haedong Yonggungsa",
+    "latitude": 35.188333,
+    "longitude": 129.223333,
+    "tags": "tag:korea2026 tag:busan tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Haeundae Beach",
+    "latitude": 35.158552,
+    "longitude": 129.160539,
+    "tags": "tag:korea2026 tag:busan tag:nature",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Gwangalli Beach",
+    "latitude": 35.154167,
+    "longitude": 129.120556,
+    "tags": "tag:korea2026 tag:busan tag:nature",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Busan Station",
+    "latitude": 35.114722,
+    "longitude": 129.041944,
+    "tags": "tag:korea2026 tag:busan tag:transport",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Gimhae International Airport",
+    "latitude": 35.180556,
+    "longitude": 128.938056,
+    "tags": "tag:korea2026 tag:busan tag:transport",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Incheon International Airport",
+    "latitude": 37.4625,
+    "longitude": 126.439167,
+    "tags": "tag:korea2026 tag:transport",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Seoul Station",
+    "latitude": 37.554722,
+    "longitude": 126.970833,
+    "tags": "tag:korea2026 tag:seoul tag:transport",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Inherited orientation coordinate; entrance not reverified"
+  },
+  {
+    "country": "Korea",
+    "name": "Seoullo 7017",
+    "latitude": 37.556978,
+    "longitude": 126.974766,
+    "tags": "tag:korea2026 tag:seoul tag:nature",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Linear-park orientation point; choose stairs/access separately; record checked 2026-10-08",
+    "coordinate_source": "https://en.wikipedia.org/wiki/Seoullo_7017"
+  },
+  {
+    "country": "Korea",
+    "name": "Cheonggyecheon — stream orientation point",
+    "latitude": 37.57,
+    "longitude": 127.00639,
+    "tags": "tag:korea2026 tag:seoul tag:nature",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "One point along the stream, not its western entrance; record checked 2026-10-08",
+    "coordinate_source": "https://en.wikipedia.org/wiki/Cheonggyecheon"
+  },
+  {
+    "country": "Korea",
+    "name": "Dongdaemun Design Plaza",
+    "latitude": 37.566900000000004,
+    "longitude": 127.0094,
+    "tags": "tag:korea2026 tag:seoul tag:sightseeing",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Complex orientation point; exact building entrance not surveyed; record checked 2026-10-08",
+    "coordinate_source": "https://www.wikidata.org/wiki/Q5295847"
+  },
+  {
+    "country": "Korea",
+    "name": "National Museum of Korea",
+    "latitude": 37.5239,
+    "longitude": 126.9803,
+    "tags": "tag:korea2026 tag:seoul tag:museum",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Optional museum; building orientation, not checked entrance; record checked 2026-10-08",
+    "coordinate_source": "https://en.wikipedia.org/wiki/National_Museum_of_Korea"
+  },
+  {
+    "country": "Korea",
+    "name": "Hongik University Station — not the campus",
+    "latitude": 37.55667,
+    "longitude": 126.92361,
+    "tags": "tag:korea2026 tag:seoul tag:transport",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Station anchor; choose the required line and exit; record checked 2026-10-08",
+    "coordinate_source": "https://en.wikipedia.org/wiki/Hongik_University_station"
+  },
+  {
+    "country": "Korea",
+    "name": "Mangwon Station",
+    "latitude": 37.55611,
+    "longitude": 126.91,
+    "tags": "tag:korea2026 tag:seoul tag:transport",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Station anchor; choose the required exit; record checked 2026-10-08",
+    "coordinate_source": "https://en.wikipedia.org/wiki/Mangwon_station"
+  },
+  {
+    "country": "Korea",
+    "name": "Dongmyo shrine — flea-market area anchor",
+    "latitude": 37.5731,
+    "longitude": 127.0182,
+    "tags": "tag:korea2026 tag:seoul tag:shopping",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "This pin is the shrine, not a particular market stall; record checked 2026-10-08",
+    "coordinate_source": "https://en.wikipedia.org/wiki/Dongmyo"
+  },
+  {
+    "country": "Korea",
+    "name": "Gyeongju National Museum",
+    "latitude": 35.8289833,
+    "longitude": 129.228361,
+    "tags": "tag:korea2026 tag:gyeongju tag:museum",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Optional museum; orientation rather than surveyed entrance; record checked 2026-10-08",
+    "coordinate_source": "https://en.wikipedia.org/wiki/Gyeongju_National_Museum"
+  },
+  {
+    "country": "Korea",
+    "name": "Seomyeon Station",
+    "latitude": 35.15778,
+    "longitude": 129.05917,
+    "tags": "tag:korea2026 tag:busan tag:transport",
+    "source_note": "Korea 2026 — Map View.md",
+    "status": "Station anchor; Jeonpo cafés are a separate walk/location; record checked 2026-10-08",
+    "coordinate_source": "https://en.wikipedia.org/wiki/Seomyeon_station"
+  }
+]

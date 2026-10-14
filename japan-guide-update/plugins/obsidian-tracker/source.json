@@ -1,0 +1,20 @@
+{
+  "repo": "pyrochlore/obsidian-tracker",
+  "release": "1.19.0",
+  "url": "https://github.com/pyrochlore/obsidian-tracker/releases/tag/1.19.0",
+  "manifest": {
+    "id": "obsidian-tracker",
+    "name": "Tracker",
+    "version": "1.19.0",
+    "minAppVersion": "0.9.12",
+    "description": "A plugin tracks occurrences and numbers in your notes",
+    "author": "pyrochlore",
+    "authorUrl": "",
+    "isDesktopOnly": false
+  },
+  "files": {
+    "manifest.json": "a9653bb2110b8614ec4042b5766a76927d3f1f4c3b0a2c06d635f2925bfbc35e",
+    "main.js": "fed82c9a91019858e92ea0177fa214dac3d72ceca043ff3a85c29147754352e0",
+    "styles.css": "cccb9c0d4c3181c3bd39e4bcf44bc7ffebcdce53f2db591d644e35ea2fab0857"
+  }
+}

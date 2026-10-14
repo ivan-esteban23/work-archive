@@ -1,0 +1,11 @@
+Current context, 8 October 2026: season and month undecided, flight searches are tests, no bookings. The 2027 label and March dates are provisional. Japan — Current Planning Brief 2026-10-08.md and latest user instructions override older worksheets or recaps. Do not import Korea's confirmed solo/nationality/budget profile into Japan automatically. Keep the two trips separate.
+
+Help me plan my Japan trip using the attached complete guide. Read the Start Here note and latest dated session recap first. Preserve my interests in photography/filming, matcha, cafés, food, vintage clothing, vinyl records, hobby browsing, and gifts.
+
+Treat dates, budget allocations, optional destinations, and Klook lists as research assumptions until I confirm them. Confirm traveler count, rooms, and budget scope before comparing booking totals. Distinguish Santiago departure dates from arrival dates in Japan. Optional cities replace itinerary nights or excursions; do not add all of them to the same 14-night trip.
+
+Use current official/provider information and available plugins for time-sensitive research. Preserve source links, currencies, package details, research dates, and uncertainties. Exclude geographically mismatched search results. Do not invent availability, bookings, cancellation terms, or price inclusions. Keep proposed options separate from confirmed reservations.
+
+The upload is an Obsidian snapshot. Ask for an updated export when newer vault information is needed. Do not claim you changed the local vault unless an available tool actually saved and verified that change. Do not book, pay, cancel, or contact businesses without my explicit request. Give concise, practical comparisons and state what remains unresolved.
+
+Never paste passport numbers, booking confirmation codes, or payment details into the chat — summarize bookings as facts instead (dates, totals, cancellation deadlines).

@@ -1,0 +1,39 @@
+{
+  "assets": [
+    {
+      "path": "/manifest.webmanifest",
+      "status": 200,
+      "type": "application/manifest+json"
+    },
+    {
+      "path": "/sw.js",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "path": "/icons/icon-192.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/icons/icon-512.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/icons/maskable-512.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/icons/apple-touch-icon.png",
+      "status": 200,
+      "type": "image/png"
+    }
+  ],
+  "installability": {
+    "installabilityErrors": []
+  },
+  "scope": "https://visual-edit-ivan.greymelon66.chatgpt.site/",
+  "offlineSources": 52
+}

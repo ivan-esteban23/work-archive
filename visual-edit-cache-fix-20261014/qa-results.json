@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": [
+    "real old version 37 shell migrates without Update now",
+    "Times New Roman and theme header appear after reload",
+    "favorites and language and shared country retained",
+    "subsequent online navigation fetches latest HTML",
+    "HTTP 503 uses cached shell",
+    "offline reload works with latest saved shell"
+  ]
+}
