@@ -10,7 +10,7 @@ import urllib.parse
 
 def ensure_uploaded(repo, slug, gh, env):
     files = json.loads(subprocess.check_output(
-        ['git', '-C', str(repo), 'lfs', 'ls-files', '--json'], env=env))['files']
+        ['git', '-C', str(repo), 'lfs', 'ls-files', '--json'], env=env)).get('files') or []
     objects = {f['oid']: f['size'] for f in files}
     if not objects:
         return 0

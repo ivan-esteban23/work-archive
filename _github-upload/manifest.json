@@ -18971,18 +18971,18 @@
   },
   {
     "path": "github-project-sync/lfs_upload.py",
-    "bytes": 3664,
-    "sha256": "08d00ab3ab12deefd275cde35ab22d0b5a4c9f4542c7a08e79b58e00ef591a19"
+    "bytes": 3674,
+    "sha256": "203f6fdc56aa24992d3dc96a63f57aabec41c1424856255abf126ea1b0624dc7"
   },
   {
     "path": "github-project-sync/sync.py",
-    "bytes": 13691,
-    "sha256": "fc5e2bddbc4c793e4ee72c06c1ca5a28041c8e6bdd5fd3f80cec40ce3668714d"
+    "bytes": 13831,
+    "sha256": "4d8ab10c6d5620182f7199a8dbd77e243175ab30f3ffaa3087b6a52301f2b688"
   },
   {
     "path": "github-project-sync/test_sync.py",
-    "bytes": 4214,
-    "sha256": "cfee4f110b9ab4797701fb58cf59b9a2b74f41b7ad4df8d057c4a1efd5513010"
+    "bytes": 4601,
+    "sha256": "7bfeb8f25def45eeb29811bfe42e2e88660f4d230cf2d92d1b0d9d4d778354e5"
   },
   {
     "path": "github-project-sync/README.md",

@@ -181,6 +181,8 @@ def synchronize(paths, message, dry_run=False, config=None, do_push=True, deleti
     attribute_text = attrs.read_text()
     for rel, (source, digest, size) in chosen.items():
         target = repo / rel
+        if not target.resolve().is_relative_to(repo.resolve()):
+            raise ValueError('Archive target escapes its checkout: ' + rel)
         target.parent.mkdir(parents=True, exist_ok=True)
         temporary = target.with_name(target.name + '.sync-tmp')
         shutil.copyfile(source, temporary)

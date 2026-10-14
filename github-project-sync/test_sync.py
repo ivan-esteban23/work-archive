@@ -3,8 +3,10 @@ import json
 import subprocess
 import tempfile
 import unittest
+from unittest import mock
 from pathlib import Path
 from sync import synchronize, destination, check_content
+from lfs_upload import ensure_uploaded
 
 
 class SyncChecks(unittest.TestCase):
@@ -70,6 +72,11 @@ class SyncChecks(unittest.TestCase):
     def test_json_credential_rejected(self):
         with self.assertRaises(ValueError):
             check_content('settings.json', b'{"api_key":"nonstandard-but-secret-value"}')
+
+    def test_website_without_lfs_does_not_request_credentials(self):
+        with mock.patch('lfs_upload.subprocess.check_output', return_value=b'{"files":null}') as command:
+            self.assertEqual(ensure_uploaded(self.repo, 'account/site', '/unused/gh', {}), 0)
+            self.assertEqual(command.call_count, 1)
 
     def test_explicit_deletion_preserves_history(self):
         note = self.work / 'old.md'
