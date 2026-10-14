@@ -1,0 +1,1045 @@
+{
+  "sourceRecords": 58,
+  "recordsByteIdentical": true,
+  "scriptsCompiled": 4,
+  "layouts": [
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "light",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "light",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "light",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "light",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "light",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "light",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "dark",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "dark",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "dark",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "dark",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "dark",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 320,
+      "size": 100,
+      "theme": "dark",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "light",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "light",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "light",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "light",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "light",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "light",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "dark",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "dark",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "dark",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "dark",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "dark",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 320,
+      "size": 200,
+      "theme": "dark",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "light",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "light",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "light",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "light",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "light",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "light",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "dark",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "dark",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "dark",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "dark",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "dark",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 390,
+      "size": 100,
+      "theme": "dark",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "light",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "light",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "light",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "light",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "light",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "light",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "dark",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "dark",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "dark",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "dark",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "dark",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 390,
+      "size": 200,
+      "theme": "dark",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "light",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "light",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "light",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "light",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "light",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "light",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "dark",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "dark",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "dark",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "dark",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "dark",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 768,
+      "size": 100,
+      "theme": "dark",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "light",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "light",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "light",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "light",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "light",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "light",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "dark",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "dark",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "dark",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "dark",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "dark",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 768,
+      "size": 200,
+      "theme": "dark",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "light",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "light",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "light",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "light",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "light",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "light",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "dark",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "dark",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "dark",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "dark",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "dark",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 1440,
+      "size": 100,
+      "theme": "dark",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "light",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "light",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "light",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "light",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "light",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "light",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "dark",
+      "locale": "en",
+      "errors": [],
+      "lang": "en",
+      "code": "EN"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "dark",
+      "locale": "es",
+      "errors": [],
+      "lang": "es",
+      "code": "ES"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "dark",
+      "locale": "zh-Hans",
+      "errors": [],
+      "lang": "zh-Hans",
+      "code": "简体"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "dark",
+      "locale": "zh-Hant",
+      "errors": [],
+      "lang": "zh-Hant",
+      "code": "繁體"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "dark",
+      "locale": "ja",
+      "errors": [],
+      "lang": "ja",
+      "code": "日本語"
+    },
+    {
+      "width": 1440,
+      "size": 200,
+      "theme": "dark",
+      "locale": "ko",
+      "errors": [],
+      "lang": "ko",
+      "code": "한국어"
+    }
+  ],
+  "checks": [
+    "96 expanded-disclosure layout cases: widths × text sizes × themes × six languages",
+    "Search recomputes against translated text in all six languages",
+    "Search + four combined filters + favorites, counts/chips, chip removal and Reset",
+    "Favorites/theme/language persistence on reload and reopen; shared filter restoration",
+    "Real Enter/Space disclosure control; print expands every record and restores disclosure states",
+    "Compact language selector has a visible keyboard focus indicator",
+    "Real Tab traversal, visible focus, filter disclosure state and sticky-search clearance",
+    "Accessible control names and all local link targets/source-link URL schemes"
+  ],
+  "keyboard": [
+    {
+      "name": "Filter country",
+      "visible": true,
+      "top": 262.4375,
+      "bottom": 310.4375,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Filter coverage",
+      "visible": true,
+      "top": 359.9375,
+      "bottom": 407.9375,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Filter access",
+      "visible": true,
+      "top": 457.4375,
+      "bottom": 505.4375,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Favorites 1",
+      "visible": true,
+      "top": 538.4375,
+      "bottom": 586.4375,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Export favorites (.md)",
+      "visible": true,
+      "top": 538.4375,
+      "bottom": 586.4375,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Copy view link ↗",
+      "visible": true,
+      "top": 594.4375,
+      "bottom": 642.4375,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Browse countries",
+      "visible": true,
+      "top": 722.9375,
+      "bottom": 770.9375,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "032c ↗",
+      "visible": true,
+      "top": 722.515625,
+      "bottom": 770.515625,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "More details+",
+      "visible": true,
+      "top": 723.21875,
+      "bottom": 771.21875,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Save 032c to favorites",
+      "visible": true,
+      "top": 721.21875,
+      "bottom": 771.21875,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Copy source link for 032c",
+      "visible": true,
+      "top": 721.21875,
+      "bottom": 771.21875,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "AnOther ↗",
+      "visible": true,
+      "top": 723.21875,
+      "bottom": 771.21875,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "More details+",
+      "visible": true,
+      "top": 722.921875,
+      "bottom": 770.921875,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Save AnOther to favorites",
+      "visible": true,
+      "top": 720.921875,
+      "bottom": 770.921875,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Copy source link for AnOther",
+      "visible": true,
+      "top": 661.921875,
+      "bottom": 711.921875,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Apartamento ↗",
+      "visible": true,
+      "top": 722.921875,
+      "bottom": 770.921875,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "More details+",
+      "visible": true,
+      "top": 723.125,
+      "bottom": 771.125,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Save Apartamento to favorites",
+      "visible": true,
+      "top": 721.125,
+      "bottom": 771.125,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Copy source link for Apartamento",
+      "visible": true,
+      "top": 721.125,
+      "bottom": 771.125,
+      "min": 70.4375,
+      "max": 779
+    },
+    {
+      "name": "Are.na ↗",
+      "visible": true,
+      "top": 723.125,
+      "bottom": 771.125,
+      "min": 70.4375,
+      "max": 779
+    }
+  ],
+  "accessibleControls": 200,
+  "passed": true
+}

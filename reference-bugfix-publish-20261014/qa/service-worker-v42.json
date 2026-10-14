@@ -1,0 +1,52 @@
+{
+  "baseline": "228912190b90435c10a9acbc12b99f068e33c6bf",
+  "oldCache": "visual-edit-shell-reference-name-20261014-v1",
+  "newCache": "visual-edit-shell-mobile-ui-20261014-v3",
+  "serviceWorkerBypassed": false,
+  "checks": [
+    {
+      "name": "Failed install retains usable old worker and offline shell"
+    },
+    {
+      "name": "Upgrade activates and removes old app cache without reload loops"
+    },
+    {
+      "name": "First reload after upgrade displays new revision offline; preferences and shared filters retained"
+    },
+    {
+      "name": "online reload",
+      "durationMs": 981
+    },
+    {
+      "name": "error reload",
+      "durationMs": 923
+    },
+    {
+      "name": "slow-headers reload",
+      "durationMs": 4971
+    },
+    {
+      "name": "slow-body reload",
+      "durationMs": 4877
+    },
+    {
+      "name": "offline reload",
+      "durationMs": 934
+    },
+    {
+      "name": "Reopen /index.html offline after leaving the app document"
+    },
+    {
+      "name": "Online redirected /index.html navigation"
+    }
+  ],
+  "cache": {
+    "keys": [
+      "unrelated-project-cache",
+      "visual-edit-shell-mobile-ui-20261014-v3"
+    ],
+    "assets": 7,
+    "ready": true
+  },
+  "passed": true
+}

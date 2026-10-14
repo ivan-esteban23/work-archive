@@ -1,0 +1,41 @@
+{
+  "pull_request": "https://github.com/ivan-esteban23/the-reference-edit/pull/2",
+  "merged_commit": "58ecf6fcac1c973902e7704758e32bf0df40ddbb",
+  "version": {
+    "id": "appgprj_6ace7cad170c8191adbe36fd345102d0~appgver_d741348ec08481918513c6764f9fa988",
+    "project_id": "appgprj_6ace7cad170c8191adbe36fd345102d0",
+    "version_number": 44,
+    "source": {
+      "commit_sha": "58ecf6fcac1c973902e7704758e32bf0df40ddbb"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_00000000885c820ebd31bded162141dd",
+      "content_hash": "sha256:ffcebe31709442eb0fb9c233474efa727898beeb2741feb8595dfbbc31b8754c",
+      "size_bytes": 3481600,
+      "file_count": 9
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6ad012d81bb88191add2797a9a647aa1",
+    "project_id": "appgprj_6ace7cad170c8191adbe36fd345102d0",
+    "title": "The Visual Edit — Visual Research & Moodboarding",
+    "version_id": "appgprj_6ace7cad170c8191adbe36fd345102d0~appgver_d741348ec08481918513c6764f9fa988",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://visual-edit-ivan.greymelon66.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ace7cad170c8191adbe36fd345102d0",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-10-14T23:40:27.288607+00:00"
+  },
+  "package": {
+    "project_id": "appgprj_6ace7cad170c8191adbe36fd345102d0",
+    "commit_sha": "58ecf6fcac1c973902e7704758e32bf0df40ddbb",
+    "archive": "/home/ivanaguilera/Work/reference-bugfix-publish-20261014/site.tar.gz"
+  }
+}

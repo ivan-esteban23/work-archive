@@ -16241,8 +16241,8 @@
   },
   {
     "path": "visual-edit-public/dist/index.html",
-    "bytes": 3424081,
-    "sha256": "7fae54a83743a4328c4a28d656ad6ee0a4a6d744402a07a773911c3c17854b71"
+    "bytes": 3424048,
+    "sha256": "f995c0aef00798d6f53f459431bd9eb347cfaa8e3b11c837568fcd2de6f96f05"
   },
   {
     "path": "visual-edit-public/dist/favicon.svg",
@@ -16256,8 +16256,8 @@
   },
   {
     "path": "visual-edit-public/dist/sw.js",
-    "bytes": 2733,
-    "sha256": "51d66faa9ddfe15530b23148816b3d3cf4869e43c5ce960b621571bc316547bb"
+    "bytes": 2850,
+    "sha256": "ffea668d403edf51e5da4eefedf17b471ed4b8fd341ba3f2765f5fa6dbf3df22"
   },
   {
     "path": "visual-edit-public/dist/icons/icon-192.png",
@@ -20123,5 +20123,55 @@
     "path": "Obsidian Vault/Attachments/Pinterest Alternatives/Pinterest Alternatives \u2014 Visual Research and Moodboarding.html",
     "bytes": 3424081,
     "sha256": "7fae54a83743a4328c4a28d656ad6ee0a4a6d744402a07a773911c3c17854b71"
+  },
+  {
+    "path": "visual-edit-public/tests/browser.mjs",
+    "bytes": 6434,
+    "sha256": "c336df1b8089aa48caa6589470dcfd9dec03208ed0df89348aeae4b0d19f9c0a"
+  },
+  {
+    "path": "visual-edit-public/tests/service-worker.mjs",
+    "bytes": 7705,
+    "sha256": "92dbff02b8e8cd691eb19304c4af06e6301285fceda7e149ac34eb45e6d43978"
+  },
+  {
+    "path": "visual-edit-public/tests/site.mjs",
+    "bytes": 12350,
+    "sha256": "1fc0ae0369b04ea77b1541e3e43adc5ba4b06dca4db753efa053bc1e2a64a22e"
+  },
+  {
+    "path": "visual-edit-public/tests/README.md",
+    "bytes": 2056,
+    "sha256": "bd1dc3134e8aefa70c6d6e655fb7056c4263fcfdc233d220d52b42deee06df05"
+  },
+  {
+    "path": "visual-edit-public/tests/RESULTS.md",
+    "bytes": 4861,
+    "sha256": "2166de387dc3366c623242e28e21e9fcca1c86a702df0f74d016d35bd227c63b"
+  },
+  {
+    "path": "reference-bugfix-publish-20261014/RESUME.md",
+    "bytes": 2129,
+    "sha256": "248e5c06bade549f911f06a0db89770d598ff044bba88c8e7223356d8d6ecfe7"
+  },
+  {
+    "path": "reference-bugfix-publish-20261014/deployment.json",
+    "bytes": 1664,
+    "sha256": "5b8a2e4f649845a2bc8e3efadcba8ac3f24d0f7a792bda3482e7be6a593199fc"
+  },
+  {
+    "path": "reference-bugfix-publish-20261014/qa/site.json",
+    "bytes": 19812,
+    "sha256": "9f6f4f24e101b3071c44949decb195c76c7ae2f22c0b012d283f947be23affe8"
+  },
+  {
+    "path": "reference-bugfix-publish-20261014/qa/service-worker-v43.json",
+    "bytes": 1220,
+    "sha256": "de9f28cf89118839dfe33be0731a8e58bae6465cb8b5a82cc91d77f0b748c104"
+  },
+  {
+    "path": "reference-bugfix-publish-20261014/qa/service-worker-v42.json",
+    "bytes": 1222,
+    "sha256": "3527343a65ccb80c083ecf08aba96019d0530c313a4083f04011dd4d1d8a1d2f"
   }
 ]
