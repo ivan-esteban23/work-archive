@@ -20173,5 +20173,25 @@
     "path": "reference-bugfix-publish-20261014/qa/service-worker-v42.json",
     "bytes": 1222,
     "sha256": "3527343a65ccb80c083ecf08aba96019d0530c313a4083f04011dd4d1d8a1d2f"
+  },
+  {
+    "path": "reference-live-verification-20261014/browser.mjs",
+    "bytes": 6649,
+    "sha256": "e11b7cb8ff983b99924f447767c97c292a0cdfe7c298ba486d444615e00b58fc"
+  },
+  {
+    "path": "reference-live-verification-20261014/check-live.mjs",
+    "bytes": 7151,
+    "sha256": "9b5557b461ae7e52fffe9f5bdcf70c44bd1c58101b5a433900c7036a7d27d8fe"
+  },
+  {
+    "path": "reference-live-verification-20261014/results.json",
+    "bytes": 1563,
+    "sha256": "eb9f8666ee006b09ab9b3d9352dd708c78e9bc2045b7669580674e65b3ff9094"
+  },
+  {
+    "path": "reference-live-verification-20261014/README.md",
+    "bytes": 3157,
+    "sha256": "d4a64e795752bffa567cf2cdeb648c38e49b408718a9ca13caf3d0cf38f6e253"
   }
 ]

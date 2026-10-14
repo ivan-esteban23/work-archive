@@ -1,0 +1,70 @@
+{
+  "origin": "https://visual-edit-ivan.greymelon66.chatgpt.site",
+  "physicalDevice": false,
+  "installedApp": false,
+  "serviceWorkerBypassed": false,
+  "checks": [
+    {
+      "name": "Live worker matches deployed v44 source; cached HTML includes search fix"
+    },
+    {
+      "name": "Live mobile viewport 320px",
+      "layout": {
+        "width": 320,
+        "document": 320,
+        "controls": [
+          {
+            "left": 165.71875,
+            "right": 213.71875
+          },
+          {
+            "left": 221.71875,
+            "right": 304
+          }
+        ]
+      }
+    },
+    {
+      "name": "Live mobile viewport 390px",
+      "layout": {
+        "width": 390,
+        "document": 390,
+        "controls": [
+          {
+            "left": 235.71875,
+            "right": 283.71875
+          },
+          {
+            "left": 291.71875,
+            "right": 374
+          }
+        ]
+      }
+    },
+    {
+      "name": "Seven-asset live offline shell reports ready; preferences saved"
+    },
+    {
+      "name": "Live online reload preserves preferences",
+      "durationMs": 1823
+    },
+    {
+      "name": "Live root reload with proxy disconnected",
+      "durationMs": 1421
+    },
+    {
+      "name": "Reopen live /index.html offline after leaving app page"
+    },
+    {
+      "name": "Full Chromium restart while disconnected retains cached page and preferences"
+    },
+    {
+      "name": "Reconnect and reload without loops or preference loss"
+    }
+  ],
+  "passed": true,
+  "proxy": {
+    "accepted": 5,
+    "blocked": 71
+  }
+}
