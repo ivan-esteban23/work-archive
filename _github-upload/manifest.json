@@ -19968,5 +19968,15 @@
     "path": "Obsidian Vault/Goth Rock \u2014 Attachments/Trianglecuts \u2014 When Death Leaves.jpg",
     "bytes": 163424,
     "sha256": "16a4e6187e8585c85920aefba27139f22e50d9850f4df51c897b54327d73a49a"
+  },
+  {
+    "path": "github-project-sync/verification.json",
+    "bytes": 348,
+    "sha256": "c783e6c7072654638bafbc606f0fa22efcf57e2b73c1ba179d109d0d57daab1a"
+  },
+  {
+    "path": "github-project-sync/RESUME.md",
+    "bytes": 2337,
+    "sha256": "af1cd3b0c98826f09b715cbbb9e16c599120a876bbd16cb75c46aaae093d043c"
   }
 ]

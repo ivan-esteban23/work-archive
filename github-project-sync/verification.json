@@ -1,0 +1,10 @@
+{
+  "status": "live archive and website sync verified",
+  "initial_source_files_synced": 202,
+  "followup_changed_files": 3,
+  "archive_commit": "c7024fed70319a0d5b6a0503d72a7dffa1588b8b",
+  "website_commit": "228912190b90435c10a9acbc12b99f068e33c6bf",
+  "checks_passed": 7,
+  "global_instructions_installed": true,
+  "background_watcher": false
+}
