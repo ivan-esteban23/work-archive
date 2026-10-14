@@ -1151,3 +1151,6 @@
 "Obsidian Vault/Goth Rock — Attachments/di unru — DYAD.jpg" filter=lfs diff=lfs merge=lfs -text
 "Obsidian Vault/Goth Rock — Attachments/Schröttersburg — Ignis.jpg" filter=lfs diff=lfs merge=lfs -text
 "Obsidian Vault/Goth Rock — Attachments/Trianglecuts — When Death Leaves.jpg" filter=lfs diff=lfs merge=lfs -text
+"reference-mobile-merge-20261014/preview-320-light.png" filter=lfs diff=lfs merge=lfs -text
+"reference-mobile-merge-20261014/preview-390-dark-settled.png" filter=lfs diff=lfs merge=lfs -text
+"reference-mobile-merge-20261014/preview-390-dark-during-transition.png" filter=lfs diff=lfs merge=lfs -text

@@ -16241,8 +16241,8 @@
   },
   {
     "path": "visual-edit-public/dist/index.html",
-    "bytes": 3408854,
-    "sha256": "fb3a7b939b2d52d6416426693d55eeebfbf50dd5c92759dfe3fedc372cb11991"
+    "bytes": 3424081,
+    "sha256": "7fae54a83743a4328c4a28d656ad6ee0a4a6d744402a07a773911c3c17854b71"
   },
   {
     "path": "visual-edit-public/dist/favicon.svg",
@@ -16256,8 +16256,8 @@
   },
   {
     "path": "visual-edit-public/dist/sw.js",
-    "bytes": 2738,
-    "sha256": "df2f8bb31bdd32c3de2191ee7afccbc030fd58af9947c47719bd7791a7c1f3b4"
+    "bytes": 2733,
+    "sha256": "51d66faa9ddfe15530b23148816b3d3cf4869e43c5ce960b621571bc316547bb"
   },
   {
     "path": "visual-edit-public/dist/icons/icon-192.png",
@@ -20013,5 +20013,60 @@
     "path": "github-project-sync/public-visibility-request/prepared/github-project-sync/global-AGENTS-addition.md",
     "bytes": 1635,
     "sha256": "3a61167d8e5a2e62c8188fbdb8bdb384f4e46a1845994f8fcca854e0b12ab971"
+  },
+  {
+    "path": "reference-mobile-merge-20261014/check.mjs",
+    "bytes": 10519,
+    "sha256": "2b5b997a5f8b602ef6a1beb3ea88fd8a6bb9f3ef1b40d36b5d21408c91d8e830"
+  },
+  {
+    "path": "reference-mobile-merge-20261014/qa-progress.json",
+    "bytes": 103,
+    "sha256": "87e16b1c4fd5ff522f1cb8f9bae5bc62ec616acef14d2b59e2a2134d7f25d430"
+  },
+  {
+    "path": "reference-mobile-merge-20261014/layout-results.json",
+    "bytes": 22570,
+    "sha256": "801c7b7a3bb4d2507450d014934b0af607d6333456a0009d807417751a65832c"
+  },
+  {
+    "path": "reference-mobile-merge-20261014/preview-320-light.png",
+    "bytes": 47726,
+    "sha256": "715faae6ce9a1051a798beacf4e00193e467bc99dca50d2d931d245e787659ab"
+  },
+  {
+    "path": "reference-mobile-merge-20261014/qa-results.json",
+    "bytes": 23087,
+    "sha256": "dc6ca9414e3fd6bdfbacc0a8888a069e8f82bc94ab8718177b2ce5a17b35efa7"
+  },
+  {
+    "path": "reference-mobile-merge-20261014/preview-390-dark-settled.png",
+    "bytes": 80241,
+    "sha256": "706d2645384ad9d078799fdac6f009795cd3ba742812a00d569c1733ebad46f6"
+  },
+  {
+    "path": "reference-mobile-merge-20261014/pr-body.md",
+    "bytes": 1300,
+    "sha256": "14c9b4b40c69f92d8fbd50830d029ae0d16ef18aa12f58ab5b0380089044e821"
+  },
+  {
+    "path": "reference-mobile-merge-20261014/preview-390-dark-during-transition.png",
+    "bytes": 79077,
+    "sha256": "9ea6e48cb701b48316bf663cf114ae99c70f8cdadd4f8069ee2a43984a2e4a96"
+  },
+  {
+    "path": "reference-mobile-merge-20261014/RESUME.md",
+    "bytes": 2824,
+    "sha256": "71fff1e08e934b514dfe9ee49e818ee3d0fcb59c3bf58c80dabb24ee4b54fc7e"
+  },
+  {
+    "path": "reference-mobile-merge-20261014/backup/dist/index.html",
+    "bytes": 3423781,
+    "sha256": "09394745bf2a855fc42d06bc4eac528730c2f97cbbc6de54c9b070b4dca62ef5"
+  },
+  {
+    "path": "reference-mobile-merge-20261014/backup/dist/sw.js",
+    "bytes": 2733,
+    "sha256": "1ece296d145c49b41927bf45b079c8ef2dbc76cff75c28674a5f66e70cb2cccd"
   }
 ]
