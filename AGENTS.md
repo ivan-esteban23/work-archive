@@ -60,3 +60,12 @@ The user wants a separate ChatGPT research/listening project for each music topi
 - Keep topic prompt and project-instruction notes in this directory, using `[Topic] — ChatGPT Project Prompts.md` and `[Topic] — ChatGPT Project Instructions.md`; link them from the shared index and the topic's dashboard.
 - Keep music topics' research, listening feedback, and personal rankings separate from each other and from travel projects. Do not infer that an album was heard or personally rated.
 - ChatGPT uploads are snapshots and do not automatically synchronize with Obsidian. Preserve existing note names, links, and sources; back up existing notes before changes, use normal filesystem escalation when required, and read back saved updates. Do not alter `.obsidian` settings for ordinary note work.
+
+
+## Automatic GitHub sync after project changes
+
+Standing user instruction: after each completed task that changes project files in `/home/ivanaguilera/Work` or `/home/ivanaguilera/Documents/Obsidian Vault`, sync the completed changes to GitHub before the final response. Follow `/home/ivanaguilera/Work/github-project-sync/README.md` and its tested `sync.py` command. Existing private targets are `ivan-esteban23/work-archive` and, for website commits, `ivan-esteban23/the-reference-edit`. This applies to Japan, Goth Rock, magazines, and other projects, including new projects in Work.
+
+Pass only the task's changed files/owned folders as repeated `--path` arguments, and only intentionally deleted files as `--delete`. Include changed dashboards, shared indexes, prompt notes and relevant attachments. For Notion edits, save fresh scoped readbacks/exports in the project Work directory before sync; local snapshots do not update themselves. For the website, create the normal verified commit first; sync does not replace deployment.
+
+Scoped commits and pushes to these existing private targets are already authorized; do not ask the user again for conversational permission. Use required sandbox/network escalation normally. Preserve credential exclusions, user content, unrelated edits and Git history. Never force-push or claim success without the command's remote verification. If blocked/offline, retain local work and report the upload as pending. Apply this instruction to changed project content, not read-only questions or unrelated filesystem/system tasks. This is end-of-task sync, not a background watcher for external edits.

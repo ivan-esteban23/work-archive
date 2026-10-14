@@ -1,0 +1,166 @@
+# Goth Rock — Rankings and Listening Journal
+
+## Ranking method
+
+Maintain separate **editorial recommendations**, **attributed published lists**, and **personal favorites**. Default annual eligibility: original studio full-lengths first released in the chosen year, with gothic rock central. Label deathrock and other related styles separately; broaden the candidate pool only with an explicit scope. Reissues do not change the original year. Keep singles, EPs, live albums, and compilations separate.
+
+Explain placements using songwriting, identity/coherence, performance, and production serving the music. Discuss historical impact separately. State candidate pool, sources, omissions, and genre uncertainty. Do not manufacture numeric precision or pad thin years. Annual history starts with late-1970s precursors and 1980s development; do not assume every year has enough eligible albums for a top ten.
+
+## Top 30 albums of the 1980s
+
+Compiled **10 October 2026**. This is the decade-level counterpart to the annual archive below.
+
+**This is an editorial ranking, not critical consensus and not a published list.** It is my order, argued from songwriting, identity and coherence, performance, and production serving the music. No "best albums of the 80s" poll was consulted or aggregated, and none is cited as authority. If you want a published-list version, that is a separate exercise.
+
+**Eligibility:** original studio full-lengths first released 1980–1989. Reissues do not change the original year. Singles, EPs, live albums and compilations are excluded — this is why Bauhaus *Bella Lugosi's Dead*, Red Lorry Yellow Lorry *Beating My Head* and Joy Division *Unknown Pleasures* (1979) are all absent.
+
+**Scope:** core gothic rock ranked 1–18, then adjacent styles in separate labelled sections (deathrock 19–23, darkwave and post-punk 24–26, ethereal 27–30). Boundaries follow [[Goth Rock — Notion Snapshot 2026-10-09/Goth Rock — Genre Boundaries — Deathrock and Its Neighbors|Goth Rock — Genre Boundaries]]; the conflicts there apply here.
+
+**Source types are mixed and stated per entry:** official label or artist discography pages (Beggars Banquet, 4AD, The Cure, Bauhaus), Wikipedia infoboxes used for release metadata, and your own verified dossiers. Wikipedia is acceptable for stable metadata like year and label but is not sole authority for the genre calls — those are argued, not sourced.
+
+### Core gothic rock
+
+| # | Album | Year | Original label | Why it sits here |
+| --- | --- | --- | --- | --- |
+| 1 | The Cure — [[Goth Rock — Notion Snapshot 2026-10-09/Album — The Cure — Pornography\|Pornography]] | 1982 | Fiction | The most controlled release of raw material. Repetition and dynamics do the work rather than decoration. [Official page](https://www.thecure.com/release/pornography/) |
+| 2 | The Cure — [[Goth Rock — Notion Snapshot 2026-10-09/Album — The Cure — Disintegration\|Disintegration]] | 1989 | Fiction | Peak songwriting craft and the widest range in the catalogue. [Official page](https://www.thecure.com/release/disintegration/) |
+| 3 | Bauhaus — [[Goth Rock — Notion Snapshot 2026-10-09/Album — Bauhaus — In the Flat Field\|In the Flat Field]] | 1980 | Beggars Banquet | Voice, guitar space and rhythmic tension held in balance. **Label conflict:** your verified note uses the Beggars Banquet catalog; [Trouser Press](https://trouserpress.com/reviews/bauhaus) lists it as 4AD. Both circulated; UK press favoured Beggars. |
+| 4 | The Sisters of Mercy — [[Goth Rock — Notion Snapshot 2026-10-09/Album — The Sisters of Mercy — Floodland\|Floodland]] | 1987 | Merciful Release | Production serving melody for once: the programming opens up rather than thickening, and the record breathes where *First and Last* compressed. |
+| 5 | The Sisters of Mercy — [[Goth Rock — Notion Snapshot 2026-10-09/Album — The Sisters of Mercy — First and Last and Always\|First and Last and Always]] | 1985 | Merciful Release | Guitar interplay and machine rhythm in service of melody. Ranked below *Floodland* on production range, not songwriting. [Guitar World](https://www.guitarworld.com/artists/guitarists/the-making-of-the-sisters-of-mercy-first-and-last-and-always) |
+| 6 | The Mission — [[Goth Rock — Notion Snapshot 2026-10-09/Album — The Mission — God's Own Medicine\|God's Own Medicine]] | 1986 | Mercury | Melodic guitar as the centre of gravity. [Band albums page](https://themissionukband.com/albums) |
+| 7 | Siouxsie and the Banshees — Juju | 1981 | Polydor | The peak of McGeoch's guitar writing and Budgie's percussion. **Genre caveat:** the band disputes the gothic rock label; Wikipedia classes it post-punk/gothic rock, BBC Radio 4 called it dark wave. Listed on musical merit. [Wikipedia](https://en.wikipedia.org/wiki/Juju_(Siouxsie_and_the_Banshees_album)) |
+| 8 | Bauhaus — The Sky's Gone Out | 1982 | Beggars Banquet | Their greatest commercial reach and most expansive writing. **Label conflict:** Wikipedia gives Beggars Banquet, Trouser Press gives A&M. Unresolved. |
+| 9 | Joy Division — [[Goth Rock — Notion Snapshot 2026-10-09/Album — Joy Division — Closer\|Closer]] | 1980 | Factory | Precursor, not goth. Its influence on the decade's texture is not in dispute even where the label is. |
+| 10 | The Cure — The Top | 1984 | Fiction | Psychedelic drift and dread; the least-recognised period and one of the most coherent. **Date conflict:** Wikipedia and the [official shop](https://shop.thecure.com/pages/the-top-1984-extras-remastered-2006) give 4 May 1984; Albumism gives 30 April. Official sources used. |
+| 11 | The Mission — [[Goth Rock — Notion Snapshot 2026-10-09/Album — The Mission — Children\|Children]] | 1988 | Mercury | Broadens into pop songcraft without losing the melancholy centre. |
+| 12 | Bauhaus — Burning from the Inside | 1983 | Beggars Banquet / A&M | The most musically generous of their four albums. [Trouser Press](https://trouserpress.com/reviews/bauhaus) |
+| 13 | Siouxsie and the Banshees — Kaleidoscope | 1980 | Polydor | Where the sound acquires synthesizers and drum machines and holds both without clutter. Precursor-leaning. [Side-Line](https://www.side-line.com/siouxsie-kaleidoscope-anniversary) |
+| 14 | Fields of the Nephilim — The Nephilim | 1988 | Situation Two / Beggars Banquet | Recorded in a Somerset courthouse where men were hanged; the macabre is structural rather than decorative. **Second album, not the debut** — that is *Dawnrazor* (1987). [Wikipedia](https://en.wikipedia.org/wiki/The_Nephilim_(album)) |
+| 15 | Red Lorry Yellow Lorry — [[Goth Rock — Notion Snapshot 2026-10-09/Album — Red Lorry Yellow Lorry — Talk About the Weather\|Talk About the Weather]] | 1985 | Red Rhino | Rhythm-first writing with genuine melodic identity. The band **rejects the goth tag**; included on sound, not self-description. |
+| 16 | Skeletal Family — [[Goth Rock — Notion Snapshot 2026-10-09/Album — Skeletal Family — Burning Oil\|Burning Oil]] | 1984 | Chrysalis | Punk attack and goth atmosphere genuinely combined rather than alternated. |
+| 17 | Skeletal Family — [[Goth Rock — Notion Snapshot 2026-10-09/Album — Skeletal Family — Futile Combat\|Futile Combat]] | 1985 | Chrysalis | The debut is the stronger document; this is the better-balanced band. |
+| 18 | Bauhaus — Mask | 1981 | Beggars Banquet | Fully realised as a band rather than as a concept. [Trouser Press](https://trouserpress.com/reviews/bauhaus) |
+
+**Bauhaus hold four of the thirty.** All four of their studio albums fall inside the decade and are canonical, so the weighting is deliberate rather than an oversight — but it is a weighting, and a list that included them only once would misrepresent the scene's breadth.
+
+### Deathrock
+
+Christian Death's classification is the live dispute here. Your history note treats Christian Death as a deathrock anchor while mainstream sources often file *Only Theatre of Pain* as gothic rock. Both readings are defensible; the conflict is preserved, not settled.
+
+| # | Album | Year | Original label | Note |
+| --- | --- | --- | --- | --- |
+| 19 | 45 Grave — [[Goth Rock — Notion Snapshot 2026-10-09/Album — 45 Grave — Sleep in Safety\|Sleep in Safety]] | 1983 | Enigma | The clearest statement of the Los Angeles sound: weight without keyboards. Your LA scene reference point. |
+| 20 | Christian Death — [[Goth Rock — Notion Snapshot 2026-10-09/Album — Christian Death — Only Theatre of Pain\|Only Theatre of Pain]] | 1982 | Frontier (UK) / Omega (US) | **Label split preserved:** UK and US releases used different labels. Your dossier uses the Frontier original-version listing. |
+| 21 | Kommunity FK — [[Goth Rock — Notion Snapshot 2026-10-09/Album — Kommunity FK — The Vision and the Voice\|The Vision and the Voice]] | 1983 | Independent Project | The other half of the LA sound, more minimal than 45 Grave. |
+| 22 | T.S.O.L. — Revenge | 1986 | Enigma | Hardcore attack with goth framing; their most coherent 80s statement. |
+| 23 | T.S.O.L. — Dance with Me | 1981 | Frontier | The debut. Wikipedia describes it as combining hardcore punk and gothic rock — the earliest record here. |
+
+### Darkwave and post-punk
+
+| # | Album | Year | Original label | Note |
+| --- | --- | --- | --- | --- |
+| 24 | Love and Rockets — Express | 1986 | Beggars Banquet | Bauhaus members doing something genuinely different; early alternative rock rather than goth. [Beggars Banquet](https://shop.beggarsbanquetrecords.com/format/1166643-express?lang=en_GB) |
+| 25 | Echo and the Bunnymen — Ocean Rain | 1984 | Korova (EU) / Sire (US) | The orchestral post-punk record most often mistaken for goth. **Label split:** European and US releases differ. [Wikipedia](https://en.wikipedia.org/wiki/Ocean_Rain) |
+| 26 | Red Lorry Yellow Lorry — Paint Your Wagon | 1986 | Red Rhino | Denser and less guitar-forward than the debut. |
+
+### Ethereal
+
+| # | Album | Year | Original label | Note |
+| --- | --- | --- | --- | --- |
+| 27 | Cocteau Twins — Treasure | 1984 | 4AD | The fullest early statement, and their first UK Top 40 album. [Official 4AD discography](https://cocteautwins.com/discography) |
+| 28 | Cocteau Twins — Head over Heels | 1983 | 4AD | Raymonde's arrival makes it more ornate and voluminous. [Official 4AD discography](https://cocteautwins.com/discography) |
+| 29 | Dead Can Dance — Dead Can Dance | 1984 | 4AD | **Label correction:** the debut is 4AD, not M Records as often assumed. [Wikipedia](https://en.wikipedia.org/wiki/Dead_Can_Dance_(album)) |
+| 30 | This Mortal Coil — Filigree and Shadow | 1986 | 4AD | 4AD's own compilation project; not a band, which is the point. [Official 4AD discography](https://cocteautwins.com/discography) |
+
+### Artwork sources — verified 10 October 2026
+
+**No third-party album images are embedded here.** Artwork is copyrighted by the artists, labels and publishers; none of it is freely licensed. Rather than reproduce it, this table links to the edition page where the sleeve can be viewed at its source.
+
+Earlier drafts of this section embedded Apple Music and Deezer CDN images. Those were removed: hotlinking serves the image from the provider's servers on every view, which is a heavier use than making a personal reference copy, and those URLs are not intended as embeddable content. **Linking reproduces nothing.**
+
+**Edition matters more than the image.** Several entries below resolve to a remastered or anniversary edition whose sleeve differs from the original 1980s pressing; those are marked. A sleeve identifies the edition supplied, never the ranking.
+
+**On your existing local copies.** The 20 dossier covers in the Notion snapshot are downloaded files held for personal reference. That is a far smaller exposure than remote hotlinking and is a reasonable personal-use position, but it is still a copy of someone else's copyrighted image. Nothing there was altered. If you want the vault to hold no third-party artwork at all, removing those files is the consistent choice — say so and I will do it, though the covers would then be unviewable offline.
+
+
+| # | Album | Source | Edition supplied |
+| --- | --- | --- | --- |
+| 1 | The Cure — Pornography | [Apple Music](https://music.apple.com/us/album/pornography/286646425?uo=4) | Pornography |
+| 2 | The Cure — Disintegration | [Apple Music](https://music.apple.com/us/album/disintegration-2010-remaster/372100016?uo=4) | Disintegration (2010 Remaster) — **reissue, not the original sleeve** |
+| 3 | Bauhaus — In the Flat Field | [Deezer](https://www.deezer.com/album/10945520) | In the Flat Field |
+| 4 | The Sisters of Mercy — Floodland | [Deezer](https://www.deezer.com/album/11680884) | Floodland |
+| 5 | The Sisters of Mercy — First and Last and Always | [Apple Music](https://music.apple.com/us/album/first-and-last-and-always/1002376675?uo=4) | First and Last and Always |
+| 6 | The Mission — God's Own Medicine | [Apple Music](https://music.apple.com/us/album/gods-own-medicine/1615388289?uo=4) | God's Own Medicine |
+| 7 | Siouxsie and the Banshees — Juju | [Deezer](https://www.deezer.com/album/123097) | Juju |
+| 8 | Bauhaus — The Sky's Gone Out | [Apple Music](https://music.apple.com/us/album/the-skys-gone-out/1450131804?uo=4) | The Sky's Gone Out |
+| 9 | Joy Division — Closer | [Apple Music](https://music.apple.com/us/album/closer-collectors-edition/266610001?uo=4) | Closer (40th Anniversary) [2020 Digital Master] — **reissue, not the original sleeve** |
+| 10 | The Cure — The Top | [Deezer](https://www.deezer.com/album/684664) | The Top |
+| 11 | The Mission — Children | [Apple Music](https://music.apple.com/us/album/children/1443510871?uo=4) | Children |
+| 12 | Bauhaus — Burning from the Inside | [Apple Music](https://music.apple.com/us/album/burning-from-the-inside/1450117462?uo=4) | Burning from the Inside |
+| 13 | Siouxsie and the Banshees — Kaleidoscope | [Deezer](https://www.deezer.com/album/101854942) | Kaleidoscope (Remastered & Expanded) — **reissue, not the original sleeve** |
+| 14 | Fields of the Nephilim — The Nephilim | [Apple Music](https://music.apple.com/us/album/the-nephilim/1027467835?uo=4) | The Nephilim |
+| 15 | Red Lorry Yellow Lorry — Talk About the Weather | [Apple Music](https://music.apple.com/us/album/talk-about-the-weather-bonus-tracks/160356498?uo=4) | Talk About the Weather |
+| 16 | Skeletal Family — Burning Oil | [Deezer](https://www.deezer.com/album/254801222) | Burning Oil |
+| 17 | Skeletal Family — Futile Combat | [Deezer](https://www.deezer.com/album/272505062) | Futile Combat |
+| 18 | Bauhaus — Mask | [Deezer](https://www.deezer.com/album/10966614) | Mask |
+| 19 | 45 Grave — Sleep in Safety | [Apple Music](https://music.apple.com/us/album/sleep-in-safety/162551605?uo=4) | Sleep In Safety |
+| 20 | Christian Death — Only Theatre of Pain | [Apple Music](https://music.apple.com/us/album/only-theatre-of-pain/498751948?uo=4) | Only Theatre of Pain |
+| 21 | Kommunity FK — The Vision and the Voice | [Bandcamp](https://kommunityfk.bandcamp.com/album/vision-and-the-voice) | The Vision and the Voice |
+| 22 | T.S.O.L. — Revenge | [Apple Music](https://music.apple.com/us/album/revenge/162542737?uo=4) | Revenge |
+| 23 | T.S.O.L. — Dance with Me | [Deezer](https://www.deezer.com/album/7786132) | Dance With Me |
+| 24 | Love and Rockets — Express | [Apple Music](https://music.apple.com/us/album/express/1309761131?uo=4) | Express |
+| 25 | Echo and the Bunnymen — Ocean Rain | [Deezer](https://www.deezer.com/album/92292) | Ocean Rain (Expanded; 2007 Remaster) — **reissue, not the original sleeve** |
+| 27 | Cocteau Twins — Treasure | [Apple Music](https://music.apple.com/us/album/treasure/1027469081?uo=4) | Treasure |
+| 28 | Cocteau Twins — Head over Heels | [Apple Music](https://music.apple.com/us/album/head-over-heels/1027462118?uo=4) | Head Over Heels |
+| 29 | Dead Can Dance — Dead Can Dance | [Apple Music](https://music.apple.com/us/album/dead-can-dance-remastered/277713765?uo=4) | Dead Can Dance (Remastered) — **reissue, not the original sleeve** |
+| 30 | This Mortal Coil — Filigree and Shadow | [Apple Music](https://music.apple.com/us/album/filigree-shadow-remastered/544039765?uo=4) | Filigree & Shadow (Remastered) — **reissue, not the original sleeve** |
+
+**One entry deliberately has no sleeve.** Red Lorry Yellow Lorry — *Paint Your Wagon* (#26) appears on no service as a standalone edition, only as a combined *Talk About the Weather / Paint Your Wagon* reissue whose sleeve would misrepresent the album.
+
+---
+
+### What this list is not
+
+- **Not a personal ranking.** Your favorites column stays empty until you supply feedback.
+- **Not a published-list aggregate.** No NME, Rolling Stone, Pitchfork or AllMusic ranking is represented here. Some picks independently appear on such lists — *Juju* on the Guardian's *1000 Albums to Hear Before You Die*, for instance — but nothing was selected on that basis.
+- **Not exhaustive.** Thirty albums from ten years is a defensible selection, not a census. Notable omissions: The Damned, Modern English, The March Violets, The Cassandra Complex, Clan of Xymox, The Names, Minimal Compact, Severed Heads, Death in June, Cocteau Twins' later *Victorialand* and *Blue Bell Knoll*, and the non-anglophone scenes entirely.
+- **Genre calls are argued, not sourced.** The ordering within deathrock and ethereal in particular would be contested by informed listeners.
+
+### Corrections made during verification
+
+Recorded because each was a plausible-sounding error a less careful pass would have written into your notes:
+
+- **Fields of the Nephilim's *The Nephilim* is 1988 and their second album**, not a 1985 debut. Their debut is *Dawnrazor* (1987). My first assumption was wrong on both counts.
+- **Attrition has no 1987 album called *Dark Behaviour*.** Their 80s records are *The Attrition of Reason* (1984), *Smiling* (1985) and *At the Fiftieth Gate* (1988). Cut.
+- **T.S.O.L. has no album called *A Texas Youth*.** Their 80s albums are *Dance with Me* (1981), *Beneath the Shadows* (1983), *Change Today?* (1984), *Revenge* (1986) and *Hit and Run* (1987). Cut.
+- **Bauhaus never released *Press the Flesh*.** Their four studio albums are *In the Flat Field*, *Mask*, *The Sky's Gone Out* and *Burning from the Inside*. "Press the Flesh" is a different, later band. Cut.
+- **Red Lorry Yellow Lorry's *Beating My Head* is a single** — their 1982 debut single, not an album.
+- **Dead Can Dance's debut is on 4AD**, not M Records.
+- **A university museum teaching-list discography used in searching proved unreliable** — it lists *In the Flat Field* as 4AD and gives only one label for *Only Theatre of Pain*, both conflicting with your own verified notes. Your dossiers were preferred wherever they existed.
+
+### New discrepancy found while sourcing artwork
+
+**The Mission — *Children* year: 1988 kept.** Apple Music supplies 1987, but the MusicBrainz release-group record gives first-release-date **1988-02-01** ([entry](https://musicbrainz.org/release-group/907acc16-7e16-3380-91fb-33791ff0cf7b)), agreeing with the band's own albums page used for the table. Apple's 1987 is treated as the outlier. A UK pressing catalogue number would close this fully; until then the weight of evidence is 2–1 for 1988.
+
+Sourcing artwork also corrected one matching bug of my own: an initial script searched `"The Cure The Cure"` instead of `"The Cure Pornography"` and reported false misses. Seven entries were re-run.
+
+## Annual archive
+
+No annual rankings have been completed. First tasks: verify a candidate pool for 1980, 1982, or 1985; then develop subsequent years gradually. A 2026 list must be labeled best so far through its research date and exclude upcoming full albums.
+
+| Year | Eligibility / candidate pool | Editorial list | Published lists | My favorites | Gaps |
+| --- | --- | --- | --- | --- | --- |
+| 2026 | Not yet fully researched | Pending | Pending | | Independent reviews, wider coverage, boundary decisions |
+
+The decade-level **Top 30 of the 1980s** above is now the one completed ranking in this project. Annual lists remain undone; the 1980s top 30 supplies a verified core-goth candidate pool that per-year lists can be drawn from.
+
+## Listening journal
+
+No listening sessions or personal ratings recorded.
+
+| Date supplied | Artist / album / edition | Full listen or sample | My exact feedback | Favorite moments | Optional score | Next discovery |
+| --- | --- | --- | --- | --- | --- | --- |
+
+Leave unknown fields blank. Preserve my words and distinguish my reaction from a reviewer's opinion. After feedback, suggest two close matches and one contrasting experiment.
+
+[[Goth Rock — Start Here]]

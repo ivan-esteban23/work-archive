@@ -6,8 +6,8 @@
   },
   {
     "path": "AGENTS.md",
-    "bytes": 7299,
-    "sha256": "dd93f8933df4dcaee00f11c30b5919ea25a93e65c156089018f06bb51fa03dec"
+    "bytes": 8940,
+    "sha256": "c066c55117bf9d4808803d7c985b289b732a47ef89acb0396f65e643b4f5f2fe"
   },
   {
     "path": "Cover wall audit.md",
@@ -18963,5 +18963,1010 @@
     "path": "portrait-phone-export/The Portrait Edit \u2014 Obsidian Phone.zip",
     "bytes": 592483550,
     "sha256": "4d2e4114c27b146e4212dd16b9fd00c06e5a01efe1edc3f34a0785143791ac23"
+  },
+  {
+    "path": "github-project-sync/config.json",
+    "bytes": 496,
+    "sha256": "b092d934fd1c5d5aab5064bfcc5bb6d131168173f146714f2af0784d15ae68e8"
+  },
+  {
+    "path": "github-project-sync/lfs_upload.py",
+    "bytes": 3664,
+    "sha256": "08d00ab3ab12deefd275cde35ab22d0b5a4c9f4542c7a08e79b58e00ef591a19"
+  },
+  {
+    "path": "github-project-sync/sync.py",
+    "bytes": 13691,
+    "sha256": "fc5e2bddbc4c793e4ee72c06c1ca5a28041c8e6bdd5fd3f80cec40ce3668714d"
+  },
+  {
+    "path": "github-project-sync/test_sync.py",
+    "bytes": 4214,
+    "sha256": "cfee4f110b9ab4797701fb58cf59b9a2b74f41b7ad4df8d057c4a1efd5513010"
+  },
+  {
+    "path": "github-project-sync/README.md",
+    "bytes": 4872,
+    "sha256": "2cd1a32c3d70cde72ca906abfeaf93cfb42a3a25b466b507dbc3a853425217f2"
+  },
+  {
+    "path": "github-project-sync/global-AGENTS-addition.md",
+    "bytes": 1637,
+    "sha256": "35cd1f447c43dbf471ee892c1d76d66ca8750ebe11ffa605cc7b8764894c79e6"
+  },
+  {
+    "path": "github-project-sync/initial-scope.json",
+    "bytes": 7606,
+    "sha256": "69529d1553d1ec7be2bf4e193fbf9ede77a79085248f3c8906be1ee989246eea"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Autumn Guide.md",
+    "bytes": 7926,
+    "sha256": "a29b2e2c9850003c3bff36f9bd71f3390a19911be6f8adba097765005839af8a"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Best Islands.md",
+    "bytes": 35358,
+    "sha256": "2c2e533f059febcbea8942f68804ff06db8826bdb17806c2719c20f6491809c7"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Bookings.md",
+    "bytes": 5656,
+    "sha256": "46d3879d4ea72bc849679779bf4f967f209c2883f9fb94cd7bb7770f14994ffe"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Clothing to Browse Online.md",
+    "bytes": 7882,
+    "sha256": "a731733adb58ac1f2748872fde9d7a01609460ac3c9d74a406ec4f4400c9bc3b"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Daily Pocket Cards.md",
+    "bytes": 2904,
+    "sha256": "2c2f8337b1ec675c2ddf561306967bca5036cc29daa907221dea9dc7c49195dd"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Expenses.md",
+    "bytes": 709,
+    "sha256": "65508fe61b4d9a7a9bc61df8436b6f82b69ff24d05e6448841343cee8e879ac9"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Fukuoka Chapter.md",
+    "bytes": 21924,
+    "sha256": "f4b687a246b9e705b3a94cbbae7fadb4b6cc9a317b63171ab21b99615abd2387"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Fukuoka Pocket Routes.md",
+    "bytes": 4971,
+    "sha256": "0aa4210f84553af0e973116c8363e06a0fd149bcd658f092d5c5ed5993354c8a"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Gifts for Her.md",
+    "bytes": 15724,
+    "sha256": "5f5270e2eba07d9f4a2e57393b3d58bd601492d6470ce0ec3fd7d379abcf43f5"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Health.md",
+    "bytes": 6014,
+    "sha256": "c3b771a29d588121f500c9f7649397ff5b48d6be0a568e0254c6a83c716d9d37"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Hidden Gems.md",
+    "bytes": 20340,
+    "sha256": "11d652f2c4572bafe4e313616ccfd09feab12ff0ea9dbfadfdd3d736338dd777"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Hiking and Mount Fuji.md",
+    "bytes": 7930,
+    "sha256": "f4736fae28ebeae741b4678ac2864b702d6742fc52ee56d3b5ec825396579066"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Island Access from Haneda and Narita.md",
+    "bytes": 10707,
+    "sha256": "65c414afe7fcd2162e214b06aa4fcd9e97ee671fa12517bef24c1d942b0cd804"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Japanese Flashcards.md",
+    "bytes": 2604,
+    "sha256": "fbf4481adaeeb6e0c94a5dd9863bc9aed60a4656c0ea835ddbd0b27b2f93afe3"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Japanese Practice.md",
+    "bytes": 11142,
+    "sha256": "3ef167df5d58f9181361d801fde9b1a5f5dc6b278f5c48262741e6538f34dc75"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Kichijoji Shopping and Exploring.md",
+    "bytes": 6178,
+    "sha256": "4de7c0015c7cadbdc6810be0e077c7c1bfeca49c1ce6eaa07f0b8de49de95140"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Klook More Cities and Islands.md",
+    "bytes": 27778,
+    "sha256": "bec614ee02d664b5111046cfaec1a647768a87502adfa5f311caa361886376a6"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Klook Tours and Experiences.md",
+    "bytes": 18782,
+    "sha256": "7b5a472603bd4d20d9f514eb2db034a37e56f029b6996bb70b6fafd3fce0ce80"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Map View.md",
+    "bytes": 5070,
+    "sha256": "177f6e3e47f3013b7039284dc59d559cdbd63b8d9632c6340e29f270f2490bb0"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Maps.md",
+    "bytes": 22265,
+    "sha256": "90ecf4c6cc4c11548d4e5dead54d1fbd2f0711d875edcde3a84acbe8abe24b9c"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Memories.md",
+    "bytes": 3233,
+    "sha256": "f84b5fa3e4ad7dfb6144df95bd4a8d686e99334dc73e8a0c28526c50a9408512"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 My Five Things.md",
+    "bytes": 3294,
+    "sha256": "9da071dae9800208f170be62bbde26e95995b8d862593bebd96dd5d1facec477"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Nagoya Chapter.md",
+    "bytes": 24173,
+    "sha256": "ee521648e4947040c67ba67d819d0c4aff08b194521435ec94fa1e91c962b6f5"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Nagoya Pocket Routes.md",
+    "bytes": 5511,
+    "sha256": "936d682ae39ee9ecbe67cfe7fceb576c89799c1b7f17348a742c5682e31de627"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Nara Chapter.md",
+    "bytes": 22873,
+    "sha256": "adf56ee91fa731acd3d23cdb2a4c67bf8cab7cb4b5c46e45de6615e646e648ca"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Nara Pocket Routes.md",
+    "bytes": 4829,
+    "sha256": "ec4cf8b63e9ef6825e4d840f87c6713d80540a6ddebc44a42acd3d0f0f10e5de"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 November vs May.md",
+    "bytes": 5868,
+    "sha256": "72954fb901e6bcd8bce2255461b981cc39ca00c77dcaa569837747d7529ce81e"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Okinawa Chapter.md",
+    "bytes": 25319,
+    "sha256": "619157b42ec167ff08350beca2c8b9462db8697c38496d0a53fe9b0b48b7f8e0"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Okinawa Pocket Routes.md",
+    "bytes": 5227,
+    "sha256": "32c4d30fd9300af9c5675c06be9fc7b8b20ead590b829b3f3945cbd638777fc7"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Osaka Chapter.md",
+    "bytes": 14583,
+    "sha256": "43326205bb9dc4ac5e1a25b9bcc2236edb6f7fcab7492fd12d9cb417d5cd8e73"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Osaka Pocket Routes.md",
+    "bytes": 4417,
+    "sha256": "3ac917b08cec30c33c7ca45d5b943d6ceacc96034e9a7bd8d5e0a84a5238daa9"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Photography and Filming Wishlist.md",
+    "bytes": 8631,
+    "sha256": "871c9efe2ff3717fb695b68d5679031e5f45820c70d0dcbc5229dc163a1181b6"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Place Inbox.md",
+    "bytes": 427,
+    "sha256": "ec40369216edb24b14109d8e440f8bafd86d42cb29359ff90407e37f6f55a19c"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-03-25.md",
+    "bytes": 1522,
+    "sha256": "ca3ed495d4529ff779d2a7e142117713a0d39e5038aca0f69e9d03b42e32c50a"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-03-26.md",
+    "bytes": 1573,
+    "sha256": "d98b6c8a275ab08a50b1ad54a92be737dcdbdce71202f160897faa2665a94627"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-03-27.md",
+    "bytes": 1623,
+    "sha256": "4180261ced5d094c9d1f14bad5ad162da6327bc430ea411232069faba4c45301"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-03-28.md",
+    "bytes": 1580,
+    "sha256": "65e8058cac6a5510e367673774c247d9e8d2fb18a8cc84168e330769a9251ab9"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-03-29.md",
+    "bytes": 1793,
+    "sha256": "cc075648aee1b65c57bd1fa6ab5b3a6477c9dcf7b307d7824486fa6886dd8afb"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-03-30.md",
+    "bytes": 1763,
+    "sha256": "86d2541391984a0738127bd091df06c2eb524d7fc9a3e1902f7224abaaa24dbc"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-03-31.md",
+    "bytes": 1648,
+    "sha256": "1ce11faafe022cc930309879abb83e2fd86ac135c3bedf600c9baef0aa186518"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-04-01.md",
+    "bytes": 1585,
+    "sha256": "2da7ca1ed8ce93d5791976c3ca46ff3401f7793dc3c09b7622ce53a9283ef7d0"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-04-02.md",
+    "bytes": 1636,
+    "sha256": "a30919115dbead0cefa60546bd9dca017eb99eb1460d661715b6b53e2f36af9d"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-04-03.md",
+    "bytes": 1586,
+    "sha256": "c14f2c97a24debc1152be63f2c6909c86feba07e542feb7ce5d379949e492020"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-04-04.md",
+    "bytes": 1863,
+    "sha256": "02e145f4f0f932cfb0eba163e102da80dae447e6122c4b2c6c9bb45bfe2d3ecc"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-04-05.md",
+    "bytes": 1743,
+    "sha256": "7d1d39ecbed895cf0fa75fb5073f9ea9923d744a1cf25bbc16a1461d60c373ec"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-04-06.md",
+    "bytes": 1587,
+    "sha256": "afca56050ad66702ba07c4e985b6d10bf5cf004d15a6f494790b8f98dd9582c7"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-04-07.md",
+    "bytes": 2106,
+    "sha256": "9efa815a36b5e8133fae1703d3a7809a33b92ad78c8c15a356d60a8c618e2012"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Pocket 2027-04-08.md",
+    "bytes": 1612,
+    "sha256": "f835f17d2bfbe8b2ea30e962eb92d57d306e26816358596f5b4ba57149c52221"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Preparation Before Choosing Dates.md",
+    "bytes": 10707,
+    "sha256": "424a070714cd569110605664da4d089f7e495d7eea5c737182eeb050192d8fd8"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Quick Capture.md",
+    "bytes": 1975,
+    "sha256": "351b698179147eb737507773575bac717c48f69980ad1bb11b27c41e5138d86c"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Sapporo Chapter.md",
+    "bytes": 22956,
+    "sha256": "d04af0d06214185bc4e26d236712b8357f049f56d8e10ba7571d1c3cd238e082"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Sapporo Pocket Routes.md",
+    "bytes": 5887,
+    "sha256": "ca6b57e94f32bd42b359350a9c8553830d95e7572fc6befedb589a320f4bf212"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Saved Maps.md",
+    "bytes": 3288,
+    "sha256": "e17ef2e2ac8a3d6ddee43a31d4a3ea970923d9e4682681b7945c73fc8222d841"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Seasonal Guides.md",
+    "bytes": 2718,
+    "sha256": "4b737b1e84857e4438d275a3a3ca18f9a43661876f3b81df2d11ee5283221937"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Seasonal Planning and Bookings.md",
+    "bytes": 7561,
+    "sha256": "78afab0682a9385e33d6aaf26de9347a3ea06fcdbe39c7036c3252574b02208f"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Session Recap 2026-10-06.md",
+    "bytes": 5461,
+    "sha256": "c80b4e7680f6b070b3db4bb5c2dc55b671b36321e88d7b231e3f6e6ba3bb5f4d"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Session Recap 2026-10-07.md",
+    "bytes": 3827,
+    "sha256": "4e4e8a60868a0a0f961eb1f05cc336c4e67f3ca48fa554cfeb69f0d418f41b48"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Session Recap 2026-10-08.md",
+    "bytes": 2805,
+    "sha256": "68902ac7f7af84b59acaa5618c6a70caba0bdcf307c5bb10571be8c67c66eea9"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Shopping Shortlist.md",
+    "bytes": 13982,
+    "sha256": "69117eb889b415e9de20de28b13ca5df9f920ac97d760a904f60b325527edbba"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Shops and Caf\u00e9s.md",
+    "bytes": 16678,
+    "sha256": "22d4224ca78a928163a384dc20d92b0db829e10f8f5129a7794f905ed32d5c04"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Start Here.md",
+    "bytes": 10034,
+    "sha256": "89c245096880cfbf7146f734cad96a8c1b5bd3bc580b08b7494e25ca52fffc41"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Summer Fuji Climb Option.md",
+    "bytes": 3597,
+    "sha256": "20ec0c8e5c6f77ab6ed5253e606f6ef41b4ef229b594506ce1674f3dfdf18c0b"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Summer Guide.md",
+    "bytes": 10167,
+    "sha256": "601fa65a4ce4665c84857c88b9516ed2a2a6efba1f019c7af39a3faa5958d1a5"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Today.md",
+    "bytes": 2804,
+    "sha256": "fb9409871ed76048091e3bd74ef1a226d7ec9c1563471e7507dc1eecadf35b96"
+  },
+  {
+    "path": "Obsidian Vault/Japan 2027 \u2014 Travel Essentials.md",
+    "bytes": 20872,
+    "sha256": "1ef1e53b71abc8300a8b42e1c71242ef7c20ed194703857a86b587ec2fee6f50"
+  },
+  {
+    "path": "Obsidian Vault/Japan Travel Guide 2027.md",
+    "bytes": 156261,
+    "sha256": "9e0cdbadb41d53c2bf3cd7723ecd00abf41dc300bf5744a202affe8cda9052e7"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 History Styles and Classics.md",
+    "bytes": 4554,
+    "sha256": "4db6d62d69e5bea6a9d437c167c5df90420195cb7a7e04342a483344da3104c8"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Rankings and Listening Journal.md",
+    "bytes": 20812,
+    "sha256": "01bfdefcac870cb4af64fe27419244ac37618b723730310e921f2e71fd9b2c2d"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Releases and New Bands 2026.md",
+    "bytes": 18520,
+    "sha256": "d08831c870d148ac64216b0dc3d61a3bb89bc04e7da66fde5f8b843be0fda9b9"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Research and Sources 2026-10-08.md",
+    "bytes": 15748,
+    "sha256": "83bd80fc443ce6f0e3a1f68c0c15de4c8b73bd796ce1ecda029a2b179a7f376e"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Start Here.md",
+    "bytes": 4978,
+    "sha256": "293779ec0ac55631ea13855481404cfb00acbe6a1bd3f9a20656c98353813d49"
+  },
+  {
+    "path": "Obsidian Vault/Music Prompts/Goth Rock \u2014 ChatGPT Project Instructions.md",
+    "bytes": 5593,
+    "sha256": "e274a0829a4c2ef749d1882e9bb21a8d5f33ac5ec26781393920432c2619c5dc"
+  },
+  {
+    "path": "Obsidian Vault/Music Prompts/Goth Rock \u2014 ChatGPT Project Prompts.md",
+    "bytes": 12807,
+    "sha256": "d9c6199e0caa526329106ec02b28500f5938ae49fca49c3f0625a354ea0be822"
+  },
+  {
+    "path": "Obsidian Vault/Music Prompts/Goth Rock \u2014 Notion Development Prompts.md",
+    "bytes": 26415,
+    "sha256": "5a907e575f93ec41fe10b005c1624e17b38b08054c5375fb2c8539ce3b9d12c4"
+  },
+  {
+    "path": "Obsidian Vault/Music Prompts/Music Prompt Library.md",
+    "bytes": 10952,
+    "sha256": "66e9ab4d5f8d4f29b7c3e25b7fd1b18e00302271b96f0c21c8b9c5bc06acf5d9"
+  },
+  {
+    "path": "Obsidian Vault/Music Prompts/Music Project Starter Template.md",
+    "bytes": 4806,
+    "sha256": "573c4c43e9d13374f443f955e6de6420539026f654b1ed493a767fbc07fd829b"
+  },
+  {
+    "path": "Obsidian Vault/Trip Planning Prompt Library.md",
+    "bytes": 11644,
+    "sha256": "76b518dfb3f269e1ded3e0715d9a5d46a09662529fb75651ee9f11b8bb64ab1a"
+  },
+  {
+    "path": "Obsidian Vault/Attachments/Japan 2027 Maps/Japan 2027 \u2014 All places.csv",
+    "bytes": 34208,
+    "sha256": "7b9fe4f52472a456d153c0e78bc9638891eb467dbfdfb3dbea0ec8c326a19a02"
+  },
+  {
+    "path": "Obsidian Vault/Attachments/Japan 2027 Maps/Japan 2027 \u2014 Starter pins.kml",
+    "bytes": 4104,
+    "sha256": "0206ce99933e24c93dbdef418b450379a70ad66e21239a515e08565b627c1538"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Goth Rock \u2014 Research and Listening.md",
+    "bytes": 49529,
+    "sha256": "ed05277afb4ec0a9f74eb4320607ea9ee540f8cc2eabe8cef853f7cac33c00f1"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 45 Grave \u2014 Sleep in Safety.md",
+    "bytes": 4571,
+    "sha256": "ca42ff0b53457d031b1d3b352c114b374b5f215c4b1b3b790c8c99300c523bc1"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 Kommunity FK \u2014 The Vision and the Voice.md",
+    "bytes": 5137,
+    "sha256": "b86ca51283667097e00795d78ebaf79277ee15a7202363dc7d66f0267ea8ebaf"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 Cinema Strange \u2014 The Astonished Eyes of Evening.md",
+    "bytes": 4082,
+    "sha256": "b5670a06e576bb8a04d7f5de42ad83f654c967563691d2b9eb75a66d3ca026db"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 The Cure \u2014 Pornography.md",
+    "bytes": 3121,
+    "sha256": "b0094601561f7c0ea8d6749759b8394a88db9546c83dfbee7ad492d6a63b7d0b"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 The Cure \u2014 Disintegration.md",
+    "bytes": 3050,
+    "sha256": "bfae016d7e5dc0b49e03af3f23f51cac6f57c24618fcb10e0bb00bc26e2078d2"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 Christian Death \u2014 Only Theatre of Pain.md",
+    "bytes": 3366,
+    "sha256": "92a65382021e218de77ebcc92058d7464f87b22bb323a91495b0f170e641127f"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 Bauhaus \u2014 In the Flat Field.md",
+    "bytes": 3130,
+    "sha256": "d92c4dd12ac3ae7bad1ec955dc7477b7ede8dcb4d3944554da1279b13423fc72"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 Lycia \u2014 Cold.md",
+    "bytes": 2748,
+    "sha256": "2c40f01e9ee4e215a93bd204ed58c879974c7a6289bd269ca165dc2d8b5d3add"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 Red Lorry Yellow Lorry \u2014 Talk About the Weather.md",
+    "bytes": 3420,
+    "sha256": "a52551c7cae590f5a53f613610b493b73c123ef7faaf5006a2d96944854cfd68"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 London After Midnight \u2014 Selected Scenes from the End of the World.md",
+    "bytes": 3452,
+    "sha256": "8a17a712e1713987ca63e2113ffcf1380eb3dff86af1a78eec6495c9bd944f16"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 The Sisters of Mercy \u2014 First and Last and Always.md",
+    "bytes": 3853,
+    "sha256": "0c0aa28e0df0dbf76189a43e97f415ab566e11dd797e59a63cf71694a9df0652"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Scene \u2014 Los Angeles \u2014 deathrock roots.md",
+    "bytes": 2051,
+    "sha256": "353bfe54dba1ecc9efa94dcf7ec16702fa415b91756eb15d35a39ee4ef67260c"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Scene \u2014 London \u2014 Batcave connections.md",
+    "bytes": 2490,
+    "sha256": "9dff2866d8f1005a7518f6d24856cef13fbc3b49f0eeb23cbef0b486abe2bf7c"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Scene \u2014 Germany \u2014 international revival networks.md",
+    "bytes": 1637,
+    "sha256": "4e72fa49aaf1a30bfdf8263950724f1b0ef8d32f4ea078f1e2e1b29f61eb323c"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Scene \u2014 Chile \u2014 Puerto Montt and wider research.md",
+    "bytes": 7764,
+    "sha256": "5093f2452dddf1137c263dec29d0569bdca802eef17f7bfd0a04123638373622"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Scene \u2014 Arizona \u2014 an atmospheric detour.md",
+    "bytes": 1349,
+    "sha256": "0d1ff6878b348a4a42346542b28b4d2eee77fc1c5b4630bb21ecb314d8f51f1d"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Bauhaus \u2014 In the Flat Field.md",
+    "bytes": 1218,
+    "sha256": "17b2ad713d86c59ad9f561bdca8308b2ca0aec213e2e5d832574b403433fd8c5"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Christian Death \u2014 Only Theatre of Pain.md",
+    "bytes": 1269,
+    "sha256": "52d1d601a6fddb0a266596c42fb578210e699ee5069c807324255de361d4a676"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 The Cure \u2014 Pornography.md",
+    "bytes": 1160,
+    "sha256": "b40adbdfb61b625c17850be7bcfea8b4fc5fa4f5e2ba1ea9971ffa102a73c221"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Batcave \u2014 documented retrospective period.md",
+    "bytes": 1440,
+    "sha256": "83a6773d9de8bf098a8de970468b5528f0d2c669e97d89c866d13179f5984967"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 45 Grave \u2014 Sleep in Safety.md",
+    "bytes": 1196,
+    "sha256": "5889c8825586f4e092f39da894245dc8874b2b3445d8220de9cde10134002309"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Kommunity FK \u2014 The Vision and the Voice.md",
+    "bytes": 1202,
+    "sha256": "a0da9ba10fe26cb7dc06327784dcb97e8ae3fe6c0bed851c798e35c41f01bdc9"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 The Sisters of Mercy \u2014 First and Last and Always.md",
+    "bytes": 1389,
+    "sha256": "b217e9226b0c9c1fd59430a630180d331589c34e756a19847d7b4274f5de47e3"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 The Cure \u2014 Disintegration.md",
+    "bytes": 1173,
+    "sha256": "b87280b20e9ff88cf9d617e045105bf8d44bda25b1e5d91c067b809ee4170761"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Lycia \u2014 Cold.md",
+    "bytes": 1153,
+    "sha256": "266a077eb6ff8b7fd0ab1c3ed24b2dd2937db3d563ed5114829b2e8e82617efc"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Cinema Strange \u2014 The Astonished Eyes of Evening.md",
+    "bytes": 1288,
+    "sha256": "29b01dd5ffd61503565797526b3cde571a7151b867d8e46ca30dddae84304b0d"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Puerto Montt \u2014 a documented Chilean discovery lead.md",
+    "bytes": 1367,
+    "sha256": "1ab8fe1e923e8997e233c3bb38234943e720df29013345894a31fa1510678a4c"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Original research and preference archive.md",
+    "bytes": 33092,
+    "sha256": "b601f7ce76bb5fb5852cdf468660d5be9bd662ddb1115d640054e0c0d023816e"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album Gallery.md",
+    "bytes": 3983,
+    "sha256": "261d6ac44a0813cfd4f7726b02fa6463f31752cac1ed856b07a96215b36fb5db"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Scene Atlas.md",
+    "bytes": 1783,
+    "sha256": "6d2e2044b6773a6f429cd4bab339ce57bff93c498d4269f26a3b1b91759d2136"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/History Timeline.md",
+    "bytes": 4258,
+    "sha256": "44f1c46427b42e55df5027b4ded5b63f512d262b50d66b5a49e2d8801d1c4e0c"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Listening Journal.md",
+    "bytes": 562,
+    "sha256": "ca51fada2c73b97184489034a4f7631af15e4d5ea7f43f552e208f65abb65e38"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Goth Rock \u2014 Deathrock Comparison and Worksheet.md",
+    "bytes": 9923,
+    "sha256": "c05b5b8c230b990d93cdc07ed6b76bdf6632b5525b1456dc6828501914b0678d"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Goth Rock \u2014 Genre Boundaries \u2014 Deathrock and Its Neighbors.md",
+    "bytes": 8543,
+    "sha256": "b3e59d0c10bbd9106a2d7041657ff6125d41ac817f0a77748a8b9f4e006478cd"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Slimelight begins at Electrowerkz, London.md",
+    "bytes": 1522,
+    "sha256": "4c0ac93f299ab4138a724c66a25c509183898c032263da7375fafb34c14ce655"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Cleopatra Records founded, Los Angeles.md",
+    "bytes": 1520,
+    "sha256": "b6357e7a5c89c9ba26cbed0dfcf081250e103eff2cdc6554296e59c589458810"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 First Wave-Gotik-Treffen, Leipzig.md",
+    "bytes": 1584,
+    "sha256": "b70c113f99a0c3fd1db576bffce2cd9e5191c1d64f4a9d5fdd90da98e2726634"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Release the Bats club night launches, Long Beach.md",
+    "bytes": 1657,
+    "sha256": "dae1d25188d616a84c58ef69fefce6339cc5559c6a0ace6b4c5b33970ef3e4a3"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 First M'era Luna Festival, Hildesheim.md",
+    "bytes": 1424,
+    "sha256": "6e0fac2251d72ee85fd3f67d3fc414b71ba2f966b83d7415e1692bed0d8152d0"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 First Drop Dead Festival, New York.md",
+    "bytes": 1795,
+    "sha256": "9dbf2e6aebb6f2a144b1be5a1e989636bc6085bd2640f472e381dd52af6b3db9"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Bandcamp launches.md",
+    "bytes": 1436,
+    "sha256": "fb3b599ddc087d8eb9027ec02e22b5ea5d304226793fc6270cb4dd8c8e5b36fc"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 World Goth Day originates on BBC Radio 6 Music.md",
+    "bytes": 1458,
+    "sha256": "c61a55b694fa46db9daa7507238f9aea7c0da807854f8b60bea643d0b7697410"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Cold Cave \u2014 Love Comes Close.md",
+    "bytes": 1489,
+    "sha256": "8dbbe59e16b6af86039055306772114614b1e105b378f04ad4cfbb398622cb7b"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Lebanon Hanover formed, Sunderland.md",
+    "bytes": 1595,
+    "sha256": "94e8b293dcec956a1c27215cd71eaebb6100927dbb3d5ea54d5a96596284dedb"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Timeline \u2014 Wave-Gotik-Treffen 2020 and 2021 cancelled.md",
+    "bytes": 1445,
+    "sha256": "365e0a8a59bd268c57c07abee033132e398a720fe4668ab552e72d927e1f560f"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 Joy Division \u2014 Unknown Pleasures.md",
+    "bytes": 1772,
+    "sha256": "7ab19a7d06251d18f3195b812bf3d83ea86ea85a49c0b0bf7490c72f79f1a4bf"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 Joy Division \u2014 Closer.md",
+    "bytes": 1720,
+    "sha256": "9f91d6c0750b98e23b3a9f090326e0c910a3b79ed517b54d9d9a53e3fe8ca59b"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 Skeletal Family \u2014 Burning Oil.md",
+    "bytes": 2029,
+    "sha256": "8146efcbfd84738fd1b7099340aac0e0f29f4b745808338a4446f1d5f1676e4e"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 Skeletal Family \u2014 Futile Combat.md",
+    "bytes": 2028,
+    "sha256": "0d8224372bf90e4c9e86185fdd40a0276b995e9cb0628f230e4f4e5044c497df"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 The Mission \u2014 God's Own Medicine.md",
+    "bytes": 1677,
+    "sha256": "dcdd25dfc68e64bfcda9460287e28027772c44445f16b19b2fc7d884e61b0b73"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 The Mission \u2014 Children.md",
+    "bytes": 1637,
+    "sha256": "b78e7992a5477053563261b256977837913b422fc4110a64ba70371246910097"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 The Sisters of Mercy \u2014 Floodland.md",
+    "bytes": 1844,
+    "sha256": "398482f1a451a996dc891d948c2395b1925c498a1d2dac22d70c49c31f85d7d6"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 The Cure \u2014 Songs of a Lost World.md",
+    "bytes": 2036,
+    "sha256": "8cd99b1bbc570634fd0efebfaf6468b9e640bf829e84708754e34d54a97ae8a0"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Album \u2014 Lebanon Hanover \u2014 Tomb for Two.md",
+    "bytes": 1709,
+    "sha256": "de555a849a92c5a5c6319149bd2e743f984719f3dd3f391675e9cdc86398dcb2"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Scene \u2014 Peru \u2014 Lima hub and Tumbas Eternas networks.md",
+    "bytes": 3893,
+    "sha256": "328a1460c90f616c7b83c58ddc83e24a6b85e5956e847c59591dffbae369f4e1"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Scene \u2014 Brazil \u2014 S\u00e3o Paulo hub, Deepland, Plastique Noir.md",
+    "bytes": 4259,
+    "sha256": "bfc167d0e1b2e1fd08aa97b6296817bd5dcefddf1f2f9ff3a6f1b9892b1e3233"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Scene \u2014 Argentina \u2014 Buenos Aires pioneers and revival.md",
+    "bytes": 4059,
+    "sha256": "113812814d9c688868c4360279f53f028f546258784aeeb00a5543ee3ee65eef"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Scene \u2014 Mexico \u2014 Mexico City index and minimal electronics.md",
+    "bytes": 3343,
+    "sha256": "434a519f8156fa0bb103a870e482501a493bb8bfeff1d612e6fa9e4299d8c62d"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/88993e8021-album-3.jpg",
+    "bytes": 87099,
+    "sha256": "0804beed2f049c80f39f5200b06b2ea72092ded47dbdfb73cfa3bd6695961d1a"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/fba14b2061-album-5.jpg",
+    "bytes": 160422,
+    "sha256": "8f3bced1214f077aec573329a1d472b2c0e687d6386c821f7f098d889630fa95"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/d8c655ab9a-sleep-in-safety.jpg",
+    "bytes": 71297,
+    "sha256": "df1c2ea8024c8c994b814734d4d166c1d84fa297c89c8017c0e4154dac393732"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/a9086fb3e3-album-2.jpg",
+    "bytes": 125694,
+    "sha256": "9b691c563a1cb86753ec74cc6c377dd463c1395fa09a0cd4dd801768f021c21f"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/918e0b9bf6-album-1.jpg",
+    "bytes": 116777,
+    "sha256": "c784004e222a7fde9ff4c76af24bec11ed004f5c93486fc8c84905d924450b09"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/53d84a013f-album-4.jpg",
+    "bytes": 129868,
+    "sha256": "51499c1923d28ff2c30a4c9ef851cce98816f0f4084ef9b2a230500f19adae7b"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/07afcabf3f-album-7.jpg",
+    "bytes": 24609,
+    "sha256": "c0802b7b44de7d5d4d7e7f4f85596a74df6ca36c25cd064756ce76bfd694e3d9"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/62142b1fe2-album-10.jpg",
+    "bytes": 47361,
+    "sha256": "df075db83fe2a4adfefb6ca2c763f61e268c09ef69b21e9d8306001df51274a3"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/50064ffe34-album-8.jpg",
+    "bytes": 113015,
+    "sha256": "68d480d408d8939fafe6ceba096418cdf5d2ae462e748ef9634d47194dec78c3"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/6cb31f51dc-album-9.jpg",
+    "bytes": 174293,
+    "sha256": "68545f83c6dbcef8d20ed8b09a3a0397bccc8549620941cc5c2af2cf1e864676"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/e41def1fac-band-2.jpg",
+    "bytes": 54386,
+    "sha256": "579426f7b38f001d3bd5cc6fe9d90f6448a2a52a6dec151d07480d6dc10bc939"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/3bfa6791d6-band-1.jpg",
+    "bytes": 25381,
+    "sha256": "3561242aa4439bd62f3ebef9bf705756235e7642579e035964bedc14fe5a7ebd"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/183cec9192-band-0.jpg",
+    "bytes": 3665585,
+    "sha256": "b34c9b83333c475ad067cfa24a7c3880f4145eed0a43f0cd0b97142317df96d7"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/bcf1f4aaf3-album-6.jpg",
+    "bytes": 4632180,
+    "sha256": "cffef84c6c6c85e320878ff02bcd6669b1c4c4d0856003a44e04e95b1ac83d2e"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/f077003a03-band-8.jpg",
+    "bytes": 22138,
+    "sha256": "5fc73965e356e04ba895f8fca8ea06600ebaf1743f4495ca6dc3777d06d47ba9"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/72863658ae-band-6.jpg",
+    "bytes": 778491,
+    "sha256": "7d2009219a954ff69e5b64eda3613db04a32aa4eb97fa9d04a0a58516c50f4aa"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/09ad2f6c2e-band-5.jpg",
+    "bytes": 1002950,
+    "sha256": "a0f7de799881848e29d3bd8b8951fd40cc9ec822e39a547fc9f8995fe262ee0b"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/24dbf413fc-band-3.jpg",
+    "bytes": 582941,
+    "sha256": "60d10042190bd93a777cbd1534706cb6bdba24f3596025e6bb0bfe7d98bfbea3"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/4d63f8ec63-band-7.jpg",
+    "bytes": 308376,
+    "sha256": "1577ba6cefca2ae4d24ce43b05dd5a3b044664c4deb6b47d39719f67285722aa"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/85e11decf5-2026-release-0.jpg",
+    "bytes": 183823,
+    "sha256": "d1cb7985f2e7c464719128db44bd41c13adf877b08e3ca1a2a0866620a6d1bcc"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/d20e837a45-2026-release-1.jpg",
+    "bytes": 104494,
+    "sha256": "d01c4cf1b7e37aec687eecf86b197278285cd73955a8249a7d6ae0ad44237ba1"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/0beaea114a-2026-release-4.jpg",
+    "bytes": 117932,
+    "sha256": "9aa9ca25ffbf04cdd1c3ccf5e83f7d46a9219a17bbb27ae1fdd4f4706499f7ef"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/43c41fc5f1-2026-release-2.jpg",
+    "bytes": 216400,
+    "sha256": "f32793a8374c8430365b5f324adaa8218cbaaae3eb6ddad4c2158514e95050aa"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-bd5adb3b10d4.jpg",
+    "bytes": 71297,
+    "sha256": "d974c85ec449510c7fae8f93922d7e1c5bda6136f8c2be46f3b6d3c8109e3496"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-19ab1310980e.jpg",
+    "bytes": 116777,
+    "sha256": "c784004e222a7fde9ff4c76af24bec11ed004f5c93486fc8c84905d924450b09"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-26d5de2f0180.jpg",
+    "bytes": 125694,
+    "sha256": "9b691c563a1cb86753ec74cc6c377dd463c1395fa09a0cd4dd801768f021c21f"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/65809c2456-2026-release-5.jpg",
+    "bytes": 81218,
+    "sha256": "79ca03187191696a0446bcd1283faa7fc81087586d6ab8f3aefb5edcda7c4942"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-0411d2cc06b0.jpg",
+    "bytes": 160422,
+    "sha256": "8f3bced1214f077aec573329a1d472b2c0e687d6386c821f7f098d889630fa95"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/f28494cc13-2026-release-6.jpg",
+    "bytes": 39296,
+    "sha256": "26811149eca69dc9f9b5941910ea6e808696cb536e3de69b9267c553c87a78dc"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-14bb91074e4f.jpg",
+    "bytes": 24609,
+    "sha256": "c0802b7b44de7d5d4d7e7f4f85596a74df6ca36c25cd064756ce76bfd694e3d9"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/37ddffe30b-2026-release-3.jpg",
+    "bytes": 175984,
+    "sha256": "603cc183fcda604e622ee57c0de7c66ffe83bc3346214bead7c501772fa85e77"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-c59f2d036c3d.jpg",
+    "bytes": 113015,
+    "sha256": "286e4f29aec3d268e12b1b11a6f8e9d7b44dd87a9bb57ba91ef72d2080e631b0"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-3c4523a3c23e.jpg",
+    "bytes": 132329,
+    "sha256": "c18721a8071244f42b1a450a295a788e00a3f8755957a90e9d1756a0b2e2ba39"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-22f34bbeb4c1.jpg",
+    "bytes": 174293,
+    "sha256": "68545f83c6dbcef8d20ed8b09a3a0397bccc8549620941cc5c2af2cf1e864676"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-7b339044af51.jpg",
+    "bytes": 47361,
+    "sha256": "530ea54be80c6103a6f630b2db44ccabec7e29d269813f9f5c61dc00966db095"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-e4db5fa66fb9.jpg",
+    "bytes": 87099,
+    "sha256": "0804beed2f049c80f39f5200b06b2ea72092ded47dbdfb73cfa3bd6695961d1a"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-2d763e04c1ad.jpg",
+    "bytes": 25381,
+    "sha256": "3561242aa4439bd62f3ebef9bf705756235e7642579e035964bedc14fe5a7ebd"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-383ed4a80b1b.jpg",
+    "bytes": 22138,
+    "sha256": "5fc73965e356e04ba895f8fca8ea06600ebaf1743f4495ca6dc3777d06d47ba9"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-19d90badf645.jpg",
+    "bytes": 385566,
+    "sha256": "bc93343a80dfb24979909ec0f9d248ce81c3f2d32ad523e9b50438971d7eec37"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-82a5ae23b654.jpg",
+    "bytes": 582941,
+    "sha256": "60d10042190bd93a777cbd1534706cb6bdba24f3596025e6bb0bfe7d98bfbea3"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/00dc9d3c70-band-4.jpg",
+    "bytes": 5338414,
+    "sha256": "776f344d4db424569d49e832fa244841aa933e93b8b553bfb0d35f0660ba12ac"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-91b79cb5cbbe.jpg",
+    "bytes": 4632180,
+    "sha256": "cffef84c6c6c85e320878ff02bcd6669b1c4c4d0856003a44e04e95b1ac83d2e"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-unknown-pleasures.jpg",
+    "bytes": 39288,
+    "sha256": "720ca8dd8c37d5f2123cd82ee013abe980f29efb00811aa653c1aefcb92673de"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-closer.jpg",
+    "bytes": 34870,
+    "sha256": "a667d1a2ca41c0264e63326186eeb968b03bad3a4c0e0fcbda7ba26a06da7a21"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-burning-oil.jpg",
+    "bytes": 722241,
+    "sha256": "52e681a20d0cc4920874c27cdae319d77da57f56a23da0a748f6a44a2860cb18"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-futile-combat.jpg",
+    "bytes": 1028301,
+    "sha256": "2cb2e33ae65cca5f2451bb255fec2e9136d1f1c7b1c5a53090b79e1ec9b2e3d0"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-gods-own-medicine.jpg",
+    "bytes": 97505,
+    "sha256": "423f0610ce42bf97cb2aafdb81edd606ed1efc674b50d0fd7639d9e0035fde8f"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-children.jpg",
+    "bytes": 40967,
+    "sha256": "5716b343d8b2b1418df022e1d18cab1c065caa6292d017a4f2e21ca959751d61"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-floodland.jpg",
+    "bytes": 47178,
+    "sha256": "423bfe5f1d263728e8d79a4835f0f490a46dc014d4e4659b2a10a3ae1559a027"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-songs-of-a-lost-world.jpg",
+    "bytes": 393630,
+    "sha256": "2c46091ef7cf58cd6539156760ff4d0dcbad87e5aeeedbb5d64cda29d0bd1071"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Notion Snapshot 2026-10-09/Attachments/external-tomb-for-two.jpg",
+    "bytes": 160658,
+    "sha256": "dea60571a3b0d91e848b769611af224399e5c24e9664ac0b6dbcb8eaf82e4dc5"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Attachments/Gossip Collar \u2014 Eaten Of Worms.jpg",
+    "bytes": 305414,
+    "sha256": "5012063b8d99750807f5536af6bd6a597aebfef851b5d108cfb39979dd0a0a73"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Attachments/Apokalipstick \u2014 The End Of The World Begins With A Kiss.jpg",
+    "bytes": 155262,
+    "sha256": "f354a5a4eeb9468125f5d5612ccc6143de53fc7c7712624a19150f1e8384f3b8"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Attachments/di unru \u2014 DYAD.jpg",
+    "bytes": 276460,
+    "sha256": "f80aa6524d24c37ffbf46e45f771a6ad6704404707105fd882dc293018673c1b"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Attachments/Schr\u00f6ttersburg \u2014 Ignis.jpg",
+    "bytes": 439106,
+    "sha256": "dde3fdd1e29a3e690e2c5ccc4f00ab4a14110de3ba19b60f66119103c379f7e0"
+  },
+  {
+    "path": "Obsidian Vault/Goth Rock \u2014 Attachments/Trianglecuts \u2014 When Death Leaves.jpg",
+    "bytes": 163424,
+    "sha256": "16a4e6187e8585c85920aefba27139f22e50d9850f4df51c897b54327d73a49a"
   }
 ]

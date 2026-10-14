@@ -1,11 +1,9 @@
-# Work archive
+# Project archive
 
-Private snapshot of my Work workspace, saved 14 October 2026: research notes, scripts, staged updates, backups, images, and exports.
+Private project archive, updated after completed Codex tasks. Contains selected Work project files and relevant live Obsidian notes under `Obsidian Vault/`.
 
-Website source and its commit history: [The Reference Edit](https://github.com/ivan-esteban23/the-reference-edit).
+The manifest currently records 3,994 source files. Media and large exports use Git LFS; install it before cloning and run `git lfs pull` to download assets.
 
-This snapshot contains 3,793 original files. Media and large files use Git LFS, including all six large PDFs and ZIPs. Install Git LFS before cloning and run `git lfs pull` if your checkout contains asset pointers.
+[Sync workflow](github-project-sync/README.md) · [File paths and SHA-256 hashes](_github-upload/manifest.json) · [Credential and cache exclusions](_github-upload/excluded.json)
 
-[File manifest](_github-upload/manifest.json) records paths, byte sizes, and SHA-256 hashes. [Exclusions](_github-upload/excluded.json) records withheld credential candidates, an external symlink, and excluded browser profiles, dependencies, caches, and Git internals. Original workspace files remain local.
-
-Future changes need a new commit and push; this repository is a saved snapshot.
+Website source and history: [The Reference Edit](https://github.com/ivan-esteban23/the-reference-edit). Notion content is saved as dated exports/readbacks; those copies update when a task explicitly refreshes them.
