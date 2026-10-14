@@ -206,7 +206,7 @@ def synchronize(paths, message, dry_run=False, config=None, do_push=True, deleti
         if 'README.md' not in manifest:
             (repo / 'README.md').write_text(
                 '# Project archive\n\n'
-                'Private project archive, updated after completed Codex tasks. '
+                f'{config.get("repo_visibilities", {}).get(config["archive_repo"], "PRIVATE").title()} project archive, updated after completed Codex tasks. '
                 'Contains selected Work project files and relevant live Obsidian notes under `Obsidian Vault/`.\n\n'
                 f'The manifest currently records {len(manifest):,} source files. '
                 'Media and large exports use Git LFS; install it before cloning and run `git lfs pull` to download assets.\n\n'

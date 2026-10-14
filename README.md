@@ -1,6 +1,6 @@
 # Project archive
 
-Private project archive, updated after completed Codex tasks. Contains selected Work project files and relevant live Obsidian notes under `Obsidian Vault/`.
+Public project archive, updated after completed Codex tasks. Contains selected Work project files and relevant live Obsidian notes under `Obsidian Vault/`.
 
 The manifest currently records 4,003 source files. Media and large exports use Git LFS; install it before cloning and run `git lfs pull` to download assets.
 

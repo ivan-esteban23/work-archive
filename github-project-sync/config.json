@@ -8,7 +8,7 @@
   "website_repo": "ivan-esteban23/the-reference-edit",
   "lfs_binary": "/home/ivanaguilera/Work/github-upload-preparation-20261014/tools/git-lfs-3.8.0/git-lfs",
   "repo_visibilities": {
-    "ivan-esteban23/work-archive": "PRIVATE",
+    "ivan-esteban23/work-archive": "PUBLIC",
     "ivan-esteban23/the-reference-edit": "PUBLIC"
   }
 }

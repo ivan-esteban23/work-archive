@@ -18966,8 +18966,8 @@
   },
   {
     "path": "github-project-sync/config.json",
-    "bytes": 622,
-    "sha256": "41a8db87c82b861e0d33966046b668ef58c6ba1591c3429a9d1764b3f62f121e"
+    "bytes": 621,
+    "sha256": "bebabde688e9e56853f20fa101abb8673dceda2a98e036f091f2dfe0a8727193"
   },
   {
     "path": "github-project-sync/lfs_upload.py",
@@ -18976,8 +18976,8 @@
   },
   {
     "path": "github-project-sync/sync.py",
-    "bytes": 14069,
-    "sha256": "e700b3e950a4901741a3977f4222282c476ea8c797ae1d29cf7802f406f55c14"
+    "bytes": 14147,
+    "sha256": "5f955cf9318b63b4abee6ec89662cb917187e24725fdbc8c6e04846dc70e1608"
   },
   {
     "path": "github-project-sync/test_sync.py",
@@ -18986,8 +18986,8 @@
   },
   {
     "path": "github-project-sync/README.md",
-    "bytes": 5115,
-    "sha256": "6214a7046bafe7534cd0487b26b2ca9817e2f13f104b94c876b7f7e592bd1c8d"
+    "bytes": 5132,
+    "sha256": "5c2f8eae7feec7f4e72551aab2c1c40f6339f66a23e3a85d277a4a0d91a08720"
   },
   {
     "path": "github-project-sync/global-AGENTS-addition.md",
@@ -19986,8 +19986,8 @@
   },
   {
     "path": "github-project-sync/public-visibility-request/README.md",
-    "bytes": 922,
-    "sha256": "dca0e0a8c8853e8b1c193ad3992f608e1c7ef1a4d5e8865dc4551bd144bef65d"
+    "bytes": 1364,
+    "sha256": "693879a147a122f2db27591ce5dd20931e9e7db12adcdc327b150e69c80bf13e"
   },
   {
     "path": "github-project-sync/public-visibility-request/prepared/AGENTS.md",

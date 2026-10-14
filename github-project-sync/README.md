@@ -38,4 +38,4 @@ Verification: `python -m unittest discover -s github-project-sync -p test_sync.p
 
 Instruction discovery follows [official OpenAI documentation](https://learn.chatgpt.com/docs/agent-configuration/agents-md). Asset transfer follows the [Git LFS basic transfer API](https://github.com/git-lfs/git-lfs/blob/main/docs/api/basic-transfers.md).
 
-Visibility policy is explicit per repository in `config.json`: the website is public; Work remains private pending explicit approval to publish the archive payload. The sync command verifies each repository against that policy before uploading.
+Visibility policy is explicit per repository in `config.json`: both the website and Work archive are public, with explicit user approval to publish the archive and its full history. The sync command verifies each repository against that policy before uploading.
