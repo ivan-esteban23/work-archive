@@ -16241,8 +16241,8 @@
   },
   {
     "path": "visual-edit-public/dist/index.html",
-    "bytes": 3424048,
-    "sha256": "f995c0aef00798d6f53f459431bd9eb347cfaa8e3b11c837568fcd2de6f96f05"
+    "bytes": 603141,
+    "sha256": "d1a32e76d426b1387b5bf1cc8f7d270655759ab40b3029a86b85c362729037e6"
   },
   {
     "path": "visual-edit-public/dist/favicon.svg",
@@ -16256,8 +16256,8 @@
   },
   {
     "path": "visual-edit-public/dist/sw.js",
-    "bytes": 2850,
-    "sha256": "ffea668d403edf51e5da4eefedf17b471ed4b8fd341ba3f2765f5fa6dbf3df22"
+    "bytes": 4403,
+    "sha256": "c73fe3bb359ce499254f395be8259e1c7dca14bbd692f83dfb4acddb648dd4c1"
   },
   {
     "path": "visual-edit-public/dist/icons/icon-192.png",
@@ -20136,18 +20136,18 @@
   },
   {
     "path": "visual-edit-public/tests/site.mjs",
-    "bytes": 12350,
-    "sha256": "1fc0ae0369b04ea77b1541e3e43adc5ba4b06dca4db753efa053bc1e2a64a22e"
+    "bytes": 22055,
+    "sha256": "ed9c1fb40a0fe1fe08ed1ca56f6ca6872e9b6f07fbdeb5b9efbef478fc005ffa"
   },
   {
     "path": "visual-edit-public/tests/README.md",
-    "bytes": 2056,
-    "sha256": "bd1dc3134e8aefa70c6d6e655fb7056c4263fcfdc233d220d52b42deee06df05"
+    "bytes": 19287,
+    "sha256": "9954b04d02c400a2aad7748e06e3a272462eb14a99ec75d71f0b4dc7262881c4"
   },
   {
     "path": "visual-edit-public/tests/RESULTS.md",
-    "bytes": 4861,
-    "sha256": "2166de387dc3366c623242e28e21e9fcca1c86a702df0f74d016d35bd227c63b"
+    "bytes": 37815,
+    "sha256": "17dc79c464210f4e97ee2163b8192c1c9f3fd47d67c5ecb4aa483229c8191439"
   },
   {
     "path": "reference-bugfix-publish-20261014/RESUME.md",

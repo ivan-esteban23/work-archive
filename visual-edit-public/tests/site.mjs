@@ -1,17 +1,67 @@
 import assert from 'node:assert/strict';
 import vm from 'node:vm';
+import {createHash} from 'node:crypto';
 import {assets, baseline, browser, gitFile, pause, report, serve} from './browser.mjs';
 
 const files = await assets(), html = files.get('/index.html').toString();
 const before = gitFile(baseline, 'dist/index.html').toString();
 const records = source => [...source.matchAll(/<article\b[^>]*class="source"[\s\S]*?<\/article>/g)].map(m => m[0]);
-assert.equal(records(html).length, 58); assert.deepEqual(records(html), records(before), 'Source records changed');
+// Image URLs are the only permitted source-record change: verify every original byte first.
+const originalImages = [...before.matchAll(/data:image\/([^;]+);base64,([A-Za-z0-9+/=]+)/g)];
+// The original favicon is intentionally replaced; preserve every cover/source image.
+assert.equal(originalImages.length, 60);
+assert.equal(originalImages[0][1], "svg+xml");
+assert.equal(createHash("sha256").update(Buffer.from(originalImages[0][2], "base64")).digest("hex").slice(0,16), "85cfa79ee7373f6f");
+const embedded = originalImages.slice(1);
+const extracted = [...html.matchAll(/images\/image-[a-f0-9]{16}\.(?:png|jpg|gif|ico|svg)/g)];
+assert.equal(embedded.length, 59); assert.equal(extracted.length, embedded.length);
+assert.ok(!html.includes('data:image/'), 'An image remains embedded');
+const extensions = {'svg+xml':'svg',jpeg:'jpg',png:'png','x-icon':'ico',gif:'gif'};
+let restored = html;
+for (let i = 0; i < embedded.length; i++) {
+  const original = Buffer.from(embedded[i][2], 'base64'), url = extracted[i][0];
+  assert.equal(url, `images/image-${createHash('sha256').update(original).digest('hex').slice(0,16)}.${extensions[embedded[i][1]]}`);
+  assert.deepEqual(files.get('/' + url), original, `Image bytes changed: ${url}`);
+  restored = restored.replace(url, embedded[i][0]);
+}
+assert.equal(files.size - [...files.keys()].filter(key=>!key.startsWith('/images/')).length, new Set(extracted.map(m=>m[0])).size, 'Unreferenced extracted images');
+assert.equal(records(html).length, 58); assert.deepEqual(records(restored), records(before), 'Source records changed beyond image URLs');
+const embeddedFonts = [...before.matchAll(/data:font\/ttf;base64,([A-Za-z0-9+/=]+)/g)];
+const fontPaths = [...html.matchAll(/fonts\/font-[a-f0-9]{16}\.ttf/g)].map(m=>m[0]);
+assert.equal(embeddedFonts.length,2); assert.equal(fontPaths.length,embeddedFonts.length);
+assert.ok(!html.includes('data:font/'), 'A font remains embedded');
+for(let i=0;i<embeddedFonts.length;i++) {
+  const original=Buffer.from(embeddedFonts[i][1],'base64');
+  assert.equal(fontPaths[i],`fonts/font-${createHash('sha256').update(original).digest('hex').slice(0,16)}.ttf`);
+  assert.deepEqual(files.get('/'+fontPaths[i]),original,'Font bytes changed');
+}
 let scripts = 0;
 for (const match of html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)) {
   if (/application\//.test(match[1])) continue;
   new vm.Script(match[2]); scripts++;
 }
-const result = {sourceRecords: 58, recordsByteIdentical: true, scriptsCompiled: scripts, layouts: [], checks: []};
+const result = {sourceRecords: 58, recordsByteIdenticalExceptImageURLs: true, imagesByteIdentical: embedded.length, fontsByteIdentical: embeddedFonts.length, scriptsCompiled: scripts, layouts: [], checks: []};
+{
+  const marker = 'translations={', start = html.indexOf(marker);
+  assert.ok(start > 0, 'Translations object missing');
+  let depth = 0, end = start + 'translations='.length, inString = false, quote = '', escaped = false;
+  for (; end < html.length; end++) {
+    const character = html[end];
+    if (inString) {if (escaped) {escaped = false; continue;} if (character === '\\') {escaped = true; continue;} if (character === quote) inString = false; continue;}
+    if (character === '"' || character === "'") {inString = true; quote = character; continue;}
+    if (character === '{') depth++; else if (character === '}' && --depth === 0) {end++; break;}
+  }
+  const translations = JSON.parse(html.slice(start + 'translations='.length, end));
+  const outside = html.slice(0, start) + html.slice(end);
+  const locales = Object.keys(translations), base = new Set(Object.keys(translations[locales[0]]));
+  for (const locale of locales) {
+    const keys = Object.keys(translations[locale]);
+    assert.deepEqual(keys.filter(key => !base.has(key)), [], `${locale} has extra translation keys`);
+    assert.deepEqual([...base].filter(key => !keys.includes(key)), [], `${locale} is missing translation keys`);
+  }
+  const stale = [...base].filter(key => !outside.includes(key) && !outside.includes(key.replace(/&/g, '&amp;')));
+  assert.deepEqual(stale, [], 'Stale translation keys: ' + stale.slice(0, 5).join(' | '));
+}
 const page = await browser((req, res) => serve(files, req, res));
 const {evaluate: ev, call, navigate} = page;
 const check = name => {result.checks.push(name); console.log(name);};
@@ -26,6 +76,52 @@ const key = async (key, code = key) => {
 };
 try {
   await navigate();
+  assert.ok(await ev("Promise.all([...document.images].map(i=>i.decode())).then(()=>[...document.images].every(i=>i.naturalWidth>0))"), 'Extracted images did not render');
+  check('All 59 cover/source images retain their bytes and all page images decode');
+  assert.ok(await ev("document.fonts.size===2&&[...document.fonts].every(f=>f.status==='loaded')"), 'External fonts failed to load');
+  check('Both extracted fonts retain their original bytes and load successfully');
+  await call('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:false});
+  await pause(50);
+  result.mobileEntry=await ev("({searchTop:document.querySelector('.search-bar').getBoundingClientRect().top,firstCardTop:document.querySelector('.source').getBoundingClientRect().top,toolsClosed:!document.querySelector('#collection-tools').open,collectionHidden:document.querySelector('#my-sources').hidden})");
+  assert.ok(result.mobileEntry.searchTop<1000&&result.mobileEntry.firstCardTop<1550,'Mobile entry became too long: '+JSON.stringify(result.mobileEntry));
+  assert.ok(result.mobileEntry.toolsClosed&&result.mobileEntry.collectionHidden);
+  await ev("document.querySelector('#collection-tools').open=true");
+  assert.ok(await ev("['#export-favorites','#share-view'].every(s=>document.querySelector(s).getClientRects().length>0)"),'Collection tools inaccessible when expanded');
+  await ev("document.querySelector('#collection-tools').open=false");
+  await ev('storageAvailable=false;refreshFavorites()');
+  assert.ok(await ev("document.querySelector('#storage-warning').getClientRects().length>0"),'Storage warning hidden inside collapsed tools');
+  await ev('storageAvailable=true;refreshFavorites()');
+  check('Compact mobile entry reaches search/cards sooner and keeps collection tools accessible');
+  const topicNames=['typography','photography','fashion','architecture','graphic-design'];
+  const visibleURLs=()=>ev("cards.filter(c=>!c.hidden).map(c=>c.querySelector('.favorite-source').dataset.url)");
+  for(const topicName of topicNames){
+    await ev(`document.querySelector('[data-topic="${topicName}"]').click()`);
+    const expectedCounts={typography:4,photography:5,fashion:15,architecture:5,'graphic-design':5};
+    const examples={typography:'https://www.printedmatter.org/',photography:'https://www.nowness.com/',fashion:'https://www.vogue.com/fashion-shows',architecture:'https://www.apartamentomagazine.com/','graphic-design':'https://magazine-b.com/'};
+    const found=await visibleURLs();assert.equal(found.length,expectedCounts[topicName]);assert.ok(found.includes(examples[topicName]));
+    assert.ok(!found.includes('https://www.pureref.com/'),'Organizing software leaked into a visual topic');
+    assert.equal(await ev("activeFilterCount()"),1);
+    assert.equal(await ev("document.querySelectorAll('[data-topic][aria-pressed=true]').length"),1);
+    assert.ok(await ev(`location.hash.includes('topic=${topicName}')`));
+  }
+  await search('behance');assert.equal((await visibleURLs()).length,1);
+  await select('#country-filter','Japan');assert.equal((await visibleURLs()).length,0);
+  await ev("document.querySelector('#reset').click()");assert.equal((await visibleURLs()).length,58);
+  await ev("document.querySelector('[data-topic=photography]').focus()");await key('Enter');
+  assert.equal(await ev('topic'),'photography');
+  await navigate('',true);assert.equal(await ev('topic'),'photography');
+  assert.equal(await ev("document.querySelector('[data-topic=photography]').getAttribute('aria-pressed')"),'true');
+  await ev("document.querySelector('[data-remove-filter=topic]').click()");assert.equal((await visibleURLs()).length,58);
+  await ev("document.querySelector('[data-topic=architecture]').click();document.querySelector('[data-topic=\"\"]').click()");
+  assert.equal(await ev('activeFilterCount()'),0);
+  await navigate('/?topic-check=invalid#directory?topic=not-a-topic');assert.equal(await ev('topic'),'');assert.equal((await visibleURLs()).length,58);
+  await ev("document.querySelector('[data-topic=typography]').click();document.querySelector('[data-browse-country=Japan]').click()");
+  assert.equal(await ev('topic'),'');assert.ok((await visibleURLs()).length>0);
+  await ev("document.querySelector('#reset').click()");
+  check('Five curated topics combine with search/country, support keyboard activation, URL reload, reset, removal and country navigation');
+
+  assert.equal(await ev("document.querySelectorAll('.research-route').length"),3);
+  assert.ok(await ev("[...document.querySelectorAll('#routes details')].every(d=>!d.open)"));
   // Exercise disclosures while measuring; a collapsed page can hide overflow bugs.
   await ev("document.querySelectorAll('details').forEach(d=>d.open=true)");
   const widths=process.argv.includes('--interactions-only')?[]:[320,390,768,1440];
@@ -38,7 +134,7 @@ try {
       const errors=[],describe=e=>e.id||e.className||e.tagName;
       const overlap=(a,b)=>a.left<b.right-1&&b.left<a.right-1&&a.top<b.bottom-1&&b.top<a.bottom-1;
       if(document.documentElement.scrollWidth>innerWidth+1)errors.push('document overflow');
-      const selectors='.masthead>span,.masthead button,.language-switch,.controls input,.controls button,.source h3,.source-purpose,.source-actions button,.source-details summary,.filter-field label,.footer-nav a';
+      const selectors='.topic-shortcuts p,.topic-buttons button,.research-route summary strong,.research-route .route-body h4,.research-route .route-body p,.guide-record summary,.hero h1,.cover-image figcaption,.hero-actions a,.masthead>span,.masthead button,.language-switch,.controls input,.controls button,.source h3,.source-purpose,.source-actions button,.source-details summary,.filter-field label,.footer-nav a';
       for(const e of document.querySelectorAll(selectors)){
         if(!visible(e))continue;const r=e.getBoundingClientRect();
         if(r.left < -1 || r.right>innerWidth+1)errors.push('outside viewport: '+describe(e));
@@ -50,13 +146,14 @@ try {
           if([...range.getClientRects()].some(t=>t.left<r.left-2||t.right>r.right+2))errors.push('text outside control: '+describe(e));
         }
       }
-      for(const selectors of [['.theme-toggle','.language-switch'],['.masthead>span','.masthead-actions'],['#search','#filter-toggle']]){
+      for(const selectors of [['.hero h1','.cover-image'],['.theme-toggle','.language-switch'],['.masthead>span','.masthead-actions'],['#search','#filter-toggle']]){
         const [a,b]=selectors.map(s=>document.querySelector(s));if(visible(a)&&visible(b)&&overlap(a.getBoundingClientRect(),b.getBoundingClientRect()))errors.push('overlap: '+selectors.join('/'));
       }
       const bar=document.querySelector('.search-bar');
       if(getComputedStyle(bar).position==='sticky'&&bar.getBoundingClientRect().height>innerHeight*.4)errors.push('sticky search consumes viewport');
       return {errors,lang:document.documentElement.lang,code:document.querySelector('.language-code').dataset.code};
     })()`);
+    assert.equal(await ev("document.querySelector('[data-topic=photography]').textContent"),({en:'Photography',es:'Fotografía','zh-Hans':'摄影','zh-Hant':'攝影',ja:'写真',ko:'사진'})[locale]);
     result.layouts.push({width, size, theme, locale, ...layout});
     if(locale==='ko')console.log(`Layout ${width}px / ${size}% / ${theme}`);
   }
@@ -90,16 +187,27 @@ try {
   assert.ok(await ev("document.documentElement.lang==='es'&&document.documentElement.dataset.theme==='dark'&&favoriteKeys.size===1"));
   check('Favorites/theme/language persistence on reload and reopen; shared filter restoration');
   await select('#language', 'en');
+  await navigate('/?guide-check=1#workflow');
+  for(const id of ['workflow','landscape','notes']){
+    await ev(`location.hash=${JSON.stringify('#'+id)}`);await pause(100);
+    assert.ok(await ev(`document.querySelector('#${id}').open`),'Legacy guide link stayed collapsed: '+id);
+  }
+  await ev("location.hash='#routes'");await pause(100);
+  await ev("document.querySelector('.research-route summary').focus()");await key('Enter');assert.equal(await ev("document.querySelector('.research-route').open"),true);
+  await key(' ','Space');assert.equal(await ev("document.querySelector('.research-route').open"),false);
+  await ev("history.pushState(null,'','#directory');search.value='Japan';update();history.back()");await pause(100);
+  assert.ok(await ev("location.hash==='#routes'&&search.value===''&&!collectionOpen"),'Back navigation lost the guide to stale directory filters');
+  check('Three concise guides, legacy fragments, browser Back and native keyboard disclosure controls');
   await ev("document.querySelectorAll('.source-details').forEach(d=>d.open=false);document.querySelector('.source-details summary').focus()");
   await key('Enter'); assert.equal(await ev("document.querySelector('.source-details').open"), true);
   await key(' ' ,'Space'); assert.equal(await ev("document.querySelector('.source-details').open"), false);
-  const disclosureStates = await ev("[...document.querySelectorAll('.source-details,.research-route')].map(d=>d.open)");
+  const disclosureStates = await ev("[...document.querySelectorAll('.source-details,.research-route,.guide-record')].map(d=>d.open)");
   await ev("window.dispatchEvent(new Event('beforeprint'))");
-  assert.ok(await ev("[...document.querySelectorAll('.source-details,.research-route')].every(d=>d.open)"));
+  assert.ok(await ev("[...document.querySelectorAll('.source-details,.research-route,.guide-record')].every(d=>d.open)"));
   await call('Emulation.setEmulatedMedia', {media: 'print'});
   assert.equal(await ev("[...document.querySelectorAll('.source-details .source-metadata')].filter(e=>getComputedStyle(e).display!=='none').length"), 58);
   await call('Emulation.setEmulatedMedia', {media: ''}); await ev("window.dispatchEvent(new Event('afterprint'))");
-  assert.deepEqual(await ev("[...document.querySelectorAll('.source-details,.research-route')].map(d=>d.open)"), disclosureStates);
+  assert.deepEqual(await ev("[...document.querySelectorAll('.source-details,.research-route,.guide-record')].map(d=>d.open)"), disclosureStates);
   check('Real Enter/Space disclosure control; print expands every record and restores disclosure states');
   await ev("document.querySelector('[data-theme-toggle]').focus()"); await key('Tab');
   assert.ok(await ev("document.activeElement.id==='language'&&document.activeElement.matches(':focus-visible')&&getComputedStyle(document.querySelector('.language-switch')).outlineStyle!=='none'"));

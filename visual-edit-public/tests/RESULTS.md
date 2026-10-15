@@ -1,3 +1,180 @@
+# Content cleanup — 15 October 2026
+
+Reviewed the curated catalog for the cleanup goal and found nothing to remove: no host repeats, all 58 source URLs still respond to live requests, all 58 purpose descriptions are unique, every one of the 59 cover/source images is still referenced and review dates are current. The 58 records therefore remain byte-identical to the original fixture under the standing source-preservation check; the four records whose “Official context” anchor duplicates their country-evidence URL (Booooooom, Colossal, Rijksmuseum, Met) and evidence links that repeat the source URL were left as delivered rather than editing preserved records.
+
+Removed 77 stale translation keys from the five non-English dictionaries (`es`, `zh-Hans`, `zh-Hant`, `ja`, `ko`): leftovers from removed sections and historical date/audit copy. The inline dictionary shrank from 216,303 to 179,986 characters (page: 563,580 → 527,263) while every locale keeps the same 460 keys. The offline shell version is now `visual-edit-shell-content-cleanup-v1`.
+
+Extended `tests/site.mjs`: it parses the inline translations object before any browser work, requires identical key sets in all five dictionaries (both directions) and fails if any dictionary key no longer appears anywhere else on the page, so removed sections cannot leave stale translations behind.
+
+Passed the full suite: `site.mjs` (96 layouts and twelve groups plus the new dictionary checks), `chooser.mjs`, `collection.mjs`, `recently-viewed.mjs`, `personal-sources.mjs`, `personal-backup.mjs`, `collection-backup.mjs`, `collection-folders.mjs`, `source-notes.mjs`, `service-worker.mjs`, `worker-storage.mjs` (10/10) and `pages.mjs`. Verified all 58 source records, 59 cover/source images and both fonts retain their original content; external providers were never visited. `git diff --check` passed. Validation uses Chromium; physical phones and other browser engines were not tested.
+
+# Collection folders — 15 October 2026
+
+Added named folders to My collection so saved directory cards and personal sources can be grouped, viewed and filtered. A translated folder section creates, renames and deletes folders in a dialog with focus restoration, a 60-character plain-text limit and case-insensitive duplicate rejection; deleting a folder never deletes or unfavorites a source. Each card gains a folder select with live counts, and the folder filter narrows both kinds and combines with the shared search and kind choices. Folders use a new `reference-edit-collection-folders-v1` key; favorites, notes and personal records keep their existing formats. Corrupt storage hides the section with a warning until repaired, and failed writes keep the previous list.
+
+Complete backups advance to version 3 with `folders` (`{name,directory,personal}`, no local ids); versions 1 and 2 remain importable without writes. Imports cap at 200 folders, merge same-name folders case-insensitively, keep existing placements, remap personal ids and include folders in the existing rollback/retry handling. Fixed a pre-existing race where a deleted folder's filter could leave collection lists empty until the next render, and an uncaught `TypeError` in the rename dialog's close handler.
+
+Passed `node tests/collection-folders.mjs` (eighteen check groups: dialog CRUD and duplicates, per-card filing/unfiling with counts and focus, filter/search/kind combinations, delete semantics, inert user text, corrupt/quota storage, cross-tab refresh, six-language translations, 96 folder layout/text-size/theme/language cases plus a 390 px capture, version 3 export/import fresh and merged, folder-write quota rollback/retry, version 1/2 compatibility and offline editing), and the full suite: `site.mjs`, `chooser.mjs`, `collection.mjs`, `recently-viewed.mjs`, `personal-sources.mjs`, `personal-backup.mjs`, `collection-backup.mjs`, `source-notes.mjs`, `service-worker.mjs`, `worker-storage.mjs` (10/10) and `pages.mjs`. Version assertions were updated in the collection-backup, personal-backup and source-notes suites. Verified all 58 source records and 59 cover/source images retain their original content; external providers were never visited. `git diff --check` passed. Validation uses Chromium; physical phones and other browser engines were not tested.
+
+# Recently viewed — 15 October 2026
+
+Added a local “Recently viewed” section to My collection. Up to eight curated sources opened from directory cards, “Help me choose” suggestions, saved directory cards or the section itself are listed most recent first, with the shared “View in directory” action and a translated “Clear list” button. Opening a listed source refreshes its position without duplicating it; personal sources stay out, and unknown catalog URLs are hidden and pruned on the next write. The history never changes saved favorites, notes or personal sources, is not part of backups, works offline, and corrupt or unavailable storage can only hide or skip the history. Added `tests/recently-viewed.mjs` and updated the offline shell version.
+
+Passed `node tests/recently-viewed.mjs` (deduplication/order, eight-entry cap, reload persistence, catalog pruning, chooser/collection/personal-source recording rules, clear/focus, corrupt and quota storage, 96 layouts across six languages plus offline clearing/recording/navigation), and the full existing suite: `site.mjs`, `chooser.mjs`, `collection.mjs`, `personal-sources.mjs`, `personal-backup.mjs`, `collection-backup.mjs`, `source-notes.mjs`, `service-worker.mjs`, `worker-storage.mjs` and `pages.mjs`. Verified all 58 source records and 59 cover/source images retain their original content; external providers were never visited. Visually inspected the 390 px capture. `git diff --check` passed. Validation uses Chromium; physical phones and other browser engines were not tested.
+
+# Topic shortcuts — 15 October 2026
+
+Added five translated topic shortcuts below directory search: Typography, Photography, Fashion, Architecture and Graphic Design, plus All topics. Topics use stable catalog URLs for curated selections (Fashion uses the existing Fashion references category), combine with search/category/country/coverage/access/favorites, and appear as removable filter chips. Shared links retain the selected topic; unknown topics are ignored. Reset, country browsing, show-all-saved and full-record navigation clear topics when revealing their intended results. Updated the offline shell version.
+
+Passed `node tests/site.mjs` (96 layouts across six languages, two text sizes, two themes and four widths), `node tests/chooser.mjs` (96 layouts and full-record navigation), `node tests/pages.mjs` (installability, Linux icon discovery and offline topic restoration/switching), and `node tests/service-worker.mjs` (migration/offline/error handling). A focused site interaction rerun passed after strengthening topic result-count/example assertions. Verified all 58 source records, 59 cover/source images and both fonts retain their original content. Visually inspected 390 px and 1440 px previews. `git diff --check` passed. Validation uses Chromium; physical phones and other browser engines were not tested.
+
+# Linux launcher icon discovery — 15 October 2026
+
+Omarchy's web-app installer reads the first 100 KB of raw HTML for an Apple touch icon and does not execute JavaScript. The site previously added that link dynamically, forcing origin-root and external fallback lookups that can fail for a GitHub Pages project.
+
+Moved the existing 180 px PNG link into the initial static head, before the stylesheet, and removed its duplicate dynamic insertion. Pages preparation supplies the correct project-prefixed URL. Versioned the source offline shell for the HTML change.
+
+Regression evidence: the raw-HTML check failed before the fix with “Omarchy cannot discover a static Apple touch icon in the first 100 KB” and passes afterward using Omarchy's shell extraction pipeline. It downloads the project-path icon without JavaScript and verifies HTTP 200, PNG content type and PNG signature. `node tests/pages.mjs`, `node tests/site.mjs` (96 layouts and interactions) and `node tests/service-worker.mjs` passed; `git diff --check` passed. The physical Linux desktop installer was not run in this cloud environment.
+
+# Editorial app icon — 15 October 2026
+
+Replaced the old VE mark with an original ivory RE serif monogram on near-black. New asset URLs cover browser, Apple touch, standard install and Android maskable icons; legacy icon URLs also serve the new artwork. The worker precaches the new icons with a fresh shell version.
+
+Validation: `node tests/site.mjs` passed all 96 layout cases and interactions; all 58 source records, 59 cover/source images and both fonts retain their original content. `node tests/pages.mjs` passed project-path installation, decoded manifest icon dimensions and offline persistence. `node tests/service-worker.mjs` passed historical worker migration, failed-install recovery and offline navigation. `node --test tests/worker-storage.mjs` passed all 10 storage-failure checks. `git diff --check` passed.
+
+Visually reviewed square, circular, 56 px phone and 32 px browser previews in Chromium. The opaque 512 px maskable image keeps bright lettering within a 187.5 px radius, inside Android's 204.8 px safe circle. Physical-device installation and existing shortcut icon refresh remain unverified; a cached shortcut may need to be removed and added again after deployment.
+
+# Saved directory notes validation
+
+Saved directory cards now offer Add/Edit note with a native editor, clear-to-delete behavior and plain-text display. Collection search includes note text. Notes are retained when a source is unsaved and reappear when it is saved again; retained-note guidance and notes-only export prevent accidental loss. All six languages have translated controls and recovery messages. Note text stays unchanged and is not added to URLs.
+
+A separate versioned notes key preserves existing favorites and personal-source storage formats. Saving rereads current notes, preserves other entries and detects conflicting edits to the same note. Failed writes/corrupt storage keep the draft and stored data intact. Complete backup export advances to version 2 with `directoryNotes`; both older version 1 formats remain importable without overwriting notes. Imports validate all notes, keep existing text and include notes in existing rollback/retry handling. This remains a best-effort multi-key operation, not a transaction.
+
+Passed locally: note suite (seven groups and 96 editor viewport/text-size/theme/language cases), site (96 layouts and twelve groups), collection (96 layouts and seven groups), both existing backup suites (192 layouts and fifteen groups), and Pages preparation (four groups, including a prefixed offline note). Tests cover inert Unicode/HTML-looking text, search, retention, notes-only export, fresh restore, legacy imports, invalid notes, storage failure, conflicts and offline editing/backup. Mobile editor capture inspected. The original 58 source records and image/font bytes are preserved. Worker key: `visual-edit-shell-source-notes-v1`. Physical-device/Safari review and publication remain pending; CI runs all regressions.
+
+# Source chooser validation
+
+Added a collapsed “Help me choose” shortcut to the directory introduction, with links from all three research guides. Four goals—editorial design, fashion history, street style and organizing references—each offer three maintained catalog entries with a short reason and access status. Suggestions use separate `.chooser-card` elements; all 58 original `.source` records remain unchanged. New controls/copy support all six languages. There are no new services, accounts or saved preference keys.
+
+Save/remove delegates to existing directory favorites, synchronizing the collection and preserving keyboard focus. Storage failures keep the saved selection unchanged and show a warning in the chooser. “View in directory” clears filters, expands the selected full record and focuses its source link. Choosing a goal alone does not change directory filters. Goal selection survives language changes in the current page and resets on reload.
+
+Passed locally: chooser (five functional groups, 96 viewport/text-size/theme/language cases), site (96 expanded layouts, twelve groups), Pages (four groups including the prefixed offline chooser), and worker migration/navigation (twelve groups). Tests cover catalog mappings, translations, persistence, collection counts, write failures, focus, deep links and offline use. Mobile capture inspected. Original images/fonts retain their bytes. Worker key: `visual-edit-shell-chooser-v1`. Physical-phone/Safari review and publication remain pending; CI runs the complete regression suite.
+
+# Simpler research guides validation
+
+Consolidated four overlapping guide sections into one Research guides destination immediately after the directory. Three short choices—Find inspiration, Research a topic and Build a moodboard—open to three steps with relevant source links. Vintage identification, source-language searching and photo-shoot examples remain inside the appropriate paths. One expandable reference template retains credit/date/context fields and image-use guidance. Removed obsolete list-change/report notes and repeated navigation entries; editor selections, regional recommendations and all 58 source records remain intact.
+
+New visible copy is translated in all six languages; reused steps retain their existing translations. Historic `#workflow`, `#landscape` and `#notes` fragments reveal the matching disclosure. Browser Back restores the guide before applying language updates so stale directory filters cannot replace its URL. Research guides is first in both section menus. Printing expands guides and the reference template, then restores their prior states. Narrow/enlarged-text layouts simplify the summary grid to avoid CJK heading overflow.
+
+Passed locally: site (96 expanded layouts, twelve functional groups, including legacy fragments and native guide keyboard controls), Pages preparation (four groups, including offline guide navigation), and worker migration/navigation (twelve groups). All original image/font bytes and curated records are preserved. Mobile/desktop guide captures were inspected. Worker key: `visual-edit-shell-research-guides-v1`. Safari/physical-device review and publication remain pending.
+
+# Complete collection backup validation
+
+One versioned JSON export now includes directory favorites and all added sources with their metadata and personal favorite flags, independent of collection filters. Directory-only collections can export. Import accepts complete backups and older personal-source version 1 files. It previews new items, duplicates and unavailable directory URLs, then merges against the latest stored data on confirmation. Existing personal records win, new IDs avoid collisions and unknown catalog URLs are reported/skipped. All six languages have updated controls and count messages.
+
+Complete backup checks passed seven functional groups plus 96 populated-preview layouts, including real downloads, fresh restoration, duplicate/canonical URL handling, invalid files, corrupt destination storage, quota failures on each key, rollback failure with safe retry, and offline export/restore. The existing personal-backup suite passed eight groups and 96 layouts with the new export format and legacy imports. Directory, collection, personal-editing, Pages, worker navigation/migration and injected storage checks also passed. Across the UI suites, 480 viewport/text-size/theme/language cases passed. Original 58 records and image/font bytes remain unchanged. Physical-device/Safari review is manual.
+
+Imports use two existing localStorage keys. A later failed write triggers rollback of completed changes; if rollback is also blocked, an explicit incomplete-import message keeps the file selected for retry. Existing records are preserved; this is not a cross-key transaction. Worker key: `visual-edit-shell-complete-backup-v1`. The collection PR was merged and its publication verified; this backup feature remains unpublished until its own PR is merged.
+
+# Unified collection validation
+
+“Collection” on mobile and “My collection” in the desktop header now open one destination containing saved directory entries and every personal source. “All,” “From directory” and “Added by me” filters share a search field; directory filters retain their own state. The combined badge includes both kinds. Personal CRUD and favorites remain available; directory cards can be removed or opened in the full directory. All six languages have translated controls, origins and empty states. Browser Back/reload restore the collection route without leaking collection searches into URLs.
+
+Existing favorites and personal-source storage formats are retained without a migration. Storage notifications refresh the view. Directory favorite mutations read the latest stored selection and preserve existing data on quota or malformed-data failures. Export and restore clearly separates directory Markdown exports from version 1 personal JSON backups. A single combined restorable backup remains a future feature.
+
+Passed: collection (seven functional groups, 96 layouts), site (eleven groups, 96 layouts), personal CRUD (ten groups, 96 form layouts), personal backups (eight groups, 96 dialog layouts), worker migration/navigation (twelve groups), injected worker storage failures (ten tests), and Pages preparation (four groups, including the combined collection on prefixed offline routes). Collection tests found and verified fixes for Back navigation and enlarged-text header layout; existing backup checks also verified restored dialog focus. All 58 curated records and original image/font bytes are preserved. Worker key: `visual-edit-shell-collection-v1`. Mobile/desktop manifest captures are refreshed. Physical-phone/Safari review and publication are pending merge.
+
+# Mobile editorial cover validation
+
+Replaced the small mobile thumbnail with a full-proportion portrait beside the headline. The introduction, directory actions and research labels follow below; the image credit stays directly below the portrait. At 390×844 the portrait is about 149×189px (previously 88×112px), with search at 875px and the first curated card at 1,423px. Enlarged text switches to a stacked cover when there is insufficient room for two columns; mobile action labels wrap. Desktop layout and all 58 curated records remain unchanged.
+
+The existing 96-case Chromium layout matrix now checks heading/credit/action text bounds and heading/image overlap. It caught and verified the fix for action-label overflow at 320px with 200% text. The site suite passed all eleven check groups, and Pages preparation passed its four groups including offline navigation, preferences and assets. Mobile, narrow-screen, enlarged-text and desktop captures were visually inspected; the manifest mobile capture was refreshed. The worker key is `visual-edit-shell-editorial-cover-v1`. Physical-phone/Safari testing and publication are pending merge.
+
+# Automatic publishing and compact mobile layout validation
+
+Added `.github/workflows/pages.yml`: all regression suites run on PRs and main pushes, while publication is restricted to successful runs on `main`. A standalone Node script prepares project-prefixed Pages snapshots outside the checkout and preserves all source records/binary assets. The publishing job updates the existing Pages source branch without rewriting history, then explicitly requests a Pages build using the workflow's contents/pages permissions. `DEPLOYMENT.md` documents operation and first-run verification. Live Actions publication still requires its first successful main run; local checks do not establish workflow-token permission readiness.
+
+The mobile hero retains the original typography, portrait and credit with a shorter translated introduction and compact portrait. Export/sharing tools and access definitions use disclosures. Empty personal collections hide introductory/empty-state prose on mobile while keeping Add source and Backup/restore available; populated collections retain their content. The new source worker key is `visual-edit-shell-mobile-layout-v1`. Refreshed mobile/desktop install captures reflect the current layout.
+
+At 390×844 with normal text, measured search position decreased from about 1,562px to 878px, the first card from 2,504px to 1,425px, and the hero height from 1,106px to 528px. Home/directory captures were visually inspected. All 58 curated records are unchanged.
+
+Passed locally: site (96 layouts, eleven check groups), personal sources (96 layouts, ten groups), backup/import (96 layouts, eight groups), worker migration/navigation (twelve groups), injected worker-storage failures (ten tests), and Pages preparation (four groups covering project paths, cache cleanup, assets, installability, persistence and offline navigation). Workflow YAML parsed successfully and `git diff --check` passed. Safari/Firefox and physical-device testing of the new layout are outstanding. The current phone site remains unchanged until publication after merge.
+
+# Personal source backup and restore validation
+
+Added a compact “Backup and restore” disclosure in My sources. JSON export includes all personal records, metadata, image URLs and favorites, regardless of search/favorites filters. Import validates versioned backups up to 5 MB, previews counts and requires confirmation. It adds new canonical URLs while preserving existing records and favorites, skips duplicates and assigns fresh IDs. Confirmation rereads current storage to preserve other-tab changes. Invalid data is rejected before writes; failed writes preserve the collection and selected file for retry. All controls/messages support the six existing languages.
+
+`node tests/personal-backup.mjs`: PASS, eight check groups and 96 import-dialog layout/language/theme/text-size cases, including actual online/offline downloads, restoration into an empty collection, preview/cancel, duplicate URLs, colliding IDs, inert text, invalid/unsafe/oversized files, quota retry, other-tab changes and offline import. A deferred dialog-close race found during the rejection tests was fixed so a stale close event cannot invalidate a newly reopened import dialog. The final mobile import preview was visually inspected.
+
+Regressions passed: `node tests/site.mjs` (96 layouts, ten check groups); `node tests/personal-sources.mjs` (96 layouts, ten groups); and `node tests/service-worker.mjs` (twelve checks). All 58 curated records are byte-identical to their pre-feature state. Syntax checks and `git diff --check` pass. The worker key is `visual-edit-shell-backup-v1`; no static assets, dependencies or build step were added.
+
+Current evidence: `/tmp/reference-regression-results/personal-backup.json` and `/tmp/reference-backup-results/mobile-import.png`. Testing used Chromium, not Safari/physical devices. Backups transfer personal text records and image URLs manually; remote image files, curated favorites and automatic synchronization are outside this feature.
+
+# Accessibility and footer polish validation
+
+Personal edit/delete controls now include the localized action and source name in `aria-label`; visible button text stays compact. All six footer translations now describe the saved offline fonts/cover and logos cached on later online visits, replacing the outdated embedded-assets wording. The worker key is `visual-edit-shell-audit-v2` to refresh the updated HTML. All 58 curated records are unchanged.
+
+Passed: `node tests/personal-sources.mjs` (ten functional groups, 96 layout/language/theme/text-size cases, including contextual edit/delete labels); `node tests/site.mjs --interactions-only` (ten check groups, with the layout matrix intentionally omitted); `node tests/service-worker.mjs` (twelve checks); six-language footer readback in Chromium; and `git diff --check`. The earlier full layout results remain recorded below.
+
+# Focused audit validation
+
+Implemented the top two low-risk patches from `tests/AUDIT.md`: externalized both embedded fonts without changing their bytes, and aligned manifest, Apple install and localized browser titles with “The Reference Edit.” The manifest short name is “Reference.” The fonts remain in the required offline shell; the worker cache key is `visual-edit-shell-audit-v1`.
+
+HTML decreased from 2,330,812 to 559,799 bytes (76.0%). Required-shell size decreased from 2,708,215 to 2,265,443 bytes (16.3%). These are uncompressed file sizes. Fonts, typography, all 58 curated article records, screenshots, icons and manifest fields outside naming are preserved.
+
+Passed: both full Chromium layout matrices (192 cases total), ten UI check groups, ten personal-source functional groups, twelve worker/migration/offline groups, and all ten injected storage-failure tests. Both extracted fonts match the historical bytes and load in online/offline navigation tests. Chromium manifest parsing, install names, screenshot URLs and font MIME types passed; all six final browser titles were checked after their label update. `git diff --check` passed.
+
+Safari/Firefox, physical-device installation and deployment remain untested. The audit records the prioritized remaining accessibility/context and explanatory-copy follow-ups; only the top two patches were implemented.
+
+# Personal source collection validation
+
+Added “My sources” before the curated cards, with add/edit/confirmed-delete, its own search and favorites filter, and optional category, country, tags and image URL. Name, HTTP(S) website URL and description are required. Interface labels support all six existing languages; user content is preserved. The collection uses `reference-edit-personal-sources-v1` separately from curated favorites. There is no backend, dependency or build step.
+
+User content renders as text, URLs accept only HTTP(S), and external images use no-referrer requests and are not saved for offline use. Duplicate personal URLs are rejected. A failed write keeps stored data and the open form intact. Unreadable existing data is reported without overwriting it. Deletion has a cancelable confirmation and focus restoration; Escape closes the editor.
+
+All 58 curated article records are byte-identical to the pre-feature state, including the image URLs introduced earlier. Personal favorites/search operate independently of curated favorites/search and Markdown export. Personal text records remain available and editable offline once the app shell is cached. The worker cache key is now `visual-edit-shell-personal-sources-v1` so existing installs receive the updated HTML; no new shell assets were added.
+
+- `node tests/personal-sources.mjs`: PASS, ten functional check groups and 96 form layout/language/theme/text-size combinations. Covers CRUD, required fields and safe URLs, inert text, metadata search, duplicates, personal favorites, reload persistence, quota errors, corrupt storage, real Escape handling, offline creation and unchanged curated records. The final mobile capture was visually inspected after widening the personal search input.
+- `node tests/site.mjs`: PASS, all 96 existing layout cases and nine check groups.
+- `node tests/service-worker.mjs`: PASS, all 12 migration/offline/navigation check groups.
+- `node --test tests/worker-storage.mjs`: PASS, all ten storage-failure tests.
+- `git diff --check`: PASS.
+
+Current JSON evidence is in `/tmp/reference-regression-results/`; the mobile capture is `/tmp/reference-personal-results/mobile.png`. Validation used Chromium. Safari, physical-device use and production deployment were not tested. Personal records remain local to the browser/app; they do not sync across devices or appear in the curated favorites export.
+
+# Storage resilience validation — 14 October 2026
+
+The worker cache version is now `visual-edit-shell-external-images-v3`. Runtime Cache Storage open/read/write failures no longer prevent a successful network response from reaching the page or its assets. A navigation cache-write failure returns the fresh HTML instead of falling back to a stale document. Failed storage reads during offline navigation return the existing reconnect response when no usable shell can be retrieved. Offline-status messages return `ready: false` on storage errors. Failed obsolete-cache cleanup does not block client claiming; explicit update messages retain their worker lifetime with `waitUntil`.
+
+Installation remains strict: failed shell downloads or writes cannot activate an incomplete replacement. Opaque responses remain excluded from image caching; redirected navigation responses are still reconstructed, and the four-second deadline still covers reading the complete body. No application HTML, source records, image files or manifest fields changed during this step.
+
+- `node --test tests/worker-storage.mjs`: PASS, ten tests with injected storage/quota/read errors, opaque responses, offline fallback and event lifetime checks against the actual worker source.
+- `node tests/service-worker.mjs`: PASS, all 12 browser check groups, including historical migration, redirected navigation, delayed headers/body, image caching and offline recovery.
+- `node tests/site.mjs`: PASS, all 96 layout cases and nine check groups, including image-byte parity and exact source-record preservation except the earlier image URL substitutions.
+- Worker/test syntax checks and `git diff --check`: PASS.
+
+These tests use Node failure injection and Chromium; they do not establish Safari compatibility or reproduce real Safari quota eviction. A macOS/iOS Safari and Home Screen manual checklist is in `tests/README.md`. No production deployment or physical-device test was performed.
+
+# Install screenshot validation — 14 October 2026
+
+Added real Chromium captures under `dist/screenshots/`: mobile directory (390×844 PNG, 46,238 bytes) and desktop home page (1440×900 PNG, 234,658 bytes). Both were visually inspected and declared in the manifest with `sizes`, `type`, `form_factor` and descriptive labels. All existing manifest fields are unchanged.
+
+Chromium's `Page.getAppManifest` parsed the updated manifest without errors. Both screenshot URLs returned HTTP 200 with `image/png`, decoded successfully, and matched their declared dimensions and PNG headers. The application HTML is byte-identical to the state after image extraction. The only worker change is its cache version, now `visual-edit-shell-external-images-v2`, to refresh the cached manifest; screenshots are not added to the offline shell.
+
+`node tests/service-worker.mjs`: PASS, all 12 check groups. `git diff --check`: PASS. The earlier 96-case UI run remains recorded below; it was not repeated for this manifest-only feature. Android's actual install dialog and physical-device installation were not tested.
+
+# Image extraction validation — 14 October 2026
+
+Extracted all 60 embedded images into SHA-256-addressed files under `dist/images/`, preserving the original binary bytes. HTML shrank from 3,424,048 to 2,311,542 bytes (32.5%). HTML plus external image files totals 3,146,300 bytes; these are uncompressed file sizes, not measured transfer times. Embedded fonts remain unchanged. No dependencies or build step were added.
+
+The worker cache version is `visual-edit-shell-external-images-v1`. The cover and favicon join the existing seven shell assets; the 58 source logos cache on demand during controlled online visits. A logo that has not been cached needs an online revisit. Failed image downloads are not cached; cache-write failures do not discard a successful image response.
+
+- `node tests/site.mjs`: PASS, 96 layout cases and nine check groups. All 60 extracted image files match the historical image bytes; restoring their original data URLs makes all 58 article records byte-identical. Every page image decodes; the existing interaction, persistence, keyboard, print and accessible-name checks pass.
+- `node tests/service-worker.mjs`: PASS, 12 check groups. Failed installation recovery, historical-worker upgrade, first offline cover, on-demand logo caching, failed image download/retry, online/error/slow-header/slow-body/offline reloads, redirects, preference preservation and unrelated-cache preservation pass. All page images decode during navigation scenarios after logos have been cached.
+- Current JSON results: `/tmp/reference-regression-results/site.json` and `/tmp/reference-regression-results/service-worker.json`. Validation uses Chromium on local HTTP, not Safari/Firefox, production deployment or physical-device installation. Cache-write/quota failure handling is defensive code, not a simulated quota test.
+
+The earlier bug-fix report below describes the previous implementation and its historical test runs.
+
 # Local bug-fix validation — 14 October 2026
 
 Inspected clean local `main` at `746988f5781dced727f59a37dcd0f61bdf349db6`, recent history, tracked project files, ancestor instructions and Sites' local-only workflow. There is no package manifest, generated source tree or build command: `dist/` is the maintained buildless source. No pre-existing uncommitted changes were present. This task did not commit, push, deploy, open a PR or update the vault.
