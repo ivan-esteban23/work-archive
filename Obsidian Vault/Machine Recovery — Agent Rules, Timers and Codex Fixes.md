@@ -13,7 +13,7 @@ created: 2026-10-20
 > [!abstract] One-line recovery
 > On a fresh Omarchy install: `mise use -g gh` → `gh auth login` → `gh repo clone ivan-esteban23/machine-setup ~/Work/machine-setup` → `cd ~/Work/machine-setup && ./agent-rules-setup --bootstrap`.
 
-Source of truth: private repo **`ivan-esteban23/machine-setup`** (2026-10-20). The script is self-contained; `snapshot/` holds this machine's package lists, mise toolset, Codex config, git identity, `allowed_signers`, and personal desktop/tool config. Print the full runbook with `agent-rules-setup --restore-guide`.
+Source of truth: private repo **`ivan-esteban23/machine-setup`** (commit `bb9476d`, 2026-10-20). The script is self-contained; `snapshot/` holds this machine's package lists, mise toolset, Codex config, git identity, `allowed_signers`, personal desktop/tool config, and all 30 Obsidian community plugins. Print the full runbook with `agent-rules-setup --restore-guide`.
 
 Related: [[Instagram Downloads — Rules, Commands and Context]]
 
@@ -33,6 +33,9 @@ Related: [[Instagram Downloads — Rules, Commands and Context]]
 | Fresh-machine restore | `./agent-rules-setup --bootstrap` |
 | Restore only gh + codex tools | `./agent-rules-setup --bootstrap --minimal` |
 | Restore full package lists too | `./agent-rules-setup --bootstrap --with-packages` |
+| Reinstall every snapshotted package | `agent-rules-setup --install-packages` |
+| Report package coverage only | `agent-rules-setup --check --install-packages` |
+| Tailscale browser login (manual) | `sudo tailscale up --accept-routes` |
 | Overwrite the rule files | `agent-rules-setup --force` |
 | Install files but leave systemd alone | `agent-rules-setup --no-enable` |
 
@@ -72,6 +75,7 @@ Optional variants:
 ```bash
 gh auth setup-git
 codex login
+sudo tailscale up --accept-routes      # browser auth; the daemon is already set up
 ```
 
 For Instagram, log into **instagram.com in Firefox**, then prime the saved session once:
@@ -93,16 +97,20 @@ agent-rules-setup --smoke
 
 ### Step 5 — sidecar tools and VPN
 
-These are not in the repo; reinstall with their own installers:
+`qodercli` (Qoder) and `agy` (Antigravity) are installed automatically by the script with their official installers. Only these are not in the repo:
 
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh   # uv / uvx
 uv tool install free-claude-code                  # fcc-* commands
-# qodercli (Qoder), agy (Antigravity), reason: vendor installers
+# reason: vendor installer only
 
 sudo cp wg-JP-446.conf /etc/wireguard/            # from secure backup, then:
 sudo systemctl enable --now wg-quick@wg-JP-446
 ```
+
+### Step 6 — Obsidian plugins
+
+All 30 community plugins and their settings live in `snapshot/obsidian/` (`manifest.json`, `main.js`, `styles.css`, `data.json`) with `community-plugins.json`. They are restored automatically once the vault exists. If the vault is copied **after** bootstrap, run `agent-rules-setup` again. Plugin `data.json` files that look like they contain a token are never snapshotted.
 
 ---
 
@@ -118,10 +126,26 @@ sudo systemctl enable --now wg-quick@wg-JP-446
 8. Adds a guarded `~/.local/bin` PATH block to `~/.bash_profile` and `~/.bashrc`.
 9. Enables systemd linger with `sudo -n loginctl enable-linger "$USER"`.
 10. With `--with-packages`, reinstalls the snapshotted explicit pacman and AUR lists.
-11. Runs the normal apply: rule files, tools, units, services, timers, Codex sandbox config.
-12. Prints the remaining interactive steps (gh, codex, Instagram, sidecar CLIs, VPN, personal data).
+11. Runs the normal apply: rule files, tools, units, services, timers, Codex sandbox config, Tailscale feature, Qoder/Antigravity CLIs, Obsidian plugins.
+12. Prints the remaining interactive steps (gh, codex, Tailscale auth, Instagram, personal data).
 
 `--minimal` skips the full mise toolset and restores only `gh` + `codex`.
+
+### Package restore (`--install-packages`)
+
+`snapshot/packages-explicit.txt` holds the explicit pacman set (195 packages, including `tailscale`) and `packages-aur.txt` the AUR set (`instaloader`, `python-browser-cookie3`, epson driver, `ttf-ms-fonts`).
+
+The explicit list also contains AUR names, so `pacman -S` of the raw list would abort. The script:
+
+1. Reads both snapshots and removes AUR names from the pacman set.
+2. Checks each remaining name against `pacman -Ssq`; unknown names are listed and skipped, never passed to a transaction.
+3. Installs repo packages with `sudo -n pacman -S --needed --noconfirm` in batches of 50.
+4. Installs AUR packages with `yay -S --needed --noconfirm`.
+
+```bash
+agent-rules-setup --install-packages            # apply
+agent-rules-setup --check --install-packages    # report missing packages only
+```
 
 ---
 
@@ -176,6 +200,34 @@ Only **missing** files are copied; existing local config is never overwritten.
 | Omarchy | `~/.config/omarchy/shell.json` (bar layout), `defaults/agent` |
 | Input method | `~/.config/fcitx5/profile`, `conf/*.conf`, `~/.config/environment.d/20-fcitx-gtk.conf`, `omarchy-fcitx5.service.d/override.conf` |
 | Apps | `~/.config/obsidian/obsidian.json`, `~/.config/Code/User/settings.json`, `~/.qoder/settings.json`, `~/.claude/settings.json` |
+
+### Omarchy Tailscale feature
+
+The script reproduces `omarchy-install-service-tailscale` without the interactive auth step:
+
+| Piece | What is done |
+|---|---|
+| Package | `sudo -n pacman -S --needed tailscale` |
+| Daemon | `sudo -n systemctl enable --now tailscaled.service` |
+| Operator | `sudo -n tailscale set --operator=$USER` |
+| Taildrop | `systemctl --user enable --now omarchy-tailscale-receive.service` |
+| Bar | `omarchy-plugin-enable omarchy.tailscale` (widget appended to the bar's right section) |
+| Login | **Manual**: `sudo tailscale up --accept-routes` (browser auth; `tailscale up` blocks, so it is never automated) |
+
+The admin-console web app from Omarchy's installer is skipped because `omarchy-webapp-install` is an interactive TUI; add it from the Omarchy menu if wanted.
+
+### Qoder and Antigravity CLIs
+
+| Tool | Installer |
+|---|---|
+| `qodercli` | `curl -fsSL https://qoder.com/install \| bash` (binary in `~/.qoder/bin`, symlink `~/.local/bin/qodercli`) |
+| `agy` | `curl -fsSL https://antigravity.google/cli/install.sh \| bash` (binary `~/.local/bin/agy`) |
+
+Both are installed only when missing, so the script stays idempotent. Updates: `qodercli update`, `agy update`.
+
+### Obsidian community plugins
+
+30 plugins (~34 MB) are snapshotted under `snapshot/obsidian/`: every plugin folder plus `community-plugins.json` (the enabled list). Restore copies only missing plugin folders and merges the enabled IDs; existing plugin folders and their settings are left alone. A plugin `data.json` is skipped when it matches the token-like pattern the script already uses for Codex config.
 
 ---
 
@@ -341,7 +393,7 @@ cd ~/Work/machine-setup
 
 | File | Contents |
 |---|---|
-| `packages-explicit.txt` | All explicit pacman packages (194 as of 2026-10-20) |
+| `packages-explicit.txt` | All explicit pacman packages (195 as of 2026-10-20, includes `tailscale`) |
 | `packages-aur.txt` | Foreign/AUR packages (4: instaloader, python-browser-cookie3, epson driver, ttf-ms-fonts) |
 | `mise-config.toml` | Full global mise toolset |
 | `codex-config.toml` | Codex config; skipped if a token-like value is detected |
@@ -349,6 +401,8 @@ cd ~/Work/machine-setup
 | `git-user-name`, `git-user-email` | Commit identity |
 | `git-signing-key`, `git-signing-format`, `git-allowed-signers` | Signing settings (path only) |
 | `config/` | 26 personal config files (git, starship, alacritty, Hypr, Omarchy, fcitx5, Obsidian, VS Code, Qoder, Claude), token-scanned before copying |
+| `obsidian/community-plugins.json` | Enabled plugin IDs |
+| `obsidian/plugins/<id>/` | All 30 community plugins with settings (~34 MB), token-scanned before copying |
 
 ### NOT in the repo — back these up separately
 
@@ -364,7 +418,7 @@ cd ~/Work/machine-setup
 | `/etc/wireguard/wg-JP-446.conf` | VPN private key (root-owned) |
 | `~/Downloads` | Instagram archives |
 | `~/Work` | Projects |
-| `~/Documents/Obsidian Vault` | Notes and attachments |
+| `~/Documents/Obsidian Vault` | Notes and attachments (plugin folders are in `snapshot/obsidian/`) |
 | `~/Pictures`, `~/Videos` | Personal media |
 
 If the private signing key is missing after restore, bootstrap turns `commit.gpgsign` off and prints instructions. Do not regenerate it unless the new public key is registered as a GitHub signing key.
@@ -379,7 +433,16 @@ The repo is private. To restore without GitHub auth, copy the directory to a USB
 agent-rules-setup --check
 ```
 
-Checks: all managed files and snapshot configs match, timers are enabled + active + have a next elapse, remote-control services are enabled, required commands exist (`mise`, `git`, `tmux`, `checkupdates`, `python3`, `gh`, `codex`, `flock`), Python can `import instaloader`, mise resolves `gh`/`codex`, `uv` has `free-claude-code`, sidecar CLIs and the WireGuard config are present, and reports auth status.
+Checks: all managed files and snapshot configs match, timers are enabled + active + have a next elapse, remote-control services are enabled, required commands exist (`mise`, `git`, `tmux`, `checkupdates`, `python3`, `gh`, `codex`, `flock`), the Tailscale package/daemon/Taildrop/bar widget state, Qoder + Antigravity CLIs, every snapshotted package is installed, Obsidian plugins are present, Python can `import instaloader`, mise resolves `gh`/`codex`, `uv` has `free-claude-code`, the WireGuard config is present, and reports auth status.
+
+Targeted checks:
+
+```bash
+agent-rules-setup --check --install-packages   # package coverage
+systemctl --user status omarchy-tailscale-receive.service
+tailscale status                               # exit 1 = not logged in
+jq -c '[.bar.layout[]?[]? | if type=="object" then .id else . end]' ~/.config/omarchy/shell.json
+```
 
 ```bash
 agent-rules-setup --smoke
@@ -412,6 +475,11 @@ Current verified result: **0 drift**, smoke passes all five.
 | Private repo clone fails | Not authenticated | `mise use -g gh && gh auth login` first |
 | Remote-control service keeps restarting | `qodercli`/`codex` missing or not logged in | Reinstall the sidecar CLI, sign in, `systemctl --user restart <unit>` |
 | Personal config was not restored | A file already exists at that path | Restore is missing-only by design; copy from `snapshot/config/` manually |
+| `tailscale up` hangs | It waits for browser authentication | Complete the login in the browser; that step is never automated |
+| Tailscale bar widget missing | `omarchy-plugin-enable` hit the shell's 2s IPC timeout | Run `omarchy-plugin-enable omarchy.tailscale` again (the script retries once) |
+| `omarchy-shell is not responding` | The quickshell IPC is busy or the shell is not running | Check `pgrep -af quickshell`; log into the desktop session and retry |
+| Package reinstall aborts on an AUR name | Raw explicit list contains AUR names | Use `agent-rules-setup --install-packages`; it filters AUR names and verifies repos |
+| Obsidian plugins missing after bootstrap | Vault copied after the script ran | Run `agent-rules-setup` again once the vault exists |
 | Need to undo a managed file | Backup exists | Restore from `<file>.bak-agent-rules` |
 
 ---
@@ -436,6 +504,8 @@ Current verified result: **0 drift**, smoke passes all five.
 - Codex config: `~/.codex/config.toml` (backup: `config.toml.bak-agent-rules`)
 - Rule files: `~/AGENTS.md`, `~/GEMINI.md`, `~/.gemini/config/AGENTS.md`, `~/.qoder/AGENTS.md`, `~/.codex/AGENTS.md`
 - Personal config: `snapshot/config/` → restored only when missing
+- Obsidian plugins: `snapshot/obsidian/` → missing plugin folders + enabled list
+- Tailscale: `tailscale` package, `tailscaled.service` (system), `~/.config/systemd/user/omarchy-tailscale-receive.service`, `omarchy.tailscale` bar widget in `~/.config/omarchy/shell.json`
 - Update log: `~/.local/state/system-update-check.log`
 - Recovery repo: `~/Work/machine-setup` → `https://github.com/ivan-esteban23/machine-setup` (private)
 
