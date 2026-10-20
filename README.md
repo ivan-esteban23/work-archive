@@ -2,7 +2,7 @@
 
 Public project archive, updated after completed Codex tasks. Contains selected Work project files and relevant live Obsidian notes under `Obsidian Vault/`.
 
-The manifest currently records 4,042 source files. Media and large exports use Git LFS; install it before cloning and run `git lfs pull` to download assets.
+The manifest currently records 4,043 source files. Media and large exports use Git LFS; install it before cloning and run `git lfs pull` to download assets.
 
 [Sync workflow](github-project-sync/README.md) · [File paths and SHA-256 hashes](_github-upload/manifest.json) · [Credential and cache exclusions](_github-upload/excluded.json)
 
