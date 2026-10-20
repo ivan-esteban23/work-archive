@@ -13,7 +13,7 @@ created: 2026-10-20
 > [!abstract] One-line recovery
 > On a fresh Omarchy install: `mise use -g gh` → `gh auth login` → `gh repo clone ivan-esteban23/machine-setup ~/Work/machine-setup` → `cd ~/Work/machine-setup && ./agent-rules-setup --bootstrap`.
 
-Source of truth: private repo **`ivan-esteban23/machine-setup`** (commit `bd98835`, 2026-10-20). The script is self-contained; `snapshot/` holds this machine's package lists, mise toolset, Codex config, git identity and `allowed_signers`.
+Source of truth: private repo **`ivan-esteban23/machine-setup`** (2026-10-20). The script is self-contained; `snapshot/` holds this machine's package lists, mise toolset, Codex config, git identity, `allowed_signers`, and personal desktop/tool config. Print the full runbook with `agent-rules-setup --restore-guide`.
 
 Related: [[Instagram Downloads — Rules, Commands and Context]]
 
@@ -26,12 +26,14 @@ Related: [[Instagram Downloads — Rules, Commands and Context]]
 | Apply / repair everything | `agent-rules-setup` |
 | Check for drift only | `agent-rules-setup --check` |
 | Real Codex sandbox test | `agent-rules-setup --smoke` |
+| Full reinstall runbook | `agent-rules-setup --restore-guide` |
 | Refresh snapshot | `agent-rules-setup --snapshot` |
 | Snapshot + commit + push | `agent-rules-setup --snapshot --push` |
+| Snapshot + push + wipe checklist | `agent-rules-setup --pre-reset` |
 | Fresh-machine restore | `./agent-rules-setup --bootstrap` |
 | Restore only gh + codex tools | `./agent-rules-setup --bootstrap --minimal` |
 | Restore full package lists too | `./agent-rules-setup --bootstrap --with-packages` |
-| Overwrite the three AGENTS.md files | `agent-rules-setup --force` |
+| Overwrite the rule files | `agent-rules-setup --force` |
 | Install files but leave systemd alone | `agent-rules-setup --no-enable` |
 
 The script must run **outside** the Codex sandbox — the sandbox cannot write `$HOME`.
@@ -89,6 +91,19 @@ agent-rules-setup --smoke
 
 `--smoke` starts a real Codex sandbox and checks DNS, `gh` auth/API, `git ls-remote`, and SSH commit signing.
 
+### Step 5 — sidecar tools and VPN
+
+These are not in the repo; reinstall with their own installers:
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh   # uv / uvx
+uv tool install free-claude-code                  # fcc-* commands
+# qodercli (Qoder), agy (Antigravity), reason: vendor installers
+
+sudo cp wg-JP-446.conf /etc/wireguard/            # from secure backup, then:
+sudo systemctl enable --now wg-quick@wg-JP-446
+```
+
 ---
 
 ## 3. What `--bootstrap` does, in order
@@ -97,13 +112,14 @@ agent-rules-setup --smoke
 2. Installs missing packages from Omarchy repos: `pacman-contrib`, `tmux`, `libnotify`, `yay`.
 3. Installs **`instaloader` from the AUR via `yay`** (not in the official repos).
 4. Restores `~/.config/mise/config.toml` from the snapshot, runs `MISE_YES=1 mise install`, then `mise reshim`.
-5. Restores `~/.codex/config.toml` and `~/.ssh/allowed_signers`.
-6. Restores git identity (`user.name`, `user.email`) and — only if the private key exists — SSH signing settings; configures the `gh` credential helper if authenticated.
-7. Adds a guarded `~/.local/bin` PATH block to `~/.bash_profile` and `~/.bashrc`.
-8. Enables systemd linger with `sudo -n loginctl enable-linger "$USER"`.
-9. With `--with-packages`, reinstalls the snapshotted explicit pacman and AUR lists.
-10. Runs the normal apply: rule files, tools, units, timers, Codex sandbox config.
-11. Prints the remaining interactive steps (gh, codex, Instagram, personal data).
+5. Restores personal config that is **missing** — git aliases/ignore, starship, alacritty, Hypr bindings, Omarchy bar layout + default agent, fcitx5 profile + tray drop-in, GTK_IM_MODULE fix, Obsidian vault registry, VS Code settings, Qoder settings, Claude theme — plus `~/.codex/config.toml` and `~/.ssh/allowed_signers`.
+6. Restores git identity (`user.name`, `user.email`) and — only if the private key exists — SSH signing settings; configures the `gh` credential helper if authenticated. If the key is missing and signing is on, it turns signing off.
+7. Installs `free-claude-code` with `uv tool install` when `uv` is present.
+8. Adds a guarded `~/.local/bin` PATH block to `~/.bash_profile` and `~/.bashrc`.
+9. Enables systemd linger with `sudo -n loginctl enable-linger "$USER"`.
+10. With `--with-packages`, reinstalls the snapshotted explicit pacman and AUR lists.
+11. Runs the normal apply: rule files, tools, units, services, timers, Codex sandbox config.
+12. Prints the remaining interactive steps (gh, codex, Instagram, sidecar CLIs, VPN, personal data).
 
 `--minimal` skips the full mise toolset and restores only `gh` + `codex`.
 
@@ -116,6 +132,8 @@ agent-rules-setup --smoke
 | File | Purpose |
 |---|---|
 | `~/AGENTS.md` | Autonomy / no-confirmation rules |
+| `~/GEMINI.md` | Same autonomy rules for Gemini CLI |
+| `~/.gemini/config/AGENTS.md` | Same autonomy rules for Gemini CLI |
 | `~/.qoder/AGENTS.md` | Instagram, monitoring, update checks, account timers, Codex sandbox rules |
 | `~/.codex/AGENTS.md` | End-of-task GitHub sync rule |
 
@@ -130,6 +148,9 @@ agent-rules-setup --smoke
 | `system-update-check` | Counts pending pacman + AUR updates |
 | `codex-git` | Codex with workspace-write + network + `GH_TOKEN` |
 | `gh` | gh wrapper with a read-only-sandbox fallback |
+| `obsidian` | CLI bridge to Obsidian's Unix socket |
+| `wireguard-jp-toggle` | Japan VPN toggle (`SUPER+SHIFT+V`) |
+| `claude`, `codex`, `gemini`, `grok`, `copilot`, `crush`, `opencode`, `pi`, `muse`, `cursor-agent`, `hunk`, `omp`, `ghui`, `playwright` | mise-run wrappers (auto-install on first use) |
 
 ### systemd user units (`~/.config/systemd/user/`)
 
@@ -138,8 +159,23 @@ agent-rules-setup --smoke
 | `pdm-clara-autodl.timer` | Hourly, ±120s; images only; metadata cleaned |
 | `julie-autodl.timer` | Hourly, ±300s; `ig-download julie.tuzet --new-only` |
 | `system-update-check.timer` | `OnCalendar=00/3:00` → 00:00, 03:00, 06:00… local |
+| `codex-remote-control.service` | Codex mobile/browser access, starts at login |
+| `qoder-remote-control.service` | Qoder mobile/browser access, starts at login |
 
-All three use `Persistent=true` and `RemainAfterElapse=no`.
+All three timers use `Persistent=true` and `RemainAfterElapse=no`.
+
+### Personal config restored from `snapshot/config/`
+
+Only **missing** files are copied; existing local config is never overwritten.
+
+| Area | Files |
+|---|---|
+| Git | `~/.config/git/config` (aliases, pull/rerere settings), `ignore` |
+| Shell / terminal | `~/.config/starship.toml`, `~/.config/alacritty/alacritty.toml` |
+| Hyprland | `~/.config/hypr/{autostart,bindings,hyprland,input,looknfeel,monitors}.lua`, `hyprsunset.conf`, `xdph.conf` |
+| Omarchy | `~/.config/omarchy/shell.json` (bar layout), `defaults/agent` |
+| Input method | `~/.config/fcitx5/profile`, `conf/*.conf`, `~/.config/environment.d/20-fcitx-gtk.conf`, `omarchy-fcitx5.service.d/override.conf` |
+| Apps | `~/.config/obsidian/obsidian.json`, `~/.config/Code/User/settings.json`, `~/.qoder/settings.json`, `~/.claude/settings.json` |
 
 ---
 
@@ -296,8 +332,10 @@ systemctl --user show system-update-check.timer -p TimersCalendar,NextElapseUSec
 
 ```bash
 cd ~/Work/machine-setup
-./agent-rules-setup --snapshot --push
+./agent-rules-setup --pre-reset     # snapshot + commit + push + full runbook
 ```
+
+`--snapshot --push` does the same without printing the runbook.
 
 ### Included in `snapshot/`
 
@@ -310,19 +348,26 @@ cd ~/Work/machine-setup
 | `allowed_signers` | Public signing-key allowlist |
 | `git-user-name`, `git-user-email` | Commit identity |
 | `git-signing-key`, `git-signing-format`, `git-allowed-signers` | Signing settings (path only) |
+| `config/` | 26 personal config files (git, starship, alacritty, Hypr, Omarchy, fcitx5, Obsidian, VS Code, Qoder, Claude), token-scanned before copying |
 
 ### NOT in the repo — back these up separately
 
 | Path | Why |
 |---|---|
-| `~/.ssh/id_ed25519_signing` | Private commit-signing key |
+| `~/.ssh/` | Private commit-signing key + `allowed_signers` |
 | `~/.codex/auth.json` | Codex login |
+| `~/.config/gh/hosts.yml` | gh token |
 | `~/.config/instaloader/session-*` | Instagram session |
+| `~/.secrets/github-token` | Local token copy |
+| `~/.fcc/.env` | free-claude-code credentials |
+| `~/.bashrc` | Contains `TAVILY_API_KEY` |
+| `/etc/wireguard/wg-JP-446.conf` | VPN private key (root-owned) |
 | `~/Downloads` | Instagram archives |
 | `~/Work` | Projects |
 | `~/Documents/Obsidian Vault` | Notes and attachments |
+| `~/Pictures`, `~/Videos` | Personal media |
 
-If the private signing key is missing after restore, bootstrap leaves `commit.gpgsign` off and prints instructions. Do not regenerate it unless the new public key is registered as a GitHub signing key.
+If the private signing key is missing after restore, bootstrap turns `commit.gpgsign` off and prints instructions. Do not regenerate it unless the new public key is registered as a GitHub signing key.
 
 The repo is private. To restore without GitHub auth, copy the directory to a USB stick, or make it public with `gh repo edit ivan-esteban23/machine-setup --visibility public`.
 
@@ -334,7 +379,7 @@ The repo is private. To restore without GitHub auth, copy the directory to a USB
 agent-rules-setup --check
 ```
 
-Checks: all managed files match, timers are enabled + active + have a next elapse, required commands exist (`mise`, `git`, `tmux`, `checkupdates`, `python3`, `gh`, `codex`), Python can `import instaloader`, mise resolves `gh`/`codex`, and reports auth status.
+Checks: all managed files and snapshot configs match, timers are enabled + active + have a next elapse, remote-control services are enabled, required commands exist (`mise`, `git`, `tmux`, `checkupdates`, `python3`, `gh`, `codex`, `flock`), Python can `import instaloader`, mise resolves `gh`/`codex`, `uv` has `free-claude-code`, sidecar CLIs and the WireGuard config are present, and reports auth status.
 
 ```bash
 agent-rules-setup --smoke
@@ -365,6 +410,8 @@ Current verified result: **0 drift**, smoke passes all five.
 | Commit signing fails | Signing key missing | Restore `~/.ssh/id_ed25519_signing`; signing stays off until then |
 | Restore is missing `instaloader` | AUR-only package | `yay -S instaloader` (bootstrap does this) |
 | Private repo clone fails | Not authenticated | `mise use -g gh && gh auth login` first |
+| Remote-control service keeps restarting | `qodercli`/`codex` missing or not logged in | Reinstall the sidecar CLI, sign in, `systemctl --user restart <unit>` |
+| Personal config was not restored | A file already exists at that path | Restore is missing-only by design; copy from `snapshot/config/` manually |
 | Need to undo a managed file | Backup exists | Restore from `<file>.bak-agent-rules` |
 
 ---
@@ -385,9 +432,10 @@ Current verified result: **0 drift**, smoke passes all five.
 ## 12. Files and rollback
 
 - Managed scripts: `~/.local/bin/*`
-- Units: `~/.config/systemd/user/*.service`, `*.timer`
+- Units: `~/.config/systemd/user/*.service`, `*.timer` (timers + `codex-remote-control`, `qoder-remote-control`)
 - Codex config: `~/.codex/config.toml` (backup: `config.toml.bak-agent-rules`)
-- Rule files: `~/AGENTS.md`, `~/.qoder/AGENTS.md`, `~/.codex/AGENTS.md`
+- Rule files: `~/AGENTS.md`, `~/GEMINI.md`, `~/.gemini/config/AGENTS.md`, `~/.qoder/AGENTS.md`, `~/.codex/AGENTS.md`
+- Personal config: `snapshot/config/` → restored only when missing
 - Update log: `~/.local/state/system-update-check.log`
 - Recovery repo: `~/Work/machine-setup` → `https://github.com/ivan-esteban23/machine-setup` (private)
 
