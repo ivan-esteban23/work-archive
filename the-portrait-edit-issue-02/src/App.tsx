@@ -58,7 +58,7 @@ const Reader = lazy(() =>
 );
 
 export default function App() {
-  const { t } = useLanguage();
+  const { locale, setLocale, t } = useLanguage();
   const { theme, setTheme } = useTheme();
   const location = useLocation(),
     navigate = useNavigate();
@@ -151,7 +151,17 @@ export default function App() {
 
   const cycleTheme = useCallback(() => {
     const nextTheme: Theme =
-      theme === "system" ? "light" : theme === "light" ? "dark" : "system";
+      theme === "system"
+        ? "dark"
+        : theme === "dark"
+          ? "paper"
+          : theme === "paper"
+            ? "sepia"
+            : theme === "sepia"
+              ? "midnight"
+              : theme === "midnight"
+                ? "light"
+                : "system";
     setTheme(nextTheme);
   }, [theme, setTheme]);
 
@@ -242,8 +252,23 @@ export default function App() {
                 title={`Color theme: ${theme}`}
                 onClick={cycleTheme}
               >
-                <Icon name={theme === "dark" ? "sun" : "moon"} size={18} />
+                <Icon
+                  name={theme === "dark" || theme === "midnight" ? "sun" : "moon"}
+                  size={18}
+                />
               </button>
+            </div>
+            <div className="masthead-theme masthead-language">
+              <select
+                aria-label={t("Language")}
+                value={locale}
+                onChange={(event) => setLocale(event.target.value as typeof locale)}
+              >
+                <option value="en">English</option>
+                <option value="ja">日本語</option>
+                <option value="zh-CN">简体中文</option>
+                <option value="ko">한국어</option>
+              </select>
             </div>
           </nav>
         </header>
