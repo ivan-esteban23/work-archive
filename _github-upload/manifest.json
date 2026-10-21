@@ -20213,5 +20213,55 @@
     "path": "Obsidian Vault/Machine Recovery \u2014 Agent Rules, Timers and Codex Fixes.md",
     "bytes": 24506,
     "sha256": "2a6a0112adea0f6080d41a32a224b2382a0ca361d8d2cee249aa58fe549b9fef"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/README.md",
+    "bytes": 10907,
+    "sha256": "f50508b24aa17444acebb7b47a63c9eed0beb019dd0ca74d8595b62268dcc871"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/RESPONSIVE_QA.md",
+    "bytes": 6372,
+    "sha256": "1e099b1d819879efca3b53018b74684b610394bb47fb0bdfcc395851758dbf11"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/components/CopyLinkButton.tsx",
+    "bytes": 1506,
+    "sha256": "d11e33e2bc142c7d5041abdf2eff472d0bd4995e1cf63684682051a5eec21e20"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/components/Study.tsx",
+    "bytes": 12541,
+    "sha256": "c048aeac5b2709a36699eafadd9145d6f4582a697f6e3d36027a164a5f4d1e09"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/components/reader/ReaderToolbar.tsx",
+    "bytes": 18348,
+    "sha256": "cc851a0a43321703dbd9a379bc9c208779b57e56ece1d3064120c58d8ceba005"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/i18n/LanguageProvider.tsx",
+    "bytes": 22674,
+    "sha256": "c359abaf9aa3a58e5e9cf0bd7a03300306400bc2d5d042036ed8c554c108a03d"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/pages/HomePage.tsx",
+    "bytes": 6119,
+    "sha256": "011e28e38790a54e14c65286d213c4b1d0335840c9fdcd1bc347da041effdad4"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/styles.css",
+    "bytes": 107033,
+    "sha256": "306ddb4361a2631a5a3bc82d4df47594fcc599f4d8a99dbe6dfb107bd867780a"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/tests/discovery-sharing.test.tsx",
+    "bytes": 3788,
+    "sha256": "8124219e2b184ead2182b9ed63846aab701b94d6b7f5b91073a85d09d1ae02f5"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/tests/browser/discovery-sharing.spec.ts",
+    "bytes": 2952,
+    "sha256": "3fdb2c7149d30e915647fae85932515bdd1cbb7de45d7c8c77c6f9d4a00cd834"
   }
 ]
