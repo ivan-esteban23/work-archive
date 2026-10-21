@@ -20251,8 +20251,8 @@
   },
   {
     "path": "the-portrait-edit-issue-02/src/styles.css",
-    "bytes": 108203,
-    "sha256": "50a9f0caa08f8002efc830d07d6d4d5db6553bc078548d4bcd0cecc1b50ae559"
+    "bytes": 107473,
+    "sha256": "4d790e9ae3f9bbac2ea34a8acdf8eebbdf78ca9a98d82fafc9dbcbb61c73fc29"
   },
   {
     "path": "the-portrait-edit-issue-02/tests/discovery-sharing.test.tsx",
@@ -20281,8 +20281,8 @@
   },
   {
     "path": "the-portrait-edit-issue-02/tests/browser/responsive-reader.spec.ts",
-    "bytes": 9119,
-    "sha256": "7379c1d3d283ef0903218eea1757049728e88bcc30696aa64dfcc0d712f4f9f4"
+    "bytes": 11347,
+    "sha256": "6bce701bc4ad9ab3e34943378e7cc2b33b3bbdfe14ddff0369c2510beec56a7c"
   },
   {
     "path": "the-portrait-edit-issue-02/index.html",
