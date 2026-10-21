@@ -20273,5 +20273,15 @@
     "path": "the-portrait-edit-issue-02/src/components/ui/Icon.tsx",
     "bytes": 2959,
     "sha256": "42332397cbbe4fb7ab881b6acbd3a0a0109fc5d8fcc3e9d6885beb04bde51d02"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/tests/browser/reader.spec.ts",
+    "bytes": 34479,
+    "sha256": "cfb04876586a493de539e9296bc2306747accf5bdc6d357066dab9339a3a0c95"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/tests/browser/responsive-reader.spec.ts",
+    "bytes": 9119,
+    "sha256": "7379c1d3d283ef0903218eea1757049728e88bcc30696aa64dfcc0d712f4f9f4"
   }
 ]
