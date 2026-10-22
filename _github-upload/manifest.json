@@ -20216,8 +20216,8 @@
   },
   {
     "path": "the-portrait-edit-issue-02/README.md",
-    "bytes": 10937,
-    "sha256": "3765aef70c512208746343b1dcd1c422ea6b3f737c546f08afe083d00b4507ca"
+    "bytes": 10943,
+    "sha256": "61cf82f7ad0bba19ab029ec0e40c0d28e649b758126ffaaf5203500ca4257004"
   },
   {
     "path": "the-portrait-edit-issue-02/RESPONSIVE_QA.md",
@@ -20257,12 +20257,12 @@
   {
     "path": "the-portrait-edit-issue-02/tests/discovery-sharing.test.tsx",
     "bytes": 3788,
-    "sha256": "21762e0b609e989c0e5f2887bb79b424f811c42d64e725b6674356bc5a72d4f5"
+    "sha256": "9393319494f417458fe0c4a39f8cb144c0b1fe209c3963a914ee6b2dd96e6e57"
   },
   {
     "path": "the-portrait-edit-issue-02/tests/browser/discovery-sharing.spec.ts",
     "bytes": 3526,
-    "sha256": "4f3a289d51545ddabc6b923cadf987a212fdf3c001bb272c51955c61fa8962cc"
+    "sha256": "093b9d11d8c00003953ce118db8acfe6c74ef60dc12e1c099fda30dffeae38e3"
   },
   {
     "path": "the-portrait-edit-issue-02/src/App.tsx",
@@ -20277,7 +20277,7 @@
   {
     "path": "the-portrait-edit-issue-02/tests/browser/reader.spec.ts",
     "bytes": 33944,
-    "sha256": "8f48c4b6a15ae71c968769b6061f9b25ab75afea0b171d9f9f9aab5e5fd427e2"
+    "sha256": "d942bc666af7cd12bacd54512a6d9d21c20bc53446b3ecf0d45bddb9723d0e4c"
   },
   {
     "path": "the-portrait-edit-issue-02/tests/browser/responsive-reader.spec.ts",
@@ -20292,7 +20292,7 @@
   {
     "path": "the-portrait-edit-issue-02/src/components/CommandPalette.tsx",
     "bytes": 15169,
-    "sha256": "76fe93796685d80bc9e268861427e474e5e7c32673a6e11b829524c718229675"
+    "sha256": "353f779c75c888a0ed68d14ef8caf4554e3776a8a539b0806c5e5749a7f7a28d"
   },
   {
     "path": "the-portrait-edit-issue-02/src/components/ShortcutsModal.tsx",
@@ -20321,32 +20321,32 @@
   },
   {
     "path": "the-portrait-edit-issue-02/docs/sitemap.xml",
-    "bytes": 81895,
-    "sha256": "12f29b290142b32b84b12a4d0d9fc4f68b1c7240aad96e606b74e966e6cdaf2a"
+    "bytes": 81238,
+    "sha256": "831c0e4479fc99c486b85830d5be2b102d8887cc3cb0c10a416110202548199c"
   },
   {
     "path": "the-portrait-edit-issue-02/public/sitemap.xml",
-    "bytes": 81895,
-    "sha256": "12f29b290142b32b84b12a4d0d9fc4f68b1c7240aad96e606b74e966e6cdaf2a"
+    "bytes": 81238,
+    "sha256": "831c0e4479fc99c486b85830d5be2b102d8887cc3cb0c10a416110202548199c"
   },
   {
     "path": "the-portrait-edit-issue-02/src/content/issues/the-prompt-issue/issue.json",
     "bytes": 1461,
-    "sha256": "790ab958e8ef20b8d8d97cab13bd95ae1d6b5b77f440903db5b15902d92447fd"
+    "sha256": "3a47e14be0c415063728a77f5e777edff21b12506d84039cca9f21a5f15dc769"
   },
   {
     "path": "the-portrait-edit-issue-02/src/pages/ArchivePage.tsx",
     "bytes": 24458,
-    "sha256": "666d035231994ef31da9f24563d4704a5fae1d46a1778517ad41a0d40db19551"
+    "sha256": "7429f5efce555cae4a7d375936a82517698ce5ae94d6cd34056b1b7bdfdd9b8b"
   },
   {
     "path": "the-portrait-edit-issue-02/tests/content-loading.test.ts",
-    "bytes": 2620,
-    "sha256": "67278d210c82a725fa90031db9661bfae227e465148828c71eca3702062b32b6"
+    "bytes": 2633,
+    "sha256": "2edc047cf43bd30bff0234188bdb700d1c38815c1ec627fdd2564d9f141599d1"
   },
   {
     "path": "the-portrait-edit-issue-02/tests/reading-progress.test.tsx",
     "bytes": 9198,
-    "sha256": "cf9790f6391f8d88f7438f0db3f81e49499d094d2b7405590174111446e8e911"
+    "sha256": "d5993c99302a3212d175f865ed7bdfb2f6316e0e4ba83b5bf5ab9c38be91c844"
   }
 ]
