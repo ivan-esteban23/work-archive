@@ -20216,8 +20216,8 @@
   },
   {
     "path": "the-portrait-edit-issue-02/README.md",
-    "bytes": 10943,
-    "sha256": "61cf82f7ad0bba19ab029ec0e40c0d28e649b758126ffaaf5203500ca4257004"
+    "bytes": 10946,
+    "sha256": "e9590948cce97dcecef694041113bbe8a25186d29d4164ee38c101f88d56b6e1"
   },
   {
     "path": "the-portrait-edit-issue-02/RESPONSIVE_QA.md",
@@ -20348,5 +20348,70 @@
     "path": "the-portrait-edit-issue-02/tests/reading-progress.test.tsx",
     "bytes": 9198,
     "sha256": "d5993c99302a3212d175f865ed7bdfb2f6316e0e4ba83b5bf5ab9c38be91c844"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/scripts/validate-content.ts",
+    "bytes": 6197,
+    "sha256": "8cc0b25e3a3ffd57d383f8e517e082ad154832910b49685f370d6af738fd2378"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/content/prompts/issue-02-study-018.json",
+    "bytes": 1218,
+    "sha256": "4246f174d5c520e9c04d7f79f1961a4a12bf033812f4ee6fb59efec55cff2c51"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/content/prompts/issue-02-study-084.json",
+    "bytes": 1262,
+    "sha256": "b7c7c4932365a6ca573171818ef6bd172e7165d1f7eecbdfdc55a70bafb6b600"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/content/prompts/issue-02-study-085.json",
+    "bytes": 1205,
+    "sha256": "e74626e56e2ec872bfa8155090401244b3348cdff75bd11f2e11a1c3ed17b853"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/content/prompts/issue-02-study-089.json",
+    "bytes": 1230,
+    "sha256": "2424862c647e77afe62c39ef3d59d66cadffde3ac118c46aca9dd170d98c0d50"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/content/prompts/issue-02-study-129.json",
+    "bytes": 1219,
+    "sha256": "7ba1adda5404f0865354b13e51eadb08b79f2fd62623e16b97c8826704c12b5b"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/src/content/prompts/issue-02-study-131.json",
+    "bytes": 1239,
+    "sha256": "622cf9d8b06c548ed97160bcf01e2eae5b927f4c37fab2ddb4b1f79f081bba01"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/docs/references/3cc97978959238c8818050f520f47f3ea7e085da8d84eeddeac098adaa66968b.jpeg",
+    "bytes": 161974,
+    "sha256": "3cc97978959238c8818050f520f47f3ea7e085da8d84eeddeac098adaa66968b"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/docs/references/4c2b79634dcd2123871f47c0d9e7b5629200ff4c48f4a4f311dbaf9c58993efa.jpeg",
+    "bytes": 357341,
+    "sha256": "4c2b79634dcd2123871f47c0d9e7b5629200ff4c48f4a4f311dbaf9c58993efa"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/docs/references/5157cb601cbfa8bc0e5216738c53cdb00f894f96861acc1fca54ec050a629f6b.jpeg",
+    "bytes": 243045,
+    "sha256": "5157cb601cbfa8bc0e5216738c53cdb00f894f96861acc1fca54ec050a629f6b"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/docs/references/ace99dbad4c0238e3fe9cea16b16ecdf5f4c2f50a0f043d62703df5cdc376014.jpeg",
+    "bytes": 295394,
+    "sha256": "ace99dbad4c0238e3fe9cea16b16ecdf5f4c2f50a0f043d62703df5cdc376014"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/docs/references/cc3caa4511850c42ca93963cc54b09291024dc12b93a789569a64167dfbae06c.jpeg",
+    "bytes": 728340,
+    "sha256": "cc3caa4511850c42ca93963cc54b09291024dc12b93a789569a64167dfbae06c"
+  },
+  {
+    "path": "the-portrait-edit-issue-02/docs/references/e990dbc26cc5558ede85978ef3d7b837453885fad2fd4511c28894d27f4d0faa.jpeg",
+    "bytes": 541508,
+    "sha256": "e990dbc26cc5558ede85978ef3d7b837453885fad2fd4511c28894d27f4d0faa"
   }
 ]
