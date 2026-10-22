@@ -42,7 +42,7 @@ test("publication routes, archive filtering, retained PDF, and not-found", async
     page.getByRole("link", { name: /Download PDF ·/ }),
   ).toHaveAttribute("href", /releases\/download\/noir-editorial-1/);
   await page.getByRole("link", { name: "Archive", exact: true }).click();
-  await expect(page.getByRole("status")).toHaveText("174 studies");
+  await expect(page.getByRole("status")).toHaveText("168 studies");
   await page.getByLabel("Search", { exact: true }).fill("Frost Fantasy");
   await expect(page.getByRole("status")).toHaveText("1 study");
   await page.locator(".archive-grid a").click();
@@ -234,18 +234,13 @@ test("desktop Focus dims chrome and wakes on activity", async ({ page }) => {
   await expect(page.locator(".reader")).not.toHaveClass(/chrome-idle/);
 });
 
-test("system theme changes and form controls retain cross-platform legibility", async ({
+test("explicit themes ignore the OS preference and form controls retain cross-platform legibility", async ({
   page,
 }) => {
   await page.goto(reader);
-  for (const scheme of ["light", "dark"] as const) {
-    await page.emulateMedia({ colorScheme: scheme });
-    expect(
-      await page
-        .locator("body")
-        .evaluate((e) => getComputedStyle(e).backgroundColor),
-    ).toBe(scheme === "light" ? "rgb(246, 244, 239)" : "rgb(18, 18, 18)");
-  }
+  await page.emulateMedia({ colorScheme: "light" });
+  await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
+  await expect(page.locator("body")).toHaveCSS("background-color", "rgb(18, 18, 18)");
   await settings(page);
   for (const control of await page.locator("input,select").all())
     expect(
@@ -521,48 +516,33 @@ test("theme controls, shortcuts, and browser tabs share the same preference", as
   await page.goto(reader);
   const mastheadTheme = page.locator(".masthead-theme-toggle");
   await mastheadTheme.click();
-  await mastheadTheme.click();
-  await expect(mastheadTheme).toHaveAttribute("aria-label", /paper/);
+  await expect(mastheadTheme).toHaveAttribute("aria-label", /light/);
   await settings(page);
   const displayTheme = page.getByRole("dialog").getByLabel("Color theme");
-  await expect(displayTheme).toHaveValue("paper");
+  await expect(displayTheme).toHaveValue("light");
   await displayTheme.selectOption("dark");
   await expect(mastheadTheme).toHaveAttribute("aria-label", /dark/);
   await page.getByRole("button", { name: "Close display settings" }).click();
   await page.locator(".reader-canvas").focus();
   await page.keyboard.press("m");
-  await expect(mastheadTheme).toHaveAttribute("aria-label", /system/);
+  await expect(mastheadTheme).toHaveAttribute("aria-label", /light/);
   await page.emulateMedia({ colorScheme: "dark" });
-  await expect(page.locator("body")).toHaveCSS(
-    "background-color",
-    "rgb(18, 18, 18)",
-  );
-  await page.emulateMedia({ colorScheme: "light" });
   await expect(page.locator("body")).toHaveCSS(
     "background-color",
     "rgb(246, 244, 239)",
   );
   await mastheadTheme.click();
-  await mastheadTheme.click();
-  await page.emulateMedia({ colorScheme: "dark" });
-  await expect(page.locator("body")).toHaveCSS(
-    "background-color",
-    "rgb(242, 236, 224)",
-  );
+  await expect(mastheadTheme).toHaveAttribute("aria-label", /dark/);
   const other = await page.context().newPage();
   try {
     await other.goto(reader);
     const otherTheme = other.locator(".masthead-theme-toggle");
-    await expect(otherTheme).toHaveAttribute("aria-label", /paper/);
-    await other.getByRole("button", { name: "Display", exact: true }).click();
-    await other
-      .getByRole("dialog")
-      .getByLabel("Color theme")
-      .selectOption("light");
+    await expect(otherTheme).toHaveAttribute("aria-label", /dark/);
+    await otherTheme.click();
     await expect(mastheadTheme).toHaveAttribute("aria-label", /light/);
     await expect(page.locator("html")).toHaveAttribute("data-theme", "light");
     await other.evaluate(() => localStorage.clear());
-    await expect(mastheadTheme).toHaveAttribute("aria-label", /system/);
+    await expect(mastheadTheme).toHaveAttribute("aria-label", /dark/);
   } finally {
     await other.close();
   }
@@ -747,7 +727,7 @@ test("accessibility: focus rings meet theme contrast and respect forced colors; 
   const display = page.getByRole("button", { name: "Display", exact: true });
   await display.click();
   const theme = page.getByRole("dialog").getByLabel("Color theme");
-  for (const value of ["light", "paper", "dark"]) {
+  for (const value of ["light", "dark"]) {
     await theme.selectOption(value);
     await page.getByRole("button", { name: "Close display settings" }).click();
     await display.focus();
@@ -774,7 +754,7 @@ test("accessibility: focus rings meet theme contrast and respect forced colors; 
       );
     });
     expect(contrast, value).toBeGreaterThanOrEqual(3);
-    if (value !== "dark") await display.click();
+    if (value === "light") await display.click();
   }
   await page.emulateMedia({ forcedColors: "active" });
   await display.focus();

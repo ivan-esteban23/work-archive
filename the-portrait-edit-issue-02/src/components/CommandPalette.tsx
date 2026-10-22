@@ -67,7 +67,7 @@ export function CommandPalette({
       id: "act-theme",
       section: "Actions",
       title: "Toggle Theme",
-      subtitle: "Switch between Light, Warm Paper, and Dark mode",
+      subtitle: "Toggle between Light and Dark themes",
       badge: "M",
       action: () => {
         onToggleTheme?.();
@@ -415,7 +415,7 @@ export function CommandPalette({
             id={titleId}
             type="text"
             className="palette-search-input"
-            placeholder="Type a command, page number, or search 174 studies…"
+            placeholder="Type a command, page number, or search 168 studies…"
             value={query}
             onChange={(e) => {
               setQuery(e.target.value);

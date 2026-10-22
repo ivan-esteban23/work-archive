@@ -59,7 +59,7 @@ The reader's Tools group offers Copy page link for the exact current page. Links
 include the GitHub Pages base path and open directly; if clipboard access fails,
 a read-only field provides the URL for manual copying. Feedback resets when the
 destination changes, and pending copy results cannot overwrite a newer page's
-feedback. These controls and the new homepage copy support all four UI languages.
+feedback. The interface is presented in English.
 
 Below 768px, Reading view is the default; wider screens default to Original page. Original pages offer Fit / 125 / 150 / 200% zoom. Reading view offers 16 / 18 / 20px text with a 68ch maximum measure, Newsreader editorial text, and monospace prompts.
 
@@ -71,13 +71,13 @@ Focus is stored under `portrait-edit-focus-mode`. `?focus=1` enters it; `?focus=
 
 ## Typography and themes
 
-Inter and Newsreader variable WOFF2 fonts are self-hosted from their Fontsource npm packages, including Newsreader italic. Charter/Georgia and platform sans/monospace stacks provide fallbacks. Light and dark share geometry and type scales; CSS `prefers-color-scheme` chooses the warm paper or noir palette without a theme cookie, storage entry or toggle.
+Inter and Newsreader variable WOFF2 fonts are self-hosted from their Fontsource npm packages, including Newsreader italic. Charter/Georgia and platform sans/monospace stacks provide fallbacks. Light and dark share geometry and type scales. The theme toggle and display settings offer only Light and Dark, and the chosen theme is saved in local storage.
 
 Every form control has a minimum 16px font across all widths, including iPads. Greyscale font smoothing applies **only** above 192dpi / 2dppx; standard-density Windows keeps its native text rendering. Focus rings, selected/disabled controls, loading and error states use shared theme tokens.
 
 ## Content and provenance
 
-Issue records live in `src/content/issues/<slug>/issue.json`; studies live in `src/content/prompts/<id>.json`. Issue 02 contains 196 pages and 174 studies. All prompt text, titles, study numbers, original Source filenames, references, working notes, Try this lines and Rights check / Review pairing / repeat flags remain exact.
+Issue records live in `src/content/issues/<slug>/issue.json`; studies live in `src/content/prompts/<id>.json`. Issue 02 contains 196 pages and 168 unique archive studies. Repeated image references are represented once in the archive; the printed magazine reader pages retain their original content. Eight archive references use 2× Lanczos-resampled copies; reader pages retain the original extracted images.
 
 The original source does not record model versions, generation parameters or dates: `model` and `date` are `null`, `parameters` is `{}`. The interface says “Not recorded” / “Unspecified”. Tags come only from the existing comma-separated style descriptions. A prompt’s verification statement means its text matches the published source; it is not a rights or identity claim. No private contact details were invented; contact points to the public project issue tracker.
 
@@ -104,9 +104,8 @@ The workflow follows the [Vite GitHub Pages deployment guide](https://vite.dev/g
 
 ## QA scope
 
-See [Responsive reader QA](RESPONSIVE_QA.md) for the Chromium and optional WebKit
-responsive matrix and the separate physical-device release checklist.
+See [Responsive reader QA](RESPONSIVE_QA.md) for the Chromium responsive matrix and the separate physical-device release checklist.
 
 The active suite includes Zod diagnostics, full content/asset preservation, copy fallback/stale-response isolation, and Chromium browser tests at 320, 390, 430, 834, 1194, 1280 and 1440px in light/dark variants. Browser tests exercise route entry, legacy hashes, archive filtering, Focus, modes, zoom, sizing, copying, keyboard, scrubber, swipes and image retry, and capture review screenshots in ignored `test-results/`.
 
-Chromium viewport/touch emulation does not certify native Safari/WebKit, Windows ClearType or physical gesture bars. Those platform checks remain manual. Do not treat the earlier `VERIFICATION.json` PDF report as a sign-off for this application.
+Chromium viewport/touch emulation does not certify Safari on Apple hardware, Windows ClearType or physical gesture bars. Those platform checks remain manual. Do not treat the earlier `VERIFICATION.json` PDF report as a sign-off for this application.
